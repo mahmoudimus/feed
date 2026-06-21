@@ -1,0 +1,109 @@
+name: Hourly Digest
+
+on:
+  push:
+      branches:
+          - "main"
+  pull_request:
+      types:
+          - synchronize
+          - opened
+          - reopened
+          - ready_for_review
+      branches:
+          - "main"
+  schedule:
+    # Run once every hour
+    - cron: '0 * * * *'
+    # Run once every hour at minute 15
+    # - cron: '15 * * * *'  
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+# cancel previous workflow jobs for PRs
+concurrency:
+    group: ${{ github.workflow }}-${{ github.event.pull_request.number || 'hourly-digest' }}
+    cancel-in-progress: true
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('pyproject.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install .
+
+      - name: Run digest script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: python follower_digest_builder.py
+
+      - name: Commit and push changes
+        if: github.event_name != 'pull_request'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Fetch latest changes before committing to reduce conflicts
+          git fetch origin main
+          
+          # Stage README + archives + custom_users.txt (each conditionally if present)
+          git add README.md
+          if [ -d archive ]; then git add archive/; fi
+          if [ -f custom_users.txt ]; then git add custom_users.txt; fi
+
+          if git diff --staged --quiet; then
+            echo "No new activity to commit."
+          else
+            COMMIT_DATE=$(date -u +'%Y-%m-%d %H:%M')
+            git commit -m "docs(activity): refresh activity @ ${COMMIT_DATE} UTC"
+            
+            # Rebase on latest main before pushing
+            git fetch origin main
+            git rebase origin/main || {
+              echo "Rebase failed, trying merge strategy"
+              git rebase --abort 2>/dev/null || true
+              git merge origin/main --no-edit
+            }
+            
+            # Push with retry logic
+            for i in {1..3}; do
+              if git push origin main; then
+                echo "Push successful on attempt $i"
+                exit 0
+              fi
+              if [ $i -lt 3 ]; then
+                echo "Push failed, fetching and rebasing before retry..."
+                git fetch origin main
+                git rebase origin/main || {
+                  git rebase --abort 2>/dev/null || true
+                  git merge origin/main --no-edit
+                }
+                sleep $((i * 2))
+              fi
+            done
+            echo "Push failed after 3 attempts"
+            exit 1
+          fi
