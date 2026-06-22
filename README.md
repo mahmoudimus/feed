@@ -27,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [JohannesTheo/differences-in-detection](https://github.com/JohannesTheo/differences-in-detection)
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [localsend/localsend](https://github.com/localsend/localsend)
+  > An open-source cross-platform alternative to AirDrop
+
 ### [mattn](https://github.com/mattn)
 - 🍴 👤 [mattn](https://github.com/mattn) Forked [vim/colorschemes](https://github.com/vim/colorschemes) to [mattn/colorschemes](https://github.com/mattn/colorschemes)
   > colorschemes for Vim
@@ -35,13 +39,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [raiyanyahya/recall](https://github.com/raiyanyahya/recall)
   > Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable m...
 
+### [wl4g](https://github.com/wl4g)
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+  > Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD ...
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [pgsty/minio](https://github.com/pgsty/minio)
+  > Community Maintained Fork of minio (Object Storage Service)
+
 
 <!-- nav -->
 [← 2026-06-21](archive/2026/06/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-22 14:09:20 UTC*
+*Last updated at 2026-06-22 16:32:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
