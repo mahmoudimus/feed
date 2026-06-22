@@ -18,6 +18,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [bcoe/allaboard.dev](https://github.com/bcoe/allaboard.dev)
   > allaboard board climbing app.
+- 🍴 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Forked [bcoe/allaboard.dev](https://github.com/bcoe/allaboard.dev) to [JoshuaKGoldberg/allaboard.dev](https://github.com/JoshuaKGoldberg/allaboard.dev)
+  > allaboard board climbing app.
 
 ### [Nitr0-G](https://github.com/Nitr0-G)
 - 🍴 👤 [Nitr0-G](https://github.com/Nitr0-G) Forked [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) to [Nitr0-G/unicorn](https://github.com/Nitr0-G/unicorn)
@@ -72,6 +74,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [kvark/meganeura](https://github.com/kvark/meganeura)
   > Blade-powered NN training and inference
 
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)
+  > Arma: Cold War Assault Remastered Source Code Repository.
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)
   > MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the Open...
@@ -80,11 +86,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [mujocolab/mjlab](https://github.com/mujocolab/mjlab)
   > Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research
 
+### [mekanix](https://github.com/mekanix)
+- 🍴 👤 [mekanix](https://github.com/mekanix) Forked [mira-merkell/clap-clap](https://github.com/mira-merkell/clap-clap) to [mekanix/clap-clap](https://github.com/mekanix/clap-clap)
+  > A CLAP plugin runtime. ⧉⧉⧉
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bingo-js/bingo](https://github.com/bingo-js/bingo)
   > Delightful templates for web repositories. 💝
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [fuderis/pearce-rs](https://github.com/fuderis/pearce-rs)
   > A high-level, asynchronous web-framework built on top of Axum
+
+### [notfoundry](https://github.com/notfoundry)
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [AI-Builder-Club/loop-engineer-template](https://github.com/AI-Builder-Club/loop-engineer-template)
+  > Join the best AI Builder Community
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [xirui-li/ClawEnvKit](https://github.com/xirui-li/ClawEnvKit)
@@ -98,11 +112,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht)
   > ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datensch...
 
+### [vstinner](https://github.com/vstinner)
+- 🍴 👤 [vstinner](https://github.com/vstinner) Forked [python/cpython-devcontainers](https://github.com/python/cpython-devcontainers) to [vstinner/cpython-devcontainers](https://github.com/vstinner/cpython-devcontainers)
+  > Repository for devcontainers of CPython
+
 ### [wl4g](https://github.com/wl4g)
 - 🌟 👤 [wl4g](https://github.com/wl4g) Starred [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
   > Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD ...
 
 ### [zchee](https://github.com/zchee)
+- 🍴 👤 [zchee](https://github.com/zchee) Forked [yosida95/uritemplate](https://github.com/yosida95/uritemplate) to [zchee/uritemplate](https://github.com/zchee/uritemplate)
+  > URI Template (RFC6570) Implementation in Go
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [ljtn/epiq](https://github.com/ljtn/epiq)
   > Local first cli-native issue tracker - distributed and  backed by git
 
@@ -112,7 +132,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-22 22:31:13 UTC*
+*Last updated at 2026-06-22 23:27:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
