@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Nitr0-G](https://github.com/Nitr0-G) Forked [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) to [Nitr0-G/unicorn](https://github.com/Nitr0-G/unicorn)
   > Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86...
 
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [pothosware/SoapyPlutoSDR](https://github.com/pothosware/SoapyPlutoSDR)
+  > Soapy SDR plugin for PlutoSDR
+
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [JohannesTheo/differences-in-detection](https://github.com/JohannesTheo/differences-in-detection)
 
@@ -29,7 +33,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-22 09:55:14 UTC*
+*Last updated at 2026-06-22 12:00:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
