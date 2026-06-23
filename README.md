@@ -14,6 +14,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
 
+### [boyney123](https://github.com/boyney123)
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [mattzcarey/shippie](https://github.com/mattzcarey/shippie)
+  > extendable code review and QA agent 🚢
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xusheng6/security_advisories](https://github.com/xusheng6/security_advisories) to [fengjixuchui/security_advisories](https://github.com/fengjixuchui/security_advisories)
   > Security advisories
@@ -24,6 +28,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [dorukkumkumoglu/optocamzero](https://github.com/dorukkumkumoglu/optocamzero)
   > Optocam Zero is a Raspberry Pi Zero based compact digital camera made using off the shelf components...
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [Haselnussbomber/SqPackFs](https://github.com/Haselnussbomber/SqPackFs)
+  > A read-only Windows File System Proxy for FFXIVs sqpack files.
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [WorkingRobot/ffxiv-downloader](https://github.com/WorkingRobot/ffxiv-downloader)
+  > Download and update files directly from FFXIV
+
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [CTR-tools/ctr-native](https://github.com/CTR-tools/ctr-native)
   > A Crash Team Racing Decompilation Project
@@ -31,6 +41,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ufrisk](https://github.com/ufrisk)
 - 🌟 👤 [ufrisk](https://github.com/ufrisk) Starred [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS)
   > Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem
+
+### [wl4g](https://github.com/wl4g)
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [wl4g-ai/go-sonarqube-mcp-server](https://github.com/wl4g-ai/go-sonarqube-mcp-server)
+  > A Sonarqube MCP server written in Golang, based on Official SonarQube MCP Server.
 
 ### [xhochy](https://github.com/xhochy)
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/libprotobuf-bazel-systemlib-feedstock](https://github.com/conda-forge/libprotobuf-bazel-systemlib-feedstock) to [xhochy/libprotobuf-bazel-systemlib-feedstock](https://github.com/xhochy/libprotobuf-bazel-systemlib-feedstock)
@@ -52,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-23 12:06:57 UTC*
+*Last updated at 2026-06-23 13:49:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
