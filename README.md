@@ -17,18 +17,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xusheng6/security_advisories](https://github.com/xusheng6/security_advisories) to [fengjixuchui/security_advisories](https://github.com/fengjixuchui/security_advisories)
   > Security advisories
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet) to [fengjixuchui/RoguePlanet](https://github.com/fengjixuchui/RoguePlanet)
+  > RoguePlanet Windows Defender Vulnerability
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [dorukkumkumoglu/optocamzero](https://github.com/dorukkumkumoglu/optocamzero)
   > Optocam Zero is a Raspberry Pi Zero based compact digital camera made using off the shelf components...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash)
-  > Fully uncensored, capability-enhanced abliteration of Qwen3.6-27B. NVFP4 + z-lab DFlash speculative ...
-
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [CTR-tools/ctr-native](https://github.com/CTR-tools/ctr-native)
   > A Crash Team Racing Decompilation Project
+
+### [ufrisk](https://github.com/ufrisk)
+- 🌟 👤 [ufrisk](https://github.com/ufrisk) Starred [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS)
+  > Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem
 
 ### [xhochy](https://github.com/xhochy)
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/libprotobuf-bazel-systemlib-feedstock](https://github.com/conda-forge/libprotobuf-bazel-systemlib-feedstock) to [xhochy/libprotobuf-bazel-systemlib-feedstock](https://github.com/xhochy/libprotobuf-bazel-systemlib-feedstock)
@@ -50,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-23 09:01:34 UTC*
+*Last updated at 2026-06-23 11:00:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
