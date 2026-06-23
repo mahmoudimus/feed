@@ -14,9 +14,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xusheng6/security_advisories](https://github.com/xusheng6/security_advisories) to [fengjixuchui/security_advisories](https://github.com/fengjixuchui/security_advisories)
+  > Security advisories
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [dorukkumkumoglu/optocamzero](https://github.com/dorukkumkumoglu/optocamzero)
   > Optocam Zero is a Raspberry Pi Zero based compact digital camera made using off the shelf components...
+
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [CTR-tools/ctr-native](https://github.com/CTR-tools/ctr-native)
+  > A Crash Team Racing Decompilation Project
 
 ### [zacharywhitley](https://github.com/zacharywhitley)
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [duckdb/community-extensions](https://github.com/duckdb/community-extensions) to [zacharywhitley/community-extensions](https://github.com/zacharywhitley/community-extensions)
@@ -32,7 +40,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-23 03:00:27 UTC*
+*Last updated at 2026-06-23 05:16:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
