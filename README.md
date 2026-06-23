@@ -14,6 +14,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
 
+### [bgrant0607](https://github.com/bgrant0607)
+- 🌟 👤 [bgrant0607](https://github.com/bgrant0607) Starred [TrianaLab/pacto](https://github.com/TrianaLab/pacto)
+  > Pacto (/ˈpak.to/ — from Spanish: pact, agreement) is an open, OCI-distributed contract standard for ...
+
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [mattzcarey/shippie](https://github.com/mattzcarey/shippie)
   > extendable code review and QA agent 🚢
@@ -37,6 +41,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [pulseengine/kiln](https://github.com/pulseengine/kiln)
   > Kiln — WebAssembly runtime for safety-critical systems. Full Component Model and WASI 0.2 support. P...
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [shumaiOne/shumai](https://github.com/shumaiOne/shumai)
+  > Open-source platform for all your creative work
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [CTR-tools/ctr-native](https://github.com/CTR-tools/ctr-native)
@@ -70,6 +78,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/libprotobuf-bazel-systemlib-feedstock](https://github.com/conda-forge/libprotobuf-bazel-systemlib-feedstock) to [xhochy/libprotobuf-bazel-systemlib-feedstock](https://github.com/xhochy/libprotobuf-bazel-systemlib-feedstock)
   > A conda-smithy repository for libprotobuf-bazel-systemlib.
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [shumaiOne/shumai](https://github.com/shumaiOne/shumai)
+  > Open-source platform for all your creative work
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [aleda145/projecteuler](https://github.com/aleda145/projecteuler)
+
 ### [zacharywhitley](https://github.com/zacharywhitley)
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [duckdb/community-extensions](https://github.com/duckdb/community-extensions) to [zacharywhitley/community-extensions](https://github.com/zacharywhitley/community-extensions)
 
@@ -86,7 +99,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-23 14:58:39 UTC*
+*Last updated at 2026-06-23 16:03:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
