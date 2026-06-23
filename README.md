@@ -26,6 +26,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [CTR-tools/ctr-native](https://github.com/CTR-tools/ctr-native)
   > A Crash Team Racing Decompilation Project
 
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/libprotobuf-bazel-systemlib-feedstock](https://github.com/conda-forge/libprotobuf-bazel-systemlib-feedstock) to [xhochy/libprotobuf-bazel-systemlib-feedstock](https://github.com/xhochy/libprotobuf-bazel-systemlib-feedstock)
+  > A conda-smithy repository for libprotobuf-bazel-systemlib.
+
 ### [zacharywhitley](https://github.com/zacharywhitley)
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [duckdb/community-extensions](https://github.com/duckdb/community-extensions) to [zacharywhitley/community-extensions](https://github.com/zacharywhitley/community-extensions)
 
@@ -33,6 +37,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [arborist-ts/arborist.nvim](https://github.com/arborist-ts/arborist.nvim)
   > Smart, simple, fast tree-sitter parser manager for Neovim 0.12+
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [neovim-treesitter/nvim-treesitter](https://github.com/neovim-treesitter/nvim-treesitter)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [actions-rust-lang/setup-rust-toolchain](https://github.com/actions-rust-lang/setup-rust-toolchain)
+  > Setup a specific Rust toolchain with extra features like problem matchers
 
 
 <!-- nav -->
@@ -40,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-23 05:16:52 UTC*
+*Last updated at 2026-06-23 07:07:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
