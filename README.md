@@ -34,9 +34,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [WorkingRobot/ffxiv-downloader](https://github.com/WorkingRobot/ffxiv-downloader)
   > Download and update files directly from FFXIV
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [pulseengine/kiln](https://github.com/pulseengine/kiln)
+  > Kiln — WebAssembly runtime for safety-critical systems. Full Component Model and WASI 0.2 support. P...
+
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [CTR-tools/ctr-native](https://github.com/CTR-tools/ctr-native)
   > A Crash Team Racing Decompilation Project
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+  > A framework for building agent-native applications.
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
+  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
+### [tintinweb](https://github.com/tintinweb)
+- 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents)
+  > Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent typ...
+- 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)
+  > The Programming Language for Agents
+- 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
+  > SGLang is a high-performance serving framework for large language models and multimodal models.
 
 ### [ufrisk](https://github.com/ufrisk)
 - 🌟 👤 [ufrisk](https://github.com/ufrisk) Starred [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS)
@@ -66,7 +86,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-23 13:49:20 UTC*
+*Last updated at 2026-06-23 14:58:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
