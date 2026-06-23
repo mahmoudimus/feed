@@ -38,6 +38,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [WorkingRobot/ffxiv-downloader](https://github.com/WorkingRobot/ffxiv-downloader)
   > Download and update files directly from FFXIV
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+  > 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ ...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [pulseengine/kiln](https://github.com/pulseengine/kiln)
   > Kiln — WebAssembly runtime for safety-critical systems. Full Component Model and WASI 0.2 support. P...
@@ -83,9 +87,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Open-source platform for all your creative work
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [aleda145/projecteuler](https://github.com/aleda145/projecteuler)
 
-### [zacharywhitley](https://github.com/zacharywhitley)
-- 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [duckdb/community-extensions](https://github.com/duckdb/community-extensions) to [zacharywhitley/community-extensions](https://github.com/zacharywhitley/community-extensions)
-
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [arborist-ts/arborist.nvim](https://github.com/arborist-ts/arborist.nvim)
   > Smart, simple, fast tree-sitter parser manager for Neovim 0.12+
@@ -99,7 +100,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-23 16:03:04 UTC*
+*Last updated at 2026-06-23 17:33:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
