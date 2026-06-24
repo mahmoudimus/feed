@@ -31,6 +31,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [RhysSullivan/executor](https://github.com/RhysSullivan/executor)
   > The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js f...
 
+### [claucece](https://github.com/claucece)
+- 🌟 👤 [claucece](https://github.com/claucece) Starred [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
+
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [MironPascalCaseFan/debugmaster.nvim](https://github.com/MironPascalCaseFan/debugmaster.nvim)
+  > What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alter...
+
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [nemocake/claude-obsidian-assistant](https://github.com/nemocake/claude-obsidian-assistant)
 
@@ -52,6 +59,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [bellard/quickjs](https://github.com/bellard/quickjs)
   > Public repository of the QuickJS Javascript Engine.
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp)
+  > Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - C...
 
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lstebner/spudbox](https://github.com/lstebner/spudbox)
@@ -68,6 +77,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
   > Easily create full virtual machines that are sandboxed for development or computer use models.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joeynyc/spark-doctor](https://github.com/joeynyc/spark-doctor)
+  > Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, unified memory pressure, therm...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [joeynyc/spark-doctor](https://github.com/joeynyc/spark-doctor) to [mrexodia/spark-doctor](https://github.com/mrexodia/spark-doctor)
   > Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, unified memory pressure, therm...
 
 ### [nikivdev](https://github.com/nikivdev)
@@ -94,6 +105,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [uforia](https://github.com/uforia) Starred [uforia/MatterBot](https://github.com/uforia/MatterBot)
   > MatterBot is a two-part extensible Python bot framework that provides a scheduled feed of informatio...
 
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/torchao-feedstock](https://github.com/conda-forge/torchao-feedstock) to [xhochy/torchao-feedstock](https://github.com/xhochy/torchao-feedstock)
+  > A conda-smithy repository for torchao.
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
   > A curated list of Rust code and resources.
@@ -116,7 +131,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 17:34:44 UTC*
+*Last updated at 2026-06-24 18:31:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
