@@ -17,6 +17,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > AI API gateway that ends manual channel switching with smart routing, auto failover, exponential coo...
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [VitoHowe/glm-coding](https://github.com/VitoHowe/glm-coding) to [NyaMisty/glm-coding](https://github.com/NyaMisty/glm-coding)
 
+### [antifuchs](https://github.com/antifuchs)
+- 🍴 👤 [antifuchs](https://github.com/antifuchs) Forked [warthog618/modem](https://github.com/warthog618/modem) to [antifuchs/modem](https://github.com/antifuchs/modem)
+  > A Go driver for AT based modems
+
 ### [bbatsov](https://github.com/bbatsov)
 - 🌟 👤 [bbatsov](https://github.com/bbatsov) Starred [SunskyXH/ast-grep.el](https://github.com/SunskyXH/ast-grep.el)
   > Emacs package for searching code with ast-grep via completing-read, consult, or ivy/counsel.
@@ -79,7 +83,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 10:58:08 UTC*
+*Last updated at 2026-06-24 11:58:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
