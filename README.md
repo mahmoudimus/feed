@@ -28,9 +28,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [Dieterbe/awesome-health-fitness-oss](https://github.com/Dieterbe/awesome-health-fitness-oss)
   > overview of interesting health and fitness OSS/FOSS apps and tools
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [RhysSullivan/executor](https://github.com/RhysSullivan/executor)
+  > The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js f...
 
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [nemocake/claude-obsidian-assistant](https://github.com/nemocake/claude-obsidian-assistant)
+
+### [estelle](https://github.com/estelle)
+- 🍴 👤 [estelle](https://github.com/estelle) Forked [w3c/csswg-wiki](https://github.com/w3c/csswg-wiki) to [estelle/csswg-wiki](https://github.com/estelle/csswg-wiki)
+  > CSS Working Group Wiki – community-editable documentation
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [contabo/cntb](https://github.com/contabo/cntb)
@@ -42,6 +48,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [pnpm/pnpm](https://github.com/pnpm/pnpm)
   > Fast, disk space efficient package manager
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [bellard/quickjs](https://github.com/bellard/quickjs)
+  > Public repository of the QuickJS Javascript Engine.
 
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lstebner/spudbox](https://github.com/lstebner/spudbox)
@@ -74,6 +84,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [wcampbell0x2a/backhand](https://github.com/wcampbell0x2a/backhand)
   > Library and binaries for the reading, creating, and modification of SquashFS file systems
 
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/snowflake-distribution-insights-demo](https://github.com/tspannhw/snowflake-distribution-insights-demo)
+  > End-to-end Snowflake AI demo: Cortex Agents, Semantic Views, Dynamic Tables, Streamlit
+
 ### [uforia](https://github.com/uforia)
 - 🌟 👤 [uforia](https://github.com/uforia) Starred [uforia/MatterBot](https://github.com/uforia/MatterBot)
   > MatterBot is a two-part extensible Python bot framework that provides a scheduled feed of informatio...
@@ -100,7 +114,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 15:44:32 UTC*
+*Last updated at 2026-06-24 16:40:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
