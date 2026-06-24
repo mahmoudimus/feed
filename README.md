@@ -8,10 +8,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AlexsJones](https://github.com/AlexsJones)
+- 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [89luca89/distrobox](https://github.com/89luca89/distrobox)
+  > Use any linux distribution inside your terminal. Enable both backward and forward compatibility with...
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [caidaoli/ccLoad](https://github.com/caidaoli/ccLoad) to [NyaMisty/ccLoad](https://github.com/NyaMisty/ccLoad)
   > AI API gateway that ends manual channel switching with smart routing, auto failover, exponential coo...
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [VitoHowe/glm-coding](https://github.com/VitoHowe/glm-coding) to [NyaMisty/glm-coding](https://github.com/NyaMisty/glm-coding)
+
+### [bbatsov](https://github.com/bbatsov)
+- 🌟 👤 [bbatsov](https://github.com/bbatsov) Starred [SunskyXH/ast-grep.el](https://github.com/SunskyXH/ast-grep.el)
+  > Emacs package for searching code with ast-grep via completing-read, consult, or ivy/counsel.
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [contabo/cntb](https://github.com/contabo/cntb)
+  > Contabo Command Line Interface
 
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lstebner/spudbox](https://github.com/lstebner/spudbox)
@@ -45,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 05:15:56 UTC*
+*Last updated at 2026-06-24 07:04:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
