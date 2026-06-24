@@ -68,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp)
   > Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - C...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lstebner/spudbox](https://github.com/lstebner/spudbox)
   > a linux based music library / music player
@@ -98,6 +102,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > CodeStory is a codebase grounding engine that preindexes code into a knowledge graph and enriches it...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [maestro-os/maestro](https://github.com/maestro-os/maestro)
   > Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aimi...
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [mdn/mcp](https://github.com/mdn/mcp)
+  > MDN's prototype MCP server
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [veryl-lang/veryl](https://github.com/veryl-lang/veryl)
@@ -130,6 +138,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)
   > A fast, helpful, and open-source document parser
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [openresty/lua-resty-string](https://github.com/openresty/lua-resty-string)
+  > String utilities and common hash functions for ngx_lua and LuaJIT
 
 ### [zhefox](https://github.com/zhefox)
 - 🍴 👤 [zhefox](https://github.com/zhefox) Forked [goehou/tabbit-toy](https://github.com/goehou/tabbit-toy) to [zhefox/tabbit-toy](https://github.com/zhefox/tabbit-toy)
@@ -141,7 +151,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 21:28:12 UTC*
+*Last updated at 2026-06-24 22:26:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
