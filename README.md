@@ -21,6 +21,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [bbatsov](https://github.com/bbatsov) Starred [SunskyXH/ast-grep.el](https://github.com/SunskyXH/ast-grep.el)
   > Emacs package for searching code with ast-grep via completing-read, consult, or ivy/counsel.
 
+### [boyney123](https://github.com/boyney123)
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [Dieterbe/awesome-health-fitness-oss](https://github.com/Dieterbe/awesome-health-fitness-oss)
+  > overview of interesting health and fitness OSS/FOSS apps and tools
+
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [contabo/cntb](https://github.com/contabo/cntb)
   > Contabo Command Line Interface
@@ -32,6 +36,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [bytedance/X-Dyna](https://github.com/bytedance/X-Dyna)
   > [CVPR 2025 Highlight] X-Dyna: Expressive Dynamic Human Image Animation
+
+### [moriyoshi](https://github.com/moriyoshi)
+- 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [aita/sqlkit](https://github.com/aita/sqlkit)
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [guaardvark/guaardvark](https://github.com/guaardvark/guaardvark)
@@ -57,7 +64,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 07:04:17 UTC*
+*Last updated at 2026-06-24 09:00:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
