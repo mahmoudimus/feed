@@ -21,6 +21,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [antifuchs](https://github.com/antifuchs) Forked [warthog618/modem](https://github.com/warthog618/modem) to [antifuchs/modem](https://github.com/antifuchs/modem)
   > A Go driver for AT based modems
 
+### [assarbad](https://github.com/assarbad)
+- 🍴 👤 [assarbad](https://github.com/assarbad) Forked [wolfv/msvcup](https://github.com/wolfv/msvcup) to [assarbad/msvcup.rs](https://github.com/assarbad/msvcup.rs)
+  > A standalone tool for installing the MSVC toolchain and Windows SDK without Visual Studio
+- 🍴 👤 [assarbad](https://github.com/assarbad) Forked [marler8997/msvcup](https://github.com/marler8997/msvcup) to [assarbad/msvcup.zig](https://github.com/assarbad/msvcup.zig)
+  > Hermetic install of MSVC/SDK from the CLI
+
 ### [bbatsov](https://github.com/bbatsov)
 - 🌟 👤 [bbatsov](https://github.com/bbatsov) Starred [SunskyXH/ast-grep.el](https://github.com/SunskyXH/ast-grep.el)
   > Emacs package for searching code with ast-grep via completing-read, consult, or ivy/counsel.
@@ -131,7 +137,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 18:31:12 UTC*
+*Last updated at 2026-06-24 19:30:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
