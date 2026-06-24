@@ -39,6 +39,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker) to [fengjixuchui/ptehooker](https://github.com/fengjixuchui/ptehooker)
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [pnpm/pnpm](https://github.com/pnpm/pnpm)
+  > Fast, disk space efficient package manager
+
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lstebner/spudbox](https://github.com/lstebner/spudbox)
   > a linux based music library / music player
@@ -61,6 +65,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > CodeStory is a codebase grounding engine that preindexes code into a knowledge graph and enriches it...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [maestro-os/maestro](https://github.com/maestro-os/maestro)
   > Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aimi...
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [veryl-lang/veryl](https://github.com/veryl-lang/veryl)
+  > Veryl: A Modern Hardware Description Language
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [wcampbell0x2a/backhand](https://github.com/wcampbell0x2a/backhand)
@@ -92,7 +100,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 13:40:55 UTC*
+*Last updated at 2026-06-24 14:53:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
