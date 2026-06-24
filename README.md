@@ -71,10 +71,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lstebner/spudbox](https://github.com/lstebner/spudbox)
   > a linux based music library / music player
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [dallen4/labkit](https://github.com/dallen4/labkit)
+  > agentic patterns I find handy and reliable
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [bytedance/X-Dyna](https://github.com/bytedance/X-Dyna)
   > [CVPR 2025 Highlight] X-Dyna: Expressive Dynamic Human Image Animation
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [qlands/elasticfeeds](https://github.com/qlands/elasticfeeds)
+  > A Python library for managing feeds using ElasticSearch
 
 ### [moriyoshi](https://github.com/moriyoshi)
 - 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [aita/sqlkit](https://github.com/aita/sqlkit)
@@ -137,7 +141,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 20:31:16 UTC*
+*Last updated at 2026-06-24 21:28:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
