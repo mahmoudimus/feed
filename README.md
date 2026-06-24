@@ -29,6 +29,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [contabo/cntb](https://github.com/contabo/cntb)
   > Contabo Command Line Interface
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker) to [fengjixuchui/ptehooker](https://github.com/fengjixuchui/ptehooker)
+
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lstebner/spudbox](https://github.com/lstebner/spudbox)
   > a linux based music library / music player
@@ -40,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [moriyoshi](https://github.com/moriyoshi)
 - 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [aita/sqlkit](https://github.com/aita/sqlkit)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
+  > Easily create full virtual machines that are sandboxed for development or computer use models.
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [guaardvark/guaardvark](https://github.com/guaardvark/guaardvark)
   > The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swar...
@@ -50,9 +57,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [wcampbell0x2a/backhand](https://github.com/wcampbell0x2a/backhand)
   > Library and binaries for the reading, creating, and modification of SquashFS file systems
 
+### [uforia](https://github.com/uforia)
+- 🌟 👤 [uforia](https://github.com/uforia) Starred [uforia/MatterBot](https://github.com/uforia/MatterBot)
+  > MatterBot is a two-part extensible Python bot framework that provides a scheduled feed of informatio...
+
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🍴 👤 [yangdanny97](https://github.com/yangdanny97) Forked [astral-sh/lsp-types](https://github.com/astral-sh/lsp-types) to [yangdanny97/lsp-types](https://github.com/yangdanny97/lsp-types)
   > Types for communicating with a language server
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)
+  > A fast, helpful, and open-source document parser
 
 ### [zhefox](https://github.com/zhefox)
 - 🍴 👤 [zhefox](https://github.com/zhefox) Forked [goehou/tabbit-toy](https://github.com/goehou/tabbit-toy) to [zhefox/tabbit-toy](https://github.com/zhefox/tabbit-toy)
@@ -64,7 +79,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 09:00:36 UTC*
+*Last updated at 2026-06-24 10:58:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
