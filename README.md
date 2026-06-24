@@ -29,6 +29,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [Dieterbe/awesome-health-fitness-oss](https://github.com/Dieterbe/awesome-health-fitness-oss)
   > overview of interesting health and fitness OSS/FOSS apps and tools
 
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [nemocake/claude-obsidian-assistant](https://github.com/nemocake/claude-obsidian-assistant)
+
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [contabo/cntb](https://github.com/contabo/cntb)
   > Contabo Command Line Interface
@@ -56,6 +59,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swar...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [TheGreenCedar/CodeStory](https://github.com/TheGreenCedar/CodeStory)
   > CodeStory is a codebase grounding engine that preindexes code into a knowledge graph and enriches it...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [maestro-os/maestro](https://github.com/maestro-os/maestro)
+  > Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aimi...
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [wcampbell0x2a/backhand](https://github.com/wcampbell0x2a/backhand)
@@ -64,6 +69,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [uforia](https://github.com/uforia)
 - 🌟 👤 [uforia](https://github.com/uforia) Starred [uforia/MatterBot](https://github.com/uforia/MatterBot)
   > MatterBot is a two-part extensible Python bot framework that provides a scheduled feed of informatio...
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+  > A curated list of Rust code and resources.
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🍴 👤 [yangdanny97](https://github.com/yangdanny97) Forked [astral-sh/lsp-types](https://github.com/astral-sh/lsp-types) to [yangdanny97/lsp-types](https://github.com/yangdanny97/lsp-types)
@@ -83,7 +92,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 11:58:11 UTC*
+*Last updated at 2026-06-24 12:55:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
