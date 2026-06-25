@@ -33,6 +33,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hanxiao/searchbox](https://github.com/hanxiao/searchbox)
   > Airgapped closed-corpus QA loop: a self-hosted Qwen3.6 agent explores a .zip dataroom under a token ...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [CodeAlexx/MOJO-libs](https://github.com/CodeAlexx/MOJO-libs)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [unum-cloud/UStore](https://github.com/unum-cloud/UStore)
+  > Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with Network...
 
 
 <!-- nav -->
@@ -40,7 +43,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 11:51:23 UTC*
+*Last updated at 2026-06-25 12:40:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
