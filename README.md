@@ -19,19 +19,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Echocipher](https://github.com/Echocipher) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
-### [Stanzilla](https://github.com/Stanzilla)
-- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
-  > Skills for Design Engineers.
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [vk6flab/getting-started-in-amateur-radio](https://github.com/vk6flab/getting-started-in-amateur-radio)
+  > Getting Started in the hobby of Amateur Radio can be a challenge if you don't know anyone in the com...
 
 ### [antifuchs](https://github.com/antifuchs)
 - 🌟 👤 [antifuchs](https://github.com/antifuchs) Starred [manjotsc/ha-smtp](https://github.com/manjotsc/ha-smtp)
   > UI-first SMTP integration — Configure and manage email notifications entirely through the Home Assis...
-
-### [donvito](https://github.com/donvito)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [jpwhite3/northwind-SQLite3](https://github.com/jpwhite3/northwind-SQLite3)
-  > SQLite3 version of Microsoft's Northwind Database
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [markjprice/cs7dotnetcore2](https://github.com/markjprice/cs7dotnetcore2)
-  > Repository for the Packt Publishing book titled "C# 7.1 and .NET Core 2.0" by Mark J. Price
 
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [anchore/syft](https://github.com/anchore/syft)
@@ -44,6 +38,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [firmai](https://github.com/firmai)
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar)
   > Fast, Flexible and Portable Structured Generation
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)
+  > DuckDB is an analytical in-process SQL database management system
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [umans-ai/website](https://github.com/umans-ai/website)
@@ -64,6 +62,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [experimental] simple synchronous logger
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [josejuanqm/docky](https://github.com/josejuanqm/docky)
 
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [N9HO/another-morse-trainer](https://github.com/N9HO/another-morse-trainer)
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [TinyCC/tinycc](https://github.com/TinyCC/tinycc)
   > Unofficial mirror of mob development branch
@@ -80,7 +81,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 18:38:54 UTC*
+*Last updated at 2026-06-25 19:32:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
