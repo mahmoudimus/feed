@@ -58,13 +58,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [devgianlu/go-librespot](https://github.com/devgianlu/go-librespot)
   > Yet another open source Spotify client, written in Go.
 
+### [zhkl0228](https://github.com/zhkl0228)
+- 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
+  > Running V2ray inside edge/serverless runtime
+
 
 <!-- nav -->
 [← 2026-06-24](archive/2026/06/24.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 15:49:12 UTC*
+*Last updated at 2026-06-25 16:42:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
