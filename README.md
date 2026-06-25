@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [0intro](https://github.com/0intro)
+- 🍴 👤 [0intro](https://github.com/0intro) Forked [aquasecurity/trivy](https://github.com/aquasecurity/trivy) to [0intro/trivy](https://github.com/0intro/trivy)
+  > Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories,...
+
 ### [Clivern](https://github.com/Clivern)
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [OpenRouterTeam/go-sdk](https://github.com/OpenRouterTeam/go-sdk)
 
@@ -15,15 +19,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Echocipher](https://github.com/Echocipher) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
+  > Skills for Design Engineers.
+
+### [antifuchs](https://github.com/antifuchs)
+- 🌟 👤 [antifuchs](https://github.com/antifuchs) Starred [manjotsc/ha-smtp](https://github.com/manjotsc/ha-smtp)
+  > UI-first SMTP integration — Configure and manage email notifications entirely through the Home Assis...
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [anchore/syft](https://github.com/anchore/syft)
   > CLI tool and library for generating a Software Bill of Materials from container images and filesyste...
-
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Monoceros406/WinKerDevBook1](https://github.com/Monoceros406/WinKerDevBook1) to [fengjixuchui/WinKerDevBook1](https://github.com/fengjixuchui/WinKerDevBook1)
-  > Windows 系统安全：内核驱动开发
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [amaralkaff/hyperv-pubg-external](https://github.com/amaralkaff/hyperv-pubg-external) to [fengjixuchui/hyperv-pubg-external](https://github.com/fengjixuchui/hyperv-pubg-external)
-  > Rust + hyper-reV hypervisor backend. CPUID hypercalls for memory R/W.
 
 ### [firmai](https://github.com/firmai)
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar)
@@ -48,7 +54,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 13:40:08 UTC*
+*Last updated at 2026-06-25 14:55:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
