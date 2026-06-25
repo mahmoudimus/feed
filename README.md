@@ -39,6 +39,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [bufbuild/protobuf-py](https://github.com/bufbuild/protobuf-py)
   > Idiomatic Protocol Buffers for Python.
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [UM-ARM-Lab/pytorch_mppi](https://github.com/UM-ARM-Lab/pytorch_mppi)
+  > Model Predictive Path Integral (MPPI) with approximate dynamics implemented in pytorch
+
 ### [firmai](https://github.com/firmai)
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar)
   > Fast, Flexible and Portable Structured Generation
@@ -46,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)
   > DuckDB is an analytical in-process SQL database management system
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/fARM64](https://github.com/binsnake/fARM64)
+  > ARM64 decoder and encoder
 
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [mitchellh/vouch](https://github.com/mitchellh/vouch)
@@ -92,7 +100,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 21:29:56 UTC*
+*Last updated at 2026-06-25 22:27:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
