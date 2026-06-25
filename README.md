@@ -19,6 +19,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Monoceros406/WinKerDevBook1](https://github.com/Monoceros406/WinKerDevBook1) to [fengjixuchui/WinKerDevBook1](https://github.com/fengjixuchui/WinKerDevBook1)
   > Windows 系统安全：内核驱动开发
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [amaralkaff/hyperv-pubg-external](https://github.com/amaralkaff/hyperv-pubg-external) to [fengjixuchui/hyperv-pubg-external](https://github.com/fengjixuchui/hyperv-pubg-external)
+  > Rust + hyper-reV hypervisor backend. CPUID hypercalls for memory R/W.
 
 ### [firmai](https://github.com/firmai)
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar)
@@ -38,7 +40,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 10:01:51 UTC*
+*Last updated at 2026-06-25 11:51:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
