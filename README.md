@@ -20,13 +20,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS)
   > Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hanxiao/searchbox](https://github.com/hanxiao/searchbox)
+  > Airgapped closed-corpus QA loop: a self-hosted Qwen3.6 agent explores a .zip dataroom under a token ...
+
 
 <!-- nav -->
 [← 2026-06-24](archive/2026/06/24.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 02:59:59 UTC*
+*Last updated at 2026-06-25 04:32:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
