@@ -27,9 +27,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [antifuchs](https://github.com/antifuchs) Starred [manjotsc/ha-smtp](https://github.com/manjotsc/ha-smtp)
   > UI-first SMTP integration — Configure and manage email notifications entirely through the Home Assis...
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [jpwhite3/northwind-SQLite3](https://github.com/jpwhite3/northwind-SQLite3)
+  > SQLite3 version of Microsoft's Northwind Database
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [markjprice/cs7dotnetcore2](https://github.com/markjprice/cs7dotnetcore2)
+  > Repository for the Packt Publishing book titled "C# 7.1 and .NET Core 2.0" by Mark J. Price
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [anchore/syft](https://github.com/anchore/syft)
   > CLI tool and library for generating a Software Bill of Materials from container images and filesyste...
+
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
+  > Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 ### [firmai](https://github.com/firmai)
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar)
@@ -55,8 +65,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [josejuanqm/docky](https://github.com/josejuanqm/docky)
 
 ### [xyproto](https://github.com/xyproto)
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [devgianlu/go-librespot](https://github.com/devgianlu/go-librespot)
-  > Yet another open source Spotify client, written in Go.
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [TinyCC/tinycc](https://github.com/TinyCC/tinycc)
+  > Unofficial mirror of mob development branch
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [odin-lang/Odin](https://github.com/odin-lang/Odin)
+  > Odin Programming Language
 
 ### [zhkl0228](https://github.com/zhkl0228)
 - 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
@@ -68,7 +80,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 17:36:23 UTC*
+*Last updated at 2026-06-25 18:38:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
