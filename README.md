@@ -102,6 +102,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > CodeStory is a codebase grounding engine that preindexes code into a knowledge graph and enriches it...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [maestro-os/maestro](https://github.com/maestro-os/maestro)
   > Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aimi...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [google/netkat](https://github.com/google/netkat)
+  > Domain specific language (DSL) and system for specifying, programming, and reasoning about packet-sw...
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [mdn/mcp](https://github.com/mdn/mcp)
@@ -151,7 +153,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-24 22:26:15 UTC*
+*Last updated at 2026-06-24 23:22:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
