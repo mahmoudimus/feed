@@ -27,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [antifuchs](https://github.com/antifuchs) Starred [manjotsc/ha-smtp](https://github.com/manjotsc/ha-smtp)
   > UI-first SMTP integration — Configure and manage email notifications entirely through the Home Assis...
 
+### [asalih](https://github.com/asalih)
+- 🌟 👤 [asalih](https://github.com/asalih) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
+  > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a p...
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [anchore/syft](https://github.com/anchore/syft)
   > CLI tool and library for generating a Software Bill of Materials from container images and filesyste...
@@ -48,6 +52,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A community trust management system based on explicit vouches to participate.
 
 ### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jd-opensource/xllm](https://github.com/jd-opensource/xllm)
+  > A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accel...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hanxiao/searchbox](https://github.com/hanxiao/searchbox)
   > Airgapped closed-corpus QA loop: a self-hosted Qwen3.6 agent explores a .zip dataroom under a token ...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [CodeAlexx/MOJO-libs](https://github.com/CodeAlexx/MOJO-libs)
@@ -68,6 +74,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [w3c/odrl](https://github.com/w3c/odrl)
   > ODRL Community Group Repository
 
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-ipsearch](https://github.com/tspannhw/SNACKAI-CoCo-ipsearch)
+  > Faster IP Search
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [TinyCC/tinycc](https://github.com/TinyCC/tinycc)
   > Unofficial mirror of mob development branch
@@ -82,7 +92,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 20:36:35 UTC*
+*Last updated at 2026-06-25 21:29:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
