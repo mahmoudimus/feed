@@ -8,6 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [OpenRouterTeam/go-sdk](https://github.com/OpenRouterTeam/go-sdk)
+
 ### [Echocipher](https://github.com/Echocipher)
 - 🌟 👤 [Echocipher](https://github.com/Echocipher) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
@@ -26,16 +29,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar)
   > Fast, Flexible and Portable Structured Generation
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS)
-  > Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem
-
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hanxiao/searchbox](https://github.com/hanxiao/searchbox)
   > Airgapped closed-corpus QA loop: a self-hosted Qwen3.6 agent explores a .zip dataroom under a token ...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [CodeAlexx/MOJO-libs](https://github.com/CodeAlexx/MOJO-libs)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [unum-cloud/UStore](https://github.com/unum-cloud/UStore)
   > Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with Network...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nebius/soperator](https://github.com/nebius/soperator)
+  > Run Slurm in Kubernetes
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [devgianlu/go-librespot](https://github.com/devgianlu/go-librespot)
+  > Yet another open source Spotify client, written in Go.
 
 
 <!-- nav -->
@@ -43,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 12:40:55 UTC*
+*Last updated at 2026-06-25 13:40:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
