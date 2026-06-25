@@ -8,14 +8,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [anchore/syft](https://github.com/anchore/syft)
+  > CLI tool and library for generating a Software Bill of Materials from container images and filesyste...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS)
+  > Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem
+
 
 <!-- nav -->
 [← 2026-06-24](archive/2026/06/24.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 00:25:10 UTC*
+*Last updated at 2026-06-25 01:37:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
