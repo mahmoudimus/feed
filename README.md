@@ -19,6 +19,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Echocipher](https://github.com/Echocipher) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [anomalyco/rift](https://github.com/anomalyco/rift)
+
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [vk6flab/getting-started-in-amateur-radio](https://github.com/vk6flab/getting-started-in-amateur-radio)
   > Getting Started in the hobby of Amateur Radio can be a challenge if you don't know anyone in the com...
@@ -26,6 +29,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [antifuchs](https://github.com/antifuchs)
 - 🌟 👤 [antifuchs](https://github.com/antifuchs) Starred [manjotsc/ha-smtp](https://github.com/manjotsc/ha-smtp)
   > UI-first SMTP integration — Configure and manage email notifications entirely through the Home Assis...
+
+### [artem](https://github.com/artem)
+- 🌟 👤 [artem](https://github.com/artem) Starred [qais-yousef/sched-analyzer](https://github.com/qais-yousef/sched-analyzer)
+  > BPF CO-RE based sched-analyzer
 
 ### [asalih](https://github.com/asalih)
 - 🌟 👤 [asalih](https://github.com/asalih) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
@@ -100,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 22:27:37 UTC*
+*Last updated at 2026-06-25 23:26:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
