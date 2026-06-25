@@ -31,9 +31,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [anchore/syft](https://github.com/anchore/syft)
   > CLI tool and library for generating a Software Bill of Materials from container images and filesyste...
 
-### [fangpenlin](https://github.com/fangpenlin)
-- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
-  > Multi-Joint dynamics with Contact. A general purpose physics simulator.
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [bufbuild/protobuf-py](https://github.com/bufbuild/protobuf-py)
+  > Idiomatic Protocol Buffers for Python.
 
 ### [firmai](https://github.com/firmai)
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar)
@@ -42,9 +42,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [duckdb/duckdb](https://github.com/duckdb/duckdb)
   > DuckDB is an analytical in-process SQL database management system
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [umans-ai/website](https://github.com/umans-ai/website)
 
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [mitchellh/vouch](https://github.com/mitchellh/vouch)
@@ -65,15 +62,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [N9HO/another-morse-trainer](https://github.com/N9HO/another-morse-trainer)
 
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [spring-ai-community/spring-ai-agent-utils](https://github.com/spring-ai-community/spring-ai-agent-utils)
+  > A Spring AI library that brings Claude Code-inspired tools and agent skills to your AI applications.
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [w3c/odrl](https://github.com/w3c/odrl)
+  > ODRL Community Group Repository
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [TinyCC/tinycc](https://github.com/TinyCC/tinycc)
   > Unofficial mirror of mob development branch
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [odin-lang/Odin](https://github.com/odin-lang/Odin)
   > Odin Programming Language
-
-### [zhkl0228](https://github.com/zhkl0228)
-- 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
-  > Running V2ray inside edge/serverless runtime
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [bisqwit/that_editor](https://github.com/bisqwit/that_editor)
+  > *That* editor.
 
 
 <!-- nav -->
@@ -81,7 +82,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 19:32:39 UTC*
+*Last updated at 2026-06-25 20:36:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
