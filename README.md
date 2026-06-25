@@ -35,6 +35,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar)
   > Fast, Flexible and Portable Structured Generation
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [umans-ai/website](https://github.com/umans-ai/website)
+
+### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [mitchellh/vouch](https://github.com/mitchellh/vouch)
+  > A community trust management system based on explicit vouches to participate.
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hanxiao/searchbox](https://github.com/hanxiao/searchbox)
   > Airgapped closed-corpus QA loop: a self-hosted Qwen3.6 agent explores a .zip dataroom under a token ...
@@ -43,6 +50,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with Network...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nebius/soperator](https://github.com/nebius/soperator)
   > Run Slurm in Kubernetes
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [moonbit-community/tonyfettes-log](https://github.com/moonbit-community/tonyfettes-log)
+  > [experimental] simple synchronous logger
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [josejuanqm/docky](https://github.com/josejuanqm/docky)
 
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [devgianlu/go-librespot](https://github.com/devgianlu/go-librespot)
@@ -54,7 +64,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-25 14:55:13 UTC*
+*Last updated at 2026-06-25 15:49:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
