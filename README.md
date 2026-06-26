@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [agentsmill/age-of-agents](https://github.com/agentsmill/age-of-agents)
   > Age of Agents — watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of...
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff)
+  > Local CI. Sign off on your own work.
+
 ### [ftomassetti](https://github.com/ftomassetti)
 - 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [bldl/nav262](https://github.com/bldl/nav262)
   > An IDE to navigate the JavaScript specification.
@@ -48,9 +52,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [trycua/cua](https://github.com/trycua/cua)
   > Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and eva...
 
-### [jeremyckahn](https://github.com/jeremyckahn)
-- 🍴 👤 [jeremyckahn](https://github.com/jeremyckahn) Forked [lstebner/spudbox](https://github.com/lstebner/spudbox) to [jeremyckahn/spudbox](https://github.com/jeremyckahn/spudbox)
-  > a linux based music library / music player
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+  > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [swimmwatch/cloakbrowser-mcp](https://github.com/swimmwatch/cloakbrowser-mcp)
+  > ⚡ CloakBrowser MCP server for AI agents: Playwright-powered browsing, clean tool forwarding, Docker ...
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [vox-deorum/vox-deorum](https://github.com/vox-deorum/vox-deorum)
@@ -63,10 +69,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Tokenflood is a load testing framework for simulating arbitary loads on instruction-tuned LLMs
 - 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [simonw/llm](https://github.com/simonw/llm)
   > Access large language models from the command-line
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym)
-  > CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously as...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [felilo/ReduxCore](https://github.com/felilo/ReduxCore)
@@ -97,6 +99,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
   > Sega Saturn emulator
 
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/diffusers-feedstock](https://github.com/conda-forge/diffusers-feedstock) to [xhochy/diffusers-feedstock](https://github.com/xhochy/diffusers-feedstock)
+  > A conda-smithy repository for diffusers.
+
 ### [zuowang](https://github.com/zuowang)
 - 🍴 👤 [zuowang](https://github.com/zuowang) Forked [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) to [zuowang/daily_stock_analysis](https://github.com/zuowang/daily_stock_analysis)
   > LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system wi...
@@ -107,7 +113,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 14:50:05 UTC*
+*Last updated at 2026-06-26 15:42:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
