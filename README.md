@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [cloudwego/kitex](https://github.com/cloudwego/kitex)
   > Go RPC framework with high-performance and strong-extensibility for building micro-services.
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [facebook/astryx](https://github.com/facebook/astryx)
+  > An open source design system that's fully customizable and agent ready
+
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [muglug/pzoom](https://github.com/muglug/pzoom)
   > A fast experimental PHP static analyzer written in Rust, a port of Psalm
@@ -99,9 +103,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
   > Sega Saturn emulator
 
+### [wl4g](https://github.com/wl4g)
+- 🍴 👤 [wl4g](https://github.com/wl4g) Forked [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) to [wl4g-ai/atlassian-mcp](https://github.com/wl4g-ai/atlassian-mcp)
+  > MCP server for Atlassian tools (Confluence, Jira)
+
 ### [xhochy](https://github.com/xhochy)
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/diffusers-feedstock](https://github.com/conda-forge/diffusers-feedstock) to [xhochy/diffusers-feedstock](https://github.com/xhochy/diffusers-feedstock)
   > A conda-smithy repository for diffusers.
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/culsans-feedstock](https://github.com/conda-forge/culsans-feedstock) to [xhochy/culsans-feedstock](https://github.com/xhochy/culsans-feedstock)
+  > A conda-smithy repository for culsans.
 
 ### [zuowang](https://github.com/zuowang)
 - 🍴 👤 [zuowang](https://github.com/zuowang) Forked [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) to [zuowang/daily_stock_analysis](https://github.com/zuowang/daily_stock_analysis)
@@ -113,7 +123,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 15:42:45 UTC*
+*Last updated at 2026-06-26 16:35:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
