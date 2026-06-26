@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [Punshnut/macos-launchy](https://github.com/Punshnut/macos-launchy)
+  > Launchy Launchpad is the free open-source launchpad alternative macOS users have been waiting for!
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [cloudwego/kitex](https://github.com/cloudwego/kitex)
   > Go RPC framework with high-performance and strong-extensibility for building micro-services.
@@ -19,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [muglug/pzoom](https://github.com/muglug/pzoom)
   > A fast experimental PHP static analyzer written in Rust, a port of Psalm
+
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [workweave/router](https://github.com/workweave/router)
+  > Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% ...
 
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [agentsmill/age-of-agents](https://github.com/agentsmill/age-of-agents)
@@ -55,6 +63,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [trycua/cua](https://github.com/trycua/cua)
   > Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and eva...
+
+### [interference-security](https://github.com/interference-security)
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [akemin-dayo/AppSync](https://github.com/akemin-dayo/AppSync)
+  > Unified AppSync dynamic library for iOS 5 and above.
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
@@ -123,7 +135,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 16:35:58 UTC*
+*Last updated at 2026-06-26 17:31:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
