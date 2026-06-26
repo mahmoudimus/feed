@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [cloudwego/kitex](https://github.com/cloudwego/kitex)
   > Go RPC framework with high-performance and strong-extensibility for building micro-services.
 
+### [TomasVotruba](https://github.com/TomasVotruba)
+- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [muglug/pzoom](https://github.com/muglug/pzoom)
+  > A fast experimental PHP static analyzer written in Rust, a port of Psalm
+
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [agentsmill/age-of-agents](https://github.com/agentsmill/age-of-agents)
   > Age of Agents — watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of...
@@ -40,6 +44,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [jeremyckahn](https://github.com/jeremyckahn) Forked [lstebner/spudbox](https://github.com/lstebner/spudbox) to [jeremyckahn/spudbox](https://github.com/jeremyckahn/spudbox)
   > a linux based music library / music player
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [vox-deorum/vox-deorum](https://github.com/vox-deorum/vox-deorum)
+  > LLM-enhanced AI system for Civilization V upon the Community Patch + Vox Populi.
+
 ### [johnmccabe](https://github.com/johnmccabe)
 - 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [nolabs-ai/nono](https://github.com/nolabs-ai/nono)
   > Sandbox any AI agent in seconds - zero setup, zero latency.
@@ -57,6 +65,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Lightweight Redux for SwiftUI — unidirectional data flow, composable reducers, async middleware, and...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge)
   > Beautiful, AI-native markdown editor and LLM Wiki
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift)
+  > AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)
@@ -73,16 +83,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
   > Sega Saturn emulator
 
-### [xhochy](https://github.com/xhochy)
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [sgl-project/sglang](https://github.com/sgl-project/sglang) to [xhochy/sglang](https://github.com/xhochy/sglang)
-  > SGLang is a high-performance serving framework for large language models and multimodal models.
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/outlines-core-feedstock](https://github.com/conda-forge/outlines-core-feedstock) to [xhochy/outlines-core-feedstock](https://github.com/xhochy/outlines-core-feedstock)
-  > A conda-smithy repository for outlines-core.
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/outlines-feedstock](https://github.com/conda-forge/outlines-feedstock) to [xhochy/outlines-feedstock](https://github.com/xhochy/outlines-feedstock)
-  > A conda-smithy repository for outlines.
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [lightseekorg/smg](https://github.com/lightseekorg/smg) to [xhochy/smg](https://github.com/xhochy/smg)
-  > Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM,...
-
 ### [zuowang](https://github.com/zuowang)
 - 🍴 👤 [zuowang](https://github.com/zuowang) Forked [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) to [zuowang/daily_stock_analysis](https://github.com/zuowang/daily_stock_analysis)
   > LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system wi...
@@ -93,7 +93,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 12:36:09 UTC*
+*Last updated at 2026-06-26 13:37:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
