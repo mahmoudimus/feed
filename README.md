@@ -20,9 +20,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [agentsmill/age-of-agents](https://github.com/agentsmill/age-of-agents)
   > Age of Agents — watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of...
 
+### [ftomassetti](https://github.com/ftomassetti)
+- 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [bldl/nav262](https://github.com/bldl/nav262)
+  > An IDE to navigate the JavaScript specification.
+- 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [everapp-org/dsl-first](https://github.com/everapp-org/dsl-first)
+  > Home of DSL-First Development Methodology for AI coding assistants
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf)
   > Free & Open-Source Invoice Generator - No Sign-Up, No Ads, Instant PDF Export, 100% In-Browser, and ...
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [cool-japan/oxiui](https://github.com/cool-japan/oxiui)
+  > OxiUI is the COOLJAPAN-blessed Pure Rust UI layer: no GTK (C), no Qt (C++), no SDL (C), no system wi...
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
@@ -67,6 +75,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Beautiful, AI-native markdown editor and LLM Wiki
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift)
   > AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nktnet1/rt-stack](https://github.com/nktnet1/rt-stack)
+  > Lightweight fullstack turborepo with modular components, shared configs, containerised deployments a...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)
@@ -78,6 +88,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Open-source 2D game studio for LibGDX — visual editing, tiled/iso maps, prefabs, physics, shaders, l...
 - 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [pixscapegames/pixscape-studio-free](https://github.com/pixscapegames/pixscape-studio-free) to [tommyettinger/pixscape-studio-free](https://github.com/tommyettinger/pixscape-studio-free)
   > Open-source 2D game studio for LibGDX — visual editing, tiled/iso maps, prefabs, physics, shaders, l...
+
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [AltimateAI/altimate-code](https://github.com/AltimateAI/altimate-code)
+  > Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 ware...
 
 ### [vertical-blank](https://github.com/vertical-blank)
 - 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
@@ -93,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 13:37:45 UTC*
+*Last updated at 2026-06-26 14:50:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
