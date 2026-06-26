@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo)
   > CrystalDiskInfo
 
+### [gvanas](https://github.com/gvanas)
+- 🌟 👤 [gvanas](https://github.com/gvanas) Starred [oconnor663/kangarootwelve_xkcp.rs](https://github.com/oconnor663/kangarootwelve_xkcp.rs)
+  > A Rust wrapper around the XKCP implementation of the KangarooTwelve hash function
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [trycua/cua](https://github.com/trycua/cua)
   > Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and eva...
@@ -42,6 +46,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable)
+  > Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GP...
 
 ### [tommyettinger](https://github.com/tommyettinger)
 - 🌟 👤 [tommyettinger](https://github.com/tommyettinger) Starred [pixscapegames/pixscape-studio-free](https://github.com/pixscapegames/pixscape-studio-free)
@@ -49,13 +55,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [pixscapegames/pixscape-studio-free](https://github.com/pixscapegames/pixscape-studio-free) to [tommyettinger/pixscape-studio-free](https://github.com/tommyettinger/pixscape-studio-free)
   > Open-source 2D game studio for LibGDX — visual editing, tiled/iso maps, prefabs, physics, shaders, l...
 
+### [zuowang](https://github.com/zuowang)
+- 🍴 👤 [zuowang](https://github.com/zuowang) Forked [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) to [zuowang/daily_stock_analysis](https://github.com/zuowang/daily_stock_analysis)
+  > LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system wi...
+
 
 <!-- nav -->
 [← 2026-06-25](archive/2026/06/25.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 07:10:29 UTC*
+*Last updated at 2026-06-26 09:00:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
