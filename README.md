@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [muglug/pzoom](https://github.com/muglug/pzoom)
   > A fast experimental PHP static analyzer written in Rust, a port of Psalm
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [iusztinpaul/ai-research-os-workshop](https://github.com/iusztinpaul/ai-research-os-workshop)
+  > How to turn your Second Brain into a living research memory that your agents maintain. Workshop with...
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [workweave/router](https://github.com/workweave/router)
   > Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% ...
@@ -86,6 +90,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [simonw/llm](https://github.com/simonw/llm)
   > Access large language models from the command-line
 
+### [mthenw](https://github.com/mthenw)
+- 🍴 👤 [mthenw](https://github.com/mthenw) Forked [sorenlouv/docx-editor](https://github.com/sorenlouv/docx-editor) to [anylawyer/docx-editor](https://github.com/anylawyer/docx-editor)
+  > Open-source WYSIWYG .docx editor library with canonical OOXML, tracked changes, and real-time collab...
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [felilo/ReduxCore](https://github.com/felilo/ReduxCore)
   > Lightweight Redux for SwiftUI — unidirectional data flow, composable reducers, async middleware, and...
@@ -137,7 +145,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 19:31:12 UTC*
+*Last updated at 2026-06-26 20:30:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
