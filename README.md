@@ -95,6 +95,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nktnet1/rt-stack](https://github.com/nktnet1/rt-stack)
   > Lightweight fullstack turborepo with modular components, shared configs, containerised deployments a...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [gofixpoint/amika](https://github.com/gofixpoint/amika)
+  > Infra for computer agents and software factories
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)
@@ -135,7 +137,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 17:31:17 UTC*
+*Last updated at 2026-06-26 18:30:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
