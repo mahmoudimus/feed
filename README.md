@@ -32,6 +32,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [workweave/router](https://github.com/workweave/router)
   > Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% ...
 
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal)
+  > Selected Go-internal packages factored out from the standard library
+
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [agentsmill/age-of-agents](https://github.com/agentsmill/age-of-agents)
   > Age of Agents — watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of...
@@ -111,6 +115,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable)
   > Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GP...
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Vith0r/StackSentry](https://github.com/Vith0r/StackSentry)
+  > Windows memory scanner for call stack spoofing detection, unbacked shellcode, injected DLLs and in-m...
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [urchin-tidebot/hermes-home.nix](https://github.com/urchin-tidebot/hermes-home.nix)
+  > Home Manager module for declarative Hermes Agent configuration
+
 ### [tommyettinger](https://github.com/tommyettinger)
 - 🌟 👤 [tommyettinger](https://github.com/tommyettinger) Starred [pixscapegames/pixscape-studio-free](https://github.com/pixscapegames/pixscape-studio-free)
   > Open-source 2D game studio for LibGDX — visual editing, tiled/iso maps, prefabs, physics, shaders, l...
@@ -129,12 +141,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [wl4g](https://github.com/wl4g) Forked [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) to [wl4g-ai/atlassian-mcp](https://github.com/wl4g-ai/atlassian-mcp)
   > MCP server for Atlassian tools (Confluence, Jira)
 
-### [xhochy](https://github.com/xhochy)
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/diffusers-feedstock](https://github.com/conda-forge/diffusers-feedstock) to [xhochy/diffusers-feedstock](https://github.com/xhochy/diffusers-feedstock)
-  > A conda-smithy repository for diffusers.
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/culsans-feedstock](https://github.com/conda-forge/culsans-feedstock) to [xhochy/culsans-feedstock](https://github.com/xhochy/culsans-feedstock)
-  > A conda-smithy repository for culsans.
-
 ### [zuowang](https://github.com/zuowang)
 - 🍴 👤 [zuowang](https://github.com/zuowang) Forked [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) to [zuowang/daily_stock_analysis](https://github.com/zuowang/daily_stock_analysis)
   > LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system wi...
@@ -145,7 +151,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 20:30:48 UTC*
+*Last updated at 2026-06-26 21:26:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
