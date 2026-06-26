@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [cloudwego/kitex](https://github.com/cloudwego/kitex)
   > Go RPC framework with high-performance and strong-extensibility for building micro-services.
 
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [agentsmill/age-of-agents](https://github.com/agentsmill/age-of-agents)
+  > Age of Agents — watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of...
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
   > Godot reverse engineering tools
@@ -40,6 +44,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [simonw/llm](https://github.com/simonw/llm)
   > Access large language models from the command-line
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym)
+  > CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously as...
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [felilo/ReduxCore](https://github.com/felilo/ReduxCore)
   > Lightweight Redux for SwiftUI — unidirectional data flow, composable reducers, async middleware, and...
@@ -55,6 +63,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [pixscapegames/pixscape-studio-free](https://github.com/pixscapegames/pixscape-studio-free) to [tommyettinger/pixscape-studio-free](https://github.com/tommyettinger/pixscape-studio-free)
   > Open-source 2D game studio for LibGDX — visual editing, tiled/iso maps, prefabs, physics, shaders, l...
 
+### [vertical-blank](https://github.com/vertical-blank)
+- 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir)
+  > Sega Saturn emulator
+
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [sgl-project/sglang](https://github.com/sgl-project/sglang) to [xhochy/sglang](https://github.com/xhochy/sglang)
+  > SGLang is a high-performance serving framework for large language models and multimodal models.
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/outlines-core-feedstock](https://github.com/conda-forge/outlines-core-feedstock) to [xhochy/outlines-core-feedstock](https://github.com/xhochy/outlines-core-feedstock)
+  > A conda-smithy repository for outlines-core.
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/outlines-feedstock](https://github.com/conda-forge/outlines-feedstock) to [xhochy/outlines-feedstock](https://github.com/xhochy/outlines-feedstock)
+  > A conda-smithy repository for outlines.
+
 ### [zuowang](https://github.com/zuowang)
 - 🍴 👤 [zuowang](https://github.com/zuowang) Forked [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) to [zuowang/daily_stock_analysis](https://github.com/zuowang/daily_stock_analysis)
   > LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system wi...
@@ -65,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 09:00:42 UTC*
+*Last updated at 2026-06-26 10:57:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
