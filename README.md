@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [agentsmill/age-of-agents](https://github.com/agentsmill/age-of-agents)
   > Age of Agents — watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of...
 
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf)
+  > Free & Open-Source Invoice Generator - No Sign-Up, No Ads, Instant PDF Export, 100% In-Browser, and ...
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
   > Godot reverse engineering tools
@@ -51,6 +55,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [felilo/ReduxCore](https://github.com/felilo/ReduxCore)
   > Lightweight Redux for SwiftUI — unidirectional data flow, composable reducers, async middleware, and...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge)
+  > Beautiful, AI-native markdown editor and LLM Wiki
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)
@@ -74,6 +80,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A conda-smithy repository for outlines-core.
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/outlines-feedstock](https://github.com/conda-forge/outlines-feedstock) to [xhochy/outlines-feedstock](https://github.com/xhochy/outlines-feedstock)
   > A conda-smithy repository for outlines.
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [lightseekorg/smg](https://github.com/lightseekorg/smg) to [xhochy/smg](https://github.com/xhochy/smg)
+  > Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM,...
 
 ### [zuowang](https://github.com/zuowang)
 - 🍴 👤 [zuowang](https://github.com/zuowang) Forked [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) to [zuowang/daily_stock_analysis](https://github.com/zuowang/daily_stock_analysis)
@@ -85,7 +93,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 10:57:56 UTC*
+*Last updated at 2026-06-26 11:54:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
