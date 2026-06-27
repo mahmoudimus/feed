@@ -27,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🍴 👤 [TomasVotruba](https://github.com/TomasVotruba) Forked [z7zmey/php-parser-comparison](https://github.com/z7zmey/php-parser-comparison) to [TomasVotruba/php-parser-comparison-2026](https://github.com/TomasVotruba/php-parser-comparison-2026)
 
+### [badrishc](https://github.com/badrishc)
+- 🍴 👤 [badrishc](https://github.com/badrishc) Forked [metajack/VectorDBBench](https://github.com/metajack/VectorDBBench) to [badrishc/VectorDBBench](https://github.com/badrishc/VectorDBBench)
+  > Benchmark for vector databases.
+
 ### [bbugdigger](https://github.com/bbugdigger)
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [can1357/vibemon](https://github.com/can1357/vibemon)
 
@@ -76,6 +80,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Print compiler information stored in Rich Header of PE executables.
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [microsoft/pdblister](https://github.com/microsoft/pdblister)
   > Faster version of `symchk /om` for generating PDB manifests of offline machines
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [YS-IMTech/PermaVid](https://github.com/YS-IMTech/PermaVid)
+  > [Official Code] PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [KumapowerLIU/AvatarPointillist](https://github.com/KumapowerLIU/AvatarPointillist)
+  > [CVPR 2026]Official PyTorch implementation of AvatarPointillist: AutoRegressive 4D Gaussian Avatariz...
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [fusionlanguage/fut](https://github.com/fusionlanguage/fut)
@@ -135,6 +145,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > virtio implementation
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
   > A turnkey configuration for Zsh
+- 🚀 👤 [stepancheg](https://github.com/stepancheg) Made [stepancheg/cargo-for-rust-rover](https://github.com/stepancheg/cargo-for-rust-rover) public
+  > Cargo/rustc wrapper for RustRover: limit workspace-wide check/build/clippy to configured package nam...
 
 ### [superp00t](https://github.com/superp00t)
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim)
@@ -146,7 +158,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 22:19:48 UTC*
+*Last updated at 2026-06-27 23:19:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
