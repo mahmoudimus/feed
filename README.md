@@ -18,9 +18,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [tornadus/frlg-ldn-trade](https://github.com/tornadus/frlg-ldn-trade)
   > Proof-of-concept: a computer trading in FRLG with a real Switch/Switch 2 over local wireless (LDN)
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
+  > 📚 从零开始构建大模型
+
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [grpc/grpc-go](https://github.com/grpc/grpc-go) to [buger/grpc-go](https://github.com/buger/grpc-go)
   > The Go language implementation of gRPC. HTTP/2 based RPC
+
+### [chrislusf](https://github.com/chrislusf)
+- 🍴 👤 [chrislusf](https://github.com/chrislusf) Forked [apache/flink](https://github.com/apache/flink) to [chrislusf/flink](https://github.com/chrislusf/flink)
+  > Apache Flink
 
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [nekename/OpenDeck](https://github.com/nekename/OpenDeck)
@@ -60,6 +68,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Exxact-Software/local-agent-benchmark](https://github.com/Exxact-Software/local-agent-benchmark)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tonyd2wild/deepseek-v4-flash-dgx-spark](https://github.com/tonyd2wild/deepseek-v4-flash-dgx-spark)
   > Working recipe to serve DeepSeek-V4-Flash across two NVIDIA DGX Spark (GB10) nodes with vLLM (TP=2, ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context](https://github.com/MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context)
+  > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
@@ -77,6 +87,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
   > Lore is a next-generation, open source version control system
 
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [tomasz-lisowski/swsim](https://github.com/tomasz-lisowski/swsim)
+  > A software SIM card.
+
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio)
   > virtio implementation
@@ -93,7 +111,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 15:24:57 UTC*
+*Last updated at 2026-06-27 16:21:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
