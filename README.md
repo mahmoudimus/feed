@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder)
   > 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines ...
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [paolo-favaro/paper-template](https://github.com/paolo-favaro/paper-template)
+  > ECCV 2026 paper template
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [sbousseaden/gluegate](https://github.com/sbousseaden/gluegate) to [fengjixuchui/gluegate](https://github.com/fengjixuchui/gluegate)
   > Memory API proxy via signed mozglue.dll 
@@ -47,6 +51,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
   > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tomasz-lisowski/swsim](https://github.com/tomasz-lisowski/swsim)
+  > A software SIM card.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
@@ -70,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 12:21:30 UTC*
+*Last updated at 2026-06-27 13:29:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
