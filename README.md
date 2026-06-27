@@ -64,6 +64,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)
   > Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Curs...
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
+  > ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [koyzdev/sigdrift](https://github.com/koyzdev/sigdrift)
@@ -75,6 +77,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [fusionlanguage/fut](https://github.com/fusionlanguage/fut)
   > Fusion programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScri...
+
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [makerspet/oomwoo](https://github.com/makerspet/oomwoo)
+  > Open-source vacuum robot cleaner
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
@@ -104,6 +110,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > MoonBit library for the Chrome DevTools Protocol (CDP).
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
   > Lore is a next-generation, open source version control system
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [google-deepmind/formal-conjectures](https://github.com/google-deepmind/formal-conjectures)
+  > A collection of formalized statements of conjectures in Lean.
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
@@ -133,7 +141,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 20:21:03 UTC*
+*Last updated at 2026-06-27 21:21:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
