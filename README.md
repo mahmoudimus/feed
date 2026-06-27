@@ -56,6 +56,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [sbousseaden/gluegate](https://github.com/sbousseaden/gluegate) to [fengjixuchui/gluegate](https://github.com/fengjixuchui/gluegate)
   > Memory API proxy via signed mozglue.dll 
 
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [koyzdev/sigdrift](https://github.com/koyzdev/sigdrift)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [dishather/richprint](https://github.com/dishather/richprint)
+  > Print compiler information stored in Rich Header of PE executables.
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [microsoft/pdblister](https://github.com/microsoft/pdblister)
+  > Faster version of `symchk /om` for generating PDB manifests of offline machines
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [fusionlanguage/fut](https://github.com/fusionlanguage/fut)
   > Fusion programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScri...
@@ -91,6 +98,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
   > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
+### [notfoundry](https://github.com/notfoundry)
+- 🍴 👤 [notfoundry](https://github.com/notfoundry) Forked [bikini/exploitarium](https://github.com/bikini/exploitarium) to [notfoundry/exploitarium](https://github.com/notfoundry/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [tomasz-lisowski/swsim](https://github.com/tomasz-lisowski/swsim)
   > A software SIM card.
@@ -111,7 +122,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 16:21:01 UTC*
+*Last updated at 2026-06-27 17:22:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
