@@ -32,6 +32,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
 
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder)
+  > 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines ...
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [sbousseaden/gluegate](https://github.com/sbousseaden/gluegate) to [fengjixuchui/gluegate](https://github.com/fengjixuchui/gluegate)
   > Memory API proxy via signed mozglue.dll 
@@ -66,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 11:28:44 UTC*
+*Last updated at 2026-06-27 12:21:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
