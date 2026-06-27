@@ -27,6 +27,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
   > agent multiplexer that lives in your terminal.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [damolinx/vscode-macros](https://github.com/damolinx/vscode-macros)
+  > Run JavaScript/TypeScript within VS Code (or Cursor) leveraging full extension and NodeJS APIs.
+
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio)
+  > virtio implementation
 
 ### [superp00t](https://github.com/superp00t)
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim)
@@ -38,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 06:10:18 UTC*
+*Last updated at 2026-06-27 07:56:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
