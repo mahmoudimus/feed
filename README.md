@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BaseMax](https://github.com/BaseMax)
+- 🚀 👤 [BaseMax](https://github.com/BaseMax) Made [BaseMax/sql-insert-explorer](https://github.com/BaseMax/sql-insert-explorer) public
+  > Explore and visualize SQL INSERT datasets with filtering, table detection, and instant previews.
+
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [kinnay/LDN](https://github.com/kinnay/LDN)
   > Python package for local wireless communication with a Nintendo Switch
@@ -59,6 +63,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > agent multiplexer that lives in your terminal.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [damolinx/vscode-macros](https://github.com/damolinx/vscode-macros)
   > Run JavaScript/TypeScript within VS Code (or Cursor) leveraging full extension and NodeJS APIs.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+  > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [sgl-project/SpecForge](https://github.com/sgl-project/SpecForge)
+  > Train speculative decoding models effortlessly and port them smoothly to SGLang serving.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [z-lab/dflash](https://github.com/z-lab/dflash)
+  > DFlash: Block Diffusion for Flash Speculative Decoding
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [justjavac/moonbit-cdp](https://github.com/justjavac/moonbit-cdp)
+  > MoonBit library for the Chrome DevTools Protocol (CDP).
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio)
@@ -76,7 +88,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 13:29:48 UTC*
+*Last updated at 2026-06-27 14:29:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
