@@ -14,6 +14,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [tornadus/frlg-ldn-trade](https://github.com/tornadus/frlg-ldn-trade)
   > Proof-of-concept: a computer trading in FRLG with a real Switch/Switch 2 over local wireless (LDN)
 
+### [buger](https://github.com/buger)
+- 🍴 👤 [buger](https://github.com/buger) Forked [grpc/grpc-go](https://github.com/grpc/grpc-go) to [buger/grpc-go](https://github.com/buger/grpc-go)
+  > The Go language implementation of gRPC. HTTP/2 based RPC
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
   > git push no-mistakes
@@ -23,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [sbousseaden/gluegate](https://github.com/sbousseaden/gluegate) to [fengjixuchui/gluegate](https://github.com/fengjixuchui/gluegate)
   > Memory API proxy via signed mozglue.dll 
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [fusionlanguage/fut](https://github.com/fusionlanguage/fut)
+  > Fusion programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScri...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
@@ -44,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 07:56:03 UTC*
+*Last updated at 2026-06-27 08:53:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
