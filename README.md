@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Gcenx](https://github.com/Gcenx)
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [kinnay/LDN](https://github.com/kinnay/LDN)
+  > Python package for local wireless communication with a Nintendo Switch
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [tornadus/frlg-ldn-trade](https://github.com/tornadus/frlg-ldn-trade)
+  > Proof-of-concept: a computer trading in FRLG with a real Switch/Switch 2 over local wireless (LDN)
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
   > git push no-mistakes
@@ -32,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 04:28:00 UTC*
+*Last updated at 2026-06-27 06:10:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
