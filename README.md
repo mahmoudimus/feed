@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [muglug/pzoom](https://github.com/muglug/pzoom)
   > A fast experimental PHP static analyzer written in Rust, a port of Psalm
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [binsnake/icey-x86](https://github.com/binsnake/icey-x86)
+  > A specialized version of iced-x86 for binary lifting
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [iusztinpaul/ai-research-os-workshop](https://github.com/iusztinpaul/ai-research-os-workshop)
   > How to turn your Second Brain into a living research memory that your agents maintain. Workshop with...
@@ -109,6 +113,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Lightweight fullstack turborepo with modular components, shared configs, containerised deployments a...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [gofixpoint/amika](https://github.com/gofixpoint/amika)
   > Infra for computer agents and software factories
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [vercel/eve](https://github.com/vercel/eve)
+  > The Framework for Building Agents
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
+  > DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)
@@ -151,7 +160,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-26 22:23:29 UTC*
+*Last updated at 2026-06-26 23:23:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
