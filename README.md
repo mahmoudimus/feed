@@ -18,6 +18,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [buger](https://github.com/buger) Forked [grpc/grpc-go](https://github.com/grpc/grpc-go) to [buger/grpc-go](https://github.com/buger/grpc-go)
   > The Go language implementation of gRPC. HTTP/2 based RPC
 
+### [davidfrickert](https://github.com/davidfrickert)
+- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [nekename/OpenDeck](https://github.com/nekename/OpenDeck)
+  > Linux software for the Stream Deck with support for original Elgato Stream Deck plugins
+
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [inkeep/open-knowledge](https://github.com/inkeep/open-knowledge)
+  > Beautiful, AI-native markdown editor and LLM Wiki
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
   > git push no-mistakes
@@ -58,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 10:36:41 UTC*
+*Last updated at 2026-06-27 11:28:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
