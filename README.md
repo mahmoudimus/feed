@@ -11,6 +11,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [BaseMax](https://github.com/BaseMax)
 - 🚀 👤 [BaseMax](https://github.com/BaseMax) Made [BaseMax/sql-insert-explorer](https://github.com/BaseMax/sql-insert-explorer) public
   > Explore and visualize SQL INSERT datasets with filtering, table detection, and instant previews.
+- 🍴 👤 [BaseMax](https://github.com/BaseMax) Forked [github/explore](https://github.com/github/explore) to [MaxFork/explore](https://github.com/MaxFork/explore)
+  > Community-curated topic and collection pages on GitHub
 
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [kinnay/LDN](https://github.com/kinnay/LDN)
@@ -21,6 +23,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
   > 📚 从零开始构建大模型
+
+### [bbugdigger](https://github.com/bbugdigger)
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [can1357/vibemon](https://github.com/can1357/vibemon)
 
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [grpc/grpc-go](https://github.com/grpc/grpc-go) to [buger/grpc-go](https://github.com/buger/grpc-go)
@@ -77,6 +82,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Working recipe to serve DeepSeek-V4-Flash across two NVIDIA DGX Spark (GB10) nodes with vLLM (TP=2, ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context](https://github.com/MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context)
   > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+  > Run frontier AI locally.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
@@ -122,7 +129,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 18:20:24 UTC*
+*Last updated at 2026-06-27 19:28:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
