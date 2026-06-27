@@ -61,6 +61,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [sbousseaden/gluegate](https://github.com/sbousseaden/gluegate) to [fengjixuchui/gluegate](https://github.com/fengjixuchui/gluegate)
   > Memory API proxy via signed mozglue.dll 
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)
+  > Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Curs...
+
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [koyzdev/sigdrift](https://github.com/koyzdev/sigdrift)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [dishather/richprint](https://github.com/dishather/richprint)
@@ -129,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 19:28:07 UTC*
+*Last updated at 2026-06-27 20:21:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
