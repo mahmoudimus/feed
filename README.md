@@ -45,6 +45,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [rust-vmm/vm-virtio](https://github.com/rust-vmm/vm-virtio)
   > virtio implementation
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans)
+  > A turnkey configuration for Zsh
 
 ### [superp00t](https://github.com/superp00t)
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim)
@@ -56,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 09:40:15 UTC*
+*Last updated at 2026-06-27 10:36:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
