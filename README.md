@@ -24,6 +24,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
   > 📚 从零开始构建大模型
 
+### [TomasVotruba](https://github.com/TomasVotruba)
+- 🍴 👤 [TomasVotruba](https://github.com/TomasVotruba) Forked [z7zmey/php-parser-comparison](https://github.com/z7zmey/php-parser-comparison) to [TomasVotruba/php-parser-comparison-2026](https://github.com/TomasVotruba/php-parser-comparison-2026)
+
 ### [bbugdigger](https://github.com/bbugdigger)
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [can1357/vibemon](https://github.com/can1357/vibemon)
 
@@ -94,6 +97,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run frontier AI locally.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+  > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
@@ -141,7 +146,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-27 21:21:23 UTC*
+*Last updated at 2026-06-27 22:19:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
