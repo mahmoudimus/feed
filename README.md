@@ -39,6 +39,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [frol](https://github.com/frol) Starred [tfausak/Pylo](https://github.com/tfausak/Pylo)
   > Convert a device into a Home accessory.
 
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [librepods-org/librepods](https://github.com/librepods-org/librepods)
+  > AirPods liberated from Apple's ecosystem.
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [libyal/libhibr](https://github.com/libyal/libhibr)
   > Library and tools to access the Windows Hibernation File (hiberfil.sys) format
@@ -54,6 +58,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [katanemo/plano](https://github.com/katanemo/plano)
   > Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, o...
+
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [NyaMisty/GhidraIDA](https://github.com/NyaMisty/GhidraIDA)
+  > Ghidra's IDA like experience by @NyaMisty
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
@@ -71,6 +79,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > llama.cpp fork optimized for NVIDIA DGX Spark / GB10 (Blackwell, SM 12.1) — TurboQuant weights + KV,...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pasky/pi-omplike-advisor](https://github.com/pasky/pi-omplike-advisor)
   > Pi extension: a persistent second model that reviews the main agent's work each turn and injects con...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexknowshtml/claude-memory-health](https://github.com/alexknowshtml/claude-memory-health)
+  > Claude Code skill for auditing your MEMORY.md index — size, orphans, broken links, staleness
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ob/cache](https://github.com/ob/cache)
@@ -113,7 +123,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 20:23:24 UTC*
+*Last updated at 2026-06-28 21:20:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
