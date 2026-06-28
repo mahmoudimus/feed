@@ -19,6 +19,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [donvito/jsonl-viewer](https://github.com/donvito/jsonl-viewer)
   > Tool for viewing and editing .jsonl files usually used for fine-tuning/training datasets
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [tfausak/Pylo](https://github.com/tfausak/Pylo)
+  > Convert a device into a Home accessory.
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [pion/awesome-pion](https://github.com/pion/awesome-pion)
+  > A curated list of awesome things related to Pion
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+  > SOTA Open Source TTS
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS)
+  > Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
+
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [adriancable/eternal](https://github.com/adriancable/eternal)
   > Eternal Software Initiative
@@ -35,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 10:04:39 UTC*
+*Last updated at 2026-06-28 11:31:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
