@@ -11,6 +11,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [roborich/Shipwright](https://github.com/roborich/Shipwright)
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [rokartur/BetterCmdTab](https://github.com/rokartur/BetterCmdTab)
+  > Master your Mac’s ⌘Tab
+
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026)
   > Quick speed comparison of tools that parse PHP code
@@ -68,6 +72,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [UCSB-AI/Soft-Thinking](https://github.com/UCSB-AI/Soft-Thinking)
   > Official implementation of the NeurIPS 2025 paper "Soft Thinking: Unlocking the Reasoning Potential ...
 
+### [nmarasoiu](https://github.com/nmarasoiu)
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) to [nmarasoiu/mlx-lm](https://github.com/nmarasoiu/mlx-lm)
+  > Run LLMs with MLX
+
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [adriancable/eternal](https://github.com/adriancable/eternal)
   > Eternal Software Initiative
@@ -92,7 +100,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 17:24:26 UTC*
+*Last updated at 2026-06-28 18:20:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
