@@ -19,9 +19,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [donvito/jsonl-viewer](https://github.com/donvito/jsonl-viewer)
   > Tool for viewing and editing .jsonl files usually used for fine-tuning/training datasets
 
-### [navalev](https://github.com/navalev)
-- 🌟 👤 [navalev](https://github.com/navalev) Starred [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio)
-
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [adriancable/eternal](https://github.com/adriancable/eternal)
   > Eternal Software Initiative
@@ -38,7 +35,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 08:58:53 UTC*
+*Last updated at 2026-06-28 10:04:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
