@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026)
   > Quick speed comparison of tools that parse PHP code
 
+### [Xe](https://github.com/Xe)
+- 🍴 👤 [Xe](https://github.com/Xe) Forked [pmarfany/worker-polyfill](https://github.com/pmarfany/worker-polyfill) to [TecharoHQ/worker-polyfill](https://github.com/TecharoHQ/worker-polyfill)
+  > Polyfill for the Web Worker API that works in Internet Explorer and other old browsers that don't su...
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)
   > 🚀 The fast, Pythonic way to build MCP servers and clients.
@@ -34,6 +38,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > SOTA Open Source TTS
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS)
   > Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [katanemo/plano](https://github.com/katanemo/plano)
+  > Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, o...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
@@ -57,6 +63,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Memory-Hierarchy Understanding Tools
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [google-deepmind/torax](https://github.com/google-deepmind/torax)
   > TORAX: Tokamak transport simulation in JAX
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tmc/autoresearch-go-ane](https://github.com/tmc/autoresearch-go-ane)
+  > Autonomous AI research on Apple Silicon using ANE-accelerated training
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [adriancable/eternal](https://github.com/adriancable/eternal)
@@ -82,7 +90,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 15:25:27 UTC*
+*Last updated at 2026-06-28 16:23:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
