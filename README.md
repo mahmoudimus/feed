@@ -47,10 +47,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp)
   > llama.cpp fork with additional SOTA quants and improved performance
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [croll83/llama.cpp-dgx](https://github.com/croll83/llama.cpp-dgx)
+  > llama.cpp fork optimized for NVIDIA DGX Spark / GB10 (Blackwell, SM 12.1) — TurboQuant weights + KV,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pasky/pi-omplike-advisor](https://github.com/pasky/pi-omplike-advisor)
+  > Pi extension: a persistent second model that reviews the main agent's work each turn and injects con...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ob/cache](https://github.com/ob/cache)
   > Memory-Hierarchy Understanding Tools
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [google-deepmind/torax](https://github.com/google-deepmind/torax)
+  > TORAX: Tokamak transport simulation in JAX
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [adriancable/eternal](https://github.com/adriancable/eternal)
@@ -76,7 +82,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 14:31:38 UTC*
+*Last updated at 2026-06-28 15:25:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
