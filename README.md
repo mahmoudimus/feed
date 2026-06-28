@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [rokartur/BetterCmdTab](https://github.com/rokartur/BetterCmdTab)
   > Master your Mac’s ⌘Tab
 
+### [TheTom](https://github.com/TheTom)
+- 🌟 👤 [TheTom](https://github.com/TheTom) Starred [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+  > A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle ...
+
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026)
   > Quick speed comparison of tools that parse PHP code
@@ -100,7 +104,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 18:20:18 UTC*
+*Last updated at 2026-06-28 19:28:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
