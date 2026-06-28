@@ -42,6 +42,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [librepods-org/librepods](https://github.com/librepods-org/librepods)
   > AirPods liberated from Apple's ecosystem.
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide)
+  > An idiomatic, lean, fast & safe pure Rust implementation of Git
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [libyal/libhibr](https://github.com/libyal/libhibr)
@@ -58,6 +60,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [katanemo/plano](https://github.com/katanemo/plano)
   > Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, o...
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [pion/turn](https://github.com/pion/turn)
+  > Pion TURN, an API for building TURN clients and servers
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [NyaMisty/GhidraIDA](https://github.com/NyaMisty/GhidraIDA)
@@ -81,6 +85,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Pi extension: a persistent second model that reviews the main agent's work each turn and injects con...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexknowshtml/claude-memory-health](https://github.com/alexknowshtml/claude-memory-health)
   > Claude Code skill for auditing your MEMORY.md index — size, orphans, broken links, staleness
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coolthor/musubi](https://github.com/coolthor/musubi)
+  > Musubi (結び) — a knowledge-graph companion for flat-file markdown note systems. Ties your notes toget...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ob/cache](https://github.com/ob/cache)
@@ -123,7 +129,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 21:20:52 UTC*
+*Last updated at 2026-06-28 22:18:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
