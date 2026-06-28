@@ -39,6 +39,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [frol](https://github.com/frol) Starred [tfausak/Pylo](https://github.com/tfausak/Pylo)
   > Convert a device into a Home accessory.
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [libyal/libhibr](https://github.com/libyal/libhibr)
+  > Library and tools to access the Windows Hibernation File (hiberfil.sys) format
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [btbd/modmap](https://github.com/btbd/modmap)
+  > Module extending manual mapper
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [pion/awesome-pion](https://github.com/pion/awesome-pion)
   > A curated list of awesome things related to Pion
@@ -94,6 +100,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [nix-community/dns.nix](https://github.com/nix-community/dns.nix)
   > A Nix DSL for DNS zone files [maintainers=@raitobezarius @kirelagin @Tom-Hubrecht]
 
+### [vvaltchev](https://github.com/vvaltchev)
+- 🌟 👤 [vvaltchev](https://github.com/vvaltchev) Starred [fgrillo89/wikify](https://github.com/fgrillo89/wikify)
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [0x4D44/picoem](https://github.com/0x4D44/picoem)
   > Cycle-accurate Rust emulators for the Raspberry Pi RP2350/RP2354 and RP2040 (dual Cortex-M33 / Corte...
@@ -104,7 +113,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 19:28:20 UTC*
+*Last updated at 2026-06-28 20:23:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
