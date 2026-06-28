@@ -65,6 +65,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > TORAX: Tokamak transport simulation in JAX
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tmc/autoresearch-go-ane](https://github.com/tmc/autoresearch-go-ane)
   > Autonomous AI research on Apple Silicon using ANE-accelerated training
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [UCSB-AI/Soft-Thinking](https://github.com/UCSB-AI/Soft-Thinking)
+  > Official implementation of the NeurIPS 2025 paper "Soft Thinking: Unlocking the Reasoning Potential ...
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [adriancable/eternal](https://github.com/adriancable/eternal)
@@ -90,7 +92,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 16:23:31 UTC*
+*Last updated at 2026-06-28 17:24:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
