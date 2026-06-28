@@ -11,6 +11,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [roborich/Shipwright](https://github.com/roborich/Shipwright)
 
+### [TomasVotruba](https://github.com/TomasVotruba)
+- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [TomasVotruba/php-parser-speed-comparison-2026](https://github.com/TomasVotruba/php-parser-speed-comparison-2026)
+  > Quick speed comparison of tools that parse PHP code
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)
   > 🚀 The fast, Pythonic way to build MCP servers and clients.
@@ -30,6 +34,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > SOTA Open Source TTS
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS)
   > Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+  > Self-hosted AI workspace. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [michaelw9999/advanced-gguf-quantizer](https://github.com/michaelw9999/advanced-gguf-quantizer)
+  > A CUDA-accelerated GGUF quantization tool for NVFP4/MXFP6/Q_K, utilizing layer by layer quantization...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [silveroxides/convert_to_quant](https://github.com/silveroxides/convert_to_quant)
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ob/cache](https://github.com/ob/cache)
@@ -51,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 12:21:49 UTC*
+*Last updated at 2026-06-28 13:30:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
