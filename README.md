@@ -41,6 +41,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [michaelw9999/advanced-gguf-quantizer](https://github.com/michaelw9999/advanced-gguf-quantizer)
   > A CUDA-accelerated GGUF quantization tool for NVFP4/MXFP6/Q_K, utilizing layer by layer quantization...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [silveroxides/convert_to_quant](https://github.com/silveroxides/convert_to_quant)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [localai-org/apex-quant](https://github.com/localai-org/apex-quant)
+  >  Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+  > FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp)
+  > llama.cpp fork with additional SOTA quants and improved performance
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ob/cache](https://github.com/ob/cache)
@@ -52,9 +58,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [adriancable/qwen3.c](https://github.com/adriancable/qwen3.c)
   > Local Qwen3 LLM inference. One easy-to-understand file of C source with no dependencies.
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [ardhaecosystem/synapse](https://github.com/ardhaecosystem/synapse)
+  > Synapse — Temporal knowledge graph memory for AI agents. Self-hosted FalkorDB + Graphiti with hippoc...
+
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [nix-community/dns.nix](https://github.com/nix-community/dns.nix)
   > A Nix DSL for DNS zone files [maintainers=@raitobezarius @kirelagin @Tom-Hubrecht]
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [0x4D44/picoem](https://github.com/0x4D44/picoem)
+  > Cycle-accurate Rust emulators for the Raspberry Pi RP2350/RP2354 and RP2040 (dual Cortex-M33 / Corte...
 
 
 <!-- nav -->
@@ -62,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 13:30:00 UTC*
+*Last updated at 2026-06-28 14:31:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
