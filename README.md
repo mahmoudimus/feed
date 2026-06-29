@@ -70,15 +70,33 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [webcoyote/clodpod](https://github.com/webcoyote/clodpod)
   > Run AI agents isolated inside an macOS virtual machine. Configured to run Claude Code, OpenAI Codex,...
 
+### [llimllib](https://github.com/llimllib)
+- 🍴 👤 [llimllib](https://github.com/llimllib) Forked [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) to [llimllib/opentelemetry-python-contrib](https://github.com/llimllib/opentelemetry-python-contrib)
+  > OpenTelemetry instrumentation for Python modules
+
 ### [mikehearn](https://github.com/mikehearn)
 - 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dockur/macos](https://github.com/dockur/macos)
+  > MacOS inside a Docker container.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nubjs/nub](https://github.com/nubjs/nub)
   > The fast all-in-one Node.js toolkit
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [doublewordai/control-layer](https://github.com/doublewordai/control-layer)
   > The world’s fastest AI model gateway (450x less overhead than LiteLLM). Unified access to LLMs acros...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [facebookresearch/brain2qwerty](https://github.com/facebookresearch/brain2qwerty)
+  > Non-invasive decoding of typed sentences from MEG and EEG brain recordings using a convolutional enc...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [facebookresearch/neuroai](https://github.com/facebookresearch/neuroai)
+  > Python suite for neuroscience research across all modalities.
+
+### [plaisted](https://github.com/plaisted)
+- 🌟 👤 [plaisted](https://github.com/plaisted) Starred [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx)
+  > 🏄🏼‍♂️ The blackboard for coding agents - multi-session tool for claude code, cursor, codex, gemini
+- 🌟 👤 [plaisted](https://github.com/plaisted) Starred [iwe-org/iwe](https://github.com/iwe-org/iwe)
+  > Markdown memory system for you and your AI agent
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [BowTiedSwan/rlm-skill](https://github.com/BowTiedSwan/rlm-skill)
@@ -88,6 +106,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [gadievron/raptor](https://github.com/gadievron/raptor)
   > Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Clau...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [HexRaysSA/codex-marketplace](https://github.com/HexRaysSA/codex-marketplace)
+  > IDA Codex Plugins
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [klezVirus/RpcProxyInvoke](https://github.com/klezVirus/RpcProxyInvoke)
+  > Simple POC library to execute arbitrary calls proxying them via NdrServerCall2 or similar
 
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [jsvana/pota-adif-upload](https://github.com/jsvana/pota-adif-upload)
@@ -95,6 +117,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [simonmasson](https://github.com/simonmasson)
 - 🍴 👤 [simonmasson](https://github.com/simonmasson) Forked [Railgun-Community/engine](https://github.com/Railgun-Community/engine) to [simonmasson/engine](https://github.com/simonmasson/engine)
   > JavaScript library to interact with RAILGUN smart contracts
+
+### [sjl](https://github.com/sjl)
+- 🍴 👤 [sjl](https://github.com/sjl) Forked [Boyle-Lab/minimera](https://github.com/Boyle-Lab/minimera) to [sjl/minimera](https://github.com/sjl/minimera)
+  > Tool to detect foldback chimeras in Oxford Nanopore data using minimizers.
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [pheki/xts-mode](https://github.com/pheki/xts-mode)
@@ -105,6 +131,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb)
   > ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and R...
+
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-YOLOCamera](https://github.com/tspannhw/SNACKAI-CoCo-YOLOCamera)
+  > Using the latest YOLO with Cameras and Snowflake
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCoTracking](https://github.com/tspannhw/SNACKAI-CoCoTracking)
+  > CoCo Tracking with Streamlit, Agents and CoCo
 
 ### [wincent](https://github.com/wincent)
 - 🌟 👤 [wincent](https://github.com/wincent) Starred [legalize-dev/legalize-es](https://github.com/legalize-dev/legalize-es)
@@ -120,7 +152,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-29 16:56:56 UTC*
+*Last updated at 2026-06-29 19:31:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
