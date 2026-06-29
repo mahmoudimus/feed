@@ -23,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepcoldy/botmux](https://github.com/deepcoldy/botmux)
   > Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topi...
 
+### [TomasVotruba](https://github.com/TomasVotruba)
+- 🍴 👤 [TomasVotruba](https://github.com/TomasVotruba) Forked [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) to [TomasVotruba/neuron-ai](https://github.com/TomasVotruba/neuron-ai)
+  > #1 PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Conn...
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [vjvjgchj/Logitech--API-Wrapper](https://github.com/vjvjgchj/Logitech--API-Wrapper) to [fengjixuchui/Logitech--API-Wrapper](https://github.com/fengjixuchui/Logitech--API-Wrapper)
   > 利用罗技/雷蛇签名驱动（G HUB / LGS / Synapse）实现鼠标驱动级模拟，无需物理鼠标，无需驱动签名，支持直接系统调用绕过
@@ -72,6 +76,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [BowTiedSwan/rlm-skill](https://github.com/BowTiedSwan/rlm-skill)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [alexzhang13/rlm-minimal](https://github.com/alexzhang13/rlm-minimal)
+  > Super basic implementation (gist-like) of RLMs with REPL environments.
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [gadievron/raptor](https://github.com/gadievron/raptor)
+  > Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Clau...
 
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [jsvana/pota-adif-upload](https://github.com/jsvana/pota-adif-upload)
@@ -94,13 +104,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [wincent](https://github.com/wincent) Starred [legalize-dev/legalize-es](https://github.com/legalize-dev/legalize-es)
   > Legislación de España en Markdown, versionada como git. Cada ley es un archivo, cada reforma un comm...
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
+  > </> htmx - high power tools for HTML
+
 
 <!-- nav -->
 [← 2026-06-28](archive/2026/06/28.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-29 13:19:44 UTC*
+*Last updated at 2026-06-29 15:05:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
