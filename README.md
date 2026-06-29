@@ -30,6 +30,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🍴 👤 [TomasVotruba](https://github.com/TomasVotruba) Forked [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) to [TomasVotruba/neuron-ai](https://github.com/TomasVotruba/neuron-ai)
   > #1 PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Conn...
+- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [idsulik/go-collections](https://github.com/idsulik/go-collections)
+  > Go package that provides implementations of common data structures including a double-ended queue (D...
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [vjvjgchj/Logitech--API-Wrapper](https://github.com/vjvjgchj/Logitech--API-Wrapper) to [fengjixuchui/Logitech--API-Wrapper](https://github.com/fengjixuchui/Logitech--API-Wrapper)
@@ -52,6 +54,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [netz888/WORLD-CUP-AI-HUB](https://github.com/netz888/WORLD-CUP-AI-HUB)
   > 2026 世界杯 AI 预测与实时分析平台，提供赛程、实时比分、赛前胜平负预测、比分分布与蒙特卡洛夺冠模拟
+
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine)
+  > LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [sagarishere/youtube-hack-video-limit](https://github.com/sagarishere/youtube-hack-video-limit)
@@ -77,6 +83,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mikehearn](https://github.com/mikehearn)
 - 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
+### [mimoo](https://github.com/mimoo)
+- 🌟 👤 [mimoo](https://github.com/mimoo) Starred [mv37-org/workdir](https://github.com/mv37-org/workdir)
+  > Fast, self-hostable sandboxes for agents
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dockur/macos](https://github.com/dockur/macos)
@@ -152,7 +162,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-29 19:31:39 UTC*
+*Last updated at 2026-06-29 20:33:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
