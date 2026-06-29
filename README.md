@@ -33,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [idsulik/go-collections](https://github.com/idsulik/go-collections)
   > Go package that provides implementations of common data structures including a double-ended queue (D...
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [gkjohnson/urdf-loaders](https://github.com/gkjohnson/urdf-loaders)
+  > URDF Loaders for Unity and THREE.js with example ATHLETE URDF Files open sourced from NASA JPL
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [vjvjgchj/Logitech--API-Wrapper](https://github.com/vjvjgchj/Logitech--API-Wrapper) to [fengjixuchui/Logitech--API-Wrapper](https://github.com/fengjixuchui/Logitech--API-Wrapper)
   > 利用罗技/雷蛇签名驱动（G HUB / LGS / Synapse）实现鼠标驱动级模拟，无需物理鼠标，无需驱动签名，支持直接系统调用绕过
@@ -76,6 +80,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [webcoyote/clodpod](https://github.com/webcoyote/clodpod)
   > Run AI agents isolated inside an macOS virtual machine. Configured to run Claude Code, OpenAI Codex,...
 
+### [jpalanco](https://github.com/jpalanco)
+- 🍴 👤 [jpalanco](https://github.com/jpalanco) Forked [mohitsoni48/Claude-Desktop-Router](https://github.com/mohitsoni48/Claude-Desktop-Router) to [jpalanco/Claude-Desktop-Router](https://github.com/jpalanco/Claude-Desktop-Router)
+  > This scrip allows setting custom models for claude desktop
+
 ### [llimllib](https://github.com/llimllib)
 - 🍴 👤 [llimllib](https://github.com/llimllib) Forked [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib) to [llimllib/opentelemetry-python-contrib](https://github.com/llimllib/opentelemetry-python-contrib)
   > OpenTelemetry instrumentation for Python modules
@@ -101,6 +109,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Non-invasive decoding of typed sentences from MEG and EEG brain recordings using a convolutional enc...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [facebookresearch/neuroai](https://github.com/facebookresearch/neuroai)
   > Python suite for neuroscience research across all modalities.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [manaflow-ai/manaflow](https://github.com/manaflow-ai/manaflow)
+  > Open source Claude Code web/Codex Cloud/Devin/Ramp Inspect alternative
 
 ### [plaisted](https://github.com/plaisted)
 - 🌟 👤 [plaisted](https://github.com/plaisted) Starred [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx)
@@ -162,7 +172,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-29 21:28:48 UTC*
+*Last updated at 2026-06-29 22:21:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
