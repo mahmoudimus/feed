@@ -87,6 +87,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Claude Code skill for auditing your MEMORY.md index — size, orphans, broken links, staleness
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coolthor/musubi](https://github.com/coolthor/musubi)
   > Musubi (結び) — a knowledge-graph companion for flat-file markdown note systems. Ties your notes toget...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [p-e-w/arrows](https://github.com/p-e-w/arrows)
+  > A frontend for creative writing with LLMs
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wuwangzhang1216/abliterix](https://github.com/wuwangzhang1216/abliterix)
+  > Automated alignment adjustment for LLMs — direct steering, LoRA, and MoE expert-granular abliteratio...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ob/cache](https://github.com/ob/cache)
@@ -129,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-28 22:18:56 UTC*
+*Last updated at 2026-06-28 23:20:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
