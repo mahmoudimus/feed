@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Bluebugs](https://github.com/Bluebugs)
+- 🍴 👤 [Bluebugs](https://github.com/Bluebugs) Forked [gnutools/binutils-gdb](https://github.com/gnutools/binutils-gdb) to [mountain-reverie/binutils-gdb](https://github.com/mountain-reverie/binutils-gdb)
+  > GNU Binutils, GNU Debugger - Read only mirror of https://sourceware.org/git/binutils-gdb.git
+
 ### [Kesin11](https://github.com/Kesin11)
 - 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [secretlint/git-hooks](https://github.com/secretlint/git-hooks)
   > Global git hooks integration example
@@ -73,6 +77,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nubjs/nub](https://github.com/nubjs/nub)
   > The fast all-in-one Node.js toolkit
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [doublewordai/control-layer](https://github.com/doublewordai/control-layer)
+  > The world’s fastest AI model gateway (450x less overhead than LiteLLM). Unified access to LLMs acros...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [BowTiedSwan/rlm-skill](https://github.com/BowTiedSwan/rlm-skill)
@@ -114,7 +120,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-29 15:05:24 UTC*
+*Last updated at 2026-06-29 16:56:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
