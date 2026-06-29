@@ -40,8 +40,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nubjs/nub](https://github.com/nubjs/nub)
   > The fast all-in-one Node.js toolkit
 
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [BowTiedSwan/rlm-skill](https://github.com/BowTiedSwan/rlm-skill)
+
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [jsvana/pota-adif-upload](https://github.com/jsvana/pota-adif-upload)
+
+### [trieu](https://github.com/trieu)
+- 🌟 👤 [trieu](https://github.com/trieu) Starred [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb)
+  > ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and R...
 
 
 <!-- nav -->
@@ -49,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-29 03:01:15 UTC*
+*Last updated at 2026-06-29 05:30:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
