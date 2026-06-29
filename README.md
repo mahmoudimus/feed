@@ -28,6 +28,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Test assertion library for Rust
 - 🌟 👤 [frol](https://github.com/frol) Starred [discreaminant2809/komadori-rs](https://github.com/discreaminant2809/komadori-rs)
   > Provides a composable, declarative way to consume an iterator.
+- 🌟 👤 [frol](https://github.com/frol) Starred [restsend/rustpbx](https://github.com/restsend/rustpbx)
+  > A PBX written by rust
+- 🌟 👤 [frol](https://github.com/frol) Starred [miuda-ai/active-call](https://github.com/miuda-ai/active-call)
+  > A SIP/WebRTC voice agent
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [netz888/WORLD-CUP-AI-HUB](https://github.com/netz888/WORLD-CUP-AI-HUB)
+  > 2026 世界杯 AI 预测与实时分析平台，提供赛程、实时比分、赛前胜平负预测、比分分布与蒙特卡洛夺冠模拟
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [sagarishere/youtube-hack-video-limit](https://github.com/sagarishere/youtube-hack-video-limit)
@@ -52,9 +60,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [jsvana/pota-adif-upload](https://github.com/jsvana/pota-adif-upload)
 
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [pheki/xts-mode](https://github.com/pheki/xts-mode)
+  > XTS block mode implementation in rust
+
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb)
   > ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and R...
+
+### [wincent](https://github.com/wincent)
+- 🌟 👤 [wincent](https://github.com/wincent) Starred [legalize-dev/legalize-es](https://github.com/legalize-dev/legalize-es)
+  > Legislación de España en Markdown, versionada como git. Cada ley es un archivo, cada reforma un comm...
+
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/runai-model-streamer-feedstock](https://github.com/conda-forge/runai-model-streamer-feedstock) to [xhochy/runai-model-streamer-feedstock](https://github.com/xhochy/runai-model-streamer-feedstock)
+  > A conda-smithy repository for runai-model-streamer.
 
 
 <!-- nav -->
@@ -62,7 +82,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-29 07:31:27 UTC*
+*Last updated at 2026-06-29 09:29:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
