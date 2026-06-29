@@ -32,6 +32,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [sagarishere/youtube-hack-video-limit](https://github.com/sagarishere/youtube-hack-video-limit)
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mco-org/squad](https://github.com/mco-org/squad)
+  > Multi-AI agent terminal collaboration tool
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [mco-org/squad](https://github.com/mco-org/squad) to [johndpope/squad](https://github.com/johndpope/squad)
+  > Multi-AI agent terminal collaboration tool
+
 ### [johnmccabe](https://github.com/johnmccabe)
 - 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [webcoyote/clodpod](https://github.com/webcoyote/clodpod)
   > Run AI agents isolated inside an macOS virtual machine. Configured to run Claude Code, OpenAI Codex,...
@@ -56,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-29 05:30:17 UTC*
+*Last updated at 2026-06-29 07:31:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
