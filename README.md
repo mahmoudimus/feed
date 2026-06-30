@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [hypery11/flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd)
+  > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind sp...
+
 ### [ankane](https://github.com/ankane)
 - 🍴 👤 [ankane](https://github.com/ankane) Forked [MagicStack/py-pgproto](https://github.com/MagicStack/py-pgproto) to [ankane/py-pgproto](https://github.com/ankane/py-pgproto)
   > Low-level IO utilities for PosgtreSQL drivers.
@@ -40,6 +44,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [choria-io/fisk](https://github.com/choria-io/fisk)
+  > A fluent-style, type-safe command-line parser for Go. 
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Concyclics/GraphMem](https://github.com/Concyclics/GraphMem)
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1)
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mozilla/glean](https://github.com/mozilla/glean)
+  > Modern cross-platform telemetry
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [AbdullahMukadam/Rtecn](https://github.com/AbdullahMukadam/Rtecn)
   > Rich text editor components for shadcn/ui projects, built on Tiptap.
@@ -58,6 +74,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lox/codex-app-server-go](https://github.com/lox/codex-app-server-go)
+  > Go client bindings for codex app-server
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [sporevm/sporevm](https://github.com/sporevm/sporevm)
+  > Forkable aarch64 Linux microVMs with fast capture, resume, and local fan-out
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lox/agent-skills](https://github.com/lox/agent-skills)
+  > Reusable agent skills
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+  > Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intellige...
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [dwf/neotest-bazel-modular](https://github.com/dwf/neotest-bazel-modular)
@@ -104,7 +130,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 09:00:53 UTC*
+*Last updated at 2026-06-30 10:58:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
