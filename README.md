@@ -28,13 +28,36 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Fadouse/linux-shellcode-loaders](https://github.com/Fadouse/linux-shellcode-loaders) to [fengjixuchui/linux-shellcode-loaders](https://github.com/fengjixuchui/linux-shellcode-loaders)
   > Educational Linux x86_64 userland shellcode loader PoCs
 
+### [fmeum](https://github.com/fmeum)
+- 🌟 👤 [fmeum](https://github.com/fmeum) Starred [meta-programming/rules_runfiles_codegen](https://github.com/meta-programming/rules_runfiles_codegen)
+  > A set of Bazel modules (one per language, typically) for generating code to safely access runtime da...
+
+### [gtker](https://github.com/gtker)
+- 🍴 👤 [gtker](https://github.com/gtker) Forked [oriansj/stage0-posix](https://github.com/oriansj/stage0-posix) to [gtker/stage0-posix](https://github.com/gtker/stage0-posix)
+  > A place for public review of the posix port of stage0
+
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [AbdullahMukadam/Rtecn](https://github.com/AbdullahMukadam/Rtecn)
+  > Rich text editor components for shadcn/ui projects, built on Tiptap.
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp)
+  > MCP stdio server for radare2
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+  > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server,...
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [crowdere/Awesome-RE-MCP](https://github.com/crowdere/Awesome-RE-MCP)
+  > A curated list of reverse engineering tools with MCP servers
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
   > Docker configuration for running VLLM on dual DGX Sparks
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1)
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [dwf/neotest-bazel-modular](https://github.com/dwf/neotest-bazel-modular)
@@ -46,6 +69,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [staringispolite](https://github.com/staringispolite)
 - 🌟 👤 [staringispolite](https://github.com/staringispolite) Starred [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
   > A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle ...
+
+### [tarekziade](https://github.com/tarekziade)
+- 🍴 👤 [tarekziade](https://github.com/tarekziade) Forked [huggingface/transformers](https://github.com/huggingface/transformers) to [tarekziade/transformers](https://github.com/tarekziade/transformers)
+  > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [SEAMWARE/odrl-pap](https://github.com/SEAMWARE/odrl-pap)
+  > Policy Administration point to handle ODRL policies and provide their Rego-equivalent to the Open Po...
 
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
@@ -73,7 +104,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 07:10:20 UTC*
+*Last updated at 2026-06-30 09:00:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
