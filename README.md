@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [ankane](https://github.com/ankane) Forked [MagicStack/py-pgproto](https://github.com/MagicStack/py-pgproto) to [ankane/py-pgproto](https://github.com/ankane/py-pgproto)
   > Low-level IO utilities for PosgtreSQL drivers.
 
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [cookiy-ai/user-research-skill](https://github.com/cookiy-ai/user-research-skill)
+  > Cookiy AI Skill for AI agents (Claude, Codex, Cursor, OpenClaw) — end-to-end user research: AI inter...
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [JackalClient/JackalClient](https://github.com/JackalClient/JackalClient) to [fengjixuchui/JackalClient](https://github.com/fengjixuchui/JackalClient)
   > a free Hacker Client for WINDOWS (Partial Source Code, esp. UI)  [NOT MINECRAFT]
@@ -126,6 +130,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [Snowflake-Labs/knowledge-graph-snowflake](https://github.com/Snowflake-Labs/knowledge-graph-snowflake)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-SecurityWorkshop](https://github.com/tspannhw/SNACKAI-CoCo-SecurityWorkshop)
+  > References and Information on Security, Analytics, ML, AI and Snowflake
 
 ### [windelbouwman](https://github.com/windelbouwman)
 - 🍴 👤 [windelbouwman](https://github.com/windelbouwman) Forked [phamnhatha090805/EtherDOG](https://github.com/phamnhatha090805/EtherDOG) to [windelbouwman/EtherDOG](https://github.com/windelbouwman/EtherDOG)
@@ -159,7 +165,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 17:32:50 UTC*
+*Last updated at 2026-06-30 18:31:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
