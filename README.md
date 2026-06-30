@@ -89,6 +89,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lox/agent-skills](https://github.com/lox/agent-skills)
   > Reusable agent skills
 
+### [plaisted](https://github.com/plaisted)
+- 🌟 👤 [plaisted](https://github.com/plaisted) Starred [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs)
+  > Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly s...
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
   > Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intellige...
@@ -143,7 +147,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 14:48:18 UTC*
+*Last updated at 2026-06-30 15:46:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
