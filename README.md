@@ -78,6 +78,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [AbdullahMukadam/Rtecn](https://github.com/AbdullahMukadam/Rtecn)
   > Rich text editor components for shadcn/ui projects, built on Tiptap.
 
+### [lovasoa](https://github.com/lovasoa)
+- 🌟 👤 [lovasoa](https://github.com/lovasoa) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp)
   > MCP stdio server for radare2
@@ -114,6 +118,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rsc](https://github.com/rsc)
 - 🍴 👤 [rsc](https://github.com/rsc) Forked [libuv/libuv](https://github.com/libuv/libuv) to [rsc/libuv](https://github.com/rsc/libuv)
   > Cross-platform asynchronous I/O
+
+### [rwjblue](https://github.com/rwjblue)
+- 🍴 👤 [rwjblue](https://github.com/rwjblue) Forked [gleanwork/langchain-glean](https://github.com/gleanwork/langchain-glean) to [rwjblue/langchain-glean](https://github.com/rwjblue/langchain-glean)
+  > LangChain components for Glean
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [dwf/neotest-bazel-modular](https://github.com/dwf/neotest-bazel-modular)
@@ -167,7 +175,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 19:31:25 UTC*
+*Last updated at 2026-06-30 20:34:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
