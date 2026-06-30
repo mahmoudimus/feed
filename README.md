@@ -8,14 +8,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
+  > Docker configuration for running VLLM on dual DGX Sparks
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [dwf/neotest-bazel-modular](https://github.com/dwf/neotest-bazel-modular)
+
 
 <!-- nav -->
 [← 2026-06-29](archive/2026/06/29.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 00:23:58 UTC*
+*Last updated at 2026-06-30 01:37:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
