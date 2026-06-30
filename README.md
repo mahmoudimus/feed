@@ -77,6 +77,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
   > Docker configuration for running VLLM on dual DGX Sparks
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [z-lab/dflash](https://github.com/z-lab/dflash)
+  > DFlash: Block Diffusion for Flash Speculative Decoding
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1)
@@ -90,6 +92,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
   > Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intellige...
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
+  > Build your own AI SRE agents. The open source toolkit for the AI era.
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [dwf/neotest-bazel-modular](https://github.com/dwf/neotest-bazel-modular)
@@ -105,6 +109,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [tarekziade](https://github.com/tarekziade)
 - 🍴 👤 [tarekziade](https://github.com/tarekziade) Forked [huggingface/transformers](https://github.com/huggingface/transformers) to [tarekziade/transformers](https://github.com/tarekziade/transformers)
   > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
+
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [Snowflake-Labs/knowledge-graph-snowflake](https://github.com/Snowflake-Labs/knowledge-graph-snowflake)
 
 ### [windelbouwman](https://github.com/windelbouwman)
 - 🍴 👤 [windelbouwman](https://github.com/windelbouwman) Forked [phamnhatha090805/EtherDOG](https://github.com/phamnhatha090805/EtherDOG) to [windelbouwman/EtherDOG](https://github.com/windelbouwman/EtherDOG)
@@ -136,7 +143,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 13:32:00 UTC*
+*Last updated at 2026-06-30 14:48:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
