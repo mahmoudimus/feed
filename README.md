@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [HarukaMa](https://github.com/HarukaMa)
+- 🍴 👤 [HarukaMa](https://github.com/HarukaMa) Forked [rspamd/rspamd](https://github.com/rspamd/rspamd) to [HarukaMa/rspamd](https://github.com/HarukaMa/rspamd)
+  > Rapid spam filtering system.
+
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
 ### [ankane](https://github.com/ankane)
 - 🍴 👤 [ankane](https://github.com/ankane) Forked [MagicStack/py-pgproto](https://github.com/MagicStack/py-pgproto) to [ankane/py-pgproto](https://github.com/ankane/py-pgproto)
   > Low-level IO utilities for PosgtreSQL drivers.
@@ -42,6 +50,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [pimutils/khal](https://github.com/pimutils/khal)
+  > :calendar: CLI calendar application
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav)
+  > A git diff pager based on delta but with a file tree, à la GitHub.
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [bevyengine/bevy](https://github.com/bevyengine/bevy)
+  > A refreshingly simple data-driven game engine built in Rust
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
+  > :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [withastro/flue](https://github.com/withastro/flue)
+  > The sandbox agent framework.
+
+### [zuowang](https://github.com/zuowang)
+- 🌟 👤 [zuowang](https://github.com/zuowang) Starred [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+  > RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge...
 
 
 <!-- nav -->
@@ -49,7 +73,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 05:18:54 UTC*
+*Last updated at 2026-06-30 07:10:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
