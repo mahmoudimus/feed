@@ -106,10 +106,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [tarekziade](https://github.com/tarekziade) Forked [huggingface/transformers](https://github.com/huggingface/transformers) to [tarekziade/transformers](https://github.com/tarekziade/transformers)
   > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
 
-### [thomasdarimont](https://github.com/thomasdarimont)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [SEAMWARE/odrl-pap](https://github.com/SEAMWARE/odrl-pap)
-  > Policy Administration point to handle ODRL policies and provide their Rego-equivalent to the Open Po...
-
 ### [windelbouwman](https://github.com/windelbouwman)
 - 🍴 👤 [windelbouwman](https://github.com/windelbouwman) Forked [phamnhatha090805/EtherDOG](https://github.com/phamnhatha090805/EtherDOG) to [windelbouwman/EtherDOG](https://github.com/windelbouwman/EtherDOG)
   > This project is to simulate difference EtherCAT device with FMU serve as virtual systems to simulate...
@@ -140,7 +136,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 11:55:04 UTC*
+*Last updated at 2026-06-30 12:34:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
