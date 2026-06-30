@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [hypery11/flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd)
   > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind sp...
 
+### [Skytrias](https://github.com/Skytrias)
+- 🌟 👤 [Skytrias](https://github.com/Skytrias) Starred [SynthstromAudible/DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware)
+  > Firmware for the Synthstrom Audible Deluge
+
 ### [ankane](https://github.com/ankane)
 - 🍴 👤 [ankane](https://github.com/ankane) Forked [MagicStack/py-pgproto](https://github.com/MagicStack/py-pgproto) to [ankane/py-pgproto](https://github.com/ankane/py-pgproto)
   > Low-level IO utilities for PosgtreSQL drivers.
@@ -35,6 +39,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fmeum](https://github.com/fmeum)
 - 🌟 👤 [fmeum](https://github.com/fmeum) Starred [meta-programming/rules_runfiles_codegen](https://github.com/meta-programming/rules_runfiles_codegen)
   > A set of Bazel modules (one per language, typically) for generating code to safely access runtime da...
+- 🌟 👤 [fmeum](https://github.com/fmeum) Starred [TibboddiT/dyn-loader](https://github.com/TibboddiT/dyn-loader)
+  > dlopen for zig, from static executables and without libc
 
 ### [gtker](https://github.com/gtker)
 - 🍴 👤 [gtker](https://github.com/gtker) Forked [oriansj/stage0-posix](https://github.com/oriansj/stage0-posix) to [gtker/stage0-posix](https://github.com/gtker/stage0-posix)
@@ -104,6 +110,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [SEAMWARE/odrl-pap](https://github.com/SEAMWARE/odrl-pap)
   > Policy Administration point to handle ODRL policies and provide their Rego-equivalent to the Open Po...
 
+### [windelbouwman](https://github.com/windelbouwman)
+- 🍴 👤 [windelbouwman](https://github.com/windelbouwman) Forked [phamnhatha090805/EtherDOG](https://github.com/phamnhatha090805/EtherDOG) to [windelbouwman/EtherDOG](https://github.com/windelbouwman/EtherDOG)
+  > This project is to simulate difference EtherCAT device with FMU serve as virtual systems to simulate...
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
@@ -130,7 +140,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 10:58:54 UTC*
+*Last updated at 2026-06-30 11:55:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
