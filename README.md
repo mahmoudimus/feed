@@ -54,6 +54,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [choria-io/fisk](https://github.com/choria-io/fisk)
   > A fluent-style, type-safe command-line parser for Go. 
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Concyclics/GraphMem](https://github.com/Concyclics/GraphMem)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router)
+  > System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1)
@@ -61,6 +63,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mozilla/glean](https://github.com/mozilla/glean)
   > Modern cross-platform telemetry
+
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [apple/container](https://github.com/apple/container)
+  > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [AbdullahMukadam/Rtecn](https://github.com/AbdullahMukadam/Rtecn)
@@ -99,6 +105,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
   > Build your own AI SRE agents. The open source toolkit for the AI era.
 
+### [rsc](https://github.com/rsc)
+- 🍴 👤 [rsc](https://github.com/rsc) Forked [libuv/libuv](https://github.com/libuv/libuv) to [rsc/libuv](https://github.com/rsc/libuv)
+  > Cross-platform asynchronous I/O
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [dwf/neotest-bazel-modular](https://github.com/dwf/neotest-bazel-modular)
 
@@ -132,6 +142,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A refreshingly simple data-driven game engine built in Rust
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
   > :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+  > A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle ...
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [withastro/flue](https://github.com/withastro/flue)
@@ -147,7 +159,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 15:46:25 UTC*
+*Last updated at 2026-06-30 17:32:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
