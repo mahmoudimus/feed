@@ -15,6 +15,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [angzong/InteractAvatar](https://github.com/angzong/InteractAvatar)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [angzong/InteractAvatar](https://github.com/angzong/InteractAvatar) to [johndpope/InteractAvatar](https://github.com/johndpope/InteractAvatar)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [hamzaclinicalai/interactiveavatar](https://github.com/hamzaclinicalai/interactiveavatar)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [hamzaclinicalai/interactiveavatar](https://github.com/hamzaclinicalai/interactiveavatar) to [johndpope/interactiveavatar](https://github.com/johndpope/interactiveavatar)
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [e2b-dev/E2B](https://github.com/e2b-dev/E2B)
+  > Open-source, secure environment with real-world tools for enterprise-grade agents.
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [lucasg/findrpc](https://github.com/lucasg/findrpc)
@@ -34,7 +40,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 05:28:36 UTC*
+*Last updated at 2026-07-01 07:22:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
