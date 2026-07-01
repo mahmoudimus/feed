@@ -8,14 +8,33 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [gtker](https://github.com/gtker)
+- 🍴 👤 [gtker](https://github.com/gtker) Forked [oriansj/M2-Planet](https://github.com/oriansj/M2-Planet) to [gtker/M2-Planet](https://github.com/gtker/M2-Planet)
+  > The PLAtform NEutral Transpiler
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [angzong/InteractAvatar](https://github.com/angzong/InteractAvatar)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [angzong/InteractAvatar](https://github.com/angzong/InteractAvatar) to [johndpope/InteractAvatar](https://github.com/johndpope/InteractAvatar)
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [lucasg/findrpc](https://github.com/lucasg/findrpc)
+  > Idapython script to carve binary for internal RPC structures
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [warpnet/MS-RPC-Fuzzer](https://github.com/warpnet/MS-RPC-Fuzzer)
+  > Gain insights into MS-RPC implementations that may be vulnerable using an automated approach and mak...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [trailofbits/RpcInvestigator](https://github.com/trailofbits/RpcInvestigator)
+  > Exploring RPC interfaces on Windows
+
+### [sbycrosz](https://github.com/sbycrosz)
+- 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [rit3zh/expo-dynamic-toast](https://github.com/rit3zh/expo-dynamic-toast)
+  > 🍞 Crunchy stackable toasts
+
 
 <!-- nav -->
 [← 2026-06-30](archive/2026/06/30.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 03:00:58 UTC*
+*Last updated at 2026-07-01 05:28:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
