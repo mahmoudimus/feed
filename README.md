@@ -69,6 +69,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/ifstruct](https://github.com/Liquid4All/ifstruct)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Weschera/spark-bench](https://github.com/Weschera/spark-bench)
   > Mixed-capability LLM benchmark for DGX Spark — 57 scenarios, 10 domains, partial-credit grading, tri...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lostb1t/Gelato](https://github.com/lostb1t/Gelato)
+  > Jellyfin Stremio Integration Plugin
 
 ### [mrphrazer](https://github.com/mrphrazer)
 - 🚀 👤 [mrphrazer](https://github.com/mrphrazer) Made [mrphrazer/obfuscation_detection_ghidra](https://github.com/mrphrazer/obfuscation_detection_ghidra) public
@@ -131,6 +133,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [seivan](https://github.com/seivan) Forked [tauri-apps/tao](https://github.com/tauri-apps/tao) to [seivan/tao](https://github.com/seivan/tao)
   > The TAO of cross-platform windowing. A library in Rust built for Tauri.
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
+  > Box3D is a 3D physics engine for games
+
 ### [zacharywhitley](https://github.com/zacharywhitley)
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [bytecodealliance/endive](https://github.com/bytecodealliance/endive) to [zacharywhitley/endive](https://github.com/zacharywhitley/endive)
   > A JVM native WebAssembly runtime
@@ -144,6 +150,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The official Python SDK for Z.ai's large model open interface, making it easier for developers to ca...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)
   > Desktop Companion for Hermes Agent
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [graykode/abtop](https://github.com/graykode/abtop)
+  > Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context wi...
 
 
 <!-- nav -->
@@ -151,7 +159,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 21:29:05 UTC*
+*Last updated at 2026-07-01 22:25:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
