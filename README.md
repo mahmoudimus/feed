@@ -24,9 +24,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [Kometa-Team/Anime-IDs](https://github.com/Kometa-Team/Anime-IDs)
   > Anime ID Conversions for Kometa 
 
-### [fmeum](https://github.com/fmeum)
-- 🌟 👤 [fmeum](https://github.com/fmeum) Starred [dan-stowell/bazel-matrix](https://github.com/dan-stowell/bazel-matrix)
-  > Reproducible Bazel builds of public projects
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [tzachbon/smart-ralph](https://github.com/tzachbon/smart-ralph)
+  > Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with s...
 
 ### [gtker](https://github.com/gtker)
 - 🍴 👤 [gtker](https://github.com/gtker) Forked [oriansj/M2-Planet](https://github.com/oriansj/M2-Planet) to [gtker/M2-Planet](https://github.com/gtker/M2-Planet)
@@ -120,6 +120,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [MabeCr/cw-pota-practice](https://github.com/MabeCr/cw-pota-practice)
   > CW POTA Practice simulates doing a Parks-on-the-Air Activation in continuous wave (CW) format. Most ...
+- 🍴 👤 [rwjblue](https://github.com/rwjblue) Forked [gleanwork/glean-developer-site](https://github.com/gleanwork/glean-developer-site) to [rwjblue/glean-developer-site](https://github.com/rwjblue/glean-developer-site)
+  > Glean Developer Documentation Site
 
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [rit3zh/expo-dynamic-toast](https://github.com/rit3zh/expo-dynamic-toast)
@@ -149,7 +151,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 20:31:44 UTC*
+*Last updated at 2026-07-01 21:29:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
