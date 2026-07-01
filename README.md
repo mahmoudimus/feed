@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
   > 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 
+### [alexazhou](https://github.com/alexazhou)
+- 🍴 👤 [alexazhou](https://github.com/alexazhou) Forked [alexazhou/gt_ai_gateway](https://github.com/alexazhou/gt_ai_gateway) to [alexazhoufork/gt_ai_gateway](https://github.com/alexazhoufork/gt_ai_gateway)
+  > 轻量高性能 AI 网关，支持协议转换和请求可视化，以及缓存优化功能。并可以运行在 Serverless、Docker 和桌面端环境
+
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [Kometa-Team/Anime-IDs](https://github.com/Kometa-Team/Anime-IDs)
   > Anime ID Conversions for Kometa 
@@ -19,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gtker](https://github.com/gtker)
 - 🍴 👤 [gtker](https://github.com/gtker) Forked [oriansj/M2-Planet](https://github.com/oriansj/M2-Planet) to [gtker/M2-Planet](https://github.com/gtker/M2-Planet)
   > The PLAtform NEutral Transpiler
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [angzong/InteractAvatar](https://github.com/angzong/InteractAvatar)
@@ -29,6 +37,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lizan](https://github.com/lizan)
 - 🌟 👤 [lizan](https://github.com/lizan) Starred [lyquor-labs/ldk](https://github.com/lyquor-labs/ldk)
   > Lyquid Development Kit (LDK) for the Lyquor platform.
+
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [pranoyr/text-to-video](https://github.com/pranoyr/text-to-video)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gsanhueza/pi-llama-cpp](https://github.com/gsanhueza/pi-llama-cpp)
@@ -76,11 +87,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [rit3zh/expo-dynamic-toast](https://github.com/rit3zh/expo-dynamic-toast)
   > 🍞 Crunchy stackable toasts
 
+### [seivan](https://github.com/seivan)
+- 🍴 👤 [seivan](https://github.com/seivan) Forked [tauri-apps/tao](https://github.com/tauri-apps/tao) to [seivan/tao](https://github.com/seivan/tao)
+  > The TAO of cross-platform windowing. A library in Rust built for Tauri.
+
 ### [xhochy](https://github.com/xhochy)
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/livekit-local-inference-feedstock](https://github.com/conda-forge/livekit-local-inference-feedstock) to [xhochy/livekit-local-inference-feedstock](https://github.com/xhochy/livekit-local-inference-feedstock)
   > A conda-smithy repository for livekit-local-inference.
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/smg-grpc-proto-feedstock](https://github.com/conda-forge/smg-grpc-proto-feedstock) to [xhochy/smg-grpc-proto-feedstock](https://github.com/xhochy/smg-grpc-proto-feedstock)
   > A conda-smithy repository for smg-grpc-proto.
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT](https://github.com/elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT)
+  > living document for Claude Code system prompt
 
 
 <!-- nav -->
@@ -88,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 15:51:50 UTC*
+*Last updated at 2026-07-01 16:44:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
