@@ -71,6 +71,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
   > Box3D is a 3D physics engine for games
 
+### [plaisted](https://github.com/plaisted)
+- 🌟 👤 [plaisted](https://github.com/plaisted) Starred [aouicher/graphmind](https://github.com/aouicher/graphmind)
+  > Local-first code intelligence for AI assistants. Turns your codebase into a knowledge graph your AI ...
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [e2b-dev/E2B](https://github.com/e2b-dev/E2B)
   > Open-source, secure environment with real-world tools for enterprise-grade agents.
@@ -82,6 +86,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [openai/orchard](https://github.com/openai/orchard)
   > Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [cloudflare/boringtun](https://github.com/cloudflare/boringtun)
+  > Userspace WireGuard® Implementation in Rust
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [lucasg/findrpc](https://github.com/lucasg/findrpc)
@@ -125,7 +131,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 17:34:34 UTC*
+*Last updated at 2026-07-01 18:34:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
