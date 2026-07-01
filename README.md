@@ -35,6 +35,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Pi extension for llama.cpp integration
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
   > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Unsloth-Qwen3.6-27B-UD-Q8_K_XL_vs_nvidia-Qwen3.6-27B-NVFP4_tools_eval](https://github.com/MiaAI-Lab/Unsloth-Qwen3.6-27B-UD-Q8_K_XL_vs_nvidia-Qwen3.6-27B-NVFP4_tools_eval)
+  > tool-eval-bench: Qwen3.6-27B GGUF Q8_K_XL vs NVIDIA NVFP4 — head-to-head tool-calling quality compar...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench)
+  > Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-tur...
+
+### [msimacek](https://github.com/msimacek)
+- 🍴 👤 [msimacek](https://github.com/msimacek) Forked [psf/pyperf](https://github.com/psf/pyperf) to [msimacek/pyperf](https://github.com/msimacek/pyperf)
+  > Toolkit to run Python benchmarks
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas)
@@ -76,7 +84,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 13:44:53 UTC*
+*Last updated at 2026-07-01 14:55:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
