@@ -24,9 +24,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Skytrias](https://github.com/Skytrias) Starred [SynthstromAudible/DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware)
   > Firmware for the Synthstrom Audible Deluge
 
+### [andyleejordan](https://github.com/andyleejordan)
+- 🌟 👤 [andyleejordan](https://github.com/andyleejordan) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
+
 ### [ankane](https://github.com/ankane)
 - 🍴 👤 [ankane](https://github.com/ankane) Forked [MagicStack/py-pgproto](https://github.com/MagicStack/py-pgproto) to [ankane/py-pgproto](https://github.com/ankane/py-pgproto)
   > Low-level IO utilities for PosgtreSQL drivers.
+
+### [bwhaley](https://github.com/bwhaley)
+- 🌟 👤 [bwhaley](https://github.com/bwhaley) Starred [sharkdp/bat](https://github.com/sharkdp/bat)
+  > A cat(1) clone with wings.
 
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [cookiy-ai/user-research-skill](https://github.com/cookiy-ai/user-research-skill)
@@ -77,10 +85,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [AbdullahMukadam/Rtecn](https://github.com/AbdullahMukadam/Rtecn)
   > Rich text editor components for shadcn/ui projects, built on Tiptap.
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [slothflowlabs/duckle](https://github.com/slothflowlabs/duckle)
+  > Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs o...
 
 ### [lovasoa](https://github.com/lovasoa)
 - 🌟 👤 [lovasoa](https://github.com/lovasoa) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
+
+### [mahmoud](https://github.com/mahmoud)
+- 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [experientiallabs/world-model-harness](https://github.com/experientiallabs/world-model-harness)
+  > World-model-as-a-harness for simulating AI agent environments
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp)
@@ -95,6 +109,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Docker configuration for running VLLM on dual DGX Sparks
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [z-lab/dflash](https://github.com/z-lab/dflash)
   > DFlash: Block Diffusion for Flash Speculative Decoding
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1)
@@ -104,6 +120,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Forkable aarch64 Linux microVMs with fast capture, resume, and local fan-out
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lox/agent-skills](https://github.com/lox/agent-skills)
   > Reusable agent skills
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ctate/3d-model-generator](https://github.com/ctate/3d-model-generator)
+  > Generate 3D models with AI
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [CelestoAI/SmolVM](https://github.com/CelestoAI/SmolVM)
+  > Open-source AI sandbox infrastructure with unified API for VMMs -- Firecracker, QEMU and libkrun.
 
 ### [plaisted](https://github.com/plaisted)
 - 🌟 👤 [plaisted](https://github.com/plaisted) Starred [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs)
@@ -129,6 +149,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [bambamramfan/ai-compass](https://github.com/bambamramfan/ai-compass)
   > Political Compass for AI
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [metareflection/guardians](https://github.com/metareflection/guardians)
+  > an implementation of the ideas in Erik Meijer's "Guardians of the Agents: Formal Verification of AI ...
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [BoundaryML/baml](https://github.com/BoundaryML/baml)
+  > The programming language for agents
 
 ### [staringispolite](https://github.com/staringispolite)
 - 🌟 👤 [staringispolite](https://github.com/staringispolite) Starred [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
@@ -137,6 +161,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [tarekziade](https://github.com/tarekziade)
 - 🍴 👤 [tarekziade](https://github.com/tarekziade) Forked [huggingface/transformers](https://github.com/huggingface/transformers) to [tarekziade/transformers](https://github.com/tarekziade/transformers)
   > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
+
+### [tommyettinger](https://github.com/tommyettinger)
+- 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [MRZ07/gdx-dialogs](https://github.com/MRZ07/gdx-dialogs) to [tommyettinger/gdx-dialogs](https://github.com/tommyettinger/gdx-dialogs)
+  > Updated libGDX extension providing cross-platform support for native dialogs
 
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [Snowflake-Labs/knowledge-graph-snowflake](https://github.com/Snowflake-Labs/knowledge-graph-snowflake)
@@ -175,7 +203,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-06-30 20:34:19 UTC*
+*Last updated at 2026-06-30 23:25:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
