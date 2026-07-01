@@ -33,6 +33,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gsanhueza/pi-llama-cpp](https://github.com/gsanhueza/pi-llama-cpp)
   > Pi extension for llama.cpp integration
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas)
@@ -74,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 12:50:49 UTC*
+*Last updated at 2026-07-01 13:44:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
