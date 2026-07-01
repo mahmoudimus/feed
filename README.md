@@ -48,6 +48,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas)
   > Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in o...
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
+  > Box3D is a 3D physics engine for games
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [e2b-dev/E2B](https://github.com/e2b-dev/E2B)
   > Open-source, secure environment with real-world tools for enterprise-grade agents.
@@ -84,7 +88,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 14:55:50 UTC*
+*Last updated at 2026-07-01 15:51:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
