@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [Kometa-Team/Anime-IDs](https://github.com/Kometa-Team/Anime-IDs)
   > Anime ID Conversions for Kometa 
 
+### [fmeum](https://github.com/fmeum)
+- 🌟 👤 [fmeum](https://github.com/fmeum) Starred [dan-stowell/bazel-matrix](https://github.com/dan-stowell/bazel-matrix)
+  > Reproducible Bazel builds of public projects
+
 ### [gtker](https://github.com/gtker)
 - 🍴 👤 [gtker](https://github.com/gtker) Forked [oriansj/M2-Planet](https://github.com/oriansj/M2-Planet) to [gtker/M2-Planet](https://github.com/gtker/M2-Planet)
   > The PLAtform NEutral Transpiler
@@ -50,6 +54,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > tool-eval-bench: Qwen3.6-27B GGUF Q8_K_XL vs NVIDIA NVFP4 — head-to-head tool-calling quality compar...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench)
   > Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-tur...
+
+### [mrphrazer](https://github.com/mrphrazer)
+- 🚀 👤 [mrphrazer](https://github.com/mrphrazer) Made [mrphrazer/obfuscation_detection_ghidra](https://github.com/mrphrazer/obfuscation_detection_ghidra) public
+  > Ghidra plugin to identify obfuscated code and other interesting code constructs
 
 ### [msimacek](https://github.com/msimacek)
 - 🍴 👤 [msimacek](https://github.com/msimacek) Forked [psf/pyperf](https://github.com/psf/pyperf) to [msimacek/pyperf](https://github.com/msimacek/pyperf)
@@ -83,6 +91,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [trailofbits/RpcInvestigator](https://github.com/trailofbits/RpcInvestigator)
   > Exploring RPC interfaces on Windows
 
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [MabeCr/cw-pota-practice](https://github.com/MabeCr/cw-pota-practice)
+  > CW POTA Practice simulates doing a Parks-on-the-Air Activation in continuous wave (CW) format. Most ...
+
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [rit3zh/expo-dynamic-toast](https://github.com/rit3zh/expo-dynamic-toast)
   > 🍞 Crunchy stackable toasts
@@ -100,6 +112,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT](https://github.com/elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT)
   > living document for Claude Code system prompt
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [zai-org/GLM-5](https://github.com/zai-org/GLM-5)
+  > GLM-5: From Vibe Coding to Agentic Engineering
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [zai-org/z-ai-sdk-python](https://github.com/zai-org/z-ai-sdk-python)
+  > The official Python SDK for Z.ai's large model open interface, making it easier for developers to ca...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)
+  > Desktop Companion for Hermes Agent
 
 
 <!-- nav -->
@@ -107,7 +125,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 16:44:42 UTC*
+*Last updated at 2026-07-01 17:34:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
