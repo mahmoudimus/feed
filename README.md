@@ -18,9 +18,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [hamzaclinicalai/interactiveavatar](https://github.com/hamzaclinicalai/interactiveavatar)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [hamzaclinicalai/interactiveavatar](https://github.com/hamzaclinicalai/interactiveavatar) to [johndpope/interactiveavatar](https://github.com/johndpope/interactiveavatar)
 
+### [lizan](https://github.com/lizan)
+- 🌟 👤 [lizan](https://github.com/lizan) Starred [lyquor-labs/ldk](https://github.com/lyquor-labs/ldk)
+  > Lyquid Development Kit (LDK) for the Lyquor platform.
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [e2b-dev/E2B](https://github.com/e2b-dev/E2B)
   > Open-source, secure environment with real-world tools for enterprise-grade agents.
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)
+  > Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Curs...
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [openai/orchard](https://github.com/openai/orchard)
+  > Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [lucasg/findrpc](https://github.com/lucasg/findrpc)
@@ -34,13 +44,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [rit3zh/expo-dynamic-toast](https://github.com/rit3zh/expo-dynamic-toast)
   > 🍞 Crunchy stackable toasts
 
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/livekit-local-inference-feedstock](https://github.com/conda-forge/livekit-local-inference-feedstock) to [xhochy/livekit-local-inference-feedstock](https://github.com/xhochy/livekit-local-inference-feedstock)
+  > A conda-smithy repository for livekit-local-inference.
+
 
 <!-- nav -->
 [← 2026-06-30](archive/2026/06/30.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 07:22:04 UTC*
+*Last updated at 2026-07-01 09:02:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
