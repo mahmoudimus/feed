@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [alexazhou](https://github.com/alexazhou) Forked [alexazhou/gt_ai_gateway](https://github.com/alexazhou/gt_ai_gateway) to [alexazhoufork/gt_ai_gateway](https://github.com/alexazhoufork/gt_ai_gateway)
   > 轻量高性能 AI 网关，支持协议转换和请求可视化，以及缓存优化功能。并可以运行在 Serverless、Docker 和桌面端环境
 
+### [buger](https://github.com/buger)
+- 🌟 👤 [buger](https://github.com/buger) Starred [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)
+  > CodeNomad: The command center that puts AI coding on steroids.
+
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [Kometa-Team/Anime-IDs](https://github.com/Kometa-Team/Anime-IDs)
   > Anime ID Conversions for Kometa 
@@ -27,6 +31,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gtker](https://github.com/gtker)
 - 🍴 👤 [gtker](https://github.com/gtker) Forked [oriansj/M2-Planet](https://github.com/oriansj/M2-Planet) to [gtker/M2-Planet](https://github.com/gtker/M2-Planet)
   > The PLAtform NEutral Transpiler
+
+### [jedisct1](https://github.com/jedisct1)
+- 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [dip-proto/x402-fastly](https://github.com/dip-proto/x402-fastly) public
+  > x402 monetization gateway for the Fastly CDN.
 
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [obra/superpowers](https://github.com/obra/superpowers)
@@ -46,6 +54,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [pranoyr/text-to-video](https://github.com/pranoyr/text-to-video)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [AhmadDarKhalil/HOI-DETR](https://github.com/AhmadDarKhalil/HOI-DETR)
   > Improving and Evaluating Hand-Object Interaction Detection
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
+  > Box3D is a 3D physics engine for games
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gsanhueza/pi-llama-cpp](https://github.com/gsanhueza/pi-llama-cpp)
@@ -56,6 +66,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > tool-eval-bench: Qwen3.6-27B GGUF Q8_K_XL vs NVIDIA NVFP4 — head-to-head tool-calling quality compar...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench)
   > Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-tur...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/ifstruct](https://github.com/Liquid4All/ifstruct)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Weschera/spark-bench](https://github.com/Weschera/spark-bench)
+  > Mixed-capability LLM benchmark for DGX Spark — 57 scenarios, 10 domains, partial-credit grading, tri...
 
 ### [mrphrazer](https://github.com/mrphrazer)
 - 🚀 👤 [mrphrazer](https://github.com/mrphrazer) Made [mrphrazer/obfuscation_detection_ghidra](https://github.com/mrphrazer/obfuscation_detection_ghidra) public
@@ -101,6 +114,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [trailofbits/RpcInvestigator](https://github.com/trailofbits/RpcInvestigator)
   > Exploring RPC interfaces on Windows
 
+### [robconery](https://github.com/robconery)
+- 🚀 👤 [robconery](https://github.com/robconery) Made [robconery/stripe-receiver](https://github.com/robconery/stripe-receiver) public
+
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [MabeCr/cw-pota-practice](https://github.com/MabeCr/cw-pota-practice)
   > CW POTA Practice simulates doing a Parks-on-the-Air Activation in continuous wave (CW) format. Most ...
@@ -133,7 +149,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 19:30:55 UTC*
+*Last updated at 2026-07-01 20:31:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
