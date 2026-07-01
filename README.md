@@ -44,6 +44,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [pranoyr/text-to-video](https://github.com/pranoyr/text-to-video)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [AhmadDarKhalil/HOI-DETR](https://github.com/AhmadDarKhalil/HOI-DETR)
+  > Improving and Evaluating Hand-Object Interaction Detection
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gsanhueza/pi-llama-cpp](https://github.com/gsanhueza/pi-llama-cpp)
@@ -66,6 +68,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas)
   > Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in o...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ehsanmok/flare](https://github.com/ehsanmok/flare)
+  > Full Networking Stack for Mojo🔥
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
@@ -109,11 +113,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [seivan](https://github.com/seivan) Forked [tauri-apps/tao](https://github.com/tauri-apps/tao) to [seivan/tao](https://github.com/seivan/tao)
   > The TAO of cross-platform windowing. A library in Rust built for Tauri.
 
-### [xhochy](https://github.com/xhochy)
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/livekit-local-inference-feedstock](https://github.com/conda-forge/livekit-local-inference-feedstock) to [xhochy/livekit-local-inference-feedstock](https://github.com/xhochy/livekit-local-inference-feedstock)
-  > A conda-smithy repository for livekit-local-inference.
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/smg-grpc-proto-feedstock](https://github.com/conda-forge/smg-grpc-proto-feedstock) to [xhochy/smg-grpc-proto-feedstock](https://github.com/xhochy/smg-grpc-proto-feedstock)
-  > A conda-smithy repository for smg-grpc-proto.
+### [zacharywhitley](https://github.com/zacharywhitley)
+- 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [bytecodealliance/endive](https://github.com/bytecodealliance/endive) to [zacharywhitley/endive](https://github.com/zacharywhitley/endive)
+  > A JVM native WebAssembly runtime
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT](https://github.com/elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT)
@@ -131,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 18:34:18 UTC*
+*Last updated at 2026-07-01 19:30:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
