@@ -30,6 +30,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lizan](https://github.com/lizan) Starred [lyquor-labs/ldk](https://github.com/lyquor-labs/ldk)
   > Lyquid Development Kit (LDK) for the Lyquor platform.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gsanhueza/pi-llama-cpp](https://github.com/gsanhueza/pi-llama-cpp)
+  > Pi extension for llama.cpp integration
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bytestrix/InfraCanvas](https://github.com/bytestrix/InfraCanvas)
   > Live Docker & Kubernetes infrastructure visualization - containers, pods, volumes, and networks in o...
@@ -61,6 +65,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xhochy](https://github.com/xhochy)
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/livekit-local-inference-feedstock](https://github.com/conda-forge/livekit-local-inference-feedstock) to [xhochy/livekit-local-inference-feedstock](https://github.com/xhochy/livekit-local-inference-feedstock)
   > A conda-smithy repository for livekit-local-inference.
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/smg-grpc-proto-feedstock](https://github.com/conda-forge/smg-grpc-proto-feedstock) to [xhochy/smg-grpc-proto-feedstock](https://github.com/xhochy/smg-grpc-proto-feedstock)
+  > A conda-smithy repository for smg-grpc-proto.
 
 
 <!-- nav -->
@@ -68,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-01 11:01:38 UTC*
+*Last updated at 2026-07-01 12:50:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/06) directory.*
 <!-- /archive-link -->
