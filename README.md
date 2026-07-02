@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [chdb-io/chdb](https://github.com/chdb-io/chdb)
   > chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse 
 
+### [davidfrickert](https://github.com/davidfrickert)
+- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [nuixyz/kanarenshu](https://github.com/nuixyz/kanarenshu)
+  > A minimal TUI application to practise Japanese from the terminal.
+
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [rivet-dev/agentos](https://github.com/rivet-dev/agentos)
   > A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux V...
@@ -34,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 03:00:20 UTC*
+*Last updated at 2026-07-02 04:31:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
