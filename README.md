@@ -40,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [StanPlatinum](https://github.com/StanPlatinum) Starred [zhou-yuxin/kvm-ept-sample](https://github.com/zhou-yuxin/kvm-ept-sample)
   > A tool to sample a QEMU-KVM's memory access pattern at page level based on Intel VT-x
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [asyncapi/generator](https://github.com/asyncapi/generator) to [Stanzilla/generator](https://github.com/Stanzilla/generator)
+  > Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, H...
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [chdb-io/chdb](https://github.com/chdb-io/chdb)
   > chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse 
@@ -111,6 +115,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   >  ggml speech-to-text inference for 16+ model families
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
   > Hydra Launcher is an open-source gaming platform created to be the single tool that you need
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
+  > Godot reverse engineering tools
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [agno-agi/agent-platform-railway](https://github.com/agno-agi/agent-platform-railway)
@@ -151,6 +157,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Zero-dependency canvas shaders that can be installed from npm or designed in Paper
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [bitrouter/bitrouter](https://github.com/bitrouter/bitrouter)
   > An open-source agentic LLM gateway & router that cost-optimize your agentic workflows in your way. w...
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [containers/netavark](https://github.com/containers/netavark)
+  > Container network stack
 
 ### [simonw](https://github.com/simonw)
 - 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/llm-coding-agent](https://github.com/simonw/llm-coding-agent) public
@@ -166,6 +174,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/struct-compare](https://github.com/milankovo/struct-compare)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
+  > Tool to build & run portable, lightweight, self-contained virtual machines.
 
 ### [zacharywhitley](https://github.com/zacharywhitley)
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs) to [tegmentum/duckdb-rs](https://github.com/tegmentum/duckdb-rs)
@@ -188,7 +198,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 20:26:24 UTC*
+*Last updated at 2026-07-02 21:23:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
