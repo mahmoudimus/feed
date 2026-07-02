@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [artem](https://github.com/artem) Starred [macshome/The-Wisdom-of-Quinn](https://github.com/macshome/The-Wisdom-of-Quinn)
   > Share and Enjoy®
 
+### [boyney123](https://github.com/boyney123)
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
+  > agent multiplexer that lives in your terminal.
+
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [nuixyz/kanarenshu](https://github.com/nuixyz/kanarenshu)
   > A minimal TUI application to practise Japanese from the terminal.
@@ -64,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [av/harbor](https://github.com/av/harbor)
   > Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack wi...
 
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [sini6a/stm32-pocket-console](https://github.com/sini6a/stm32-pocket-console)
+  > STM32 Pocket Game/Dev Console 🕹️ is a handheld device powered by 2xAAA batteries. It features 5 prog...
+
 ### [jhalliday](https://github.com/jhalliday)
 - 🍴 👤 [jhalliday](https://github.com/jhalliday) Forked [openjdk/jdk](https://github.com/openjdk/jdk) to [jhalliday/jdk](https://github.com/jhalliday/jdk)
   > JDK main-line development https://openjdk.org/projects/jdk
@@ -71,6 +79,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [masak](https://github.com/masak)
 - 🚀 👤 [masak](https://github.com/masak) Made [masak/asm-find-maximum](https://github.com/masak/asm-find-maximum) public
   > An implementation in DOS assembly of Knuth's Algorithm M for finding the maximum value in a list
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+  > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OwenPawl/cerberus-re-skill](https://github.com/OwenPawl/cerberus-re-skill)
@@ -81,6 +93,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Prompts and model configs used in my videos.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BinaryHardening/cfgrip](https://github.com/BinaryHardening/cfgrip)
   > PE/ELF x86/x64 CFG extractor
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [turbo-tan/llama.cpp-tq3](https://github.com/turbo-tan/llama.cpp-tq3)
+  > llama.cpp fork with TQ3_1S/4S CUDA kernels — 3.5-bit WHT quantization achieving Q4s quality at 10% s...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [agno-agi/agent-platform-railway](https://github.com/agno-agi/agent-platform-railway)
@@ -136,7 +150,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 13:31:42 UTC*
+*Last updated at 2026-07-02 14:42:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
