@@ -32,13 +32,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [agno-agi/agent-platform-railway](https://github.com/agno-agi/agent-platform-railway)
   > Agent platform you build, run, and improve using coding agents.
 
+### [ramonli](https://github.com/ramonli)
+- 🌟 👤 [ramonli](https://github.com/ramonli) Starred [github/spec-kit](https://github.com/github/spec-kit)
+  > 💫 Toolkit to help you get started with Spec-Driven Development
+
 
 <!-- nav -->
 [← 2026-07-01](archive/2026/07/01.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 04:31:10 UTC*
+*Last updated at 2026-07-02 06:15:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
