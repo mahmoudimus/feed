@@ -64,6 +64,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [av/harbor](https://github.com/av/harbor)
   > Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack wi...
 
+### [jhalliday](https://github.com/jhalliday)
+- 🍴 👤 [jhalliday](https://github.com/jhalliday) Forked [openjdk/jdk](https://github.com/openjdk/jdk) to [jhalliday/jdk](https://github.com/jhalliday/jdk)
+  > JDK main-line development https://openjdk.org/projects/jdk
+
 ### [masak](https://github.com/masak)
 - 🚀 👤 [masak](https://github.com/masak) Made [masak/asm-find-maximum](https://github.com/masak/asm-find-maximum) public
   > An implementation in DOS assembly of Knuth's Algorithm M for finding the maximum value in a list
@@ -73,6 +77,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > cerberus-re is a local Apple-focused reverse-engineering workbench for building a repeatable three-h...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lukesdevlab/youtube](https://github.com/lukesdevlab/youtube)
+  > Prompts and model configs used in my videos.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BinaryHardening/cfgrip](https://github.com/BinaryHardening/cfgrip)
+  > PE/ELF x86/x64 CFG extractor
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [agno-agi/agent-platform-railway](https://github.com/agno-agi/agent-platform-railway)
@@ -85,6 +93,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An experimental implementation of compiler-driven automatic sharding of models across a given device...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [archcore-ai/cli](https://github.com/archcore-ai/cli)
   > Git-native context for AI coding agents — CLI and local MCP server
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Loschcode/grpc-mcp-gateway](https://github.com/Loschcode/grpc-mcp-gateway)
+  > gRPC MCP Gateway
 
 ### [ramonli](https://github.com/ramonli)
 - 🌟 👤 [ramonli](https://github.com/ramonli) Starred [github/spec-kit](https://github.com/github/spec-kit)
@@ -93,6 +103,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [google/zerocopy](https://github.com/google/zerocopy)
   > Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [OwenPawl/cerberus-re-skill](https://github.com/OwenPawl/cerberus-re-skill)
+  > cerberus-re is a local Apple-focused reverse-engineering workbench for building a repeatable three-h...
 
 ### [smolijar](https://github.com/smolijar)
 - 🌟 👤 [smolijar](https://github.com/smolijar) Starred [loukotal/firelite](https://github.com/loukotal/firelite)
@@ -111,6 +125,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Assorted useful tools, almost entirely generated using LLMs
 - 🍴 👤 [zchee](https://github.com/zchee) Forked [sindresorhus/pure](https://github.com/sindresorhus/pure) to [zchee/pure](https://github.com/zchee/pure)
   > Pretty, minimal and fast ZSH prompt
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)
+  > Qwen-AgentWorld: Language World Models for General Agents
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [steipete/oracle](https://github.com/steipete/oracle)
+  > Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 
 
 <!-- nav -->
@@ -118,7 +136,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 12:34:26 UTC*
+*Last updated at 2026-07-02 13:31:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
