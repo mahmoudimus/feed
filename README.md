@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [nuixyz/kanarenshu](https://github.com/nuixyz/kanarenshu)
   > A minimal TUI application to practise Japanese from the terminal.
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [WangWei-CM/KSword](https://github.com/WangWei-CM/KSword) to [fengjixuchui/KSword](https://github.com/fengjixuchui/KSword)
+  > 最强的开源ARK
+
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [rivet-dev/agentos](https://github.com/rivet-dev/agentos)
   > A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux V...
@@ -36,13 +40,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ramonli](https://github.com/ramonli) Starred [github/spec-kit](https://github.com/github/spec-kit)
   > 💫 Toolkit to help you get started with Spec-Driven Development
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [simonw/tools](https://github.com/simonw/tools)
+  > Assorted useful tools, almost entirely generated using LLMs
+
 
 <!-- nav -->
 [← 2026-07-01](archive/2026/07/01.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 06:15:13 UTC*
+*Last updated at 2026-07-02 08:01:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
