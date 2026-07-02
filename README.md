@@ -13,7 +13,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Mutiny Motors - The open source affordable truck
 
 ### [JeffLi1993](https://github.com/JeffLi1993)
-- 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [cheercheung/Awesome-Blender-Seedance-Workflow-Usecases](https://github.com/cheercheung/Awesome-Blender-Seedance-Workflow-Usecases)
+- 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases](https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases)
   > Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, referen...
 
 ### [Xe](https://github.com/Xe)
@@ -53,6 +53,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [agno-agi/agent-platform-railway](https://github.com/agno-agi/agent-platform-railway)
   > Agent platform you build, run, and improve using coding agents.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
+  > Box3D is a 3D physics engine for games
 
 ### [ramonli](https://github.com/ramonli)
 - 🌟 👤 [ramonli](https://github.com/ramonli) Starred [github/spec-kit](https://github.com/github/spec-kit)
@@ -72,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 10:00:13 UTC*
+*Last updated at 2026-07-02 11:01:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
