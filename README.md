@@ -152,6 +152,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [bitrouter/bitrouter](https://github.com/bitrouter/bitrouter)
   > An open-source agentic LLM gateway & router that cost-optimize your agentic workflows in your way. w...
 
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/llm-coding-agent](https://github.com/simonw/llm-coding-agent) public
+  > A coding agent built on LLM
+
 ### [smolijar](https://github.com/smolijar)
 - 🌟 👤 [smolijar](https://github.com/smolijar) Starred [loukotal/firelite](https://github.com/loukotal/firelite)
   > Firebase emulators in Rust
@@ -176,6 +180,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Qwen-AgentWorld: Language World Models for General Agents
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [steipete/oracle](https://github.com/steipete/oracle)
   > Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli)
 
 
 <!-- nav -->
@@ -183,7 +188,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 19:28:27 UTC*
+*Last updated at 2026-07-02 20:26:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
