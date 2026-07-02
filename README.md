@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases](https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases)
   > Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, referen...
 
+### [MrChromebox](https://github.com/MrChromebox)
+- 🍴 👤 [MrChromebox](https://github.com/MrChromebox) Forked [hamitcan99/LvglPkg](https://github.com/hamitcan99/LvglPkg) to [MrChromebox/LvglPkg](https://github.com/MrChromebox/LvglPkg)
+  > LVGL on UEFI (EDK2) Environment.
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [chdb-io/chdb](https://github.com/chdb-io/chdb)
   > chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse 
@@ -152,7 +156,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 15:43:21 UTC*
+*Last updated at 2026-07-02 16:32:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
