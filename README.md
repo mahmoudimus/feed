@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [memononen/nanosvg](https://github.com/memononen/nanosvg)
   > Simple stupid SVG parser
 
+### [JLLeitschuh](https://github.com/JLLeitschuh)
+- 🌟 👤 [JLLeitschuh](https://github.com/JLLeitschuh) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
+  > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+
 ### [JeffLi1993](https://github.com/JeffLi1993)
 - 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases](https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases)
   > Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, referen...
@@ -105,6 +109,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > llama.cpp fork with TQ3_1S/4S CUDA kernels — 3.5-bit WHT quantization achieving Q4s quality at 10% s...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
   >  ggml speech-to-text inference for 16+ model families
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
+  > Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [agno-agi/agent-platform-railway](https://github.com/agno-agi/agent-platform-railway)
@@ -121,6 +127,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > gRPC MCP Gateway
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
   > Multiplayer, self-hosted, secure agents.
+
+### [openprivacy](https://github.com/openprivacy)
+- 🌟 👤 [openprivacy](https://github.com/openprivacy) Starred [CivicActions/civic-project-template](https://github.com/CivicActions/civic-project-template)
+  > Core project documentation artifacts to include in every CivicActions project
 
 ### [ramonli](https://github.com/ramonli)
 - 🌟 👤 [ramonli](https://github.com/ramonli) Starred [github/spec-kit](https://github.com/github/spec-kit)
@@ -139,6 +149,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Neovim plugin for highlighting and resolving Jujutsu (jj) file conflicts, with multi-sided  conflict...
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [paper-design/shaders](https://github.com/paper-design/shaders)
   > Zero-dependency canvas shaders that can be installed from npm or designed in Paper
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [bitrouter/bitrouter](https://github.com/bitrouter/bitrouter)
+  > An open-source agentic LLM gateway & router that cost-optimize your agentic workflows in your way. w...
 
 ### [smolijar](https://github.com/smolijar)
 - 🌟 👤 [smolijar](https://github.com/smolijar) Starred [loukotal/firelite](https://github.com/loukotal/firelite)
@@ -147,6 +159,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
   > VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-L...
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/struct-compare](https://github.com/milankovo/struct-compare)
 
 ### [zacharywhitley](https://github.com/zacharywhitley)
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs) to [tegmentum/duckdb-rs](https://github.com/tegmentum/duckdb-rs)
@@ -168,7 +183,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 18:28:17 UTC*
+*Last updated at 2026-07-02 19:28:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
