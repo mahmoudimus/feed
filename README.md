@@ -80,10 +80,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [masak](https://github.com/masak) Made [masak/asm-find-maximum](https://github.com/masak/asm-find-maximum) public
   > An implementation in DOS assembly of Knuth's Algorithm M for finding the maximum value in a list
 
-### [mitsuakki](https://github.com/mitsuakki)
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-  > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OwenPawl/cerberus-re-skill](https://github.com/OwenPawl/cerberus-re-skill)
   > cerberus-re is a local Apple-focused reverse-engineering workbench for building a repeatable three-h...
@@ -95,10 +91,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > PE/ELF x86/x64 CFG extractor
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [turbo-tan/llama.cpp-tq3](https://github.com/turbo-tan/llama.cpp-tq3)
   > llama.cpp fork with TQ3_1S/4S CUDA kernels — 3.5-bit WHT quantization achieving Q4s quality at 10% s...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
+  >  ggml speech-to-text inference for 16+ model families
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [agno-agi/agent-platform-railway](https://github.com/agno-agi/agent-platform-railway)
-  > Agent platform you build, run, and improve using coding agents.
+  > An agent platform you build, run, evaluate and improve using coding agents.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
   > Box3D is a 3D physics engine for games
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ezyang/ghinbox](https://github.com/ezyang/ghinbox)
@@ -121,6 +119,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [OwenPawl/cerberus-re-skill](https://github.com/OwenPawl/cerberus-re-skill)
   > cerberus-re is a local Apple-focused reverse-engineering workbench for building a repeatable three-h...
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [0xferrous/jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim)
+  > Neovim plugin for highlighting and resolving Jujutsu (jj) file conflicts, with multi-sided  conflict...
 
 ### [smolijar](https://github.com/smolijar)
 - 🌟 👤 [smolijar](https://github.com/smolijar) Starred [loukotal/firelite](https://github.com/loukotal/firelite)
@@ -150,7 +152,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 14:42:48 UTC*
+*Last updated at 2026-07-02 15:43:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
