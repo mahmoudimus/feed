@@ -52,6 +52,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [nuixyz/kanarenshu](https://github.com/nuixyz/kanarenshu)
   > A minimal TUI application to practise Japanese from the terminal.
 
+### [elder-plinius](https://github.com/elder-plinius)
+- 🚀 👤 [elder-plinius](https://github.com/elder-plinius) Made [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) public
+  > multi-agent offensive-security meta-harness
+
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [shaise/FreeCAD_SheetMetal](https://github.com/shaise/FreeCAD_SheetMetal)
   > A simple sheet metal workbench for FreeCAD
@@ -115,6 +119,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Git-native context for AI coding agents — CLI and local MCP server
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Loschcode/grpc-mcp-gateway](https://github.com/Loschcode/grpc-mcp-gateway)
   > gRPC MCP Gateway
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
+  > Multiplayer, self-hosted, secure agents.
 
 ### [ramonli](https://github.com/ramonli)
 - 🌟 👤 [ramonli](https://github.com/ramonli) Starred [github/spec-kit](https://github.com/github/spec-kit)
@@ -131,6 +137,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [0xferrous/jj-conflict.nvim](https://github.com/0xferrous/jj-conflict.nvim)
   > Neovim plugin for highlighting and resolving Jujutsu (jj) file conflicts, with multi-sided  conflict...
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [paper-design/shaders](https://github.com/paper-design/shaders)
+  > Zero-dependency canvas shaders that can be installed from npm or designed in Paper
 
 ### [smolijar](https://github.com/smolijar)
 - 🌟 👤 [smolijar](https://github.com/smolijar) Starred [loukotal/firelite](https://github.com/loukotal/firelite)
@@ -160,7 +168,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 17:31:37 UTC*
+*Last updated at 2026-07-02 18:28:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
