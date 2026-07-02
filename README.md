@@ -32,6 +32,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [MrChromebox](https://github.com/MrChromebox) Forked [hamitcan99/LvglPkg](https://github.com/hamitcan99/LvglPkg) to [MrChromebox/LvglPkg](https://github.com/MrChromebox/LvglPkg)
   > LVGL on UEFI (EDK2) Environment.
 
+### [StanPlatinum](https://github.com/StanPlatinum)
+- 🌟 👤 [StanPlatinum](https://github.com/StanPlatinum) Starred [zhou-yuxin/kvm-ept-sample](https://github.com/zhou-yuxin/kvm-ept-sample)
+  > A tool to sample a QEMU-KVM's memory access pattern at page level based on Intel VT-x
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [chdb-io/chdb](https://github.com/chdb-io/chdb)
   > chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse 
@@ -156,7 +160,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 16:32:24 UTC*
+*Last updated at 2026-07-02 17:31:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
