@@ -32,6 +32,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
   > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
 
+### [mimoo](https://github.com/mimoo)
+- 🚀 👤 [mimoo](https://github.com/mimoo) Made [mimoo/succinct-ipa](https://github.com/mimoo/succinct-ipa) public
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🍴 👤 [mitsuakki](https://github.com/mitsuakki) Forked [minestrate/php-client](https://github.com/minestrate/php-client) to [SaruMC/php-client](https://github.com/SaruMC/php-client)
+  > PHP client for minestrate, especially for @pmmp
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mprahboamey/atom](https://github.com/mprahboamey/atom)
   > optical attention via wave interference in holographic crystals verified to float precision. the mat...
@@ -43,6 +50,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Native desktop automation CLI for AI agents. Control any application through OS accessibility trees ...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OpenRouterLabs/spawn](https://github.com/OpenRouterLabs/spawn)
   > Spawn any agent, on any cloud
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [aiming-lab/SkillRL](https://github.com/aiming-lab/SkillRL)
+  > SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pizlonator/fil-c](https://github.com/pizlonator/fil-c)
+  > Fil-C: completely compatible memory safety for C and C++
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [verselang/book](https://github.com/verselang/book)
 
 ### [notify-bibi](https://github.com/notify-bibi)
 - 🌟 👤 [notify-bibi](https://github.com/notify-bibi) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -75,7 +87,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 14:43:30 UTC*
+*Last updated at 2026-07-03 15:37:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
