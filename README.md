@@ -69,6 +69,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [santiagoguo/moonbit-toml](https://github.com/santiagoguo/moonbit-toml)
   > A high-performance TOML parser and serializer library for MoonBit
 
+### [notfoundry](https://github.com/notfoundry)
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [ctxrs/ctx](https://github.com/ctxrs/ctx)
+  > Search the coding agent history already on your machine
+
 ### [notify-bibi](https://github.com/notify-bibi)
 - 🌟 👤 [notify-bibi](https://github.com/notify-bibi) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
@@ -106,7 +110,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 20:23:00 UTC*
+*Last updated at 2026-07-03 22:19:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
