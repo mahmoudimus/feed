@@ -31,13 +31,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [heeeyaaaa/vmem-decrypt](https://github.com/heeeyaaaa/vmem-decrypt)
   > Decrypt VMware vTPM-encrypted .vmem/.vmsn/.vmss/.nvram from the VM password, and flatten the .vmem t...
 
+### [tommyettinger](https://github.com/tommyettinger)
+- 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [0xDE57/SpaceProject](https://github.com/0xDE57/SpaceProject) to [tommyettinger/SpaceProject](https://github.com/tommyettinger/SpaceProject)
+  > A 2D arcadey physics-based procedurally generated asteroid miner sandbox game using libGDX.
+
 
 <!-- nav -->
 [← 2026-07-02](archive/2026/07/02.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 08:00:07 UTC*
+*Last updated at 2026-07-03 09:13:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
