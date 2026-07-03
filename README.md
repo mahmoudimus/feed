@@ -64,6 +64,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Fil-C: completely compatible memory safety for C and C++
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [verselang/book](https://github.com/verselang/book)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [swift-server/swift-http-server](https://github.com/swift-server/swift-http-server)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tw93/Kaku](https://github.com/tw93/Kaku)
+  > 🎃 A fast, out-of-the-box terminal built for AI coding.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [santiagoguo/moonbit-toml](https://github.com/santiagoguo/moonbit-toml)
+  > A high-performance TOML parser and serializer library for MoonBit
 
 ### [notify-bibi](https://github.com/notify-bibi)
 - 🌟 👤 [notify-bibi](https://github.com/notify-bibi) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -80,6 +84,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, r...
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [heeeyaaaa/vmem-decrypt](https://github.com/heeeyaaaa/vmem-decrypt)
   > Decrypt VMware vTPM-encrypted .vmem/.vmsn/.vmss/.nvram from the VM password, and flatten the .vmem t...
+
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [electerm/ironrdp-wasm](https://github.com/electerm/ironrdp-wasm)
+  > Just compile ironrdp_web to wasm
 
 ### [tommyettinger](https://github.com/tommyettinger)
 - 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [0xDE57/SpaceProject](https://github.com/0xDE57/SpaceProject) to [tommyettinger/SpaceProject](https://github.com/tommyettinger/SpaceProject)
@@ -98,7 +106,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 18:24:18 UTC*
+*Last updated at 2026-07-03 19:28:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
