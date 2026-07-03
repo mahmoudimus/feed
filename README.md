@@ -52,6 +52,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [artem](https://github.com/artem) Starred [macshome/The-Wisdom-of-Quinn](https://github.com/macshome/The-Wisdom-of-Quinn)
   > Share and Enjoy®
 
+### [bgrant0607](https://github.com/bgrant0607)
+- 🌟 👤 [bgrant0607](https://github.com/bgrant0607) Starred [confighub/examples](https://github.com/confighub/examples)
+  > ConfigHub Examples
+- 🌟 👤 [bgrant0607](https://github.com/bgrant0607) Starred [confighub/sdk](https://github.com/confighub/sdk)
+  > ConfigHub SDK for building custom API clients, workers and other tools
+
+### [bitranox](https://github.com/bitranox)
+- 🍴 👤 [bitranox](https://github.com/bitranox) Forked [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) to [bitranox/awesome-claude-code-toolkit](https://github.com/bitranox/awesome-claude-code-toolkit)
+  > The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ p...
+
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
   > agent multiplexer that lives in your terminal.
@@ -67,6 +77,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [shaise/FreeCAD_SheetMetal](https://github.com/shaise/FreeCAD_SheetMetal)
   > A simple sheet metal workbench for FreeCAD
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [pissang/oidn-web](https://github.com/pissang/oidn-web)
+  > Open Image Denoise on the Web
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [WangWei-CM/KSword](https://github.com/WangWei-CM/KSword) to [fengjixuchui/KSword](https://github.com/fengjixuchui/KSword)
@@ -117,6 +129,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
   > Godot reverse engineering tools
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) to [mrexodia/gdsdecomp](https://github.com/mrexodia/gdsdecomp)
+  > Godot reverse engineering tools
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)
+  > Inspect: A framework for large language model evaluations
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [agno-agi/agent-platform-railway](https://github.com/agno-agi/agent-platform-railway)
@@ -133,6 +149,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > gRPC MCP Gateway
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
   > Multiplayer, self-hosted, secure agents.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)
+  > Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline o...
 
 ### [openprivacy](https://github.com/openprivacy)
 - 🌟 👤 [openprivacy](https://github.com/openprivacy) Starred [CivicActions/civic-project-template](https://github.com/CivicActions/civic-project-template)
@@ -191,6 +209,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [steipete/oracle](https://github.com/steipete/oracle)
   > Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [googlecolab/colab-mcp](https://github.com/googlecolab/colab-mcp)
+  > An MCP server for interacting with Google Colab
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [probelabs/probe](https://github.com/probelabs/probe)
+  > AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter...
 
 
 <!-- nav -->
@@ -198,7 +220,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-02 21:23:05 UTC*
+*Last updated at 2026-07-02 23:22:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
