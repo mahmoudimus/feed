@@ -41,10 +41,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lahfir/agent-desktop](https://github.com/lahfir/agent-desktop)
   > Native desktop automation CLI for AI agents. Control any application through OS accessibility trees ...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OpenRouterLabs/spawn](https://github.com/OpenRouterLabs/spawn)
+  > Spawn any agent, on any cloud
 
 ### [notify-bibi](https://github.com/notify-bibi)
 - 🌟 👤 [notify-bibi](https://github.com/notify-bibi) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🍴 👤 [qiyuangong](https://github.com/qiyuangong) Forked [harbor-framework/harbor](https://github.com/harbor-framework/harbor) to [qiyuangong/harbor](https://github.com/qiyuangong/harbor)
+  > Framework for evaluating and improving agents 
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc)
@@ -69,7 +75,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 13:31:22 UTC*
+*Last updated at 2026-07-03 14:43:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
