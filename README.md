@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
   > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [hiae-aead/hiae-bitsliced](https://github.com/hiae-aead/hiae-bitsliced)
+  > Bitsliced HiAE implementation (no side channels, even without hardware AES support).
+
 ### [mimoo](https://github.com/mimoo)
 - 🚀 👤 [mimoo](https://github.com/mimoo) Made [mimoo/succinct-ipa](https://github.com/mimoo/succinct-ipa) public
 
@@ -92,7 +96,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 16:28:37 UTC*
+*Last updated at 2026-07-03 17:28:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
