@@ -26,6 +26,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [BinaryHardening/cfgrip](https://github.com/BinaryHardening/cfgrip)
   > PE/ELF x86/x64 CFG extractor
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [can1357/pon](https://github.com/can1357/pon)
+  > Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, r...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [heeeyaaaa/vmem-decrypt](https://github.com/heeeyaaaa/vmem-decrypt)
+  > Decrypt VMware vTPM-encrypted .vmem/.vmsn/.vmss/.nvram from the VM password, and flatten the .vmem t...
 
 
 <!-- nav -->
@@ -33,7 +37,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 06:10:54 UTC*
+*Last updated at 2026-07-03 08:00:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
