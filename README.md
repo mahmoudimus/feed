@@ -22,13 +22,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [Pjdur/velto](https://github.com/Pjdur/velto)
   > Velto - Next-gen Rust web framework
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [BinaryHardening/cfgrip](https://github.com/BinaryHardening/cfgrip)
+  > PE/ELF x86/x64 CFG extractor
+
 
 <!-- nav -->
 [← 2026-07-02](archive/2026/07/02.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 02:59:23 UTC*
+*Last updated at 2026-07-03 04:23:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
