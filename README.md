@@ -8,6 +8,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [gmh5225/ios-location-spoofer](https://github.com/gmh5225/ios-location-spoofer)
+  > Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stas...
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)
+  > Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stas...
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc) to [fengjixuchui/iommu-driver-poc](https://github.com/fengjixuchui/iommu-driver-poc)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [quarkslab/android-fuzzing](https://github.com/quarkslab/android-fuzzing) to [fengjixuchui/android-fuzzing](https://github.com/fengjixuchui/android-fuzzing)
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [Pjdur/velto](https://github.com/Pjdur/velto)
   > Velto - Next-gen Rust web framework
@@ -18,7 +28,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 01:31:19 UTC*
+*Last updated at 2026-07-03 02:59:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
