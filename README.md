@@ -28,6 +28,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
   > Entirety of `rustc`, translated to C. 
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
+  > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mprahboamey/atom](https://github.com/mprahboamey/atom)
+  > optical attention via wave interference in holographic crystals verified to float precision. the mat...
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lahfir/agent-desktop](https://github.com/lahfir/agent-desktop)
   > Native desktop automation CLI for AI agents. Control any application through OS accessibility trees ...
@@ -49,13 +57,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [0xDE57/SpaceProject](https://github.com/0xDE57/SpaceProject) to [tommyettinger/SpaceProject](https://github.com/tommyettinger/SpaceProject)
   > A 2D arcadey physics-based procedurally generated asteroid miner sandbox game using libGDX.
 
+### [yajo](https://github.com/yajo)
+- 🍴 👤 [yajo](https://github.com/yajo) Forked [ErikBPF/hermes-flake](https://github.com/ErikBPF/hermes-flake) to [yajo/hermes-flake](https://github.com/yajo/hermes-flake)
+- 🍴 👤 [yajo](https://github.com/yajo) Forked [ErikBPF/hermes-flake](https://github.com/ErikBPF/hermes-flake) to [moduon/hermes-flake](https://github.com/moduon/hermes-flake)
+
 
 <!-- nav -->
 [← 2026-07-02](archive/2026/07/02.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 11:45:04 UTC*
+*Last updated at 2026-07-03 12:33:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
