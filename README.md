@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [quackle/quackle](https://github.com/quackle/quackle)
+  > Quackle crossword game artificial intelligence and analysis tool
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [gmh5225/ios-location-spoofer](https://github.com/gmh5225/ios-location-spoofer)
   > Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stas...
@@ -55,6 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pizlonator/fil-c](https://github.com/pizlonator/fil-c)
   > Fil-C: completely compatible memory safety for C and C++
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [verselang/book](https://github.com/verselang/book)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [swift-server/swift-http-server](https://github.com/swift-server/swift-http-server)
 
 ### [notify-bibi](https://github.com/notify-bibi)
 - 🌟 👤 [notify-bibi](https://github.com/notify-bibi) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -87,7 +92,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 15:37:12 UTC*
+*Last updated at 2026-07-03 16:28:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
