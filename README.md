@@ -33,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [frol](https://github.com/frol) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
   > Entirety of `rustc`, translated to C. 
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [dakra/sodium.el](https://github.com/dakra/sodium.el)
+  > Emacs bindings for libsodium
+
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
@@ -67,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 11:28:38 UTC*
+*Last updated at 2026-07-04 12:20:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
