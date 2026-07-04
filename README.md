@@ -32,6 +32,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [NVIDIA-RTX/NRD](https://github.com/NVIDIA-RTX/NRD)
   > NVIDIA Real-time Denoising (NRD) library
 
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+  > Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A l...
+
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [pyapp-kit/psygnal](https://github.com/pyapp-kit/psygnal)
   > Python observer pattern (callback/event system).  Modeled after Qt Signals & Slots (but independent ...
@@ -94,7 +98,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 16:19:43 UTC*
+*Last updated at 2026-07-04 17:21:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
