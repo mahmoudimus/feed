@@ -21,6 +21,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [donvito](https://github.com/donvito)
 - 🍴 👤 [donvito](https://github.com/donvito) Forked [mem0ai/mem0](https://github.com/mem0ai/mem0) to [donvito/mem0](https://github.com/donvito/mem0)
   > Universal memory layer for AI Agents
+- 🍴 👤 [donvito](https://github.com/donvito) Forked [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) to [donvito/hermes-agent](https://github.com/donvito/hermes-agent)
+  > The agent that grows with you
 
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler)
@@ -71,6 +73,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Leanstral's fork of SafeVerify, which we use for code agent training and as part of our evaluation s...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
   > Your own search engine
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [PrimeIntellect-ai/renderers](https://github.com/PrimeIntellect-ai/renderers)
+  > Programmable chat templates for LLM training and inference.
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ibis-project/ibis](https://github.com/ibis-project/ibis) to [nmarasoiu/ibis](https://github.com/nmarasoiu/ibis)
@@ -90,7 +94,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 15:22:20 UTC*
+*Last updated at 2026-07-04 16:19:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
