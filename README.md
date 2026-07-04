@@ -14,6 +14,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Hellblazer](https://github.com/Hellblazer)
 - 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [ming-afk/recall_certify_hnsw](https://github.com/ming-afk/recall_certify_hnsw) to [Hellblazer/recall_certify_hnsw](https://github.com/Hellblazer/recall_certify_hnsw)
 
+### [Xe](https://github.com/Xe)
+- 🍴 👤 [Xe](https://github.com/Xe) Forked [ircnet/ircd](https://github.com/ircnet/ircd) to [Xe/ircnet-ircd](https://github.com/Xe/ircnet-ircd)
+
 ### [antifuchs](https://github.com/antifuchs)
 - 🍴 👤 [antifuchs](https://github.com/antifuchs) Forked [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) to [antifuchs/home-assistant.io](https://github.com/antifuchs/home-assistant.io)
   > :blue_book: Home Assistant User documentation
@@ -47,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
   > Entirety of `rustc`, translated to C. 
+
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
+  > A powerful obfuscator for JavaScript and Node.js
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [dakra/sodium.el](https://github.com/dakra/sodium.el)
@@ -94,13 +101,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [smourier](https://github.com/smourier) Made [smourier/Melusyn](https://github.com/smourier/Melusyn) public
   > A tool that creates mermaid markdown files from Visual Studio solution and/or MsBuild projects.
 
+### [xeioex](https://github.com/xeioex)
+- 🌟 👤 [xeioex](https://github.com/xeioex) Starred [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)
+  > Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL...
+- 🌟 👤 [xeioex](https://github.com/xeioex) Starred [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring)
+  > The `io_uring` library for Rust
+
 
 <!-- nav -->
 [← 2026-07-03](archive/2026/07/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 21:17:27 UTC*
+*Last updated at 2026-07-04 22:16:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
