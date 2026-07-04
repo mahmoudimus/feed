@@ -8,6 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Egerion](https://github.com/Egerion)
+- 🌟 👤 [Egerion](https://github.com/Egerion) Starred [WilliamESE/bwm-plugin](https://github.com/WilliamESE/bwm-plugin)
+
 ### [donvito](https://github.com/donvito)
 - 🍴 👤 [donvito](https://github.com/donvito) Forked [mem0ai/mem0](https://github.com/mem0ai/mem0) to [donvito/mem0](https://github.com/donvito/mem0)
   > Universal memory layer for AI Agents
@@ -47,6 +50,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [apple/pkl](https://github.com/apple/pkl)
   > A configuration as code language with rich validation and tooling.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cachix/cloud.devenv.sh](https://github.com/cachix/cloud.devenv.sh)
+  > What if GitHub Actions were local-first and built using Nix?
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ibis-project/ibis](https://github.com/ibis-project/ibis) to [nmarasoiu/ibis](https://github.com/nmarasoiu/ibis)
@@ -62,7 +67,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 10:36:48 UTC*
+*Last updated at 2026-07-04 11:28:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
