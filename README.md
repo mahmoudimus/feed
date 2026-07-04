@@ -11,6 +11,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Egerion](https://github.com/Egerion)
 - 🌟 👤 [Egerion](https://github.com/Egerion) Starred [WilliamESE/bwm-plugin](https://github.com/WilliamESE/bwm-plugin)
 
+### [Hellblazer](https://github.com/Hellblazer)
+- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [ming-afk/recall_certify_hnsw](https://github.com/ming-afk/recall_certify_hnsw) to [Hellblazer/recall_certify_hnsw](https://github.com/Hellblazer/recall_certify_hnsw)
+
 ### [antifuchs](https://github.com/antifuchs)
 - 🍴 👤 [antifuchs](https://github.com/antifuchs) Forked [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) to [antifuchs/home-assistant.io](https://github.com/antifuchs/home-assistant.io)
   > :blue_book: Home Assistant User documentation
@@ -75,7 +78,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 13:28:45 UTC*
+*Last updated at 2026-07-04 14:29:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
