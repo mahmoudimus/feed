@@ -35,6 +35,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
   > Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A l...
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [shannhk/hermes-agent-control-room](https://github.com/shannhk/hermes-agent-control-room)
+  > Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and or...
 
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [pyapp-kit/psygnal](https://github.com/pyapp-kit/psygnal)
@@ -98,7 +100,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 20:18:35 UTC*
+*Last updated at 2026-07-04 21:17:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
