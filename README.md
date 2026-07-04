@@ -21,6 +21,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [pissang/claygl](https://github.com/pissang/claygl)
   > A WebGL graphic library for building scalable Web3D applications
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [Domenicobrz/C2-Renderer](https://github.com/Domenicobrz/C2-Renderer)
+  > C2 is a webgpu renderer focused on physically-accurate rendering and ease of experimentation
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc) to [fengjixuchui/iommu-driver-poc](https://github.com/fengjixuchui/iommu-driver-poc)
@@ -104,13 +106,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [yajo](https://github.com/yajo) Forked [ErikBPF/hermes-flake](https://github.com/ErikBPF/hermes-flake) to [yajo/hermes-flake](https://github.com/yajo/hermes-flake)
 - 🍴 👤 [yajo](https://github.com/yajo) Forked [ErikBPF/hermes-flake](https://github.com/ErikBPF/hermes-flake) to [moduon/hermes-flake](https://github.com/moduon/hermes-flake)
 
+### [zacharywhitley](https://github.com/zacharywhitley)
+- 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [Barre/ZeroFS](https://github.com/Barre/ZeroFS) to [zacharywhitley/ZeroFS](https://github.com/zacharywhitley/ZeroFS)
+  > ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystem...
+- 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [Barre/slatedb](https://github.com/Barre/slatedb) to [zacharywhitley/slatedb](https://github.com/zacharywhitley/slatedb)
+  > A cloud native embedded storage engine built on object storage.
+
 
 <!-- nav -->
 [← 2026-07-02](archive/2026/07/02.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-03 22:19:21 UTC*
+*Last updated at 2026-07-03 23:20:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
