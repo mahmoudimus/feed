@@ -11,6 +11,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Egerion](https://github.com/Egerion)
 - 🌟 👤 [Egerion](https://github.com/Egerion) Starred [WilliamESE/bwm-plugin](https://github.com/WilliamESE/bwm-plugin)
 
+### [antifuchs](https://github.com/antifuchs)
+- 🍴 👤 [antifuchs](https://github.com/antifuchs) Forked [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) to [antifuchs/home-assistant.io](https://github.com/antifuchs/home-assistant.io)
+  > :blue_book: Home Assistant User documentation
+
 ### [donvito](https://github.com/donvito)
 - 🍴 👤 [donvito](https://github.com/donvito) Forked [mem0ai/mem0](https://github.com/mem0ai/mem0) to [donvito/mem0](https://github.com/donvito/mem0)
   > Universal memory layer for AI Agents
@@ -71,7 +75,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 12:20:52 UTC*
+*Last updated at 2026-07-04 13:28:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
