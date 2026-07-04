@@ -48,6 +48,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [apple/pkl](https://github.com/apple/pkl)
   > A configuration as code language with rich validation and tooling.
 
+### [nmarasoiu](https://github.com/nmarasoiu)
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ibis-project/ibis](https://github.com/ibis-project/ibis) to [nmarasoiu/ibis](https://github.com/nmarasoiu/ibis)
+  > the portable Python dataframe library
+
 ### [sfinktah](https://github.com/sfinktah)
 - 🍴 👤 [sfinktah](https://github.com/sfinktah) Forked [BottingRocks/Incapsula](https://github.com/BottingRocks/Incapsula) to [sfinktah/Incapsula](https://github.com/sfinktah/Incapsula)
   > Incapsula Payload Generator for Reese84 and __utmvc
@@ -58,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 09:40:55 UTC*
+*Last updated at 2026-07-04 10:36:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
