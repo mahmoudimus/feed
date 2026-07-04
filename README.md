@@ -48,6 +48,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 
+### [moriyoshi](https://github.com/moriyoshi)
+- 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer)
+  > Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
   > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
@@ -63,6 +67,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A configuration as code language with rich validation and tooling.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cachix/cloud.devenv.sh](https://github.com/cachix/cloud.devenv.sh)
   > What if GitHub Actions were local-first and built using Nix?
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mistralai/LeanstralSafeVerify](https://github.com/mistralai/LeanstralSafeVerify)
+  > Leanstral's fork of SafeVerify, which we use for code agent training and as part of our evaluation s...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
+  > Your own search engine
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ibis-project/ibis](https://github.com/ibis-project/ibis) to [nmarasoiu/ibis](https://github.com/nmarasoiu/ibis)
@@ -72,13 +80,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [sfinktah](https://github.com/sfinktah) Forked [BottingRocks/Incapsula](https://github.com/BottingRocks/Incapsula) to [sfinktah/Incapsula](https://github.com/sfinktah/Incapsula)
   > Incapsula Payload Generator for Reese84 and __utmvc
 
+### [smourier](https://github.com/smourier)
+- 🚀 👤 [smourier](https://github.com/smourier) Made [smourier/Melusyn](https://github.com/smourier/Melusyn) public
+  > A tool that creates mermaid markdown files from Visual Studio solution and/or MsBuild projects.
+
 
 <!-- nav -->
 [← 2026-07-03](archive/2026/07/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 14:29:07 UTC*
+*Last updated at 2026-07-04 15:22:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
