@@ -78,6 +78,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [planetscale/skills](https://github.com/planetscale/skills)
   > Skills that help you configure and get the most out of PlanetScale
 
+### [lucidrains](https://github.com/lucidrains)
+- 🍴 👤 [lucidrains](https://github.com/lucidrains) Forked [Pebaz/nimporter](https://github.com/Pebaz/nimporter) to [lucidrains/nimporter](https://github.com/lucidrains/nimporter)
+  > Compile Nim Extensions for Python On Import!
+
 ### [mekanix](https://github.com/mekanix)
 - 🍴 👤 [mekanix](https://github.com/mekanix) Forked [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) to [mekanix/hydro](https://github.com/mekanix/hydro)
   > Ultra-pure, lag-free prompt with async Git status—just for Fish
@@ -107,6 +111,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A minimal, secure Python interpreter written in Rust for use by AI
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)
   > Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [s-bose/arrest](https://github.com/s-bose/arrest)
+  > Arrest is a small utility to easily structure and validate your REST api calls using pydantic and ht...
 
 ### [oleg-cherednik](https://github.com/oleg-cherednik)
 - 🌟 👤 [oleg-cherednik](https://github.com/oleg-cherednik) Starred [GenshIv/silentjson](https://github.com/GenshIv/silentjson)
@@ -139,7 +145,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 14:30:05 UTC*
+*Last updated at 2026-07-05 15:25:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
