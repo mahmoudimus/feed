@@ -121,6 +121,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/subprocessor-tracker-public](https://github.com/rand-tech/subprocessor-tracker-public) public
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [koba-e964/git-zcrypt](https://github.com/koba-e964/git-zcrypt)
 
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
+  > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
   > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
@@ -145,7 +149,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 15:25:04 UTC*
+*Last updated at 2026-07-05 16:20:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
