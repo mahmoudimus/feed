@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh)
   > zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends tradit...
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen)
+  > A Swift command line tool for generating your Xcode project
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [jerus-org/cull-gmail](https://github.com/jerus-org/cull-gmail)
   > Program to manage the end of life gmail messages.
@@ -25,6 +29,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Reads midi files and create piano notes waterfall
 - 🚀 👤 [johndpope](https://github.com/johndpope) Made [johndpope/snapkit_flutter](https://github.com/johndpope/snapkit_flutter) public
   > A Flutter port of SnapKit — Auto Layout-style constraint DSL on a Cassowary (kiwi) engine
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [RustAudio/audrey](https://github.com/RustAudio/audrey)
+  > A crate to simplify reading, writing and converting between a variety of audio formats.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [helpermedia/beamer](https://github.com/helpermedia/beamer)
+  > A Rust framework for building Audio Unit (AU) and VST3 audio plugins with WebView-based GUIs.
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [helpermedia/beamer](https://github.com/helpermedia/beamer) to [johndpope/beamer2](https://github.com/johndpope/beamer2)
+  > A Rust framework for building Audio Unit (AU) and VST3 audio plugins with WebView-based GUIs.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [jadujoel/rs-vst-host](https://github.com/jadujoel/rs-vst-host)
+  > Rust Vst Host
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [jadujoel/rs-vst-host](https://github.com/jadujoel/rs-vst-host) to [johndpope/rs-vst-host](https://github.com/johndpope/rs-vst-host)
+  > Rust Vst Host
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [planetscale/skills](https://github.com/planetscale/skills)
@@ -47,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 06:17:05 UTC*
+*Last updated at 2026-07-05 07:58:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
