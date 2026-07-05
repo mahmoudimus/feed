@@ -13,6 +13,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > agent multiplexer that lives in your terminal.
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
   > Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibil...
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [steipete/meowcaller](https://github.com/steipete/meowcaller)
+  > WhatsApp VoIP Go library for whatsmeow
 
 ### [eleanor-em](https://github.com/eleanor-em)
 - 🍴 👤 [eleanor-em](https://github.com/eleanor-em) Forked [faratech/htop-win](https://github.com/faratech/htop-win) to [eleanor-em/htop-win-no-update](https://github.com/eleanor-em/htop-win-no-update)
@@ -43,6 +45,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [heinermann](https://github.com/heinermann)
 - 🌟 👤 [heinermann](https://github.com/heinermann) Starred [Mesh2Motion/mesh2motion-app](https://github.com/Mesh2Motion/mesh2motion-app)
   > Import a 3D Model and automatically assign and export animations
+
+### [izuzak](https://github.com/izuzak)
+- 🌟 👤 [izuzak](https://github.com/izuzak) Starred [vroonhof/opensteuerauszug](https://github.com/vroonhof/opensteuerauszug)
+  > Tool to generate swiss e-steuerauszug from banking exports
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [gin66/rusthesia](https://github.com/gin66/rusthesia)
@@ -93,6 +99,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Complete single-Spark AI agent stack: Qwen 122B + Hermes + Honcho on one DGX Spark
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/container](https://github.com/aerovato/container)
   > Safely run OpenCode, Codex, Claude Code with full permissions.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter)
+  > A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pydantic/monty](https://github.com/pydantic/monty)
@@ -107,9 +115,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/subprocessor-tracker-public](https://github.com/rand-tech/subprocessor-tracker-public) public
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [koba-e964/git-zcrypt](https://github.com/koba-e964/git-zcrypt)
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
+  > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [mazeworks-security/Simplifier](https://github.com/mazeworks-security/Simplifier)
+  > Efficient general mixed boolean-arithmetic (MBA) simplifier
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [json-e/json-e](https://github.com/json-e/json-e)
+  > A data-structure parameterization system written for embedding context in JSON objects
+
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [adamrk/tonic-rpc](https://github.com/adamrk/tonic-rpc)
   > Build RPCs on top of the tonic gRPC library by defining your types in Rust instead of proto.
+
+### [vladmihalcea](https://github.com/vladmihalcea)
+- 🌟 👤 [vladmihalcea](https://github.com/vladmihalcea) Starred [AnghelLeonard/Hibernate-SpringBoot-4](https://github.com/AnghelLeonard/Hibernate-SpringBoot-4)
+  > Collection of 300+ best practices for Java persistence performance in Spring Boot 4 applications
 
 
 <!-- nav -->
@@ -117,7 +139,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 13:29:11 UTC*
+*Last updated at 2026-07-05 14:30:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
