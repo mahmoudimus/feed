@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AlexsJones](https://github.com/AlexsJones)
+- 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [autonomous-ai/autonomous-computer](https://github.com/autonomous-ai/autonomous-computer)
+  > The future of AI is local. Time to build your own Personal AI Computer.
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [aws-samples/sample-bedrock-api-proxy](https://github.com/aws-samples/sample-bedrock-api-proxy) to [NyaMisty/sample-bedrock-api-proxy](https://github.com/NyaMisty/sample-bedrock-api-proxy)
 
@@ -56,6 +60,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [heinermann](https://github.com/heinermann)
 - 🌟 👤 [heinermann](https://github.com/heinermann) Starred [Mesh2Motion/mesh2motion-app](https://github.com/Mesh2Motion/mesh2motion-app)
   > Import a 3D Model and automatically assign and export animations
+
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [emoose/xbox-reversing](https://github.com/emoose/xbox-reversing)
+  > Information & parsers for some under-documented Xbox360 structures/file formats (STFS/GDFX/XDBF/XEX....
 
 ### [izuzak](https://github.com/izuzak)
 - 🌟 👤 [izuzak](https://github.com/izuzak) Starred [vroonhof/opensteuerauszug](https://github.com/vroonhof/opensteuerauszug)
@@ -148,10 +156,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [mazeworks-security/Simplifier](https://github.com/mazeworks-security/Simplifier)
   > Efficient general mixed boolean-arithmetic (MBA) simplifier
 
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [json-e/json-e](https://github.com/json-e/json-e)
-  > A data-structure parameterization system written for embedding context in JSON objects
-
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [adamrk/tonic-rpc](https://github.com/adamrk/tonic-rpc)
   > Build RPCs on top of the tonic gRPC library by defining your types in Rust instead of proto.
@@ -166,7 +170,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 19:27:53 UTC*
+*Last updated at 2026-07-05 20:22:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
