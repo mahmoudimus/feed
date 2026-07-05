@@ -1,135 +1,28 @@
-# Daily GitHub Activity (2026-07-04)
+# Daily GitHub Activity (2026-07-05)
 
 <!-- nav -->
-[← 2026-07-03](archive/2026/07/03.md)
+[← 2026-07-04](archive/2026/07/04.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Egerion](https://github.com/Egerion)
-- 🌟 👤 [Egerion](https://github.com/Egerion) Starred [WilliamESE/bwm-plugin](https://github.com/WilliamESE/bwm-plugin)
-
-### [Hellblazer](https://github.com/Hellblazer)
-- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [ming-afk/recall_certify_hnsw](https://github.com/ming-afk/recall_certify_hnsw) to [Hellblazer/recall_certify_hnsw](https://github.com/Hellblazer/recall_certify_hnsw)
-
-### [Xe](https://github.com/Xe)
-- 🍴 👤 [Xe](https://github.com/Xe) Forked [ircnet/ircd](https://github.com/ircnet/ircd) to [Xe/ircnet-ircd](https://github.com/Xe/ircnet-ircd)
-
-### [antifuchs](https://github.com/antifuchs)
-- 🍴 👤 [antifuchs](https://github.com/antifuchs) Forked [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) to [antifuchs/home-assistant.io](https://github.com/antifuchs/home-assistant.io)
-  > :blue_book: Home Assistant User documentation
-
-### [donvito](https://github.com/donvito)
-- 🍴 👤 [donvito](https://github.com/donvito) Forked [mem0ai/mem0](https://github.com/mem0ai/mem0) to [donvito/mem0](https://github.com/donvito/mem0)
-  > Universal memory layer for AI Agents
-- 🍴 👤 [donvito](https://github.com/donvito) Forked [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) to [donvito/hermes-agent](https://github.com/donvito/hermes-agent)
-  > The agent that grows with you
-
-### [dustinblackman](https://github.com/dustinblackman)
-- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler)
-  > OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces nati...
-
-### [emcfarlane](https://github.com/emcfarlane)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [NVIDIA-RTX/NRD](https://github.com/NVIDIA-RTX/NRD)
-  > NVIDIA Real-time Denoising (NRD) library
-
-### [eroh92](https://github.com/eroh92)
-- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
-  > Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A l...
-- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [shannhk/hermes-agent-control-room](https://github.com/shannhk/hermes-agent-control-room)
-  > Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and or...
-
 ### [fangpenlin](https://github.com/fangpenlin)
-- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [pyapp-kit/psygnal](https://github.com/pyapp-kit/psygnal)
-  > Python observer pattern (callback/event system).  Modeled after Qt Signals & Slots (but independent ...
-- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [microsoft/debugpy](https://github.com/microsoft/debugpy)
-  > An implementation of the Debug Adapter Protocol for Python
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh)
+  > zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends tradit...
 
-### [frol](https://github.com/frol)
-- 🌟 👤 [frol](https://github.com/frol) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
-  > Entirety of `rustc`, translated to C. 
-- 🌟 👤 [frol](https://github.com/frol) Starred [0xjesus/near_dart](https://github.com/0xjesus/near_dart)
-  > Complete NEAR Protocol SDK for Flutter/Dart
-
-### [hasherezade](https://github.com/hasherezade)
-- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
-  > A powerful obfuscator for JavaScript and Node.js
-
-### [ioncodes](https://github.com/ioncodes)
-- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HarryR/z80ai](https://github.com/HarryR/z80ai)
-  > Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train con...
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [dakra/sodium.el](https://github.com/dakra/sodium.el)
-  > Emacs bindings for libsodium
-
-### [laurci](https://github.com/laurci)
-- 🌟 👤 [laurci](https://github.com/laurci) Starred [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
-  > LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MO...
-
-### [mingrammer](https://github.com/mingrammer)
-- 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
-  > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-
-### [mitsuakki](https://github.com/mitsuakki)
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [AslakOffi/opsec-lint](https://github.com/AslakOffi/opsec-lint)
-  > Lint your text for OPSEC leaks before posting — detects timezones, locations, emails, API keys, syst...
-
-### [moriyoshi](https://github.com/moriyoshi)
-- 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer)
-  > Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
-  > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [open-webui/open-terminal](https://github.com/open-webui/open-terminal)
-  > A computer you can curl ⚡
-
-### [mzpqnxow](https://github.com/mzpqnxow)
-- 🌟 👤 [mzpqnxow](https://github.com/mzpqnxow) Starred [steve-chavez/CParseC](https://github.com/steve-chavez/CParseC)
-  > Single header Parser Combinators for C
-- 🌟 👤 [mzpqnxow](https://github.com/mzpqnxow) Starred [0xdea/ttyinject-rs](https://github.com/0xdea/ttyinject-rs)
-  > Linux local privilege escalation via TIOCSTI tty injection.
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [apple/pkl](https://github.com/apple/pkl)
-  > A configuration as code language with rich validation and tooling.
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cachix/cloud.devenv.sh](https://github.com/cachix/cloud.devenv.sh)
-  > What if GitHub Actions were local-first and built using Nix?
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mistralai/LeanstralSafeVerify](https://github.com/mistralai/LeanstralSafeVerify)
-  > Leanstral's fork of SafeVerify, which we use for code agent training and as part of our evaluation s...
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
-  > Your own search engine
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [PrimeIntellect-ai/renderers](https://github.com/PrimeIntellect-ai/renderers)
-  > Programmable chat templates for LLM training and inference.
-
-### [nmarasoiu](https://github.com/nmarasoiu)
-- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ibis-project/ibis](https://github.com/ibis-project/ibis) to [nmarasoiu/ibis](https://github.com/nmarasoiu/ibis)
-  > the portable Python dataframe library
-
-### [sfinktah](https://github.com/sfinktah)
-- 🍴 👤 [sfinktah](https://github.com/sfinktah) Forked [BottingRocks/Incapsula](https://github.com/BottingRocks/Incapsula) to [sfinktah/Incapsula](https://github.com/sfinktah/Incapsula)
-  > Incapsula Payload Generator for Reese84 and __utmvc
-
-### [smourier](https://github.com/smourier)
-- 🚀 👤 [smourier](https://github.com/smourier) Made [smourier/Melusyn](https://github.com/smourier/Melusyn) public
-  > A tool that creates mermaid markdown files from Visual Studio solution and/or MsBuild projects.
-
-### [xeioex](https://github.com/xeioex)
-- 🌟 👤 [xeioex](https://github.com/xeioex) Starred [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)
-  > Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL...
-- 🌟 👤 [xeioex](https://github.com/xeioex) Starred [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring)
-  > The `io_uring` library for Rust
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [planetscale/skills](https://github.com/planetscale/skills)
+  > Skills that help you configure and get the most out of PlanetScale
 
 
 <!-- nav -->
-[← 2026-07-03](archive/2026/07/03.md)
+[← 2026-07-04](archive/2026/07/04.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 23:18:36 UTC*
+*Last updated at 2026-07-05 00:20:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
