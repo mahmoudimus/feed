@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
+  > agent multiplexer that lives in your terminal.
+
+### [eleanor-em](https://github.com/eleanor-em)
+- 🍴 👤 [eleanor-em](https://github.com/eleanor-em) Forked [faratech/htop-win](https://github.com/faratech/htop-win) to [eleanor-em/htop-win-no-update](https://github.com/eleanor-em/htop-win-no-update)
+  > htop for Windows: inspired interactive process viewer for Windows, written in Rust
+
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh)
   > zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends tradit...
@@ -21,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen)
   > A Swift command line tool for generating your Xcode project
+- 🌟 👤 [frol](https://github.com/frol) Starred [lucid-softworks/browser](https://github.com/lucid-softworks/browser)
+  > A web browser written from scratch — a platform-agnostic Rust engine (networking, HTML/CSS parsing, ...
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [jerus-org/cull-gmail](https://github.com/jerus-org/cull-gmail)
@@ -73,6 +83,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > DSpark-style speculative decoding draft head for Qwen3.6-27B AEON: training recipe, paired eval harn...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marksunner/dgx-spark-single-stack](https://github.com/marksunner/dgx-spark-single-stack)
   > Complete single-Spark AI agent stack: Qwen 122B + Hermes + Honcho on one DGX Spark
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/container](https://github.com/aerovato/container)
+  > Safely run OpenCode, Codex, Claude Code with full permissions.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pydantic/monty](https://github.com/pydantic/monty)
@@ -85,6 +97,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🚀 👤 [rand-tech](https://github.com/rand-tech) Made [rand-tech/subprocessor-tracker-public](https://github.com/rand-tech/subprocessor-tracker-public) public
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [koba-e964/git-zcrypt](https://github.com/koba-e964/git-zcrypt)
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [adamrk/tonic-rpc](https://github.com/adamrk/tonic-rpc)
@@ -96,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 10:41:38 UTC*
+*Last updated at 2026-07-05 11:29:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
