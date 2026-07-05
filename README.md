@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibil...
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [steipete/meowcaller](https://github.com/steipete/meowcaller)
   > WhatsApp VoIP Go library for whatsmeow
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [rayfish/rayfish](https://github.com/rayfish/rayfish)
+  > P2P mesh VPN powered by iroh
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
+  > Local-first session search, analytics, insights, and token use statistics for coding agents, support...
 
 ### [eleanor-em](https://github.com/eleanor-em)
 - 🍴 👤 [eleanor-em](https://github.com/eleanor-em) Forked [faratech/htop-win](https://github.com/faratech/htop-win) to [eleanor-em/htop-win-no-update](https://github.com/eleanor-em/htop-win-no-update)
@@ -149,7 +153,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 16:20:22 UTC*
+*Last updated at 2026-07-05 17:24:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
