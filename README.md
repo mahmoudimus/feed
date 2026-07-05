@@ -8,6 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [aws-samples/sample-bedrock-api-proxy](https://github.com/aws-samples/sample-bedrock-api-proxy) to [NyaMisty/sample-bedrock-api-proxy](https://github.com/NyaMisty/sample-bedrock-api-proxy)
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
   > agent multiplexer that lives in your terminal.
@@ -19,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > P2P mesh VPN powered by iroh
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
   > Local-first session search, analytics, insights, and token use statistics for coding agents, support...
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim)
+  > 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supp...
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [cloudmanic/herdr-plus](https://github.com/cloudmanic/herdr-plus)
+  > An extension for herdr, built as a first-class herdr plugin — a collection of tools that make it bet...
 
 ### [eleanor-em](https://github.com/eleanor-em)
 - 🍴 👤 [eleanor-em](https://github.com/eleanor-em) Forked [faratech/htop-win](https://github.com/faratech/htop-win) to [eleanor-em/htop-win-no-update](https://github.com/eleanor-em/htop-win-no-update)
@@ -82,10 +89,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [planetscale/skills](https://github.com/planetscale/skills)
   > Skills that help you configure and get the most out of PlanetScale
 
-### [lucidrains](https://github.com/lucidrains)
-- 🍴 👤 [lucidrains](https://github.com/lucidrains) Forked [Pebaz/nimporter](https://github.com/Pebaz/nimporter) to [lucidrains/nimporter](https://github.com/lucidrains/nimporter)
-  > Compile Nim Extensions for Python On Import!
-
 ### [mekanix](https://github.com/mekanix)
 - 🍴 👤 [mekanix](https://github.com/mekanix) Forked [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) to [mekanix/hydro](https://github.com/mekanix/hydro)
   > Ultra-pure, lag-free prompt with async Git status—just for Fish
@@ -109,6 +112,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Safely run OpenCode, Codex, Claude Code with full permissions.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter)
   > A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
+  > MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pydantic/monty](https://github.com/pydantic/monty)
@@ -153,7 +159,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 17:24:24 UTC*
+*Last updated at 2026-07-05 18:19:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
