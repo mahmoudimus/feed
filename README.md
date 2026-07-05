@@ -46,6 +46,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [jadujoel/rs-vst-host](https://github.com/jadujoel/rs-vst-host) to [johndpope/rs-vst-host](https://github.com/johndpope/rs-vst-host)
   > Rust Vst Host
 
+### [kevaundray](https://github.com/kevaundray)
+- 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [levs57/hashcaster2](https://github.com/levs57/hashcaster2) to [kevaundray/hashcaster2](https://github.com/kevaundray/hashcaster2)
+  > Newfanged RMFE in polynomials.
+
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [planetscale/skills](https://github.com/planetscale/skills)
   > Skills that help you configure and get the most out of PlanetScale
@@ -65,6 +69,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/Aeon-Bench-Pod](https://github.com/AEON-7/Aeon-Bench-Pod)
   > Run the AEON Bench suite on your own hardware: verified HuggingFace pull → serve → benchmark (text ·...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/dspark-aeon-27b](https://github.com/hikarioyama/dspark-aeon-27b)
+  > DSpark-style speculative decoding draft head for Qwen3.6-27B AEON: training recipe, paired eval harn...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marksunner/dgx-spark-single-stack](https://github.com/marksunner/dgx-spark-single-stack)
+  > Complete single-Spark AI agent stack: Qwen 122B + Hermes + Honcho on one DGX Spark
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pydantic/monty](https://github.com/pydantic/monty)
@@ -88,7 +96,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 09:09:56 UTC*
+*Last updated at 2026-07-05 10:41:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
