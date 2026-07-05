@@ -15,6 +15,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [aws-samples/sample-bedrock-api-proxy](https://github.com/aws-samples/sample-bedrock-api-proxy) to [NyaMisty/sample-bedrock-api-proxy](https://github.com/NyaMisty/sample-bedrock-api-proxy)
 
+### [assarbad](https://github.com/assarbad)
+- 🌟 👤 [assarbad](https://github.com/assarbad) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+- 🌟 👤 [assarbad](https://github.com/assarbad) Starred [gtker/pe_info](https://github.com/gtker/pe_info)
+  > Archived. https://github.com/horsicq/Detect-It-Easy and https://github.com/dishather/richprint are p...
+- 🌟 👤 [assarbad](https://github.com/assarbad) Starred [AbdouRoumi/PE_Inspector](https://github.com/AbdouRoumi/PE_Inspector)
+  > A powerful PE file inspector for analyzing Portable Executable binaries, providing detailed insights...
+- 🌟 👤 [assarbad](https://github.com/assarbad) Starred [celzero/rethink-app](https://github.com/celzero/rethink-app)
+  > DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection track...
+- 🌟 👤 [assarbad](https://github.com/assarbad) Starred [celzero/docs](https://github.com/celzero/docs)
+  > API, Manual, Tutorial for RethinkDNS + Firewall
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
   > agent multiplexer that lives in your terminal.
@@ -170,7 +182,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 20:22:22 UTC*
+*Last updated at 2026-07-05 21:20:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
