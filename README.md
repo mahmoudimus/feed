@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh)
   > zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends tradit...
 
+### [heinermann](https://github.com/heinermann)
+- 🌟 👤 [heinermann](https://github.com/heinermann) Starred [Mesh2Motion/mesh2motion-app](https://github.com/Mesh2Motion/mesh2motion-app)
+  > Import a 3D Model and automatically assign and export animations
+
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [planetscale/skills](https://github.com/planetscale/skills)
   > Skills that help you configure and get the most out of PlanetScale
@@ -22,7 +26,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 00:20:29 UTC*
+*Last updated at 2026-07-05 01:32:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
