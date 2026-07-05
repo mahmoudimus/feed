@@ -33,6 +33,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A Swift command line tool for generating your Xcode project
 - 🌟 👤 [frol](https://github.com/frol) Starred [lucid-softworks/browser](https://github.com/lucid-softworks/browser)
   > A web browser written from scratch — a platform-agnostic Rust engine (networking, HTML/CSS parsing, ...
+- 🌟 👤 [frol](https://github.com/frol) Starred [zino-rs/zino](https://github.com/zino-rs/zino)
+  > Spec-driven framework for composable applications in Rust.
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [jerus-org/cull-gmail](https://github.com/jerus-org/cull-gmail)
@@ -115,7 +117,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 12:24:21 UTC*
+*Last updated at 2026-07-05 13:29:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
