@@ -89,6 +89,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [planetscale/skills](https://github.com/planetscale/skills)
   > Skills that help you configure and get the most out of PlanetScale
 
+### [maikel233](https://github.com/maikel233)
+- 🍴 👤 [maikel233](https://github.com/maikel233) Forked [mweimerskirch/lovelace-hacomfoairmqtt](https://github.com/mweimerskirch/lovelace-hacomfoairmqtt) to [maikel233/lovelace-hacomfoairmqtt](https://github.com/maikel233/lovelace-hacomfoairmqtt)
+- 🍴 👤 [maikel233](https://github.com/maikel233) Forked [TimWeyand/lovelace-comfoair](https://github.com/TimWeyand/lovelace-comfoair) to [maikel233/lovelace-comfoair](https://github.com/maikel233/lovelace-comfoair)
+  > Homeassistant Lovelace Comfoair card  
+
 ### [mekanix](https://github.com/mekanix)
 - 🍴 👤 [mekanix](https://github.com/mekanix) Forked [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) to [mekanix/hydro](https://github.com/mekanix/hydro)
   > Ultra-pure, lag-free prompt with async Git status—just for Fish
@@ -115,6 +120,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
   > MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Patvessel/ComfyUI-krea2_projector_delta](https://github.com/Patvessel/ComfyUI-krea2_projector_delta)
+  > This is a custom node for the Krea2 model with a variable dynamic Delta value, designed to integrate...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pydantic/monty](https://github.com/pydantic/monty)
@@ -159,7 +166,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 18:19:09 UTC*
+*Last updated at 2026-07-05 19:27:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
