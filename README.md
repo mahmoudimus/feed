@@ -50,18 +50,32 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
   > Entirety of `rustc`, translated to C. 
+- 🌟 👤 [frol](https://github.com/frol) Starred [0xjesus/near_dart](https://github.com/0xjesus/near_dart)
+  > Complete NEAR Protocol SDK for Flutter/Dart
 
 ### [hasherezade](https://github.com/hasherezade)
 - 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
   > A powerful obfuscator for JavaScript and Node.js
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HarryR/z80ai](https://github.com/HarryR/z80ai)
+  > Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train con...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [dakra/sodium.el](https://github.com/dakra/sodium.el)
   > Emacs bindings for libsodium
 
+### [laurci](https://github.com/laurci)
+- 🌟 👤 [laurci](https://github.com/laurci) Starred [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
+  > LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MO...
+
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [AslakOffi/opsec-lint](https://github.com/AslakOffi/opsec-lint)
+  > Lint your text for OPSEC leaks before posting — detects timezones, locations, emails, API keys, syst...
 
 ### [moriyoshi](https://github.com/moriyoshi)
 - 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer)
@@ -70,6 +84,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
   > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [open-webui/open-terminal](https://github.com/open-webui/open-terminal)
+  > A computer you can curl ⚡
 
 ### [mzpqnxow](https://github.com/mzpqnxow)
 - 🌟 👤 [mzpqnxow](https://github.com/mzpqnxow) Starred [steve-chavez/CParseC](https://github.com/steve-chavez/CParseC)
@@ -113,7 +129,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-04 22:16:44 UTC*
+*Last updated at 2026-07-04 23:18:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
