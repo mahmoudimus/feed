@@ -26,6 +26,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection track...
 - 🌟 👤 [assarbad](https://github.com/assarbad) Starred [celzero/docs](https://github.com/celzero/docs)
   > API, Manual, Tutorial for RethinkDNS + Firewall
+- 🌟 👤 [assarbad](https://github.com/assarbad) Starred [nit27/hardened-firefox](https://github.com/nit27/hardened-firefox)
+  > A guide to make Firefox more secure and privacy.
+- 🌟 👤 [assarbad](https://github.com/assarbad) Starred [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox)
+  > Firefox user.js for optimal privacy and security. Your favorite browser, but better.
+- 🌟 👤 [assarbad](https://github.com/assarbad) Starred [stefankuehnel/firefox-hardened](https://github.com/stefankuehnel/firefox-hardened)
+  > A user.js configuration file for Mozilla Firefox designed to harden browser settings and make it mor...
+- 🌟 👤 [assarbad](https://github.com/assarbad) Starred [vinland-technology/flict](https://github.com/vinland-technology/flict)
+  > free and open source software license compatibility tool.
+- 🌟 👤 [assarbad](https://github.com/assarbad) Starred [priv-kweihmann/osadl-matrix](https://github.com/priv-kweihmann/osadl-matrix)
+  > OSADL license compatibility matrix as a CSV
 
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
@@ -46,6 +56,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [eleanor-em](https://github.com/eleanor-em)
 - 🍴 👤 [eleanor-em](https://github.com/eleanor-em) Forked [faratech/htop-win](https://github.com/faratech/htop-win) to [eleanor-em/htop-win-no-update](https://github.com/eleanor-em/htop-win-no-update)
   > htop for Windows: inspired interactive process viewer for Windows, written in Rust
+
+### [eonarheim](https://github.com/eonarheim)
+- 🍴 👤 [eonarheim](https://github.com/eonarheim) Forked [milesj/docusaurus-plugin-typedoc-api](https://github.com/milesj/docusaurus-plugin-typedoc-api) to [excaliburjs/docusaurus-plugin-typedoc-api](https://github.com/excaliburjs/docusaurus-plugin-typedoc-api)
+  > Docusaurus plugin that provides source code API documentation powered by TypeDoc.
 
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh)
@@ -76,6 +90,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [emoose/xbox-reversing](https://github.com/emoose/xbox-reversing)
   > Information & parsers for some under-documented Xbox360 structures/file formats (STFS/GDFX/XDBF/XEX....
+
+### [interference-security](https://github.com/interference-security)
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [dockur/windows](https://github.com/dockur/windows)
+  > Windows inside a Docker container.
 
 ### [izuzak](https://github.com/izuzak)
 - 🌟 👤 [izuzak](https://github.com/izuzak) Starred [vroonhof/opensteuerauszug](https://github.com/vroonhof/opensteuerauszug)
@@ -167,6 +185,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [mazeworks-security/Simplifier](https://github.com/mazeworks-security/Simplifier)
   > Efficient general mixed boolean-arithmetic (MBA) simplifier
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [diabloidyobane/BlindSpot](https://github.com/diabloidyobane/BlindSpot)
+  > Reverse engineering a manually-mapped commercial cheat DLL in The Division 2. Documents the pe-sieve...
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [adamrk/tonic-rpc](https://github.com/adamrk/tonic-rpc)
@@ -182,7 +202,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 21:20:43 UTC*
+*Last updated at 2026-07-05 22:18:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
