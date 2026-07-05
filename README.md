@@ -11,6 +11,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
   > agent multiplexer that lives in your terminal.
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
+  > Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibil...
 
 ### [eleanor-em](https://github.com/eleanor-em)
 - 🍴 👤 [eleanor-em](https://github.com/eleanor-em) Forked [faratech/htop-win](https://github.com/faratech/htop-win) to [eleanor-em/htop-win-no-update](https://github.com/eleanor-em/htop-win-no-update)
@@ -55,6 +57,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Rust Vst Host
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [jadujoel/rs-vst-host](https://github.com/jadujoel/rs-vst-host) to [johndpope/rs-vst-host](https://github.com/johndpope/rs-vst-host)
   > Rust Vst Host
+
+### [kenichi-shibata](https://github.com/kenichi-shibata)
+- 🍴 👤 [kenichi-shibata](https://github.com/kenichi-shibata) Forked [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) to [kenichi-shibata/openwiki](https://github.com/kenichi-shibata/openwiki)
+  > OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
 ### [kevaundray](https://github.com/kevaundray)
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [levs57/hashcaster2](https://github.com/levs57/hashcaster2) to [kevaundray/hashcaster2](https://github.com/kevaundray/hashcaster2)
@@ -109,7 +115,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 11:29:48 UTC*
+*Last updated at 2026-07-05 12:24:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
