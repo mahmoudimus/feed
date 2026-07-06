@@ -24,13 +24,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
   > Orchestrate multiple coding agents from desktop and mobile
 
-### [emcfarlane](https://github.com/emcfarlane)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [DQLin/ReSTIR_PT](https://github.com/DQLin/ReSTIR_PT)
-  > Source Code for SIGGRAPH 2022 Paper "Generalized Resampled Importance Sampling: Foundations of ReSTI...
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
+  > cut Fable 5 token usage by rendering text context as images
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
+  > Easily create full virtual machines that are sandboxed for development or computer use models.
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce)
   > GPUI – Community Edition
+
+### [jpalanco](https://github.com/jpalanco)
+- 🍴 👤 [jpalanco](https://github.com/jpalanco) Forked [HalalifyMusic/fable-mode](https://github.com/HalalifyMusic/fable-mode) to [jpalanco/fable-mode](https://github.com/jpalanco/fable-mode)
+  > Run Claude Fable 5 on Opus 4.8 in Claude Code. The Mythos-class model pulled by export controls — br...
 
 ### [ludoch](https://github.com/ludoch)
 - 🍴 👤 [ludoch](https://github.com/ludoch) Forked [SynthstromAudible/DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware) to [trudaine/DelugeFirmware](https://github.com/trudaine/DelugeFirmware)
@@ -38,6 +44,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [mohamed-barakat](https://github.com/mohamed-barakat)
 - 🌟 👤 [mohamed-barakat](https://github.com/mohamed-barakat) Starred [codyroux/name-the-biggest-number](https://github.com/codyroux/name-the-biggest-number)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers)
+  > Implements harmful/harmless refusal removal using pure HF Transformers
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions)
@@ -65,7 +75,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-06 13:08:59 UTC*
+*Last updated at 2026-07-06 15:01:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
