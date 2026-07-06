@@ -15,10 +15,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Clivern](https://github.com/Clivern)
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [qualixar/superlocalmemory](https://github.com/qualixar/superlocalmemory)
   > World's first local-only AI memory to break 74% retrieval and 60% zero-LLM on LoCoMo. No cloud, no A...
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router)
+  > Superfast AI decision making and intelligent processing of multi-modal data.
 
 ### [Naville](https://github.com/Naville)
 - 🍴 👤 [Naville](https://github.com/Naville) Forked [pre-commit/identify](https://github.com/pre-commit/identify) to [Naville/identify](https://github.com/Naville/identify)
   > File identification library for Python
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
@@ -43,6 +49,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > cut Fable 5 token usage by rendering text context as images
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
   > Easily create full virtual machines that are sandboxed for development or computer use models.
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)
+  >  Open-source framework for conversational voice AI agents
+
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [yoavst/Graffiti](https://github.com/yoavst/Graffiti)
+  > Create customized callgraph directly from your favorite IDE
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce)
@@ -102,6 +116,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [asmjit/asmjit](https://github.com/asmjit/asmjit)
   > Low-latency machine code generation
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [LLVMParty/loki](https://github.com/LLVMParty/loki)
+  > [Fork] Hardening code obfuscation against automated attacks
 
 ### [xhochy](https://github.com/xhochy)
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/ssh-audit-feedstock](https://github.com/conda-forge/ssh-audit-feedstock) to [xhochy/ssh-audit-feedstock](https://github.com/xhochy/ssh-audit-feedstock)
@@ -121,7 +137,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-06 17:53:42 UTC*
+*Last updated at 2026-07-06 18:34:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
