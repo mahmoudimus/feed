@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [spiritov/ds.css](https://github.com/spiritov/ds.css)
   > A css framework recreating the DS / DS Lite's UI
 
+### [dibyendumajumdar](https://github.com/dibyendumajumdar)
+- 🍴 👤 [dibyendumajumdar](https://github.com/dibyendumajumdar) Forked [danluu/gnu-pth](https://github.com/danluu/gnu-pth) to [dibyendumajumdar/gnu-pth](https://github.com/dibyendumajumdar/gnu-pth)
+  > Copy of latest source from http://ftp.gnu.org/gnu/pth/
+
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [Zydak/Vulkan-Path-Tracer](https://github.com/Zydak/Vulkan-Path-Tracer)
   > Vulkan Path Tracer. Physically based path tracer made in Vulkan with Ray Tracing Pipeline.
@@ -43,6 +47,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce)
   > GPUI – Community Edition
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [KyleBing/retro-game-console-icons](https://github.com/KyleBing/retro-game-console-icons)
+  > A collection of retro game console icons, available in various sizes. .png  怀旧游戏机图标
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [KyleBing/retro-game-console-icons](https://github.com/KyleBing/retro-game-console-icons) to [ioncodes/retro-game-console-icons](https://github.com/ioncodes/retro-game-console-icons)
+  > A collection of retro game console icons, available in various sizes. .png  怀旧游戏机图标
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [WebAssembly/wabt](https://github.com/WebAssembly/wabt) to [dip-proto/wabt](https://github.com/dip-proto/wabt)
@@ -72,6 +80,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Implements harmful/harmless refusal removal using pure HF Transformers
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dreamfast/ungguf](https://github.com/dreamfast/ungguf)
   > GGUF -> Safetensor converter
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [confident-ai/deepeval](https://github.com/confident-ai/deepeval)
+  > The LLM Evaluation Framework
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [centerforaisafety/HarmBench](https://github.com/centerforaisafety/HarmBench)
+  > HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal
 
 ### [nathanfaucett](https://github.com/nathanfaucett)
 - 🍴 👤 [nathanfaucett](https://github.com/nathanfaucett) Forked [tursodatabase/libsql](https://github.com/tursodatabase/libsql) to [nathanfaucett/libsql](https://github.com/nathanfaucett/libsql)
@@ -109,7 +121,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-06 16:58:00 UTC*
+*Last updated at 2026-07-06 17:53:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
