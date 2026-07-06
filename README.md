@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [AlexsJones/repo-steward](https://github.com/AlexsJones/repo-steward)
   > An autonomous agent for open-source repository management — triages issues, reviews PRs across itera...
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [qualixar/superlocalmemory](https://github.com/qualixar/superlocalmemory)
+  > World's first local-only AI memory to break 74% retrieval and 60% zero-LLM on LoCoMo. No cloud, no A...
+
 ### [Naville](https://github.com/Naville)
 - 🍴 👤 [Naville](https://github.com/Naville) Forked [pre-commit/identify](https://github.com/pre-commit/identify) to [Naville/identify](https://github.com/Naville/identify)
   > File identification library for Python
@@ -47,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [asmjit/asmjit](https://github.com/asmjit/asmjit)
   > Low-latency machine code generation
 
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/ssh-audit-feedstock](https://github.com/conda-forge/ssh-audit-feedstock) to [xhochy/ssh-audit-feedstock](https://github.com/xhochy/ssh-audit-feedstock)
+  > A conda-smithy repository for ssh-audit.
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
   > autonomous red teaming platform; multi-agent offensive-security meta-harness
@@ -57,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-06 11:29:13 UTC*
+*Last updated at 2026-07-06 13:08:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
