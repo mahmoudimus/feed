@@ -30,6 +30,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
   > Orchestrate multiple coding agents from desktop and mobile
 
+### [TheTom](https://github.com/TheTom)
+- 🍴 👤 [TheTom](https://github.com/TheTom) Forked [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) to [TheTom/hermes-agent](https://github.com/TheTom/hermes-agent)
+  > The agent that grows with you
+
+### [ThomasVitale](https://github.com/ThomasVitale)
+- 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [stubborn-sh/stubborn-contract](https://github.com/stubborn-sh/stubborn-contract)
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [spiritov/ds.css](https://github.com/spiritov/ds.css)
   > A css framework recreating the DS / DS Lite's UI
@@ -70,6 +77,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [WebAssembly/wabt](https://github.com/WebAssembly/wabt) to [dip-proto/wabt](https://github.com/dip-proto/wabt)
   > The WebAssembly Binary Toolkit
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [George930502/Disentangled-Motion-Diffusion-for-Long-Form-Voice-Driven-Portrait-Animation](https://github.com/George930502/Disentangled-Motion-Diffusion-for-Long-Form-Voice-Driven-Portrait-Animation)
+  > Source Code for the paper "Disentangled Motion Diffusion for Long-Form Voice-Driven Portrait Animati...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [George930502/Disentangled-Motion-Diffusion-for-Long-Form-Voice-Driven-Portrait-Animation](https://github.com/George930502/Disentangled-Motion-Diffusion-for-Long-Form-Voice-Driven-Portrait-Animation) to [johndpope/Disentangled-Motion-Diffusion-for-Long-Form-Voice-Driven-Portrait-Animation](https://github.com/johndpope/Disentangled-Motion-Diffusion-for-Long-Form-Voice-Driven-Portrait-Animation)
+  > Source Code for the paper "Disentangled Motion Diffusion for Long-Form Voice-Driven Portrait Animati...
+
 ### [jpalanco](https://github.com/jpalanco)
 - 🍴 👤 [jpalanco](https://github.com/jpalanco) Forked [HalalifyMusic/fable-mode](https://github.com/HalalifyMusic/fable-mode) to [jpalanco/fable-mode](https://github.com/jpalanco/fable-mode)
   > Run Claude Fable 5 on Opus 4.8 in Claude Code. The Mythos-class model pulled by export controls — br...
@@ -98,6 +111,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The LLM Evaluation Framework
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [centerforaisafety/HarmBench](https://github.com/centerforaisafety/HarmBench)
   > HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eugr/llama-benchy](https://github.com/eugr/llama-benchy)
+  > llama-benchy - llama-bench style benchmarking tool for all backends
 
 ### [nathanfaucett](https://github.com/nathanfaucett)
 - 🍴 👤 [nathanfaucett](https://github.com/nathanfaucett) Forked [tursodatabase/libsql](https://github.com/tursodatabase/libsql) to [nathanfaucett/libsql](https://github.com/nathanfaucett/libsql)
@@ -109,6 +124,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [AttemorySystem/Attemory](https://github.com/AttemorySystem/Attemory)
   > Semantic retrieval for AI agents: high-recall memory and code search that cuts coding-agent token us...
 
+### [pdroalves](https://github.com/pdroalves)
+- 🌟 👤 [pdroalves](https://github.com/pdroalves) Starred [domferr/Linux-PowerToys](https://github.com/domferr/Linux-PowerToys)
+  > Get Microsoft's PowerToys utilities and much more to Linux world!
+
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)
   > A list of free LLM inference resources accessible via API.
@@ -118,6 +137,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Low-latency machine code generation
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [LLVMParty/loki](https://github.com/LLVMParty/loki)
   > [Fork] Hardening code obfuscation against automated attacks
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [arminbiere/cadical](https://github.com/arminbiere/cadical)
+  > CaDiCaL SAT Solver
 
 ### [xhochy](https://github.com/xhochy)
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/ssh-audit-feedstock](https://github.com/conda-forge/ssh-audit-feedstock) to [xhochy/ssh-audit-feedstock](https://github.com/xhochy/ssh-audit-feedstock)
@@ -137,7 +160,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-06 18:34:39 UTC*
+*Last updated at 2026-07-06 19:30:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
