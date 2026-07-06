@@ -64,6 +64,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [yoavst/Graffiti](https://github.com/yoavst/Graffiti)
   > Create customized callgraph directly from your favorite IDE
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [Kaliiiiiiiiii-Vinyzu/patchright-python](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python)
+  > Undetected Python version of the Playwright testing and automation library. 
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce)
@@ -94,6 +96,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ludoch](https://github.com/ludoch)
 - 🍴 👤 [ludoch](https://github.com/ludoch) Forked [SynthstromAudible/DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware) to [trudaine/DelugeFirmware](https://github.com/trudaine/DelugeFirmware)
   > Firmware for the Synthstrom Audible Deluge
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [cloudfoundry/servicebroker](https://github.com/cloudfoundry/servicebroker)
+  > Open Service Broker API Specification
 
 ### [mksh](https://github.com/mksh)
 - 🌟 👤 [mksh](https://github.com/mksh) Starred [op7418/logo-generator-skill](https://github.com/op7418/logo-generator-skill)
@@ -138,6 +144,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [LLVMParty/loki](https://github.com/LLVMParty/loki)
   > [Fork] Hardening code obfuscation against automated attacks
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [rayfish/rayfish](https://github.com/rayfish/rayfish)
+  > P2P mesh VPN powered by iroh
+
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [arminbiere/cadical](https://github.com/arminbiere/cadical)
   > CaDiCaL SAT Solver
@@ -160,7 +170,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-06 19:30:40 UTC*
+*Last updated at 2026-07-06 20:34:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
