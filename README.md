@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AXDOOMER](https://github.com/AXDOOMER)
+- 🌟 👤 [AXDOOMER](https://github.com/AXDOOMER) Starred [bridgecrewio/checkov-action](https://github.com/bridgecrewio/checkov-action)
+  > This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container imag...
+
 ### [AlexsJones](https://github.com/AlexsJones)
 - 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [AlexsJones/repo-steward](https://github.com/AlexsJones/repo-steward)
   > An autonomous agent for open-source repository management — triages issues, reviews PRs across itera...
@@ -56,6 +60,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > cut Fable 5 token usage by rendering text context as images
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
   > Easily create full virtual machines that are sandboxed for development or computer use models.
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools)
+  > The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and...
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework)
@@ -129,6 +135,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session histo...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [AttemorySystem/Attemory](https://github.com/AttemorySystem/Attemory)
   > Semantic retrieval for AI agents: high-recall memory and code search that cuts coding-agent token us...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [AcademySoftwareFoundation/openvdb](https://github.com/AcademySoftwareFoundation/openvdb)
+  > OpenVDB - Sparse volume data structure and tools
 
 ### [pdroalves](https://github.com/pdroalves)
 - 🌟 👤 [pdroalves](https://github.com/pdroalves) Starred [domferr/Linux-PowerToys](https://github.com/domferr/Linux-PowerToys)
@@ -160,17 +168,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [yegor256](https://github.com/yegor256) Starred [illyar80/developer-farm](https://github.com/illyar80/developer-farm)
   > Goodhart-proof AI coding pipeline with architectural isolation
 
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
-  > autonomous red teaming platform; multi-agent offensive-security meta-harness
-
 
 <!-- nav -->
 [← 2026-07-05](archive/2026/07/05.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-06 20:34:54 UTC*
+*Last updated at 2026-07-06 21:29:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
