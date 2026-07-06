@@ -24,9 +24,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [DQLin/ReSTIR_PT](https://github.com/DQLin/ReSTIR_PT)
   > Source Code for SIGGRAPH 2022 Paper "Generalized Resampled Importance Sampling: Foundations of ReSTI...
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce)
+  > GPUI – Community Edition
+
 ### [ludoch](https://github.com/ludoch)
 - 🍴 👤 [ludoch](https://github.com/ludoch) Forked [SynthstromAudible/DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware) to [trudaine/DelugeFirmware](https://github.com/trudaine/DelugeFirmware)
   > Firmware for the Synthstrom Audible Deluge
+
+### [mohamed-barakat](https://github.com/mohamed-barakat)
+- 🌟 👤 [mohamed-barakat](https://github.com/mohamed-barakat) Starred [codyroux/name-the-biggest-number](https://github.com/codyroux/name-the-biggest-number)
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions)
@@ -50,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-06 09:16:29 UTC*
+*Last updated at 2026-07-06 11:29:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
