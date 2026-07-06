@@ -91,6 +91,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [emoose/xbox-reversing](https://github.com/emoose/xbox-reversing)
   > Information & parsers for some under-documented Xbox360 structures/file formats (STFS/GDFX/XDBF/XEX....
 
+### [ingydotnet](https://github.com/ingydotnet)
+- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [nooga/let-go](https://github.com/nooga/let-go) to [gloathub/let-go](https://github.com/gloathub/let-go)
+  > Almost Clojure written in Go.
+
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [dockur/windows](https://github.com/dockur/windows)
   > Windows inside a Docker container.
@@ -202,7 +206,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-05 22:18:15 UTC*
+*Last updated at 2026-07-05 23:20:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
