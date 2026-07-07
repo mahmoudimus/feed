@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [AlexsJones/repo-steward](https://github.com/AlexsJones/repo-steward)
   > An autonomous agent for open-source repository management — triages issues, reviews PRs across itera...
 
+### [BaseMax](https://github.com/BaseMax)
+- 🚀 👤 [BaseMax](https://github.com/BaseMax) Made [BaseMax/pg-to-mariadb-migrator](https://github.com/BaseMax/pg-to-mariadb-migrator) public
+  > Copies every row from a PostgreSQL database into a MySQL/MariaDB database that has the same Prisma s...
+
 ### [Clivern](https://github.com/Clivern)
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [qualixar/superlocalmemory](https://github.com/qualixar/superlocalmemory)
   > World's first local-only AI memory to break 74% retrieval and 60% zero-LLM on LoCoMo. No cloud, no A...
@@ -151,6 +155,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Low-latency machine code generation
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [LLVMParty/loki](https://github.com/LLVMParty/loki)
   > [Fork] Hardening code obfuscation against automated attacks
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [gmh5225/rustc_codegen_jvm](https://github.com/gmh5225/rustc_codegen_jvm)
+  > Toolchain to create JVM-ready Java bytecode from Rust MIR.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [IntegralPilot/rustc_codegen_jvm](https://github.com/IntegralPilot/rustc_codegen_jvm)
+  > Toolchain to create JVM-ready Java bytecode from Rust MIR.
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [rayfish/rayfish](https://github.com/rayfish/rayfish)
@@ -174,7 +182,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-06 22:24:18 UTC*
+*Last updated at 2026-07-06 23:22:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
