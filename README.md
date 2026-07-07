@@ -32,6 +32,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
   > Production-grade engineering skills for AI coding agents.
 
+### [droe](https://github.com/droe)
+- 🌟 👤 [droe](https://github.com/droe) Starred [TheRealClarity/ClearSword](https://github.com/TheRealClarity/ClearSword)
+
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [google/clusterfuzz](https://github.com/google/clusterfuzz)
   > Scalable fuzzing infrastructure.
@@ -91,6 +94,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [jerome3o/factorio-mcp](https://github.com/jerome3o/factorio-mcp)
   > Messing around with an MCP server that writes and runs lua scripts on my factorio server
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [leo-arch/clifm](https://github.com/leo-arch/clifm)
+  > 💾 The shell-like, command line terminal file manager
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [anthropics/ClaudeForFoundationModels](https://github.com/anthropics/ClaudeForFoundationModels)
   > Claude support for Apple Foundation Models
@@ -107,7 +114,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 10:09:22 UTC*
+*Last updated at 2026-07-07 11:58:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
