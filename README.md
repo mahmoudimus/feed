@@ -67,6 +67,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [frol](https://github.com/frol) Starred [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)
   > A TTS that fits in your CPU (and pocket)
 
+### [h3xstream](https://github.com/h3xstream)
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
+  > Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full s...
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [K0lin/jellyfin-plugin-sso](https://github.com/K0lin/jellyfin-plugin-sso)
+  > This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own ...
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [terrastruct/d2](https://github.com/terrastruct/d2)
+  > D2 is a modern diagram scripting language that turns text to diagrams.
+
 ### [hpk42](https://github.com/hpk42)
 - 🌟 👤 [hpk42](https://github.com/hpk42) Starred [lambadalambda/deltanet](https://github.com/lambadalambda/deltanet)
   > Single-user social network that federates over encrypted email (Delta Chat/chatmail) — Mastodon-comp...
@@ -99,6 +107,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An open source design system that's fully customizable and agent ready
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [TerminallyLazy/Tree-Ring-Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)
   > Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgett...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [doublewordai/fusillade](https://github.com/doublewordai/fusillade)
+  > Batched LLM request processing daemon with efficient request coalescing and per-model concurrency co...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bruits/satteri](https://github.com/bruits/satteri)
+  > High-performance Markdown and MDX processing for the JavaScript ecosystem
 
 ### [patrickmscott](https://github.com/patrickmscott)
 - 🍴 👤 [patrickmscott](https://github.com/patrickmscott) Forked [askama-rs/askama](https://github.com/askama-rs/askama) to [patrickmscott/askama](https://github.com/patrickmscott/askama)
@@ -129,6 +141,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [apache/ossie](https://github.com/apache/ossie)
+  > Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata ac...
+- 🍴 👤 [tspannhw](https://github.com/tspannhw) Forked [apache/ossie](https://github.com/apache/ossie) to [tspannhw/ossie](https://github.com/tspannhw/ossie)
+  > Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata ac...
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
@@ -154,7 +170,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 18:37:09 UTC*
+*Last updated at 2026-07-07 19:31:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
