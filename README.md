@@ -20,9 +20,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
   > AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Cl...
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [FredyRivera-dev/claude_converter](https://github.com/FredyRivera-dev/claude_converter)
+  > A zero-dependency Python module for inspecting and converting coding-agent session files (.jsonl) — ...
+
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [peterzakin/loopy](https://github.com/peterzakin/loopy)
   > Workflow orchestration for coding agents
+
+### [cscotta](https://github.com/cscotta)
+- 🍴 👤 [cscotta](https://github.com/cscotta) Forked [apache/cassandra-accord](https://github.com/apache/cassandra-accord) to [cscotta/cassandra-accord](https://github.com/cscotta/cassandra-accord)
+  > Accord library for Apache Cassandra®
 
 ### [dgryski](https://github.com/dgryski)
 - 🍴 👤 [dgryski](https://github.com/dgryski) Forked [tinygo-org/go-llvm](https://github.com/tinygo-org/go-llvm) to [dgryski/go-llvm](https://github.com/dgryski/go-llvm)
@@ -82,12 +90,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [TerminallyLazy/Tree-Ring-Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)
   > Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgett...
 
+### [patrickmscott](https://github.com/patrickmscott)
+- 🍴 👤 [patrickmscott](https://github.com/patrickmscott) Forked [askama-rs/askama](https://github.com/askama-rs/askama) to [patrickmscott/askama](https://github.com/patrickmscott/askama)
+  > A template rendering engine based on Jinja, generating type-safe Rust code at compile time.
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [microsoft/sre-agent](https://github.com/microsoft/sre-agent)
   > Azure SRE Agent is an AI-powered reliability assistant that helps teams diagnose and resolve product...
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [trueo-protocol/trueo-contracts](https://github.com/trueo-protocol/trueo-contracts)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [Mic92/hestia-beta](https://github.com/Mic92/hestia-beta)
+  > Beta/test release fork of hestia
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [keycloak/keycloak](https://github.com/keycloak/keycloak)
+  > Open Source Identity and Access Management For Modern Applications and Services
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [TheRealClarity/ClearSword](https://github.com/TheRealClarity/ClearSword)
@@ -120,7 +136,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 15:54:22 UTC*
+*Last updated at 2026-07-07 16:45:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
