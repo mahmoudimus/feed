@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BaseMax](https://github.com/BaseMax)
+- 🍴 👤 [BaseMax](https://github.com/BaseMax) Forked [cyrus-lang/Cyrus](https://github.com/cyrus-lang/Cyrus) to [BaseMax/Cyrus](https://github.com/BaseMax/Cyrus)
+  > Cyrus is a high-performance systems programming language with explicit syntax and semantics, minimal...
+- 🍴 👤 [BaseMax](https://github.com/BaseMax) Forked [cyrus-lang/Cyrus](https://github.com/cyrus-lang/Cyrus) to [MaxFork/Cyrus-1](https://github.com/MaxFork/Cyrus-1)
+  > Cyrus is a high-performance systems programming language with explicit syntax and semantics, minimal...
+
 ### [Houfeng](https://github.com/Houfeng)
 - 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
   > 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent become...
@@ -111,6 +117,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Batched LLM request processing daemon with efficient request coalescing and per-model concurrency co...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bruits/satteri](https://github.com/bruits/satteri)
   > High-performance Markdown and MDX processing for the JavaScript ecosystem
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [doublewordai/inference-stack](https://github.com/doublewordai/inference-stack)
+  > The Doubleword Inference Stack is the easiest & most performant way to run genAI infrastructure in y...
 
 ### [patrickmscott](https://github.com/patrickmscott)
 - 🍴 👤 [patrickmscott](https://github.com/patrickmscott) Forked [askama-rs/askama](https://github.com/askama-rs/askama) to [patrickmscott/askama](https://github.com/patrickmscott/askama)
@@ -119,6 +127,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [microsoft/sre-agent](https://github.com/microsoft/sre-agent)
   > Azure SRE Agent is an AI-powered reliability assistant that helps teams diagnose and resolve product...
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Daivuk/PureDOOM](https://github.com/Daivuk/PureDOOM)
+  > Pure DOOM - Single Header Doom Source Port
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [maximecb/uvm](https://github.com/maximecb/uvm)
+  > Fun, portable, minimalistic virtual machine.
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [trueo-protocol/trueo-contracts](https://github.com/trueo-protocol/trueo-contracts)
@@ -164,6 +178,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [anthropics/claude-tag-plugins](https://github.com/anthropics/claude-tag-plugins)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [ctxrs/ctx](https://github.com/ctxrs/ctx)
   > Search the coding agent history already on your machine
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [apple/metal-cpp](https://github.com/apple/metal-cpp)
+  > Metal-cpp is a low-overhead C++ interface for Metal
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
+  > All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Expl...
 
 ### [zserge](https://github.com/zserge)
 - 🌟 👤 [zserge](https://github.com/zserge) Starred [soycaporal/ternlight](https://github.com/soycaporal/ternlight)
@@ -174,7 +192,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 20:32:41 UTC*
+*Last updated at 2026-07-07 21:28:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
