@@ -31,6 +31,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > LM32 processor module for Ghidra. Useful for AMD SMU reverse engineering.
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [djskncxm/DuckVM](https://github.com/djskncxm/DuckVM) to [fengjixuchui/DuckVM](https://github.com/fengjixuchui/DuckVM)
   > 基于文本匹配的vmp还原思路
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [fuqiuluo/binder-trace](https://github.com/fuqiuluo/binder-trace) to [fengjixuchui/binder-trace1](https://github.com/fengjixuchui/binder-trace1)
+  > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [jarun/ddgr](https://github.com/jarun/ddgr)
+  > :duck: DuckDuckGo from the terminal
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [microsoft/pg_durable](https://github.com/microsoft/pg_durable)
+  > PostgreSQL in-database durable execution
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc)
@@ -39,6 +47,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Deterministyczny silnik kontroli i redakcji AI-generowanych polskich tekstów prawniczych — bez LLM, ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jina-ai/MCP](https://github.com/jina-ai/MCP)
   > Official Jina AI Remote MCP Server
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit)
+  > Edit your flake inputs with ease.
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [microsoft/sre-agent](https://github.com/microsoft/sre-agent)
+  > Azure SRE Agent is an AI-powered reliability assistant that helps teams diagnose and resolve product...
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [trueo-protocol/trueo-contracts](https://github.com/trueo-protocol/trueo-contracts)
@@ -61,13 +77,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [ctxrs/ctx](https://github.com/ctxrs/ctx)
   > Search the coding agent history already on your machine
 
+### [zserge](https://github.com/zserge)
+- 🌟 👤 [zserge](https://github.com/zserge) Starred [soycaporal/ternlight](https://github.com/soycaporal/ternlight)
+
 
 <!-- nav -->
 [← 2026-07-06](archive/2026/07/06.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 06:20:23 UTC*
+*Last updated at 2026-07-07 08:04:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
