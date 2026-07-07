@@ -17,6 +17,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-pre...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [empios/humanize-pl](https://github.com/empios/humanize-pl)
   > Deterministyczny silnik kontroli i redakcji AI-generowanych polskich tekstów prawniczych — bez LLM, ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jina-ai/MCP](https://github.com/jina-ai/MCP)
+  > Official Jina AI Remote MCP Server
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [abucnasty/factorio-benchmarks](https://github.com/abucnasty/factorio-benchmarks)
@@ -28,7 +30,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 00:23:18 UTC*
+*Last updated at 2026-07-07 01:31:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
