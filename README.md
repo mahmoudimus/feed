@@ -16,9 +16,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NikolajSchlej](https://github.com/NikolajSchlej) Starred [lolwheel/ifr-browser](https://github.com/lolwheel/ifr-browser)
   > Offline single-file BIOS IFR (UEFI Setup) browser & editor — parses AMI IFR dumps in-browser and gen...
 
+### [TomasVotruba](https://github.com/TomasVotruba)
+- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+  > AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Cl...
+
+### [boyney123](https://github.com/boyney123)
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [peterzakin/loopy](https://github.com/peterzakin/loopy)
+  > Workflow orchestration for coding agents
+
 ### [dgryski](https://github.com/dgryski)
 - 🍴 👤 [dgryski](https://github.com/dgryski) Forked [tinygo-org/go-llvm](https://github.com/tinygo-org/go-llvm) to [dgryski/go-llvm](https://github.com/dgryski/go-llvm)
   > Go bindings to LLVM. Used as part of TinyGo.
+
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+  > Production-grade engineering skills for AI coding agents.
 
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [google/clusterfuzz](https://github.com/google/clusterfuzz)
@@ -40,6 +52,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [microsoft/pg_durable](https://github.com/microsoft/pg_durable)
   > PostgreSQL in-database durable execution
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [ldelbreil26/coony](https://github.com/ldelbreil26/coony)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc)
   > Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-pre...
@@ -47,10 +62,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Deterministyczny silnik kontroli i redakcji AI-generowanych polskich tekstów prawniczych — bez LLM, ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jina-ai/MCP](https://github.com/jina-ai/MCP)
   > Official Jina AI Remote MCP Server
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+  > A Patch for GIMP 3+ for Photoshop Users
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit)
   > Edit your flake inputs with ease.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [facebook/astryx](https://github.com/facebook/astryx)
+  > An open source design system that's fully customizable and agent ready
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [TerminallyLazy/Tree-Ring-Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)
+  > Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgett...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [microsoft/sre-agent](https://github.com/microsoft/sre-agent)
@@ -86,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 08:04:35 UTC*
+*Last updated at 2026-07-07 10:09:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
