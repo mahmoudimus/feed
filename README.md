@@ -49,6 +49,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [fuqiuluo/binder-trace](https://github.com/fuqiuluo/binder-trace) to [fengjixuchui/binder-trace1](https://github.com/fengjixuchui/binder-trace1)
   > 🍂 Android Binder 调用观测工具, 基于内核采集 Binder transaction实现!
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)
+  > A TTS that fits in your CPU (and pocket)
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [jarun/ddgr](https://github.com/jarun/ddgr)
   > :duck: DuckDuckGo from the terminal
@@ -114,7 +118,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 11:58:11 UTC*
+*Last updated at 2026-07-07 12:56:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
