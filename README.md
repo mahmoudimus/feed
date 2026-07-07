@@ -39,9 +39,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
   > Production-grade engineering skills for AI coding agents.
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [ostris/ComfyUI-Krea2-Ostris-Edit](https://github.com/ostris/ComfyUI-Krea2-Ostris-Edit)
+  > Comfy UI Nodes for Krea 2 LoRAs trained with AI Toolkit Experimental Edit
 
 ### [droe](https://github.com/droe)
 - 🌟 👤 [droe](https://github.com/droe) Starred [TheRealClarity/ClearSword](https://github.com/TheRealClarity/ClearSword)
+
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [Henry600/Optix-Raytracer](https://github.com/Henry600/Optix-Raytracer)
+  > A standalone GPU renderer with focus on speed and fast iteration times.
 
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [google/clusterfuzz](https://github.com/google/clusterfuzz)
@@ -116,6 +122,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [jerome3o/factorio-mcp](https://github.com/jerome3o/factorio-mcp)
   > Messing around with an MCP server that writes and runs lua scripts on my factorio server
 
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [leo-arch/clifm](https://github.com/leo-arch/clifm)
   > 💾 The shell-like, command line terminal file manager
@@ -136,7 +146,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 16:45:24 UTC*
+*Last updated at 2026-07-07 17:37:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
