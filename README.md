@@ -71,6 +71,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Official Jina AI Remote MCP Server
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
   > A Patch for GIMP 3+ for Photoshop Users
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark](https://github.com/joeynyc/Hy3-295B-NVFP4-2x-DGX-Spark)
+  > Tencent Hy3 295B MoE (NVFP4) on 2x NVIDIA DGX Spark — TP2 over 200GbE, 256K context, 26 tok/s end-to...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit)
@@ -118,7 +120,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 12:56:14 UTC*
+*Last updated at 2026-07-07 13:42:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
