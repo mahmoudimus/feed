@@ -20,6 +20,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [dgryski](https://github.com/dgryski) Forked [tinygo-org/go-llvm](https://github.com/tinygo-org/go-llvm) to [dgryski/go-llvm](https://github.com/dgryski/go-llvm)
   > Go bindings to LLVM. Used as part of TinyGo.
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [google/clusterfuzz](https://github.com/google/clusterfuzz)
+  > Scalable fuzzing infrastructure.
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MistyFir/SVMHypervisor-Preview](https://github.com/MistyFir/SVMHypervisor-Preview) to [fengjixuchui/SVMHypervisor-Preview](https://github.com/fengjixuchui/SVMHypervisor-Preview)
+  > 从零开始手写的AMD平台Hypervisor
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc)
   > Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-pre...
@@ -33,6 +41,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Factorio Benchmarks
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [WidAmi/FactoMCP](https://github.com/WidAmi/FactoMCP)
   > Basic MCP server to control a Factorio Player via RCON
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [jerome3o/factorio-mcp](https://github.com/jerome3o/factorio-mcp)
+  > Messing around with an MCP server that writes and runs lua scripts on my factorio server
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [anthropics/ClaudeForFoundationModels](https://github.com/anthropics/ClaudeForFoundationModels)
@@ -45,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 03:00:04 UTC*
+*Last updated at 2026-07-07 04:27:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
