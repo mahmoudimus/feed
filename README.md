@@ -67,6 +67,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [frol](https://github.com/frol) Starred [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)
   > A TTS that fits in your CPU (and pocket)
 
+### [hpk42](https://github.com/hpk42)
+- 🌟 👤 [hpk42](https://github.com/hpk42) Starred [lambadalambda/deltanet](https://github.com/lambadalambda/deltanet)
+  > Single-user social network that federates over encrypted email (Delta Chat/chatmail) — Mastodon-comp...
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [jarun/ddgr](https://github.com/jarun/ddgr)
   > :duck: DuckDuckGo from the terminal
@@ -126,6 +130,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
   > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
+  > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [leo-arch/clifm](https://github.com/leo-arch/clifm)
   > 💾 The shell-like, command line terminal file manager
@@ -146,7 +154,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 17:37:00 UTC*
+*Last updated at 2026-07-07 18:37:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
