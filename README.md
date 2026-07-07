@@ -27,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MistyFir/SVMHypervisor-Preview](https://github.com/MistyFir/SVMHypervisor-Preview) to [fengjixuchui/SVMHypervisor-Preview](https://github.com/fengjixuchui/SVMHypervisor-Preview)
   > 从零开始手写的AMD平台Hypervisor
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [jevinskie/ghidra-lm32](https://github.com/jevinskie/ghidra-lm32) to [fengjixuchui/ghidra-lm32](https://github.com/fengjixuchui/ghidra-lm32)
+  > LM32 processor module for Ghidra. Useful for AMD SMU reverse engineering.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [djskncxm/DuckVM](https://github.com/djskncxm/DuckVM) to [fengjixuchui/DuckVM](https://github.com/fengjixuchui/DuckVM)
+  > 基于文本匹配的vmp还原思路
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc)
@@ -35,6 +39,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Deterministyczny silnik kontroli i redakcji AI-generowanych polskich tekstów prawniczych — bez LLM, ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jina-ai/MCP](https://github.com/jina-ai/MCP)
   > Official Jina AI Remote MCP Server
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [trueo-protocol/trueo-contracts](https://github.com/trueo-protocol/trueo-contracts)
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [TheRealClarity/ClearSword](https://github.com/TheRealClarity/ClearSword)
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [abucnasty/factorio-benchmarks](https://github.com/abucnasty/factorio-benchmarks)
@@ -48,6 +58,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [anthropics/ClaudeForFoundationModels](https://github.com/anthropics/ClaudeForFoundationModels)
   > Claude support for Apple Foundation Models
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [anthropics/claude-tag-plugins](https://github.com/anthropics/claude-tag-plugins)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ctxrs/ctx](https://github.com/ctxrs/ctx)
+  > Search the coding agent history already on your machine
 
 
 <!-- nav -->
@@ -55,7 +67,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 04:27:01 UTC*
+*Last updated at 2026-07-07 06:20:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
