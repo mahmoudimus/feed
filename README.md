@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NikolajSchlej](https://github.com/NikolajSchlej) Starred [lolwheel/ifr-browser](https://github.com/lolwheel/ifr-browser)
   > Offline single-file BIOS IFR (UEFI Setup) browser & editor — parses AMI IFR dumps in-browser and gen...
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [LegendApp/legend-list](https://github.com/LegendApp/legend-list)
+  > A high-performance list component for React Native and React
+
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
   > AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Cl...
@@ -72,6 +76,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)
   > A TTS that fits in your CPU (and pocket)
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+  > Easy to use OpenStreetMap editor for Android
 
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
@@ -192,7 +200,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-07 21:28:23 UTC*
+*Last updated at 2026-07-07 23:18:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
