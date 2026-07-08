@@ -44,6 +44,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [njsmith](https://github.com/njsmith) Forked [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) to [njsmith/emacs-libvterm](https://github.com/njsmith/emacs-libvterm)
   > Emacs libvterm integration
 
+### [qis](https://github.com/qis)
+- 🌟 👤 [qis](https://github.com/qis) Starred [Hekbas/Luth](https://github.com/Hekbas/Luth)
+  > Data-oriented C++20 game engine with a fiber-based job system and bindless Vulkan 1.3 renderer.
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+  > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [tailscale/thundersnap](https://github.com/tailscale/thundersnap)
   > Thundering Herd replication and Thanos Snap durability, together at last
@@ -70,7 +78,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 07:47:39 UTC*
+*Last updated at 2026-07-08 08:48:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
