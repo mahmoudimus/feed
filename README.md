@@ -8,8 +8,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AlexsJones](https://github.com/AlexsJones)
+- 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [sympozium-ai/llmfit-dra](https://github.com/sympozium-ai/llmfit-dra)
+
 ### [BaseMax](https://github.com/BaseMax)
 - 🍴 👤 [BaseMax](https://github.com/BaseMax) Forked [hkalbasi/co2](https://github.com/hkalbasi/co2) to [MaxFork/co2](https://github.com/MaxFork/co2)
+
+### [BrianStadnicki](https://github.com/BrianStadnicki)
+- 🌟 👤 [BrianStadnicki](https://github.com/BrianStadnicki) Starred [rkinas/cuda-learning](https://github.com/rkinas/cuda-learning)
+  > This repository is a curated collection of resources, tutorials, and practical examples designed to ...
 
 ### [ThomasVitale](https://github.com/ThomasVitale)
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [ClawRunr/JavaClaw](https://github.com/ClawRunr/JavaClaw)
@@ -27,9 +34,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
 
+### [djspiewak](https://github.com/djspiewak)
+- 🍴 👤 [djspiewak](https://github.com/djspiewak) Forked [NVIDIA/multi-storage-client](https://github.com/NVIDIA/multi-storage-client) to [djspiewak/multi-storage-client](https://github.com/djspiewak/multi-storage-client)
+  > Unified high-performance Python client for object and file stores.
+
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [chattocorp/chatto](https://github.com/chattocorp/chatto)
   > A really good chat application that you can self-host.
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
+  > Box3D is a 3D physics engine for games
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [haxymad/Pairip-Deobfuscating](https://github.com/haxymad/Pairip-Deobfuscating)
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [DeckCheatz/wemod-launcher](https://github.com/DeckCheatz/wemod-launcher)
+  > Tool to launch the Game Trainer / Cheat tool WeMod along with your game made for Linux mainly for st...
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [d0ctorsec/CVE-Reports](https://github.com/d0ctorsec/CVE-Reports) to [fengjixuchui/CVE-Reports](https://github.com/fengjixuchui/CVE-Reports)
@@ -42,6 +62,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Font format convertor in Rust
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [japaric-archived/rust-on-openwrt](https://github.com/japaric-archived/rust-on-openwrt)
   > [SUPERSEDED] by https://github.com/japaric/rust-cross
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [loerei/HoverSource](https://github.com/loerei/HoverSource)
+  > Zero-invasive UI-to-Code inspector. Hover any element, press Alt+C, paste to your AI agent, and save...
 
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [jolt-lang/jolt](https://github.com/jolt-lang/jolt)
@@ -61,6 +83,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [johndpope/snapkit_flutter](https://github.com/johndpope/snapkit_flutter)
   > A Flutter port of SnapKit — Auto Layout-style constraint DSL on a Cassowary (kiwi) engine
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [linuxrebel/DocuBrowser](https://github.com/linuxrebel/DocuBrowser)
+  > This does for Documents what repo-browser does for repos. A local AI powered Document search engine 
+
 ### [masak](https://github.com/masak)
 - 🌟 👤 [masak](https://github.com/masak) Starred [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno)
   > tirreno is a security framework. Event tracking, threat detection, and risk scoring for any product.
@@ -79,6 +105,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark](https://github.com/MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark)
   > Serve NVIDIA Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 on a single DGX Spark (GB10) node with vLLM 0.24 i...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+  > The open-source AI voice studio. Clone, dictate, create.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/nitro](https://github.com/aerovato/nitro)
+  > A tiny and efficient harness for running Bash commands.
 
 ### [mzpqnxow](https://github.com/mzpqnxow)
 - 🌟 👤 [mzpqnxow](https://github.com/mzpqnxow) Starred [jamesob/local-llm](https://github.com/jamesob/local-llm)
@@ -93,6 +123,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [njsmith](https://github.com/njsmith)
 - 🍴 👤 [njsmith](https://github.com/njsmith) Forked [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) to [njsmith/emacs-libvterm](https://github.com/njsmith/emacs-libvterm)
   > Emacs libvterm integration
+
+### [notfoundry](https://github.com/notfoundry)
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [animesh-94/Onboard-CLI](https://github.com/animesh-94/Onboard-CLI)
+  > An AST-powered, local-first CLI that visualizes complex system architectures and enforces architectu...
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [marchildmann/BevelDesk](https://github.com/marchildmann/BevelDesk)
@@ -127,6 +161,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [jdalberg/cwmp](https://github.com/jdalberg/cwmp)
   > An implementation of the CWMP protocol in Rust
 
+### [stephenlb](https://github.com/stephenlb)
+- 🍴 👤 [stephenlb](https://github.com/stephenlb) Forked [HackerTyper2311/everyone-commits](https://github.com/HackerTyper2311/everyone-commits) to [stephenlb/everyone-commits](https://github.com/stephenlb/everyone-commits)
+  > everyone can commit changes no reviews
+
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [inngest/inngest](https://github.com/inngest/inngest)
   > The leading workflow orchestration platform.  Run stateful step functions and AI workflows on server...
@@ -156,7 +194,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 19:28:39 UTC*
+*Last updated at 2026-07-08 22:19:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
