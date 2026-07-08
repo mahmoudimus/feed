@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Ucas-HaoranWei](https://github.com/Ucas-HaoranWei) Starred [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr)
   > Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixe...
 
+### [asciimoo](https://github.com/asciimoo)
+- 🍴 👤 [asciimoo](https://github.com/asciimoo) Forked [mjl-/mox](https://github.com/mjl-/mox) to [asciimoo/mox](https://github.com/asciimoo/mox)
+  > modern full-featured open source secure mail server for low-maintenance self-hosted email
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [d0ctorsec/CVE-Reports](https://github.com/d0ctorsec/CVE-Reports) to [fengjixuchui/CVE-Reports](https://github.com/fengjixuchui/CVE-Reports)
   > 本仓库所有内容仅用于 CVE 漏洞提交与负责任的安全披露，旨在推动软件安全改进。
@@ -45,6 +49,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [Ajarmar/universal-pokemon-randomizer-zx](https://github.com/Ajarmar/universal-pokemon-randomizer-zx)
   > Public repository of source code for the Universal Pokemon Randomizer ZX
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/a6b-k-expansion](https://github.com/hikarioyama/a6b-k-expansion)
 
 ### [mzpqnxow](https://github.com/mzpqnxow)
 - 🌟 👤 [mzpqnxow](https://github.com/mzpqnxow) Starred [jamesob/local-llm](https://github.com/jamesob/local-llm)
@@ -92,7 +99,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 10:38:59 UTC*
+*Last updated at 2026-07-08 11:33:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
