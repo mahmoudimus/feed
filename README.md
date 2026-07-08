@@ -11,6 +11,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [wouterdebie/davit](https://github.com/wouterdebie/davit)
   > A native macOS UI for Apple's platform
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [simoncozens/babelfont-rs](https://github.com/simoncozens/babelfont-rs)
+  > Font format convertor in Rust
 
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [jolt-lang/jolt](https://github.com/jolt-lang/jolt)
@@ -23,6 +25,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Website. Portable identity, memory, and context for AI assistants
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [luishg/soul-protocol](https://github.com/luishg/soul-protocol) to [johndpope/soul-protocol](https://github.com/johndpope/soul-protocol)
   > Website. Portable identity, memory, and context for AI assistants
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [johndpope/snapkit_flutter](https://github.com/johndpope/snapkit_flutter)
+  > A Flutter port of SnapKit — Auto Layout-style constraint DSL on a Cassowary (kiwi) engine
 
 ### [masak](https://github.com/masak)
 - 🌟 👤 [masak](https://github.com/masak) Starred [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno)
@@ -36,9 +40,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [njsmith](https://github.com/njsmith) Forked [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) to [njsmith/emacs-libvterm](https://github.com/njsmith/emacs-libvterm)
   > Emacs libvterm integration
 
-### [slightknack](https://github.com/slightknack)
-- 🚀 👤 [slightknack](https://github.com/slightknack) Made [slightknack/internet2](https://github.com/slightknack/internet2) public
-  > "This is going to change the internet forever so it has to be significant and quirky. It has to roll...
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [tailscale/thundersnap](https://github.com/tailscale/thundersnap)
+  > Thundering Herd replication and Thanos Snap durability, together at last
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [jdalberg/cwmp](https://github.com/jdalberg/cwmp)
@@ -53,6 +57,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [u-ichi/compact-plus](https://github.com/u-ichi/compact-plus)
   > Claude Code plugin: preserve and restore working state around /compact
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [antlabs/quickws](https://github.com/antlabs/quickws)
+  > 高性能websocket库, Callback写法，在高频cpu上有不俗表现 https://github.com/antlabs/quickws-example
 
 
 <!-- nav -->
@@ -60,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 04:07:53 UTC*
+*Last updated at 2026-07-08 05:58:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
