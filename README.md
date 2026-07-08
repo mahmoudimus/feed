@@ -8,6 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BaseMax](https://github.com/BaseMax)
+- 🍴 👤 [BaseMax](https://github.com/BaseMax) Forked [hkalbasi/co2](https://github.com/hkalbasi/co2) to [MaxFork/co2](https://github.com/MaxFork/co2)
+
 ### [Ucas-HaoranWei](https://github.com/Ucas-HaoranWei)
 - 🌟 👤 [Ucas-HaoranWei](https://github.com/Ucas-HaoranWei) Starred [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr)
   > Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixe...
@@ -63,9 +66,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mzpqnxow](https://github.com/mzpqnxow) Starred [jamesob/local-llm](https://github.com/jamesob/local-llm)
   > Everything I know about running LLMs locally
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)
+  > OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+
 ### [njsmith](https://github.com/njsmith)
 - 🍴 👤 [njsmith](https://github.com/njsmith) Forked [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) to [njsmith/emacs-libvterm](https://github.com/njsmith/emacs-libvterm)
   > Emacs libvterm integration
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [marchildmann/BevelDesk](https://github.com/marchildmann/BevelDesk)
 
 ### [qis](https://github.com/qis)
 - 🌟 👤 [qis](https://github.com/qis) Starred [Hekbas/Luth](https://github.com/Hekbas/Luth)
@@ -100,6 +110,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 高性能websocket库, Callback写法，在高频cpu上有不俗表现 https://github.com/antlabs/quickws-example
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [zai-org/CogView2](https://github.com/zai-org/CogView2)
   > official code repo for paper "CogView2: Faster and Better Text-to-Image Generation via Hierarchical ...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Helicone/helicone](https://github.com/Helicone/helicone)
+  > 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC ...
 
 
 <!-- nav -->
@@ -107,7 +119,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 12:28:17 UTC*
+*Last updated at 2026-07-08 13:31:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
