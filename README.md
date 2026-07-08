@@ -11,6 +11,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [BaseMax](https://github.com/BaseMax)
 - 🍴 👤 [BaseMax](https://github.com/BaseMax) Forked [hkalbasi/co2](https://github.com/hkalbasi/co2) to [MaxFork/co2](https://github.com/MaxFork/co2)
 
+### [ThomasVitale](https://github.com/ThomasVitale)
+- 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [ClawRunr/JavaClaw](https://github.com/ClawRunr/JavaClaw)
+  > JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr
+
 ### [Ucas-HaoranWei](https://github.com/Ucas-HaoranWei)
 - 🌟 👤 [Ucas-HaoranWei](https://github.com/Ucas-HaoranWei) Starred [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr)
   > Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixe...
@@ -61,6 +65,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/a6b-k-expansion](https://github.com/hikarioyama/a6b-k-expansion)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
   > A project to improve skills of large language models
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/vLLm-0.24-optimized-NVIDIA-Nemotron-Lab-Puzzle-75B-A9B-A4Q-MTP3-NVFP4-KV-2.7M-Pool-Single-DGX-Spark](https://github.com/drowzeys/vLLm-0.24-optimized-NVIDIA-Nemotron-Lab-Puzzle-75B-A9B-A4Q-MTP3-NVFP4-KV-2.7M-Pool-Single-DGX-Spark)
+  > Nemotron Puzzle-75B-A9B on ONE DGX Spark: vLLM 0.24 + A4Q + MTP k=3 + NVFP4 KV, 2.71M-token pool, 22...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark](https://github.com/MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark)
+  > Serve NVIDIA Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 on a single DGX Spark (GB10) node with vLLM 0.24 i...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom)
 
 ### [mzpqnxow](https://github.com/mzpqnxow)
 - 🌟 👤 [mzpqnxow](https://github.com/mzpqnxow) Starred [jamesob/local-llm](https://github.com/jamesob/local-llm)
@@ -69,6 +79,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)
   > OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [chattocorp/chatto](https://github.com/chattocorp/chatto)
+  > A really good chat application that you can self-host.
 
 ### [njsmith](https://github.com/njsmith)
 - 🍴 👤 [njsmith](https://github.com/njsmith) Forked [akermu/emacs-libvterm](https://github.com/akermu/emacs-libvterm) to [njsmith/emacs-libvterm](https://github.com/njsmith/emacs-libvterm)
@@ -84,6 +96,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
+
+### [ranacseruet](https://github.com/ranacseruet)
+- 🌟 👤 [ranacseruet](https://github.com/ranacseruet) Starred [youssofal/MTPLX](https://github.com/youssofal/MTPLX)
+  > 2.24x decode TPS increase On Qwen 3.6 27B @ temp 0.6 | Native MTP Speculative Decoding On Apple Sili...
+
+### [rsc](https://github.com/rsc)
+- 🍴 👤 [rsc](https://github.com/rsc) Forked [privatenumber/tsx](https://github.com/privatenumber/tsx) to [rsc/tsx](https://github.com/rsc/tsx)
+  > ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [briand/uv-k1-k5v3-firmware-custom](https://github.com/briand/uv-k1-k5v3-firmware-custom)
@@ -102,6 +122,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [inngest/inngest](https://github.com/inngest/inngest)
   > The leading workflow orchestration platform.  Run stateful step functions and AI workflows on server...
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/ossie](https://github.com/tspannhw/ossie)
+  > Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata ac...
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [cellebrite-labs/ida_kernelcache](https://github.com/cellebrite-labs/ida_kernelcache)
@@ -125,7 +147,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 14:46:02 UTC*
+*Last updated at 2026-07-08 18:26:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
