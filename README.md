@@ -12,11 +12,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Ucas-HaoranWei](https://github.com/Ucas-HaoranWei) Starred [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr)
   > Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixe...
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [d0ctorsec/CVE-Reports](https://github.com/d0ctorsec/CVE-Reports) to [fengjixuchui/CVE-Reports](https://github.com/fengjixuchui/CVE-Reports)
+  > 本仓库所有内容仅用于 CVE 漏洞提交与负责任的安全披露，旨在推动软件安全改进。
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [wouterdebie/davit](https://github.com/wouterdebie/davit)
   > A native macOS UI for Apple's platform
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [simoncozens/babelfont-rs](https://github.com/simoncozens/babelfont-rs)
   > Font format convertor in Rust
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [japaric-archived/rust-on-openwrt](https://github.com/japaric-archived/rust-on-openwrt)
+  > [SUPERSEDED] by https://github.com/japaric/rust-cross
 
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [jolt-lang/jolt](https://github.com/jolt-lang/jolt)
@@ -86,7 +92,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 09:45:20 UTC*
+*Last updated at 2026-07-08 10:38:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
