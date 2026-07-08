@@ -27,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
 
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [chattocorp/chatto](https://github.com/chattocorp/chatto)
+  > A really good chat application that you can self-host.
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [d0ctorsec/CVE-Reports](https://github.com/d0ctorsec/CVE-Reports) to [fengjixuchui/CVE-Reports](https://github.com/fengjixuchui/CVE-Reports)
   > 本仓库所有内容仅用于 CVE 漏洞提交与负责任的安全披露，旨在推动软件安全改进。
@@ -42,6 +46,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [jolt-lang/jolt](https://github.com/jolt-lang/jolt)
   > A Clojure compiler implemented on top of Chez Scheme
+
+### [jmcarp](https://github.com/jmcarp)
+- 🌟 👤 [jmcarp](https://github.com/jmcarp) Starred [bufbuild/httplb](https://github.com/bufbuild/httplb)
+  > Client-side load balancing for net/http
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)
@@ -124,6 +132,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The leading workflow orchestration platform.  Run stateful step functions and AI workflows on server...
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/ossie](https://github.com/tspannhw/ossie)
   > Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata ac...
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [luxonis/skills](https://github.com/luxonis/skills)
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [cellebrite-labs/ida_kernelcache](https://github.com/cellebrite-labs/ida_kernelcache)
@@ -147,7 +156,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 18:26:42 UTC*
+*Last updated at 2026-07-08 19:28:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
