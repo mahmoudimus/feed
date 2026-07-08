@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [asciimoo](https://github.com/asciimoo) Forked [mjl-/mox](https://github.com/mjl-/mox) to [asciimoo/mox](https://github.com/asciimoo/mox)
   > modern full-featured open source secure mail server for low-maintenance self-hosted email
 
+### [davidfrickert](https://github.com/davidfrickert)
+- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+  > Claude Code skill to support Android app's reverse engineering
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [d0ctorsec/CVE-Reports](https://github.com/d0ctorsec/CVE-Reports) to [fengjixuchui/CVE-Reports](https://github.com/fengjixuchui/CVE-Reports)
   > 本仓库所有内容仅用于 CVE 漏洞提交与负责任的安全披露，旨在推动软件安全改进。
@@ -52,6 +56,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/a6b-k-expansion](https://github.com/hikarioyama/a6b-k-expansion)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
+  > A project to improve skills of large language models
 
 ### [mzpqnxow](https://github.com/mzpqnxow)
 - 🌟 👤 [mzpqnxow](https://github.com/mzpqnxow) Starred [jamesob/local-llm](https://github.com/jamesob/local-llm)
@@ -92,6 +98,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Claude Code plugin: preserve and restore working state around /compact
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [antlabs/quickws](https://github.com/antlabs/quickws)
   > 高性能websocket库, Callback写法，在高频cpu上有不俗表现 https://github.com/antlabs/quickws-example
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [zai-org/CogView2](https://github.com/zai-org/CogView2)
+  > official code repo for paper "CogView2: Faster and Better Text-to-Image Generation via Hierarchical ...
 
 
 <!-- nav -->
@@ -99,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 11:33:03 UTC*
+*Last updated at 2026-07-08 12:28:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
