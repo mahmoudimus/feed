@@ -85,6 +85,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
 
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [briand/uv-k1-k5v3-firmware-custom](https://github.com/briand/uv-k1-k5v3-firmware-custom)
+  > This is a fork of F4HWN Fusion firmware https://github.com/armel/uv-k1-k5v3-firmware-custom by @muzk...
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [briand/cw-firmware-docs](https://github.com/briand/cw-firmware-docs)
+  > Documentation for the UVK5/K1 CW firmware mod
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [tailscale/thundersnap](https://github.com/tailscale/thundersnap)
   > Thundering Herd replication and Thanos Snap durability, together at last
@@ -119,7 +125,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 13:31:16 UTC*
+*Last updated at 2026-07-08 14:46:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
