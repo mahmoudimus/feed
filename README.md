@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Ucas-HaoranWei](https://github.com/Ucas-HaoranWei)
+- 🌟 👤 [Ucas-HaoranWei](https://github.com/Ucas-HaoranWei) Starred [Dicklesworthstone/franken_ocr](https://github.com/Dicklesworthstone/franken_ocr)
+  > Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixe...
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [wouterdebie/davit](https://github.com/wouterdebie/davit)
   > A native macOS UI for Apple's platform
@@ -66,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 06:56:20 UTC*
+*Last updated at 2026-07-08 07:47:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
