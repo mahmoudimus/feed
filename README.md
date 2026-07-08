@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [masak](https://github.com/masak) Starred [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno)
   > tirreno is a security framework. Event tracking, threat detection, and risk scoring for any product.
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [Ajarmar/universal-pokemon-randomizer-zx](https://github.com/Ajarmar/universal-pokemon-randomizer-zx)
+  > Public repository of source code for the Universal Pokemon Randomizer ZX
+
 ### [mzpqnxow](https://github.com/mzpqnxow)
 - 🌟 👤 [mzpqnxow](https://github.com/mzpqnxow) Starred [jamesob/local-llm](https://github.com/jamesob/local-llm)
   > Everything I know about running LLMs locally
@@ -64,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [inngest/inngest](https://github.com/inngest/inngest)
   > The leading workflow orchestration platform.  Run stateful step functions and AI workflows on server...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [cellebrite-labs/ida_kernelcache](https://github.com/cellebrite-labs/ida_kernelcache)
+  > An IDA Toolkit for analyzing iOS kernelcaches.
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [scylladb/scylladb](https://github.com/scylladb/scylladb)
   > NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
@@ -78,7 +86,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-08 08:48:35 UTC*
+*Last updated at 2026-07-08 09:45:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
