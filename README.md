@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [wilfredinni/noodle](https://github.com/wilfredinni/noodle)
   > A delicious REST client for your terminal
 
+### [John-K](https://github.com/John-K)
+- 🌟 👤 [John-K](https://github.com/John-K) Starred [borexola/neolink.net](https://github.com/borexola/neolink.net)
+  > RTSP bridge + web viewer for Reolink cameras that speak the proprietary Baichuan protocol (port 9000...
+
 ### [dbkegley](https://github.com/dbkegley)
 - 🌟 👤 [dbkegley](https://github.com/dbkegley) Starred [TorchAIKC/kubectl-config-cleanup](https://github.com/TorchAIKC/kubectl-config-cleanup)
   > A kubectl plugin for automatically cleaning up your kubeconfig
@@ -52,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-09 02:59:45 UTC*
+*Last updated at 2026-07-09 04:25:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
