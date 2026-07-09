@@ -26,6 +26,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dbkegley](https://github.com/dbkegley) Starred [TorchAIKC/kubectl-config-cleanup](https://github.com/TorchAIKC/kubectl-config-cleanup)
   > A kubectl plugin for automatically cleaning up your kubeconfig
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [The-Sword-of-Constantine/UsingBYOVD](https://github.com/The-Sword-of-Constantine/UsingBYOVD) to [fengjixuchui/UsingBYOVD](https://github.com/fengjixuchui/UsingBYOVD)
+  > A C++ based BYOVD (Bring Your Own Vulnerable Driver) security research and testing project. It suppo...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [The-Sword-of-Constantine/DNSBlocker](https://github.com/The-Sword-of-Constantine/DNSBlocker) to [fengjixuchui/DNSBlocker](https://github.com/fengjixuchui/DNSBlocker)
+
 ### [frankmcsherry](https://github.com/frankmcsherry)
 - 🌟 👤 [frankmcsherry](https://github.com/frankmcsherry) Starred [surprisetalk/slap](https://github.com/surprisetalk/slap)
   > linear concat language
@@ -33,6 +38,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [hzoo/henry.ink](https://github.com/hzoo/henry.ink)
   > *search by browsing*: annotation aggregation (prev extension-annotation-sidebar)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [japaric/rust-cross](https://github.com/japaric/rust-cross)
+  > Everything you need to know about cross compiling Rust programs!
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [JaydenCJ/grok-build-desktop](https://github.com/JaydenCJ/grok-build-desktop)
@@ -56,7 +63,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-09 04:25:12 UTC*
+*Last updated at 2026-07-09 06:18:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
