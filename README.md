@@ -26,6 +26,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [AbsintheScripting/MetaFlow](https://github.com/AbsintheScripting/MetaFlow)
   > Compile-time resource conflict analysis and lockless task scheduling for massively parallel game ser...
 
+### [TomasVotruba](https://github.com/TomasVotruba)
+- 🍴 👤 [TomasVotruba](https://github.com/TomasVotruba) Forked [Jean85/pretty-package-versions](https://github.com/Jean85/pretty-package-versions) to [TomasVotruba/pretty-package-versions](https://github.com/TomasVotruba/pretty-package-versions)
+  > A small, independent wrapper to get pretty versions strings
+
+### [bduisenov](https://github.com/bduisenov)
+- 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [syncable-dev/memtrace-public](https://github.com/syncable-dev/memtrace-public)
+  > Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Clau...
+
 ### [dbkegley](https://github.com/dbkegley)
 - 🌟 👤 [dbkegley](https://github.com/dbkegley) Starred [TorchAIKC/kubectl-config-cleanup](https://github.com/TorchAIKC/kubectl-config-cleanup)
   > A kubectl plugin for automatically cleaning up your kubeconfig
@@ -48,6 +56,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > *search by browsing*: annotation aggregation (prev extension-annotation-sidebar)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [japaric/rust-cross](https://github.com/japaric/rust-cross)
   > Everything you need to know about cross compiling Rust programs!
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
+  > Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+  > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [JaydenCJ/grok-build-desktop](https://github.com/JaydenCJ/grok-build-desktop)
@@ -63,6 +77,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [joe-warren/opencascade-hs](https://github.com/joe-warren/opencascade-hs)
   > Haskell Bindings for the OpenCASCADE CAD Kernel + A Declarative CAD/Solid Modeling Library
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llama.cpp](https://github.com/alesha-pro/llama.cpp)
+  > LLM inference in C/C++
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize)
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [project-zot/zot](https://github.com/project-zot/zot)
+  > zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (pure...
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly)
+  > Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology,...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [openai/softnet](https://github.com/openai/softnet)
@@ -85,7 +110,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-09 08:12:23 UTC*
+*Last updated at 2026-07-09 10:07:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
