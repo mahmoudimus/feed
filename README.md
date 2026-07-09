@@ -49,6 +49,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dbkegley](https://github.com/dbkegley) Starred [TorchAIKC/kubectl-config-cleanup](https://github.com/TorchAIKC/kubectl-config-cleanup)
   > A kubectl plugin for automatically cleaning up your kubeconfig
 
+### [dougxc](https://github.com/dougxc)
+- 🍴 👤 [dougxc](https://github.com/dougxc) Forked [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard) to [dougxc/agent-cost-dashboard](https://github.com/dougxc/agent-cost-dashboard)
+  > Interactive web dashboard to monitor and analyze your coding agent API costs.
+
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [Kozea/tinycss2](https://github.com/Kozea/tinycss2)
   > A tiny CSS parser
@@ -113,6 +117,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tekezo/chrome-devtools](https://github.com/tekezo/chrome-devtools)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade)
+  > Your agents run loops. Brigade keeps the receipts. Local control plane: share MCP, tools, and memory...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [yoheinakajima/activegraph](https://github.com/yoheinakajima/activegraph)
+  > Event-sourced graph runtime for durable and stateful agents
 
 ### [panyx0718](https://github.com/panyx0718)
 - 🌟 👤 [panyx0718](https://github.com/panyx0718) Starred [wheelry/deep-skill-finder](https://github.com/wheelry/deep-skill-finder)
@@ -160,7 +168,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-09 18:33:14 UTC*
+*Last updated at 2026-07-09 19:30:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
