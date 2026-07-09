@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🍴 👤 [TomasVotruba](https://github.com/TomasVotruba) Forked [Jean85/pretty-package-versions](https://github.com/Jean85/pretty-package-versions) to [TomasVotruba/pretty-package-versions](https://github.com/TomasVotruba/pretty-package-versions)
   > A small, independent wrapper to get pretty versions strings
+- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [kisielk/errcheck](https://github.com/kisielk/errcheck)
+  > errcheck checks that you checked errors.
 
 ### [bduisenov](https://github.com/bduisenov)
 - 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [syncable-dev/memtrace-public](https://github.com/syncable-dev/memtrace-public)
@@ -59,6 +61,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
   > Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [iola1999/uurc-web](https://github.com/iola1999/uurc-web)
+  > Self-hosted web controller for UU Remote（UU 远程控制网页版）
+
+### [hsiafan](https://github.com/hsiafan)
+- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [Finb/Bark](https://github.com/Finb/Bark)
+  > Bark is an iOS App which allows you to push custom notifications to your iPhone
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
@@ -82,6 +92,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llama.cpp](https://github.com/alesha-pro/llama.cpp)
   > LLM inference in C/C++
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize)
+
+### [panyx0718](https://github.com/panyx0718)
+- 🌟 👤 [panyx0718](https://github.com/panyx0718) Starred [wheelry/deep-skill-finder](https://github.com/wheelry/deep-skill-finder)
+  > Meyo Skill Finder - Search and install skills from Meyo community
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [project-zot/zot](https://github.com/project-zot/zot)
@@ -110,7 +124,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-09 10:07:56 UTC*
+*Last updated at 2026-07-09 11:59:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
