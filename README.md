@@ -137,10 +137,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [pagopa/io-react-native-crypto](https://github.com/pagopa/io-react-native-crypto)
 
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
-  > A flight-compliant WebAssembly interpreter for safety-critical execution
-
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [zilliztech/mfs](https://github.com/zilliztech/mfs)
   > A context harness for AI agents: all your scattered context — code, memory, docs, databases, SaaS — ...
@@ -164,7 +160,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-09 17:35:00 UTC*
+*Last updated at 2026-07-09 18:33:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
