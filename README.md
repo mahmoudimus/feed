@@ -21,6 +21,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [John-K](https://github.com/John-K)
 - 🌟 👤 [John-K](https://github.com/John-K) Starred [borexola/neolink.net](https://github.com/borexola/neolink.net)
   > RTSP bridge + web viewer for Reolink cameras that speak the proprietary Baichuan protocol (port 9000...
+- 🌟 👤 [John-K](https://github.com/John-K) Starred [Hanzo-Huang/rk3576-home-assistant-voice](https://github.com/Hanzo-Huang/rk3576-home-assistant-voice)
+  > Local Home Assistant voice stack for RK3576 with NPU-accelerated Whisper and Piper through Wyoming, ...
 
 ### [Midi12](https://github.com/Midi12)
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [AbsintheScripting/MetaFlow](https://github.com/AbsintheScripting/MetaFlow)
@@ -38,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [bduisenov](https://github.com/bduisenov)
 - 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [syncable-dev/memtrace-public](https://github.com/syncable-dev/memtrace-public)
   > Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Clau...
+
+### [cscotta](https://github.com/cscotta)
+- 🍴 👤 [cscotta](https://github.com/cscotta) Forked [apache/cassandra-dtest](https://github.com/apache/cassandra-dtest) to [cscotta/cassandra-dtest](https://github.com/cscotta/cassandra-dtest)
+  > Distributed tests for Apache Cassandra®
 
 ### [dbkegley](https://github.com/dbkegley)
 - 🌟 👤 [dbkegley](https://github.com/dbkegley) Starred [TorchAIKC/kubectl-config-cleanup](https://github.com/TorchAIKC/kubectl-config-cleanup)
@@ -97,9 +103,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [joe-warren/opencascade-hs](https://github.com/joe-warren/opencascade-hs)
   > Haskell Bindings for the OpenCASCADE CAD Kernel + A Declarative CAD/Solid Modeling Library
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
+  > A flight-compliant WebAssembly interpreter for safety-critical execution
+
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [openrewrite/rewrite](https://github.com/openrewrite/rewrite)
   > Automated mass refactoring of source code.
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tekezo/chrome-devtools](https://github.com/tekezo/chrome-devtools)
 
 ### [panyx0718](https://github.com/panyx0718)
 - 🌟 👤 [panyx0718](https://github.com/panyx0718) Starred [wheelry/deep-skill-finder](https://github.com/wheelry/deep-skill-finder)
@@ -142,13 +155,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/entire-feedstock](https://github.com/conda-forge/entire-feedstock) to [xhochy/entire-feedstock](https://github.com/xhochy/entire-feedstock)
   > A conda-smithy repository for entire.
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker)
+
 
 <!-- nav -->
 [← 2026-07-08](archive/2026/07/08.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-09 16:04:41 UTC*
+*Last updated at 2026-07-09 17:35:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
