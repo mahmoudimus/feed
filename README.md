@@ -64,6 +64,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [iola1999/uurc-web](https://github.com/iola1999/uurc-web)
   > Self-hosted web controller for UU Remote（UU 远程控制网页版）
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale)
+  > 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cur...
 
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [Finb/Bark](https://github.com/Finb/Bark)
@@ -118,13 +120,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Barre/ZeroFS](https://github.com/Barre/ZeroFS)
   > ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystem...
 
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/entire-feedstock](https://github.com/conda-forge/entire-feedstock) to [xhochy/entire-feedstock](https://github.com/xhochy/entire-feedstock)
+  > A conda-smithy repository for entire.
+
 
 <!-- nav -->
 [← 2026-07-08](archive/2026/07/08.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-09 11:59:13 UTC*
+*Last updated at 2026-07-09 13:18:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
