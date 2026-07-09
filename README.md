@@ -32,6 +32,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [kisielk/errcheck](https://github.com/kisielk/errcheck)
   > errcheck checks that you checked errors.
 
+### [artem](https://github.com/artem)
+- 🌟 👤 [artem](https://github.com/artem) Starred [abseil/gloop](https://github.com/abseil/gloop)
+
 ### [bduisenov](https://github.com/bduisenov)
 - 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [syncable-dev/memtrace-public](https://github.com/syncable-dev/memtrace-public)
   > Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Clau...
@@ -43,6 +46,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [Kozea/tinycss2](https://github.com/Kozea/tinycss2)
   > A tiny CSS parser
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [Nintle/Badger](https://github.com/Nintle/Badger)
+  > Easy to use tool for editing badges for streaming sites such as Nuvio and Fusion
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [The-Sword-of-Constantine/UsingBYOVD](https://github.com/The-Sword-of-Constantine/UsingBYOVD) to [fengjixuchui/UsingBYOVD](https://github.com/fengjixuchui/UsingBYOVD)
@@ -90,11 +97,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [joe-warren/opencascade-hs](https://github.com/joe-warren/opencascade-hs)
   > Haskell Bindings for the OpenCASCADE CAD Kernel + A Declarative CAD/Solid Modeling Library
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llama.cpp](https://github.com/alesha-pro/llama.cpp)
-  > LLM inference in C/C++
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize)
-
 ### [panyx0718](https://github.com/panyx0718)
 - 🌟 👤 [panyx0718](https://github.com/panyx0718) Starred [wheelry/deep-skill-finder](https://github.com/wheelry/deep-skill-finder)
   > Meyo Skill Finder - Search and install skills from Meyo community
@@ -104,10 +106,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (pure...
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly)
   > Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology,...
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
+  > Cloud-native high-performance edge/middle/service proxy
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [openai/softnet](https://github.com/openai/softnet)
   > Software networking with isolation for Tart
+
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [binius-zk/binius64](https://github.com/binius-zk/binius64)
+  > Binary Proofs, Blazing Fast
 
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [pagopa/io-react-native-crypto](https://github.com/pagopa/io-react-native-crypto)
@@ -130,7 +138,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-09 13:18:43 UTC*
+*Last updated at 2026-07-09 14:59:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
