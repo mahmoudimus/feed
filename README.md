@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Fox2Code](https://github.com/Fox2Code)
+- 🌟 👤 [Fox2Code](https://github.com/Fox2Code) Starred [ExodusCoder9/Xeno](https://github.com/ExodusCoder9/Xeno)
+  > A high-performance Vulkan rendering Mod for Minecraft, providing enhanced frame rates and reduced CP...
+
 ### [Houfeng](https://github.com/Houfeng)
 - 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [arnauda-gh/Alwide](https://github.com/arnauda-gh/Alwide)
   > The Modern TUI IDE. The intuitive experience in your terminal.
@@ -27,6 +31,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Midi12](https://github.com/Midi12)
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [AbsintheScripting/MetaFlow](https://github.com/AbsintheScripting/MetaFlow)
   > Compile-time resource conflict analysis and lockless task scheduling for massively parallel game ser...
+
+### [Nitr0-G](https://github.com/Nitr0-G)
+- 🌟 👤 [Nitr0-G](https://github.com/Nitr0-G) Starred [Wangnov/Codex-App-Manager](https://github.com/Wangnov/Codex-App-Manager)
+  > 跨平台官方 Codex 桌面应用的安装 / 增量更新 / 干净卸载管理器，内置国内可达的镜像自更新。Cross-platform installer & updater for the officia...
 
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🍴 👤 [TomasVotruba](https://github.com/TomasVotruba) Forked [Jean85/pretty-package-versions](https://github.com/Jean85/pretty-package-versions) to [TomasVotruba/pretty-package-versions](https://github.com/TomasVotruba/pretty-package-versions)
@@ -102,14 +110,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [justaugustus](https://github.com/justaugustus)
 - 🍴 👤 [justaugustus](https://github.com/justaugustus) Forked [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) to [justaugustus/bloomberg.github.io](https://github.com/justaugustus/bloomberg.github.io)
   > Source code for the https://bloomberg.github.io site
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [SAP/fork-metadata-standard](https://github.com/SAP/fork-metadata-standard)
+  > The Fork Metadata Standard (FMS) defines a structured, platform-agnostic format for documenting the ...
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [joe-warren/opencascade-hs](https://github.com/joe-warren/opencascade-hs)
   > Haskell Bindings for the OpenCASCADE CAD Kernel + A Declarative CAD/Solid Modeling Library
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
   > A flight-compliant WebAssembly interpreter for safety-critical execution
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WeZZard/jlens-qwen36](https://github.com/WeZZard/jlens-qwen36)
+  > J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
+  >  Companion code for the global workspace interpretability paper
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Coding-Dev-Tools/engraphis](https://github.com/Coding-Dev-Tools/engraphis)
+  > Self-hosted AI memory engine - Ebbinghaus forgetting-curve decay, interaction-aware reinforcement, a...
 
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [openrewrite/rewrite](https://github.com/openrewrite/rewrite)
@@ -121,6 +139,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Your agents run loops. Brigade keeps the receipts. Local control plane: share MCP, tools, and memory...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [yoheinakajima/activegraph](https://github.com/yoheinakajima/activegraph)
   > Event-sourced graph runtime for durable and stateful agents
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [PrincetonLIPS/SketchGraphs](https://github.com/PrincetonLIPS/SketchGraphs)
+  > A dataset of 15 million CAD sketches with geometric constraint graphs.
 
 ### [panyx0718](https://github.com/panyx0718)
 - 🌟 👤 [panyx0718](https://github.com/panyx0718) Starred [wheelry/deep-skill-finder](https://github.com/wheelry/deep-skill-finder)
@@ -161,6 +181,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+  > AI agents running research on single-GPU nanochat training automatically
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx)
+  > Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorc...
 
 
 <!-- nav -->
@@ -168,7 +192,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-09 19:30:17 UTC*
+*Last updated at 2026-07-09 21:28:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
