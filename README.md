@@ -97,6 +97,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [joe-warren/opencascade-hs](https://github.com/joe-warren/opencascade-hs)
   > Haskell Bindings for the OpenCASCADE CAD Kernel + A Declarative CAD/Solid Modeling Library
 
+### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [openrewrite/rewrite](https://github.com/openrewrite/rewrite)
+  > Automated mass refactoring of source code.
+
 ### [panyx0718](https://github.com/panyx0718)
 - 🌟 👤 [panyx0718](https://github.com/panyx0718) Starred [wheelry/deep-skill-finder](https://github.com/wheelry/deep-skill-finder)
   > Meyo Skill Finder - Search and install skills from Meyo community
@@ -124,6 +128,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
   > A flight-compliant WebAssembly interpreter for safety-critical execution
 
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [zilliztech/mfs](https://github.com/zilliztech/mfs)
+  > A context harness for AI agents: all your scattered context — code, memory, docs, databases, SaaS — ...
+- 🍴 👤 [tspannhw](https://github.com/tspannhw) Forked [zilliztech/mfs](https://github.com/zilliztech/mfs) to [tspannhw/mfs](https://github.com/tspannhw/mfs)
+  > A context harness for AI agents: all your scattered context — code, memory, docs, databases, SaaS — ...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Barre/ZeroFS](https://github.com/Barre/ZeroFS)
   > ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystem...
@@ -138,7 +148,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-09 14:59:39 UTC*
+*Last updated at 2026-07-09 16:04:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
