@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [tiliondev/fortress](https://github.com/tiliondev/fortress)
   > Stealth Chromium engine that stops scrapers and browser agents from getting blocked, with one line o...
 
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [getnora-io/nora](https://github.com/getnora-io/nora)
+  > Lightweight multi-format artifact registry. 13 formats: Docker, Maven, npm, PyPI, Cargo, Go, NuGet, ...
+
 ### [brandur](https://github.com/brandur)
 - 🌟 👤 [brandur](https://github.com/brandur) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
   > Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
@@ -47,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A docker server for Ivona TTS
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [widberg/xlive-research](https://github.com/widberg/xlive-research)
   > Research pertaining to Games for Windows Live (GFWL) xlive.dll.
+
+### [ingydotnet](https://github.com/ingydotnet)
+- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [jolt-lang/jolt](https://github.com/jolt-lang/jolt) to [gloathub/jolt](https://github.com/gloathub/jolt)
+  > A Clojure compiler implemented on top of Chez Scheme
 
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [kacper-daftcode/vLLM-Moet](https://github.com/kacper-daftcode/vLLM-Moet)
@@ -135,7 +143,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 13:36:48 UTC*
+*Last updated at 2026-07-10 14:52:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
