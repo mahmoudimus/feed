@@ -42,6 +42,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension)
   > Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [composefs/composefs](https://github.com/composefs/composefs)
+  > The reliability of disk images, the flexibility of files
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [ostreedev/ostree](https://github.com/ostreedev/ostree)
+  > Operating system and container binary deployment and upgrades
+
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
   > Skills for Design Engineers.
@@ -113,6 +119,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A high-performance AI assistant kernel built around a modular multi-agent architecture. Orchestrates...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake)
   > Tensorlake is a serverless runtime for sandboxes and deploying background agentic applications
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)
+  > The `npx serve` of Apple Simulators.
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness)
@@ -202,7 +210,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 21:21:00 UTC*
+*Last updated at 2026-07-10 22:19:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
