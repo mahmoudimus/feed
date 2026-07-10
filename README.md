@@ -22,6 +22,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [getnora-io/nora](https://github.com/getnora-io/nora)
   > Lightweight multi-format artifact registry. 13 formats: Docker, Maven, npm, PyPI, Cargo, Go, NuGet, ...
 
+### [alexazhou](https://github.com/alexazhou)
+- 🌟 👤 [alexazhou](https://github.com/alexazhou) Starred [hackwaly/jswqx](https://github.com/hackwaly/jswqx)
+  > 文曲星模拟器
+
+### [anzz1](https://github.com/anzz1)
+- 🍴 👤 [anzz1](https://github.com/anzz1) Forked [quassel/quassel](https://github.com/quassel/quassel) to [anzz1/quassel](https://github.com/anzz1/quassel)
+  > Quassel IRC: Chat comfortably.  Everywhere.
+
 ### [brandur](https://github.com/brandur)
 - 🌟 👤 [brandur](https://github.com/brandur) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
   > Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
@@ -60,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [kacper-daftcode/vLLM-Moet](https://github.com/kacper-daftcode/vLLM-Moet)
   > A vLLM patch + hand‑written SM120 SASS kernels: 2‑bit MoE experts + an FP4 "delta" cache that recove...
 
+### [jmcarp](https://github.com/jmcarp)
+- 🌟 👤 [jmcarp](https://github.com/jmcarp) Starred [awslabs/node-latency-for-k8s](https://github.com/awslabs/node-latency-for-k8s)
+  > The node-latency-for-k8s tool provides process-level telemetry via prometheus metrics, cloudwatch me...
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)
   > A TTS that fits in your CPU (and pocket)
@@ -81,10 +93,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [fuderis/ovsy](https://github.com/fuderis/ovsy)
   > A high-performance AI assistant kernel built around a modular multi-agent architecture. Orchestrates...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake)
+  > Tensorlake is a serverless runtime for sandboxes and deploying background agentic applications
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness)
   > SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
+
+### [openprivacy](https://github.com/openprivacy)
+- 🌟 👤 [openprivacy](https://github.com/openprivacy) Starred [bdas-sec/ptf-id-bench](https://github.com/bdas-sec/ptf-id-bench)
+  > Progressive Trust Framework: AI Agent Safety Evaluation Benchmark with 290 scenarios testing Intelli...
+- 🌟 👤 [openprivacy](https://github.com/openprivacy) Starred [bdas-sec/weightprobe](https://github.com/bdas-sec/weightprobe)
+  > Defensive tooling for architectural backdoors in transformer LLMs. v0.1 ships structural-fingerprint...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
@@ -143,7 +163,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 16:39:05 UTC*
+*Last updated at 2026-07-10 17:32:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
