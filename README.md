@@ -56,6 +56,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [guilsa](https://github.com/guilsa) Starred [dougburks/so-crates](https://github.com/dougburks/so-crates)
   > SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
+  > Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibil...
+
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture)
   > Find dead Python code
@@ -75,6 +79,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [kacper-daftcode/vLLM-Moet](https://github.com/kacper-daftcode/vLLM-Moet)
   > A vLLM patch + hand‑written SM120 SASS kernels: 2‑bit MoE experts + an FP4 "delta" cache that recove...
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [eugenioenko/ttt](https://github.com/eugenioenko/ttt)
+  > TTT Editor - Terminal Text Tool: a terminal text editor IDE. A real alternative to VS Code, Zed, and...
 
 ### [jmcarp](https://github.com/jmcarp)
 - 🌟 👤 [jmcarp](https://github.com/jmcarp) Starred [awslabs/node-latency-for-k8s](https://github.com/awslabs/node-latency-for-k8s)
@@ -196,7 +202,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 20:28:30 UTC*
+*Last updated at 2026-07-10 21:21:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
