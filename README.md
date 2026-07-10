@@ -22,6 +22,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [brandur](https://github.com/brandur) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
   > Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension)
+  > Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
+
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
+  > Skills for Design Engineers.
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team)
+  > A home for compiler team planning documents, meeting minutes, and other such things.
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [rust-lang/calendar](https://github.com/rust-lang/calendar)
+  > Calendars for Rust project teams
+
 ### [guilsa](https://github.com/guilsa)
 - 🌟 👤 [guilsa](https://github.com/guilsa) Starred [dougburks/so-crates](https://github.com/dougburks/so-crates)
   > SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
@@ -56,9 +70,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [stablyai/orca](https://github.com/stablyai/orca)
   > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [fuderis/ovsy](https://github.com/fuderis/ovsy)
+  > A high-performance AI assistant kernel built around a modular multi-agent architecture. Orchestrates...
+
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness)
   > SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
+  > 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [OpenCIDN/ocimirror](https://github.com/OpenCIDN/ocimirror)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [DaoCloud/crproxy](https://github.com/DaoCloud/crproxy)
+  > CRProxy (Container Registry Proxy) is a generic image proxy
 
 ### [randombit](https://github.com/randombit)
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
@@ -98,7 +123,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 08:05:38 UTC*
+*Last updated at 2026-07-10 10:05:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
