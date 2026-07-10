@@ -98,6 +98,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [stablyai/orca](https://github.com/stablyai/orca)
   > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [lukearend/x86-bootloader](https://github.com/lukearend/x86-bootloader)
+  > write your own bootloader!
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [fuderis/ovsy](https://github.com/fuderis/ovsy)
   > A high-performance AI assistant kernel built around a modular multi-agent architecture. Orchestrates...
@@ -192,7 +196,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 19:28:57 UTC*
+*Last updated at 2026-07-10 20:28:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
