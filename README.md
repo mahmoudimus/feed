@@ -18,6 +18,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [tiliondev/fortress](https://github.com/tiliondev/fortress)
   > Stealth Chromium engine that stops scrapers and browser agents from getting blocked, with one line o...
 
+### [brandur](https://github.com/brandur)
+- 🌟 👤 [brandur](https://github.com/brandur) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
+  > Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+
+### [guilsa](https://github.com/guilsa)
+- 🌟 👤 [guilsa](https://github.com/guilsa) Starred [dougburks/so-crates](https://github.com/dougburks/so-crates)
+  > SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
+
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [ReksioEngine/ReksioEngine](https://github.com/ReksioEngine/ReksioEngine)
   > Reimplementation of BlooMoo and Piklib game engines for "Przygody Reksia" PC games series
@@ -27,6 +35,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [aatishb/patterncollider](https://github.com/aatishb/patterncollider)
   > A web interactive for generating and exploring quasiperiodic tiling patterns
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [harmont-dev/hyper](https://github.com/harmont-dev/hyper)
+  > Distributed Firecracker VM Orchestrator written in Elixir
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness)
@@ -35,6 +45,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [randombit](https://github.com/randombit)
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
   > Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
+  > A flight-compliant WebAssembly interpreter
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [countessellis/gromrik](https://github.com/countessellis/gromrik)
@@ -50,7 +64,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 02:59:49 UTC*
+*Last updated at 2026-07-10 04:27:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
