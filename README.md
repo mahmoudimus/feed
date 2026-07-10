@@ -85,6 +85,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [DaoCloud/crproxy](https://github.com/DaoCloud/crproxy)
   > CRProxy (Container Registry Proxy) is a generic image proxy
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [ryota2357/lean_string](https://github.com/ryota2357/lean_string)
+  > Compact, clone-on-write string for Rust.
+
 ### [randombit](https://github.com/randombit)
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
   > Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
@@ -117,13 +121,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/transformers-feedstock](https://github.com/conda-forge/transformers-feedstock) to [xhochy/transformers-feedstock](https://github.com/xhochy/transformers-feedstock)
   > A conda-smithy repository for transformers.
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [vurtun/lib](https://github.com/vurtun/lib)
+  > single header libraries for C/C++
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [wofr06/lesspipe](https://github.com/wofr06/lesspipe)
+  > lesspipe - display more with less
+
 
 <!-- nav -->
 [← 2026-07-09](archive/2026/07/09.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 10:05:40 UTC*
+*Last updated at 2026-07-10 11:58:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
