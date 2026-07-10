@@ -8,9 +8,31 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [tiliondev/fortress](https://github.com/tiliondev/fortress)
+  > Stealth Chromium engine that stops scrapers and browser agents from getting blocked, with one line o...
+
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [ReksioEngine/ReksioEngine](https://github.com/ReksioEngine/ReksioEngine)
+  > Reimplementation of BlooMoo and Piklib game engines for "Przygody Reksia" PC games series
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [aatishb/patterncollider](https://github.com/aatishb/patterncollider)
+  > A web interactive for generating and exploring quasiperiodic tiling patterns
+
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness)
   > SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
+
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
+  > Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [countessellis/gromrik](https://github.com/countessellis/gromrik)
+  > A Displeased Dwarf Chat Bot
 
 
 <!-- nav -->
@@ -18,7 +40,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 00:22:58 UTC*
+*Last updated at 2026-07-10 01:31:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
