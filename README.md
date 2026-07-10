@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BaseMax](https://github.com/BaseMax)
+- 🚀 👤 [BaseMax](https://github.com/BaseMax) Made [BaseMax/remote-shell-windows-xp](https://github.com/BaseMax/remote-shell-windows-xp) public
+  > An SSH-like remote control system between a Windows 11 controller (xpctl) and a Windows XP agent (xp...
+
 ### [NormXU](https://github.com/NormXU)
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
   > Collection of publicly available IPTV channels from all over the world
@@ -125,6 +129,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [randombit](https://github.com/randombit)
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
   > Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [joelodom/libre99](https://github.com/joelodom/libre99)
+  > An open source TI-99 emulator with open source ROMs and tooling
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
@@ -186,7 +192,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 18:27:44 UTC*
+*Last updated at 2026-07-10 19:28:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
