@@ -32,6 +32,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [Adikso/ivona-tts-server](https://github.com/Adikso/ivona-tts-server)
   > A docker server for Ivona TTS
 
+### [jentfoo](https://github.com/jentfoo)
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [kacper-daftcode/vLLM-Moet](https://github.com/kacper-daftcode/vLLM-Moet)
+  > A vLLM patch + hand‑written SM120 SASS kernels: 2‑bit MoE experts + an FP4 "delta" cache that recove...
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [aatishb/patterncollider](https://github.com/aatishb/patterncollider)
   > A web interactive for generating and exploring quasiperiodic tiling patterns
@@ -49,6 +53,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
   > A flight-compliant WebAssembly interpreter
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [jart/blink](https://github.com/jart/blink)
+  > tiniest x86-64-linux emulator
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [countessellis/gromrik](https://github.com/countessellis/gromrik)
@@ -64,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 04:27:06 UTC*
+*Last updated at 2026-07-10 06:17:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
