@@ -52,6 +52,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [guilsa](https://github.com/guilsa) Starred [dougburks/so-crates](https://github.com/dougburks/so-crates)
   > SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
 
+### [hit9](https://github.com/hit9)
+- 🌟 👤 [hit9](https://github.com/hit9) Starred [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture)
+  > Find dead Python code
+
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [ReksioEngine/ReksioEngine](https://github.com/ReksioEngine/ReksioEngine)
   > Reimplementation of BlooMoo and Piklib game engines for "Przygody Reksia" PC games series
@@ -105,6 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Progressive Trust Framework: AI Agent Safety Evaluation Benchmark with 290 scenarios testing Intelli...
 - 🌟 👤 [openprivacy](https://github.com/openprivacy) Starred [bdas-sec/weightprobe](https://github.com/bdas-sec/weightprobe)
   > Defensive tooling for architectural backdoors in transformer LLMs. v0.1 ships structural-fingerprint...
+- 🌟 👤 [openprivacy](https://github.com/openprivacy) Starred [harshadk99/deception-remote-mcp-server](https://github.com/harshadk99/deception-remote-mcp-server)
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)
@@ -157,13 +162,31 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [wofr06/lesspipe](https://github.com/wofr06/lesspipe)
   > lesspipe - display more with less
 
+### [zacharywhitley](https://github.com/zacharywhitley)
+- 🚀 👤 [zacharywhitley](https://github.com/zacharywhitley) Made [tegmentum/postgis_metadata-sqlink-bridge](https://github.com/tegmentum/postgis_metadata-sqlink-bridge) public
+  > Phase 9.1 dynlink bridge — postgis_metadata scoped scalars, aliased to postgis_core-composed shim (c...
+- 🚀 👤 [zacharywhitley](https://github.com/zacharywhitley) Made [tegmentum/postgis_metadata-ducklink-bridge](https://github.com/tegmentum/postgis_metadata-ducklink-bridge) public
+  > Phase 9.1 dynlink bridge — postgis_metadata scoped scalars, aliased to postgis_core-composed shim (c...
+- 🚀 👤 [zacharywhitley](https://github.com/zacharywhitley) Made [tegmentum/postgis_3d-sqlink-bridge](https://github.com/tegmentum/postgis_3d-sqlink-bridge) public
+  > Phase 9.1 dynlink bridge — postgis_3d scoped scalars, aliased to postgis_core-composed shim (compose...
+- 🚀 👤 [zacharywhitley](https://github.com/zacharywhitley) Made [tegmentum/postgis_3d-ducklink-bridge](https://github.com/tegmentum/postgis_3d-ducklink-bridge) public
+  > Phase 9.1 dynlink bridge — postgis_3d scoped scalars, aliased to postgis_core-composed shim (compose...
+- 🚀 👤 [zacharywhitley](https://github.com/zacharywhitley) Made [tegmentum/postgis_topology-sqlink-bridge](https://github.com/tegmentum/postgis_topology-sqlink-bridge) public
+  > Phase 9.1 dynlink bridge — postgis_topology scoped scalars, aliased to postgis_core-composed shim (c...
+- 🚀 👤 [zacharywhitley](https://github.com/zacharywhitley) Made [tegmentum/postgis_topology-ducklink-bridge](https://github.com/tegmentum/postgis_topology-ducklink-bridge) public
+  > Phase 9.1 dynlink bridge — postgis_topology scoped scalars, aliased to postgis_core-composed shim (c...
+- 🚀 👤 [zacharywhitley](https://github.com/zacharywhitley) Made [tegmentum/postgis_clustering-sqlink-bridge](https://github.com/tegmentum/postgis_clustering-sqlink-bridge) public
+  > Phase 9.1 dynlink bridge — postgis_clustering scoped scalars, aliased to postgis_core-composed shim ...
+- 🚀 👤 [zacharywhitley](https://github.com/zacharywhitley) Made [tegmentum/postgis_clustering-ducklink-bridge](https://github.com/tegmentum/postgis_clustering-ducklink-bridge) public
+  > Phase 9.1 dynlink bridge — postgis_clustering scoped scalars, aliased to postgis_core-composed shim ...
+
 
 <!-- nav -->
 [← 2026-07-09](archive/2026/07/09.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-10 17:32:02 UTC*
+*Last updated at 2026-07-10 18:27:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
