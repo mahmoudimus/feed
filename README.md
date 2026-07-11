@@ -93,6 +93,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [williballenthin](https://github.com/williballenthin)
 - 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [mandiant/speakeasy](https://github.com/mandiant/speakeasy) to [williballenthin/speakeasy](https://github.com/williballenthin/speakeasy)
   > Windows kernel and user mode emulation.
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [hyuunnn/idavim](https://github.com/hyuunnn/idavim)
+  > Vim-style keyboard navigation for IDA Pro
+- 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [hyuunnn/idavim](https://github.com/hyuunnn/idavim) to [williballenthin/idavim](https://github.com/williballenthin/idavim)
+  > Vim-style keyboard navigation for IDA Pro
 
 ### [wl4g](https://github.com/wl4g)
 - 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/sonarqube-mcp](https://github.com/flowgent-labs/sonarqube-mcp)
@@ -104,7 +108,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 19:23:34 UTC*
+*Last updated at 2026-07-11 20:15:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
