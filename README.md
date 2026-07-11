@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
 
+### [TomasVotruba](https://github.com/TomasVotruba)
+- 🍴 👤 [TomasVotruba](https://github.com/TomasVotruba) Forked [mautic/api-library](https://github.com/mautic/api-library) to [TomasVotruba/api-library](https://github.com/TomasVotruba/api-library)
+  > Mautic API Library
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint)
   > Type aware linting for oxlint
@@ -35,6 +39,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) to [fengjixuchui/tree-sitter](https://github.com/fengjixuchui/tree-sitter)
   > An incremental parsing system for programming tools
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [Zypherion-Technologies/HallWatch](https://github.com/Zypherion-Technologies/HallWatch)
+  > Usermode detector that catches indirect syscalls. Traps Hell's Hall, Tartarus' Gate, RecycledGate, a...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [Zypherion-Technologies/Nemesis](https://github.com/Zypherion-Technologies/Nemesis)
+  > .NET process monitor that hooks CLR at the native layer, dumps reflective assemblies from memory, an...
 
 ### [hasherezade](https://github.com/hasherezade)
 - 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [bitdefender/bddisasm](https://github.com/bitdefender/bddisasm)
@@ -116,7 +126,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 21:14:22 UTC*
+*Last updated at 2026-07-11 22:14:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
