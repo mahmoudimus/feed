@@ -46,9 +46,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [CNCKitchen/stlTexturizer](https://github.com/CNCKitchen/stlTexturizer)
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)
+  > Infinite Worlds with Versatile Interactions
+
 ### [kevaundray](https://github.com/kevaundray)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [jsign/eth-stateless](https://github.com/jsign/eth-stateless)
   > Ethereum stateless tools
+
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [rom1504/ear_camera_reverse_engineer](https://github.com/rom1504/ear_camera_reverse_engineer)
+  > Standalone UseeEar Wi-Fi camera protocol implementation and MPV stream bridge
 
 ### [markpeek](https://github.com/markpeek)
 - 🌟 👤 [markpeek](https://github.com/markpeek) Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)
@@ -108,7 +116,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 20:15:09 UTC*
+*Last updated at 2026-07-11 21:14:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
