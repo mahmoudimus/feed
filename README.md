@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [claucece](https://github.com/claucece) Forked [brave-intl/challenge-bypass-ristretto](https://github.com/brave-intl/challenge-bypass-ristretto) to [claucece/challenge-bypass-ristretto](https://github.com/claucece/challenge-bypass-ristretto)
   > Challenge Bypass using the Ristretto group
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) to [fengjixuchui/tree-sitter](https://github.com/fengjixuchui/tree-sitter)
+  > An incremental parsing system for programming tools
+
 ### [idavehuwei](https://github.com/idavehuwei)
 - 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [Penqle/tortoise-wow](https://github.com/Penqle/tortoise-wow) to [idavehuwei/tortoise-wow](https://github.com/idavehuwei/tortoise-wow)
 
@@ -63,7 +67,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 11:20:41 UTC*
+*Last updated at 2026-07-11 12:14:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
