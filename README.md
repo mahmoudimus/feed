@@ -16,9 +16,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Fox2Code](https://github.com/Fox2Code) Starred [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
   > Work-in-progress tool to reverse unity's IL2CPP toolchain.
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
+  > Framework for evaluating and improving agents 
+
 ### [claucece](https://github.com/claucece)
 - 🍴 👤 [claucece](https://github.com/claucece) Forked [brave-intl/challenge-bypass-ristretto](https://github.com/brave-intl/challenge-bypass-ristretto) to [claucece/challenge-bypass-ristretto](https://github.com/claucece/challenge-bypass-ristretto)
   > Challenge Bypass using the Ristretto group
+
+### [idavehuwei](https://github.com/idavehuwei)
+- 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [Penqle/tortoise-wow](https://github.com/Penqle/tortoise-wow) to [idavehuwei/tortoise-wow](https://github.com/idavehuwei/tortoise-wow)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [co-l/openfox](https://github.com/co-l/openfox)
+  > Local-LLM-first agentic coding assistant, with everything you need out of the box.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [whatchamacallem/libhatchet](https://github.com/whatchamacallem/libhatchet)
+  > libhatchet is a fast-compiling, lightweight, bespoke C17/C++23 alternative to the C++ standard libra...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [dorjeduck/llm.mojo](https://github.com/dorjeduck/llm.mojo)
@@ -46,7 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 08:31:37 UTC*
+*Last updated at 2026-07-11 09:29:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
