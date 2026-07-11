@@ -36,8 +36,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) to [fengjixuchui/tree-sitter](https://github.com/fengjixuchui/tree-sitter)
   > An incremental parsing system for programming tools
 
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [bitdefender/bddisasm](https://github.com/bitdefender/bddisasm)
+  > bddisasm is a fast, lightweight, x86/x64 instruction decoder.  The project also features a fast, bas...
+
 ### [idavehuwei](https://github.com/idavehuwei)
 - 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [Penqle/tortoise-wow](https://github.com/Penqle/tortoise-wow) to [idavehuwei/tortoise-wow](https://github.com/idavehuwei/tortoise-wow)
+
+### [kevaundray](https://github.com/kevaundray)
+- 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [jsign/eth-stateless](https://github.com/jsign/eth-stateless)
+  > Ethereum stateless tools
+
+### [markpeek](https://github.com/markpeek)
+- 🌟 👤 [markpeek](https://github.com/markpeek) Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)
+  > 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking cha...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [co-l/openfox](https://github.com/co-l/openfox)
@@ -69,6 +81,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
   > Hindsight: Agent Memory That  Learns
 
+### [williballenthin](https://github.com/williballenthin)
+- 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [mandiant/speakeasy](https://github.com/mandiant/speakeasy) to [williballenthin/speakeasy](https://github.com/williballenthin/speakeasy)
+  > Windows kernel and user mode emulation.
+
 ### [wl4g](https://github.com/wl4g)
 - 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/sonarqube-mcp](https://github.com/flowgent-labs/sonarqube-mcp)
   > An Enhanced Enterprise-grade Sonarqube MCP server.
@@ -79,7 +95,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 16:15:41 UTC*
+*Last updated at 2026-07-11 17:19:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
