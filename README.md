@@ -50,6 +50,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > GPT-2 training in pure Mojo with hand-written CUDA and Metal GPU kernels. llm.c parity in bf16 on NV...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [sky-2002/Tiny-RLVR](https://github.com/sky-2002/Tiny-RLVR)
   > Experiments with RL at tiny scale
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [joa/phobos-lang](https://github.com/joa/phobos-lang)
+  > Tiny Triton-inspired GPU kernel language
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
@@ -67,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 13:28:25 UTC*
+*Last updated at 2026-07-11 14:25:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
