@@ -8,9 +8,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BaseMax](https://github.com/BaseMax)
+- 🍴 👤 [BaseMax](https://github.com/BaseMax) Forked [github-linguist/linguist](https://github.com/github-linguist/linguist) to [MaxFork/linguist](https://github.com/MaxFork/linguist)
+  > Language Savant. If your repository's language is being reported incorrectly, send us a pull request...
+
 ### [claucece](https://github.com/claucece)
 - 🍴 👤 [claucece](https://github.com/claucece) Forked [brave-intl/challenge-bypass-ristretto](https://github.com/brave-intl/challenge-bypass-ristretto) to [claucece/challenge-bypass-ristretto](https://github.com/claucece/challenge-bypass-ristretto)
   > Challenge Bypass using the Ristretto group
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [dorjeduck/llm.mojo](https://github.com/dorjeduck/llm.mojo)
+  > port of Andrjey Karpathy's llm.c to Mojo
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NVIDIA/cutile-python](https://github.com/NVIDIA/cutile-python)
+  > cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+  > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
@@ -22,7 +36,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 04:06:17 UTC*
+*Last updated at 2026-07-11 05:50:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
