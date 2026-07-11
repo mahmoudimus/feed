@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Fox2Code](https://github.com/Fox2Code) Starred [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
   > Work-in-progress tool to reverse unity's IL2CPP toolchain.
 
+### [Gcenx](https://github.com/Gcenx)
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [realgarit/PKHeX-Avalonia](https://github.com/realgarit/PKHeX-Avalonia)
+  > A cross-platform fork of the Pokémon save file editor "PKHeX" built with .NET 10 and Avalonia.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
@@ -59,7 +63,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 10:24:19 UTC*
+*Last updated at 2026-07-11 11:20:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
