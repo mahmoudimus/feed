@@ -73,6 +73,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Tiny Triton-inspired GPU kernel language
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile)
   > CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kerne...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [shivasankarka/Mantle](https://github.com/shivasankarka/Mantle)
+  > A Mojo🔥-native machine learning framework built from the ground up for performance and flexibility.
 
 ### [pron](https://github.com/pron)
 - 🌟 👤 [pron](https://github.com/pron) Starred [questdb/questdb](https://github.com/questdb/questdb)
@@ -102,7 +104,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 18:15:25 UTC*
+*Last updated at 2026-07-11 19:23:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
