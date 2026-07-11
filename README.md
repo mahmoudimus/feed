@@ -94,6 +94,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [shivasankarka/Mantle](https://github.com/shivasankarka/Mantle)
   > A Mojo🔥-native machine learning framework built from the ground up for performance and flexibility.
 
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [sun-lite/firewall](https://github.com/sun-lite/firewall)
+  > Blocks 205,000+ dangerous IPs globally + Israel IP range ban.   Optimized binary format for qBittorr...
+
 ### [pron](https://github.com/pron)
 - 🌟 👤 [pron](https://github.com/pron) Starred [questdb/questdb](https://github.com/questdb/questdb)
   > QuestDB is a high performance, open-source, time-series database
@@ -126,7 +130,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 22:14:43 UTC*
+*Last updated at 2026-07-11 23:15:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
