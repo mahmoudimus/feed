@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint)
+  > Type aware linting for oxlint
+
 ### [claucece](https://github.com/claucece)
 - 🍴 👤 [claucece](https://github.com/claucece) Forked [brave-intl/challenge-bypass-ristretto](https://github.com/brave-intl/challenge-bypass-ristretto) to [claucece/challenge-bypass-ristretto](https://github.com/claucece/challenge-bypass-ristretto)
   > Challenge Bypass using the Ristretto group
@@ -52,6 +56,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Experiments with RL at tiny scale
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [joa/phobos-lang](https://github.com/joa/phobos-lang)
   > Tiny Triton-inspired GPU kernel language
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile)
+  > CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kerne...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
@@ -63,13 +69,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
   > Hindsight: Agent Memory That  Learns
 
+### [wl4g](https://github.com/wl4g)
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/sonarqube-mcp](https://github.com/flowgent-labs/sonarqube-mcp)
+  > An Enhanced Enterprise-grade Sonarqube MCP server.
+
 
 <!-- nav -->
 [← 2026-07-10](archive/2026/07/10.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 15:19:19 UTC*
+*Last updated at 2026-07-11 16:15:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
