@@ -43,6 +43,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [idavehuwei](https://github.com/idavehuwei)
 - 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [Penqle/tortoise-wow](https://github.com/Penqle/tortoise-wow) to [idavehuwei/tortoise-wow](https://github.com/idavehuwei/tortoise-wow)
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [CNCKitchen/stlTexturizer](https://github.com/CNCKitchen/stlTexturizer)
+
 ### [kevaundray](https://github.com/kevaundray)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [jsign/eth-stateless](https://github.com/jsign/eth-stateless)
   > Ethereum stateless tools
@@ -71,6 +74,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile)
   > CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kerne...
 
+### [pron](https://github.com/pron)
+- 🌟 👤 [pron](https://github.com/pron) Starred [questdb/questdb](https://github.com/questdb/questdb)
+  > QuestDB is a high performance, open-source, time-series database
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
   > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
@@ -95,7 +102,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-11 17:19:11 UTC*
+*Last updated at 2026-07-11 18:15:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
