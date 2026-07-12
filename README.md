@@ -47,6 +47,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)
   > A visualization tool that replays coding-agent sessions on a 3D map of your codebase.
 
+### [matin](https://github.com/matin)
+- 🍴 👤 [matin](https://github.com/matin) Forked [valhalla/valhalla](https://github.com/valhalla/valhalla) to [imperfect-co/valhalla](https://github.com/imperfect-co/valhalla)
+  > Open Source Routing Engine for OpenStreetMap
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
@@ -110,7 +114,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 21:14:46 UTC*
+*Last updated at 2026-07-12 22:14:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
