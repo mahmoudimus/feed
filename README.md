@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Hellblazer](https://github.com/Hellblazer)
+- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [ronak-create/FableCut](https://github.com/ronak-create/FableCut) to [Hellblazer/FableCut](https://github.com/Hellblazer/FableCut)
+  > Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-relo...
+
 ### [alexazhou](https://github.com/alexazhou)
 - 🍴 👤 [alexazhou](https://github.com/alexazhou) Forked [alexazhou/gt_ai_gateway](https://github.com/alexazhou/gt_ai_gateway) to [awesomeboxroom/gt_ai_gateway](https://github.com/awesomeboxroom/gt_ai_gateway)
   > 轻量高性能 AI 网关，支持协议转换和请求可视化，以及缓存优化功能。并可以运行在 Serverless、Docker 和桌面端环境
@@ -15,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [cmc](https://github.com/cmc)
 - 🌟 👤 [cmc](https://github.com/cmc) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
   > Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A l...
+
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite)
+  > Ergonomic bindings to SQLite for Rust
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) to [fengjixuchui/gdid-reversal](https://github.com/fengjixuchui/gdid-reversal)
@@ -49,6 +57,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed)
   > CodSpeed is the all-in-one performance testing toolkit. Optimize code performance and catch regressi...
 
+### [shanselman](https://github.com/shanselman)
+- 🚀 👤 [shanselman](https://github.com/shanselman) Made [shanselman/PokeyForWindows](https://github.com/shanselman/PokeyForWindows) public
+  > An animated high-impact pointer for Windows screen sharing
+
 ### [tintinweb](https://github.com/tintinweb)
 - 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [MarvinSchwaibold/mri-grid-viewer](https://github.com/MarvinSchwaibold/mri-grid-viewer)
   > Local-first MRI series grid viewer with a SwiftUI iOS wrapper
@@ -69,7 +81,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 13:28:25 UTC*
+*Last updated at 2026-07-12 14:28:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
