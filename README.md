@@ -16,6 +16,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [cmc](https://github.com/cmc) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
   > Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A l...
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) to [fengjixuchui/gdid-reversal](https://github.com/fengjixuchui/gdid-reversal)
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [muscriptor/muscriptor](https://github.com/muscriptor/muscriptor)
   > MuScriptor is a multi-instrument music transcription model developed by Kyutai and Mirelo.
@@ -29,6 +32,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [united-manufacturing-hub/united-manufacturing-hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub)
   > The data platform for manufacturing
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [rayfish/rayfish](https://github.com/rayfish/rayfish)
+  > P2P mesh VPN powered by iroh
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed)
@@ -44,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 08:41:21 UTC*
+*Last updated at 2026-07-12 09:31:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
