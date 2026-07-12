@@ -18,13 +18,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [muscriptor/muscriptor](https://github.com/muscriptor/muscriptor) to [johndpope/muscriptor](https://github.com/johndpope/muscriptor)
   > MuScriptor is a multi-instrument music transcription model developed by Kyutai and Mirelo.
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed)
+  > CodSpeed is the all-in-one performance testing toolkit. Optimize code performance and catch regressi...
+
 
 <!-- nav -->
 [← 2026-07-11](archive/2026/07/11.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 02:59:24 UTC*
+*Last updated at 2026-07-12 04:16:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
