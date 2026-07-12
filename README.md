@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite)
   > Ergonomic bindings to SQLite for Rust
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [raine/claude-code-proxy](https://github.com/raine/claude-code-proxy)
+  > Use Claude Code with your ChatGPT, Kimi, Cursor or Grok subscription via a local Anthropic-compatibl...
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) to [fengjixuchui/gdid-reversal](https://github.com/fengjixuchui/gdid-reversal)
 
@@ -36,6 +40,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   >  Background jobs inspector for Apalis
 - 🌟 👤 [frol](https://github.com/frol) Starred [apalis-dev/examples](https://github.com/apalis-dev/examples)
   > Community showcase and examples of `apalis` ecosystem usage. 
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [maxucheng0/grok-auto-register](https://github.com/maxucheng0/grok-auto-register)
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [muscriptor/muscriptor](https://github.com/muscriptor/muscriptor)
@@ -114,7 +121,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 22:14:41 UTC*
+*Last updated at 2026-07-12 23:15:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
