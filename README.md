@@ -31,6 +31,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) to [fengjixuchui/gdid-reversal](https://github.com/fengjixuchui/gdid-reversal)
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [apalis-dev/apalis-board](https://github.com/apalis-dev/apalis-board)
+  >  Background jobs inspector for Apalis
+- 🌟 👤 [frol](https://github.com/frol) Starred [apalis-dev/examples](https://github.com/apalis-dev/examples)
+  > Community showcase and examples of `apalis` ecosystem usage. 
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [muscriptor/muscriptor](https://github.com/muscriptor/muscriptor)
   > MuScriptor is a multi-instrument music transcription model developed by Kyutai and Mirelo.
@@ -104,7 +110,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 19:22:51 UTC*
+*Last updated at 2026-07-12 20:13:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
