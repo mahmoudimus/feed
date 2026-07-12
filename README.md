@@ -68,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [MarvinSchwaibold/mri-grid-viewer](https://github.com/MarvinSchwaibold/mri-grid-viewer)
   > Local-first MRI series grid viewer with a SwiftUI iOS wrapper
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [hyuunnn/ida-slides](https://github.com/hyuunnn/ida-slides)
+  > Present live reverse-engineering with Marp/Slidev decks docked inside IDA Pro
+
 ### [yegor256](https://github.com/yegor256)
 - 🍴 👤 [yegor256](https://github.com/yegor256) Forked [latex3/l3build](https://github.com/latex3/l3build) to [yegor256/l3build](https://github.com/yegor256/l3build)
   > A testing and building system for LaTeX
@@ -84,7 +88,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 16:16:48 UTC*
+*Last updated at 2026-07-12 17:20:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
