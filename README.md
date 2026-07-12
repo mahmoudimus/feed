@@ -45,6 +45,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
   > 🤖 WebMCP
 
+### [mzpqnxow](https://github.com/mzpqnxow)
+- 🍴 👤 [mzpqnxow](https://github.com/mzpqnxow) Forked [hadiasghari/pyasn](https://github.com/hadiasghari/pyasn) to [mzpqnxow/pyasn](https://github.com/mzpqnxow/pyasn)
+  > Python IP address to Autonomous System Number lookup module. (Supports fast local lookups, and histo...
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [united-manufacturing-hub/united-manufacturing-hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub)
   > The data platform for manufacturing
@@ -68,6 +72,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [MarvinSchwaibold/mri-grid-viewer](https://github.com/MarvinSchwaibold/mri-grid-viewer)
   > Local-first MRI series grid viewer with a SwiftUI iOS wrapper
 
+### [trekhleb](https://github.com/trekhleb)
+- 🌟 👤 [trekhleb](https://github.com/trekhleb) Starred [umami-software/umami](https://github.com/umami-software/umami)
+  > Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytic...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [hyuunnn/ida-slides](https://github.com/hyuunnn/ida-slides)
   > Present live reverse-engineering with Marp/Slidev decks docked inside IDA Pro
@@ -88,7 +96,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 17:20:30 UTC*
+*Last updated at 2026-07-12 18:15:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
