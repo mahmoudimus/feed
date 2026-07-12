@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [ronak-create/FableCut](https://github.com/ronak-create/FableCut) to [Hellblazer/FableCut](https://github.com/Hellblazer/FableCut)
   > Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-relo...
 
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [SatDump/SatDump](https://github.com/SatDump/SatDump)
+  > A generic satellite data processing software.
+
 ### [alexazhou](https://github.com/alexazhou)
 - 🍴 👤 [alexazhou](https://github.com/alexazhou) Forked [alexazhou/gt_ai_gateway](https://github.com/alexazhou/gt_ai_gateway) to [awesomeboxroom/gt_ai_gateway](https://github.com/awesomeboxroom/gt_ai_gateway)
   > 轻量高性能 AI 网关，支持协议转换和请求可视化，以及缓存优化功能。并可以运行在 Serverless、Docker 和桌面端环境
@@ -68,6 +72,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [shanselman](https://github.com/shanselman) Made [shanselman/PokeyForWindows](https://github.com/shanselman/PokeyForWindows) public
   > An animated high-impact pointer for Windows screen sharing
 
+### [smourier](https://github.com/smourier)
+- 🚀 👤 [smourier](https://github.com/smourier) Made [smourier/SQLNadoAot](https://github.com/smourier/SQLNadoAot) public
+  > SQLNado (SQLite Not ADO) is a .NET Core lightweight bloat free wrapper and object persistence framew...
+
 ### [tintinweb](https://github.com/tintinweb)
 - 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [MarvinSchwaibold/mri-grid-viewer](https://github.com/MarvinSchwaibold/mri-grid-viewer)
   > Local-first MRI series grid viewer with a SwiftUI iOS wrapper
@@ -96,7 +104,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 18:15:13 UTC*
+*Last updated at 2026-07-12 19:22:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
