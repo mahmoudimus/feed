@@ -49,6 +49,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed)
   > CodSpeed is the all-in-one performance testing toolkit. Optimize code performance and catch regressi...
 
+### [tintinweb](https://github.com/tintinweb)
+- 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [MarvinSchwaibold/mri-grid-viewer](https://github.com/MarvinSchwaibold/mri-grid-viewer)
+  > Local-first MRI series grid viewer with a SwiftUI iOS wrapper
+
 ### [yegor256](https://github.com/yegor256)
 - 🍴 👤 [yegor256](https://github.com/yegor256) Forked [latex3/l3build](https://github.com/latex3/l3build) to [yegor256/l3build](https://github.com/yegor256/l3build)
   > A testing and building system for LaTeX
@@ -65,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 12:14:18 UTC*
+*Last updated at 2026-07-12 13:28:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
