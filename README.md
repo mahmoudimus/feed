@@ -34,6 +34,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The data platform for manufacturing
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [rayfish/rayfish](https://github.com/rayfish/rayfish)
   > P2P mesh VPN powered by iroh
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [inkandswitch/backstitch](https://github.com/inkandswitch/backstitch)
+  > Backstitch: Real-Time Version Control for Godot
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed)
@@ -49,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 09:31:34 UTC*
+*Last updated at 2026-07-12 10:29:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
