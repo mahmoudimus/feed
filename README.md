@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [alexazhou](https://github.com/alexazhou)
+- 🍴 👤 [alexazhou](https://github.com/alexazhou) Forked [alexazhou/gt_ai_gateway](https://github.com/alexazhou/gt_ai_gateway) to [awesomeboxroom/gt_ai_gateway](https://github.com/awesomeboxroom/gt_ai_gateway)
+  > 轻量高性能 AI 网关，支持协议转换和请求可视化，以及缓存优化功能。并可以运行在 Serverless、Docker 和桌面端环境
+
 ### [cmc](https://github.com/cmc)
 - 🌟 👤 [cmc](https://github.com/cmc) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
   > Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A l...
@@ -28,7 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-12 04:16:21 UTC*
+*Last updated at 2026-07-12 05:59:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
