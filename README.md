@@ -92,6 +92,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A novel obfuscation technique for ELF programs by abusing symbol resolution metadata to break disass...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xp987/symbridge](https://github.com/xp987/symbridge)
+  > Live IDA ↔ x64dbg annotation and type synchronization bridge
 
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
@@ -110,6 +112,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A creative tool engine
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku)
   > High-performance JavaScript/TypeScript compiler toolchain in Zig.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda)
+  > how to optimize some algorithm in cuda.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [BBuf/KDA-Pilot](https://github.com/BBuf/KDA-Pilot)
 
 ### [prasmussen](https://github.com/prasmussen)
 - 🌟 👤 [prasmussen](https://github.com/prasmussen) Starred [Dicklesworthstone/atp](https://github.com/Dicklesworthstone/atp)
@@ -143,7 +148,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 20:23:49 UTC*
+*Last updated at 2026-07-13 21:17:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
