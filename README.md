@@ -130,6 +130,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [chamodanethra/react-native-biometric-signature](https://github.com/chamodanethra/react-native-biometric-signature)
   > Biometric-gated cryptographic signing, key creation, decryption, and authentication prompts for Reac...
 
+### [sintaxi](https://github.com/sintaxi)
+- 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [yeet-src/sigwire](https://github.com/yeet-src/sigwire)
+  > tail -f for signals. Every signal any process on the box raises — who sent it, who it hit, which sig...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
@@ -141,6 +145,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [zchee/homebrew-formula](https://github.com/zchee/homebrew-formula)
   > Homebrew tap repository for command-line tools
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [YuGiMob/pi-hashline-edit-pro](https://github.com/YuGiMob/pi-hashline-edit-pro)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [RimuruW/pi-hashline-edit](https://github.com/RimuruW/pi-hashline-edit)
+  > A pi-coding-agent extension that replaces the built-in tools with a hash-anchored line-editing workf...
 
 
 <!-- nav -->
@@ -148,7 +155,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 21:17:40 UTC*
+*Last updated at 2026-07-13 22:16:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
