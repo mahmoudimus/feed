@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [buger](https://github.com/buger) Starred [openai/cdc-lean](https://github.com/openai/cdc-lean)
 - 🍴 👤 [buger](https://github.com/buger) Forked [openai/cdc-lean](https://github.com/openai/cdc-lean) to [buger/cdc-lean](https://github.com/buger/cdc-lean)
 
+### [cscotta](https://github.com/cscotta)
+- 🍴 👤 [cscotta](https://github.com/cscotta) Forked [apache/cassandra-java-driver](https://github.com/apache/cassandra-java-driver) to [cscotta/cassandra-java-driver](https://github.com/cscotta/cassandra-java-driver)
+  > Java Driver for Apache Cassandra®
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs)
   > A fast Rust JSON library based on SIMD.
@@ -113,6 +117,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [chamodanethra/react-native-biometric-signature](https://github.com/chamodanethra/react-native-biometric-signature)
   > Biometric-gated cryptographic signing, key creation, decryption, and authentication prompts for Reac...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [zserge/aurfuse](https://github.com/zserge/aurfuse)
   > Minimal audio toolkit for writing synthesizers in C
@@ -127,7 +135,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 17:36:39 UTC*
+*Last updated at 2026-07-13 18:30:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
