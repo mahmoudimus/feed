@@ -53,6 +53,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [facebook/astryx](https://github.com/facebook/astryx)
   > An open source design system that's fully customizable and agent ready
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hyuunnn/ida-slides](https://github.com/hyuunnn/ida-slides)
+  > Present live reverse-engineering with Marp/Slidev decks docked inside IDA Pro
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OrionReed/bireactive](https://github.com/OrionReed/bireactive)
   > bi-directional reactive programming
@@ -60,6 +64,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Carrier pigeons always find their way home.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [orielhaim/TunTun](https://github.com/orielhaim/TunTun)
   > Open-source mesh networking. Connect your machines into a private network, wherever they are.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tilesprivacy/tiles](https://github.com/tilesprivacy/tiles)
+  > Tiles is a local-first private AI assistant. Powered by local models and ATproto.
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook)
+  > Examples of using E2B
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [agent-sandbox/agent-sandbox](https://github.com/agent-sandbox/agent-sandbox)
+  > Agent-Sandbox is an E2B compatible easy-to-use enterprise-grade sandboxes for AI Agents. Allows Agen...
 
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [chamodanethra/react-native-biometric-signature](https://github.com/chamodanethra/react-native-biometric-signature)
@@ -79,7 +91,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 12:59:12 UTC*
+*Last updated at 2026-07-13 13:46:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
