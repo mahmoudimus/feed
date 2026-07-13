@@ -35,6 +35,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [sinkingsugar/leadsheet](https://github.com/sinkingsugar/leadsheet)
+  > MIDI <-> compact semantic text an LLM can read, edit, and compose in. A lead sheet, not a zip file.
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [sinkingsugar/leadsheet](https://github.com/sinkingsugar/leadsheet) to [johndpope/leadsheet](https://github.com/johndpope/leadsheet)
+  > MIDI <-> compact semantic text an LLM can read, edit, and compose in. A lead sheet, not a zip file.
+
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [facebook/astryx](https://github.com/facebook/astryx)
   > An open source design system that's fully customizable and agent ready
@@ -61,7 +67,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 10:03:03 UTC*
+*Last updated at 2026-07-13 11:59:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
