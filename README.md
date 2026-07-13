@@ -91,6 +91,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mrchantey/beet](https://github.com/mrchantey/beet)
   > A creative tool engine
 
+### [prasmussen](https://github.com/prasmussen)
+- 🌟 👤 [prasmussen](https://github.com/prasmussen) Starred [Dicklesworthstone/atp](https://github.com/Dicklesworthstone/atp)
+  > atp — fountain-coded file transfer (RaptorQ over UDP/QUIC) that outruns tuned rsync on real networks...
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook)
   > Examples of using E2B
@@ -115,7 +119,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 15:53:37 UTC*
+*Last updated at 2026-07-13 16:45:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
