@@ -25,6 +25,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Bring Your Edge AI Models For Compilation, Inference, Analysis or Benchmark (BYOM) using TI Deep Lea...
 - 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [raine/claude-code-proxy](https://github.com/raine/claude-code-proxy) to [fcakyon/claude-code-with-codex](https://github.com/fcakyon/claude-code-with-codex)
   > Use Claude Code with your ChatGPT, Kimi, Cursor or Grok subscription via a local Anthropic-compatibl...
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [fcakyon/claude-code-with-codex](https://github.com/fcakyon/claude-code-with-codex)
+  > Use Claude Code on your Claude and ChatGPT (Codex) subscriptions at the same time, switchable mid-co...
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [tsunam9/MemHvHooked](https://github.com/tsunam9/MemHvHooked) to [fengjixuchui/MemHvHooked](https://github.com/fengjixuchui/MemHvHooked)
@@ -48,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A curated list of awesome Agent Skills for automating legal work
 - 🍴 👤 [h2non](https://github.com/h2non) Forked [lawve-ai/awesome-legal-skills](https://github.com/lawve-ai/awesome-legal-skills) to [h2non/awesome-legal-skills](https://github.com/h2non/awesome-legal-skills)
   > A curated list of awesome Agent Skills for automating legal work
+
+### [h3xstream](https://github.com/h3xstream)
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [messypoutine/gravy-overflow](https://github.com/messypoutine/gravy-overflow)
+  > A GitHub Actions Supply Chain CTF / Goat
 
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
@@ -109,7 +115,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 14:56:18 UTC*
+*Last updated at 2026-07-13 15:53:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
