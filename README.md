@@ -10,7 +10,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [AndrasKovacs](https://github.com/AndrasKovacs)
 - 🌟 👤 [AndrasKovacs](https://github.com/AndrasKovacs) Starred [kontheocharis/synthetait](https://github.com/kontheocharis/synthetait)
-  > Synthetic Tait computability formalisation attempts
+  > Synthetic Tait computability in intensional type theory
 
 ### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [getsentry/replay-debugger](https://github.com/getsentry/replay-debugger)
@@ -108,6 +108,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Tiles is a local-first private AI assistant. Powered by local models and ATproto.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mrchantey/beet](https://github.com/mrchantey/beet)
   > A creative tool engine
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku)
+  > High-performance JavaScript/TypeScript compiler toolchain in Zig.
 
 ### [prasmussen](https://github.com/prasmussen)
 - 🌟 👤 [prasmussen](https://github.com/prasmussen) Starred [Dicklesworthstone/atp](https://github.com/Dicklesworthstone/atp)
@@ -141,7 +143,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 19:29:13 UTC*
+*Last updated at 2026-07-13 20:23:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
