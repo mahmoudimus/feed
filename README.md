@@ -12,6 +12,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs)
   > A fast Rust JSON library based on SIMD.
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [TexasInstruments/edgeai-tidlrunner](https://github.com/TexasInstruments/edgeai-tidlrunner)
+  > Bring Your Edge AI Models For Compilation, Inference, Analysis or Benchmark (BYOM) using TI Deep Lea...
+- 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [raine/claude-code-proxy](https://github.com/raine/claude-code-proxy) to [fcakyon/claude-code-with-codex](https://github.com/fcakyon/claude-code-with-codex)
+  > Use Claude Code with your ChatGPT, Kimi, Cursor or Grok subscription via a local Anthropic-compatibl...
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [tsunam9/MemHvHooked](https://github.com/tsunam9/MemHvHooked) to [fengjixuchui/MemHvHooked](https://github.com/fengjixuchui/MemHvHooked)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [wesmar/EfiTool](https://github.com/wesmar/EfiTool) to [fengjixuchui/EfiTool](https://github.com/fengjixuchui/EfiTool)
@@ -33,6 +39,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [facebook/astryx](https://github.com/facebook/astryx)
   > An open source design system that's fully customizable and agent ready
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OrionReed/bireactive](https://github.com/OrionReed/bireactive)
+  > bi-directional reactive programming
+
+### [sbycrosz](https://github.com/sbycrosz)
+- 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [chamodanethra/react-native-biometric-signature](https://github.com/chamodanethra/react-native-biometric-signature)
+  > Biometric-gated cryptographic signing, key creation, decryption, and authentication prompts for Reac...
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [zserge/aurfuse](https://github.com/zserge/aurfuse)
+  > Minimal audio toolkit for writing synthesizers in C
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [zchee/homebrew-formula](https://github.com/zchee/homebrew-formula)
   > Homebrew tap repository for command-line tools
@@ -43,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 08:01:29 UTC*
+*Last updated at 2026-07-13 10:03:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
