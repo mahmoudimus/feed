@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa)
   > Zero-config PWA for Vite
 
+### [buger](https://github.com/buger)
+- 🌟 👤 [buger](https://github.com/buger) Starred [openai/cdc-lean](https://github.com/openai/cdc-lean)
+- 🍴 👤 [buger](https://github.com/buger) Forked [openai/cdc-lean](https://github.com/openai/cdc-lean) to [buger/cdc-lean](https://github.com/buger/cdc-lean)
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs)
   > A fast Rust JSON library based on SIMD.
@@ -39,6 +43,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
   > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [lawve-ai/awesome-legal-skills](https://github.com/lawve-ai/awesome-legal-skills)
+  > A curated list of awesome Agent Skills for automating legal work
+- 🍴 👤 [h2non](https://github.com/h2non) Forked [lawve-ai/awesome-legal-skills](https://github.com/lawve-ai/awesome-legal-skills) to [h2non/awesome-legal-skills](https://github.com/h2non/awesome-legal-skills)
+  > A curated list of awesome Agent Skills for automating legal work
+
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
@@ -56,6 +66,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hyuunnn/ida-slides](https://github.com/hyuunnn/ida-slides)
   > Present live reverse-engineering with Marp/Slidev decks docked inside IDA Pro
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [caprinux/rel-fuscate](https://github.com/caprinux/rel-fuscate)
+  > A novel obfuscation technique for ELF programs by abusing symbol resolution metadata to break disass...
+
+### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
+  > cut Fable 5 token usage by rendering text context as images
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OrionReed/bireactive](https://github.com/OrionReed/bireactive)
@@ -66,6 +82,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Open-source mesh networking. Connect your machines into a private network, wherever they are.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tilesprivacy/tiles](https://github.com/tilesprivacy/tiles)
   > Tiles is a local-first private AI assistant. Powered by local models and ATproto.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mrchantey/beet](https://github.com/mrchantey/beet)
+  > A creative tool engine
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook)
@@ -91,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 13:46:53 UTC*
+*Last updated at 2026-07-13 14:56:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
