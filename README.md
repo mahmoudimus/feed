@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [AndrasKovacs](https://github.com/AndrasKovacs) Starred [kontheocharis/synthetait](https://github.com/kontheocharis/synthetait)
   > Synthetic Tait computability formalisation attempts
 
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [getsentry/replay-debugger](https://github.com/getsentry/replay-debugger)
+  > Sentry Session Replay debugger
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [giannisanni/neutronstar](https://github.com/giannisanni/neutronstar)
   > Giant MoE models on a single consumer GPU by streaming experts from SSD. CUDA fork of antirez/ds4: r...
@@ -86,6 +90,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Present live reverse-engineering with Marp/Slidev decks docked inside IDA Pro
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [caprinux/rel-fuscate](https://github.com/caprinux/rel-fuscate)
   > A novel obfuscation technique for ELF programs by abusing symbol resolution metadata to break disass...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
@@ -135,7 +141,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 18:30:10 UTC*
+*Last updated at 2026-07-13 19:29:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
