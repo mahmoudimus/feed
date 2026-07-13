@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AndrasKovacs](https://github.com/AndrasKovacs)
+- 🌟 👤 [AndrasKovacs](https://github.com/AndrasKovacs) Starred [kontheocharis/synthetait](https://github.com/kontheocharis/synthetait)
+  > Synthetic Tait computability formalisation attempts
+
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [giannisanni/neutronstar](https://github.com/giannisanni/neutronstar)
+  > Giant MoE models on a single consumer GPU by streaming experts from SSD. CUDA fork of antirez/ds4: r...
+
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa)
   > Zero-config PWA for Vite
@@ -119,7 +127,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 16:45:39 UTC*
+*Last updated at 2026-07-13 17:36:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
