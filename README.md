@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa)
+  > Zero-config PWA for Vite
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs)
   > A fast Rust JSON library based on SIMD.
@@ -31,6 +35,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [meowdiocre/ss-overlay-hook](https://github.com/meowdiocre/ss-overlay-hook) to [fengjixuchui/ss-overlay-hook](https://github.com/fengjixuchui/ss-overlay-hook)
   > An steelseries overlay implementation using alternative hooking methods rather than the generic Pres...
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
+  > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
+
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
@@ -48,6 +56,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OrionReed/bireactive](https://github.com/OrionReed/bireactive)
   > bi-directional reactive programming
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [n0-computer/pigeons](https://github.com/n0-computer/pigeons)
+  > Carrier pigeons always find their way home.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [orielhaim/TunTun](https://github.com/orielhaim/TunTun)
+  > Open-source mesh networking. Connect your machines into a private network, wherever they are.
 
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [chamodanethra/react-native-biometric-signature](https://github.com/chamodanethra/react-native-biometric-signature)
@@ -67,7 +79,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 11:59:42 UTC*
+*Last updated at 2026-07-13 12:59:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
