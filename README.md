@@ -8,14 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [cloudwego/sonic-rs](https://github.com/cloudwego/sonic-rs)
+  > A fast Rust JSON library based on SIMD.
+
 
 <!-- nav -->
 [← 2026-07-12](archive/2026/07/12.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 00:18:01 UTC*
+*Last updated at 2026-07-13 01:31:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
