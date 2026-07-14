@@ -94,6 +94,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xp987/symbridge](https://github.com/xp987/symbridge)
   > Live IDA ↔ x64dbg annotation and type synchronization bridge
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [xp987/symbridge](https://github.com/xp987/symbridge) to [mrexodia/symbridge](https://github.com/mrexodia/symbridge)
+  > Live IDA ↔ x64dbg annotation and type synchronization bridge
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thomasunise/visionbridge](https://github.com/thomasunise/visionbridge)
+  > Give text-only LLMs vision. A tiny OpenAI-compatible proxy that lets reasoning models (DeepSeek, Qwe...
 
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
@@ -115,6 +119,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [BBuf/how-to-optim-algorithm-in-cuda](https://github.com/BBuf/how-to-optim-algorithm-in-cuda)
   > how to optimize some algorithm in cuda.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [BBuf/KDA-Pilot](https://github.com/BBuf/KDA-Pilot)
+
+### [pfalcon](https://github.com/pfalcon)
+- 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [zrack/gex-terminal](https://github.com/zrack/gex-terminal)
+  > Open-source terminal UI for intraday gamma exposure, market-structure levels, and replayable options...
 
 ### [prasmussen](https://github.com/prasmussen)
 - 🌟 👤 [prasmussen](https://github.com/prasmussen) Starred [Dicklesworthstone/atp](https://github.com/Dicklesworthstone/atp)
@@ -155,7 +163,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-13 22:16:16 UTC*
+*Last updated at 2026-07-13 23:17:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
