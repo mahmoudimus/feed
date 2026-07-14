@@ -50,6 +50,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
   > AI Observability & Evaluation
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tonk-labs/tonk](https://github.com/tonk-labs/tonk)
+  > A portable data substrate for humans and their tools to think together.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open)
+  > Open-source Reflect rewrite
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [dialog-db/dialog-db](https://github.com/dialog-db/dialog-db)
+  > Dialog is an embeddable database designed for local-first software.
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence)
@@ -74,6 +80,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Real-time broadcast translation powered by the Gemini Live API and LiveKit.
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
   > Examples and guides for using the Gemini API
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [quangdang46/hashline](https://github.com/quangdang46/hashline)
+  > Stable line-addressed file editing for Claude Code, Codex using content-hashed anchors instead of fr...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [xai-org/grok-build-plugin-cc](https://github.com/xai-org/grok-build-plugin-cc)
+  > Claude Code plugin that delegates reviews, rescue tasks, and session transfer to the Grok Build CLI
 
 
 <!-- nav -->
@@ -81,7 +91,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 14:31:57 UTC*
+*Last updated at 2026-07-14 15:27:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
