@@ -72,6 +72,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Nerd Fonts patcher for MonoLisa font
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [google-gemini/gemini-live-translate-livekit](https://github.com/google-gemini/gemini-live-translate-livekit)
   > Real-time broadcast translation powered by the Gemini Live API and LiveKit.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
+  > Examples and guides for using the Gemini API
 
 
 <!-- nav -->
@@ -79,7 +81,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 13:29:55 UTC*
+*Last updated at 2026-07-14 14:31:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
