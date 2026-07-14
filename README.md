@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [quinnjr/armybox](https://github.com/quinnjr/armybox)
   > A #[no_std] BusyBox/Toybox clone in Rust - 291 applets, 108KB binary, 100% Toybox compatible
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [KarpelesLab/puremp](https://github.com/KarpelesLab/puremp)
+  > Pure-Rust, clean-room arbitrary-precision arithmetic: integers, rationals, MPFR-class floats, decima...
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [par274/sharpemu](https://github.com/par274/sharpemu)
   > An experimental PlayStation 5 emulator project.
@@ -57,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 10:30:48 UTC*
+*Last updated at 2026-07-14 11:28:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
