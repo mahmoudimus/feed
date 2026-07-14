@@ -41,6 +41,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [par274/sharpemu](https://github.com/par274/sharpemu)
   > An experimental PlayStation 5 emulator project.
 
+### [jmccarthy](https://github.com/jmccarthy)
+- 🚀 👤 [jmccarthy](https://github.com/jmccarthy) Made [diffusioninc/seecad](https://github.com/diffusioninc/seecad) public
+  > Helping the models with 3D
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [liuxiaoyu1104/InstanceControl](https://github.com/liuxiaoyu1104/InstanceControl)
   > [ECCV 2026] Controllable Complex Image Generation without Instance Labeling
@@ -48,6 +52,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [ECCV 2026] Controllable Complex Image Generation without Instance Labeling
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [LAW1223/AlignVid](https://github.com/LAW1223/AlignVid)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [LAW1223/AlignVid](https://github.com/LAW1223/AlignVid) to [johndpope/AlignVid](https://github.com/johndpope/AlignVid)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [markshenouda/MarkCodesOS](https://github.com/markshenouda/MarkCodesOS)
+  > My portfolio as a tiny OS — freestanding C → WebAssembly, no DOM, no framework. Also boots on bare-m...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [markshenouda/MarkCodesOS](https://github.com/markshenouda/MarkCodesOS) to [johndpope/MarkCodesOS](https://github.com/johndpope/MarkCodesOS)
+  > My portfolio as a tiny OS — freestanding C → WebAssembly, no DOM, no framework. Also boots on bare-m...
 
 ### [maurigre](https://github.com/maurigre)
 - 🌟 👤 [maurigre](https://github.com/maurigre) Starred [maurigre/mgr-method](https://github.com/maurigre/mgr-method)
@@ -93,6 +101,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A Zig-based markdown viewer with GFM support, native Mermaid chart rendering, and theming
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [minchenlee/rmdv](https://github.com/minchenlee/rmdv)
   > Native Rust markdown viewer — Mermaid, Graphviz DOT, LaTeX math, mind maps. No Electron, no browser....
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [Ranrar/Marco](https://github.com/Ranrar/Marco)
+  > Marco — a lightweight Markdown Composer and Viewer
 
 ### [simonw](https://github.com/simonw)
 - 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/ready-for-datasette](https://github.com/datasette/ready-for-datasette) public
@@ -122,7 +132,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 18:19:45 UTC*
+*Last updated at 2026-07-14 19:28:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
