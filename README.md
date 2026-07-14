@@ -19,6 +19,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [reactjs/react-docgen](https://github.com/reactjs/react-docgen) to [Stanzilla/react-docgen](https://github.com/Stanzilla/react-docgen)
   > A CLI and library to extract information from React component files for documentation generation pur...
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [rvben/rumdl](https://github.com/rvben/rumdl)
+  > Fast Markdown linter and formatter written in Rust
+
+### [can1357](https://github.com/can1357)
+- 🌟 👤 [can1357](https://github.com/can1357) Starred [watzon/semantouch](https://github.com/watzon/semantouch)
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
@@ -79,6 +84,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [redstar](https://github.com/redstar) Starred [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
   > Keeping track of companies that "care about your data 🥺"
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open)
+  > Open-source Reflect rewrite
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [nathannncurtis/mdview-zig](https://github.com/nathannncurtis/mdview-zig)
+  > Fast, native markdown viewer — Zig + DirectWrite/Cairo/CoreText, ~285KB, cross-platform
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [aaddrick/selkie](https://github.com/aaddrick/selkie)
+  > A Zig-based markdown viewer with GFM support, native Mermaid chart rendering, and theming
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [minchenlee/rmdv](https://github.com/minchenlee/rmdv)
+  > Native Rust markdown viewer — Mermaid, Graphviz DOT, LaTeX math, mind maps. No Electron, no browser....
+
 ### [simonw](https://github.com/simonw)
 - 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/ready-for-datasette](https://github.com/datasette/ready-for-datasette) public
   > Tracking which Datasette plugins are ready for Datasette 1.0
@@ -107,7 +122,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 17:25:27 UTC*
+*Last updated at 2026-07-14 18:19:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
