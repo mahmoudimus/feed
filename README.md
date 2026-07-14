@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [quinnjr/armybox](https://github.com/quinnjr/armybox)
   > A #[no_std] BusyBox/Toybox clone in Rust - 291 applets, 108KB binary, 100% Toybox compatible
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [par274/sharpemu](https://github.com/par274/sharpemu)
+  > An experimental PlayStation 5 emulator project.
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [liuxiaoyu1104/InstanceControl](https://github.com/liuxiaoyu1104/InstanceControl)
   > [ECCV 2026] Controllable Complex Image Generation without Instance Labeling
@@ -43,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 06:39:30 UTC*
+*Last updated at 2026-07-14 07:31:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
