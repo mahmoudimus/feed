@@ -47,6 +47,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [maurigre](https://github.com/maurigre)
 - 🌟 👤 [maurigre](https://github.com/maurigre) Starred [maurigre/mgr-method](https://github.com/maurigre/mgr-method)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset) to [mrexodia/crackmes-re-dataset](https://github.com/mrexodia/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
   > AI Observability & Evaluation
@@ -60,6 +64,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence)
   > Local development against a remote Kubernetes or OpenShift cluster
+
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [SkyLabsAI/BRiCk](https://github.com/SkyLabsAI/BRiCk)
+  > Formalization of C++ for verification purposes.
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [remix7531/wots-fv](https://github.com/remix7531/wots-fv)
+  > Machine-checked functional-correctness proof of an RFC 8391 WOTS+ C   implementation (WOTSP-SHA2_256...
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [caprinux/rel-fuscate](https://github.com/caprinux/rel-fuscate)
@@ -84,6 +94,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Stable line-addressed file editing for Claude Code, Codex using content-hashed anchors instead of fr...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [xai-org/grok-build-plugin-cc](https://github.com/xai-org/grok-build-plugin-cc)
   > Claude Code plugin that delegates reviews, rescue tasks, and session transfer to the Grok Build CLI
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [kromych/disarm64](https://github.com/kromych/disarm64)
+  > Instruction decoder generator
 
 
 <!-- nav -->
@@ -91,7 +103,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 15:27:47 UTC*
+*Last updated at 2026-07-14 16:25:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
