@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [reactjs/react-docgen](https://github.com/reactjs/react-docgen) to [Stanzilla/react-docgen](https://github.com/Stanzilla/react-docgen)
   > A CLI and library to extract information from React component files for documentation generation pur...
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [quinnjr/armybox](https://github.com/quinnjr/armybox)
   > A #[no_std] BusyBox/Toybox clone in Rust - 291 applets, 108KB binary, 100% Toybox compatible
@@ -63,13 +67,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [floodtide/dom-docx](https://github.com/floodtide/dom-docx)
   > Convert semantic HTML fragments to native, editable Word documents (OOXML)
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [MonoLisaFont/monolisa-nerdfonts](https://github.com/MonoLisaFont/monolisa-nerdfonts)
+  > Nerd Fonts patcher for MonoLisa font
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [google-gemini/gemini-live-translate-livekit](https://github.com/google-gemini/gemini-live-translate-livekit)
+  > Real-time broadcast translation powered by the Gemini Live API and LiveKit.
+
 
 <!-- nav -->
 [← 2026-07-13](archive/2026/07/13.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 12:23:31 UTC*
+*Last updated at 2026-07-14 13:29:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
