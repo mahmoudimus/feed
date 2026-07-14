@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [fairydreaming/llama.cpp](https://github.com/fairydreaming/llama.cpp) to [NyaMisty/llama.cpp](https://github.com/NyaMisty/llama.cpp)
   > LLM inference in C/C++
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [reactjs/react-docgen](https://github.com/reactjs/react-docgen) to [Stanzilla/react-docgen](https://github.com/Stanzilla/react-docgen)
+  > A CLI and library to extract information from React component files for documentation generation pur...
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [quinnjr/armybox](https://github.com/quinnjr/armybox)
   > A #[no_std] BusyBox/Toybox clone in Rust - 291 applets, 108KB binary, 100% Toybox compatible
@@ -51,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 08:40:53 UTC*
+*Last updated at 2026-07-14 09:32:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
