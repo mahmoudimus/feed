@@ -43,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [maurigre](https://github.com/maurigre)
 - 🌟 👤 [maurigre](https://github.com/maurigre) Starred [maurigre/mgr-method](https://github.com/maurigre/mgr-method)
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
+  > AI Observability & Evaluation
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence)
   > Local development against a remote Kubernetes or OpenShift cluster
@@ -55,13 +59,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [redstar](https://github.com/redstar) Starred [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
   > Keeping track of companies that "care about your data 🥺"
 
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [floodtide/dom-docx](https://github.com/floodtide/dom-docx)
+  > Convert semantic HTML fragments to native, editable Word documents (OOXML)
+
 
 <!-- nav -->
 [← 2026-07-13](archive/2026/07/13.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 11:28:06 UTC*
+*Last updated at 2026-07-14 12:23:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
