@@ -33,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [maurigre](https://github.com/maurigre)
 - 🌟 👤 [maurigre](https://github.com/maurigre) Starred [maurigre/mgr-method](https://github.com/maurigre/mgr-method)
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence)
+  > Local development against a remote Kubernetes or OpenShift cluster
+
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [caprinux/rel-fuscate](https://github.com/caprinux/rel-fuscate)
   > A novel obfuscation technique for ELF programs by abusing symbol resolution metadata to break disass...
@@ -47,7 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 07:31:57 UTC*
+*Last updated at 2026-07-14 08:40:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
