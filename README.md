@@ -33,6 +33,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [ECCV 2026] Controllable Complex Image Generation without Instance Labeling
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [liuxiaoyu1104/InstanceControl](https://github.com/liuxiaoyu1104/InstanceControl) to [johndpope/InstanceControl](https://github.com/johndpope/InstanceControl)
   > [ECCV 2026] Controllable Complex Image Generation without Instance Labeling
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [LAW1223/AlignVid](https://github.com/LAW1223/AlignVid)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [LAW1223/AlignVid](https://github.com/LAW1223/AlignVid) to [johndpope/AlignVid](https://github.com/johndpope/AlignVid)
 
 ### [maurigre](https://github.com/maurigre)
 - 🌟 👤 [maurigre](https://github.com/maurigre) Starred [maurigre/mgr-method](https://github.com/maurigre/mgr-method)
@@ -55,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 09:32:09 UTC*
+*Last updated at 2026-07-14 10:30:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
