@@ -79,6 +79,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [redstar](https://github.com/redstar) Starred [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
   > Keeping track of companies that "care about your data 🥺"
 
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/ready-for-datasette](https://github.com/datasette/ready-for-datasette) public
+  > Tracking which Datasette plugins are ready for Datasette 1.0
+
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [floodtide/dom-docx](https://github.com/floodtide/dom-docx)
   > Convert semantic HTML fragments to native, editable Word documents (OOXML)
@@ -103,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 16:25:10 UTC*
+*Last updated at 2026-07-14 17:25:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
