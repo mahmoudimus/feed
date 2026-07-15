@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [amcghm/StoryBox](https://github.com/amcghm/StoryBox)
+  > Implementation of the AAAI 2026 paper "StoryBox: Collaborative Multi-Agent Simulation for Hybrid Bot...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [amcghm/StoryBox](https://github.com/amcghm/StoryBox) to [johndpope/StoryBox](https://github.com/johndpope/StoryBox)
+  > Implementation of the AAAI 2026 paper "StoryBox: Collaborative Multi-Agent Simulation for Hybrid Bot...
+
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [nmarasoiu/llama.cpp](https://github.com/nmarasoiu/llama.cpp)
   > LLM inference in C/C++
@@ -30,13 +36,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) to [tegmentum/Enzyme](https://github.com/tegmentum/Enzyme)
   > High-performance automatic differentiation of LLVM and MLIR.
 
+### [zhefox](https://github.com/zhefox)
+- 🍴 👤 [zhefox](https://github.com/zhefox) Forked [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) to [zhefox/firecrawl](https://github.com/zhefox/firecrawl)
+  > The API to search, scrape, and interact with the web at scale. 🔥
+
 
 <!-- nav -->
 [← 2026-07-14](archive/2026/07/14.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 05:45:42 UTC*
+*Last updated at 2026-07-15 06:39:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
