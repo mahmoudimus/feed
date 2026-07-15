@@ -11,10 +11,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) to [Stanzilla/electron-builder](https://github.com/Stanzilla/electron-builder)
   > A complete solution to package and build a ready for distribution Electron app with “auto update” su...
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [github/gh-stack](https://github.com/github/gh-stack)
+  > GitHub Stacked PRs
 
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [Remocn/remocn](https://github.com/Remocn/remocn)
   > Production-ready animations, transitions, backgrounds, and scenes for Remotion
+
+### [dain](https://github.com/dain)
+- 🌟 👤 [dain](https://github.com/dain) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+  > Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A l...
 
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [NYU-LLM-CTF/CTFTiny](https://github.com/NYU-LLM-CTF/CTFTiny)
@@ -45,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Marisa-Chan/GhidrOrean](https://github.com/Marisa-Chan/GhidrOrean)
   > Ghidra Oreans DeVirt
+
+### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+  > Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [perplexityai/wandr](https://github.com/perplexityai/wandr)
@@ -115,11 +125,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/telegram-mcp](https://github.com/flowgent-labs/telegram-mcp)
   > An enhanced Enterprise-grade Telegram MCP server.
 
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/torch_memory_saver-feedstock](https://github.com/conda-forge/torch_memory_saver-feedstock) to [xhochy/torch_memory_saver-feedstock](https://github.com/xhochy/torch_memory_saver-feedstock)
+  > A conda-smithy repository for torch_memory_saver.
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [argotorg/solidity](https://github.com/argotorg/solidity)
   > Solidity, the Smart Contract Programming Language
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Poseidon-fan/linux-0.11-rs](https://github.com/Poseidon-fan/linux-0.11-rs)
   > Linux 0.11 rewritten in idiomatic Rust: kernel, std-style user library, and 60+ coreutils — boots on...
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [vcoda/magma](https://github.com/vcoda/magma)
+  > Abstraction layer over Khronos Vulkan API
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [glfw/glfw](https://github.com/glfw/glfw)
+  > A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 
 ### [zacharywhitley](https://github.com/zacharywhitley)
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [raytheonbbn/parliament](https://github.com/raytheonbbn/parliament) to [tegmentum/parliament](https://github.com/tegmentum/parliament)
@@ -149,7 +167,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 18:21:14 UTC*
+*Last updated at 2026-07-15 19:26:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
