@@ -16,6 +16,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [perplexityai/wandr](https://github.com/perplexityai/wandr)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nexacodes/moontask](https://github.com/nexacodes/moontask)
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [nmarasoiu/llama.cpp](https://github.com/nmarasoiu/llama.cpp)
@@ -30,6 +31,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Database-Backed Durable Golang Workflows
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [cockroachdb/errors](https://github.com/cockroachdb/errors)
   > Go error library with error portability over the network
+
+### [tommyettinger](https://github.com/tommyettinger)
+- 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [libgdx/libgdx-demo-pax-britannica](https://github.com/libgdx/libgdx-demo-pax-britannica) to [tommyettinger/libgdx-demo-pax-britannica](https://github.com/tommyettinger/libgdx-demo-pax-britannica)
+  > Libgdx demo - pax britannica
+
+### [vigna](https://github.com/vigna)
+- 🍴 👤 [vigna](https://github.com/vigna) Forked [specbranch/fp-rand](https://github.com/specbranch/fp-rand) to [vigna/fp-rand](https://github.com/vigna/fp-rand)
+  > Floating-point random number generation
 
 ### [wargio](https://github.com/wargio)
 - 🌟 👤 [wargio](https://github.com/wargio) Starred [dubyte/dir2opds](https://github.com/dubyte/dir2opds)
@@ -49,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 08:43:30 UTC*
+*Last updated at 2026-07-15 09:34:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
