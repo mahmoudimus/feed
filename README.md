@@ -56,6 +56,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [cockroachdb/errors](https://github.com/cockroachdb/errors)
   > Go error library with error portability over the network
 
+### [sobolevn](https://github.com/sobolevn)
+- 🍴 👤 [sobolevn](https://github.com/sobolevn) Forked [RAprogramm/yew-nav-link](https://github.com/RAprogramm/yew-nav-link) to [sobolevn/yew-nav-link](https://github.com/sobolevn/yew-nav-link)
+  > Enterprise-grade navigation library for Yew — automatic active state detection and a complete compon...
+
 ### [tommyettinger](https://github.com/tommyettinger)
 - 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [libgdx/libgdx-demo-pax-britannica](https://github.com/libgdx/libgdx-demo-pax-britannica) to [tommyettinger/libgdx-demo-pax-britannica](https://github.com/tommyettinger/libgdx-demo-pax-britannica)
   > Libgdx demo - pax britannica
@@ -67,6 +71,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [wargio](https://github.com/wargio)
 - 🌟 👤 [wargio](https://github.com/wargio) Starred [dubyte/dir2opds](https://github.com/dubyte/dir2opds)
   > Self-hosted OPDS ebook server — turn any folder into a digital librar
+
+### [wl4g](https://github.com/wl4g)
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/sonatypeiq-mcp](https://github.com/flowgent-labs/sonatypeiq-mcp)
+  > An enhanced Enterprise-grade SonatypeIQ MCP server.
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/jira-mcp](https://github.com/flowgent-labs/jira-mcp)
+  > An enhanced Enterprise-grade Jira MCP server.
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/confluence-mcp](https://github.com/flowgent-labs/confluence-mcp)
+  > An enhanced Enterprise-grade Confluence MCP server.
 
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [argotorg/solidity](https://github.com/argotorg/solidity)
@@ -98,7 +110,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 14:31:34 UTC*
+*Last updated at 2026-07-15 15:28:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
