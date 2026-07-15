@@ -64,6 +64,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline)
   > A desktop app for using tldraw with local files.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [theknarf-experiments/wk](https://github.com/theknarf-experiments/wk)
+  > wk the workspace tool
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Danau5tin/ai-trains-ai](https://github.com/Danau5tin/ai-trains-ai)
   > RL-training an AI agent to RL-train AI agents.
 
@@ -142,6 +143,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [zacharywhitley](https://github.com/zacharywhitley)
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [raytheonbbn/parliament](https://github.com/raytheonbbn/parliament) to [tegmentum/parliament](https://github.com/tegmentum/parliament)
   > Standards-compliant triple store for RDF, OWL, and SPARQL
+- 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [bytecodealliance/endive](https://github.com/bytecodealliance/endive) to [tegmentum/endive](https://github.com/tegmentum/endive)
+  > A JVM native WebAssembly runtime
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [flutter/agent-plugins](https://github.com/flutter/agent-plugins)
@@ -167,7 +170,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 19:26:18 UTC*
+*Last updated at 2026-07-15 21:19:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
