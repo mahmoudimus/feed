@@ -1,158 +1,21 @@
-# Daily GitHub Activity (2026-07-14)
+# Daily GitHub Activity (2026-07-15)
 
 <!-- nav -->
-[← 2026-07-13](archive/2026/07/13.md)
+[← 2026-07-14](archive/2026/07/14.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [BaseMax](https://github.com/BaseMax)
-- 🚀 👤 [BaseMax](https://github.com/BaseMax) Made [BaseMax/comment-stripper](https://github.com/BaseMax/comment-stripper) public
-  > A CLI tool that strips comments from source code files across a wide range of languages (C-like lang...
-
-### [DominikLindorfer](https://github.com/DominikLindorfer)
-- 🌟 👤 [DominikLindorfer](https://github.com/DominikLindorfer) Starred [CodeHalwell/power-pptx](https://github.com/CodeHalwell/power-pptx)
-  > Create Open XML PowerPoint documents in Python
-
-### [Gcenx](https://github.com/Gcenx)
-- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [ysrdevs/goldeneye-metal](https://github.com/ysrdevs/goldeneye-metal)
-  > GoldenEye Metal is an experimental, source-only static recompilation project focused on a native App...
-
-### [NyaMisty](https://github.com/NyaMisty)
-- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [fairydreaming/llama.cpp](https://github.com/fairydreaming/llama.cpp) to [NyaMisty/llama.cpp](https://github.com/NyaMisty/llama.cpp)
-  > LLM inference in C/C++
-
-### [Stanzilla](https://github.com/Stanzilla)
-- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [reactjs/react-docgen](https://github.com/reactjs/react-docgen) to [Stanzilla/react-docgen](https://github.com/Stanzilla/react-docgen)
-  > A CLI and library to extract information from React component files for documentation generation pur...
-- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [rvben/rumdl](https://github.com/rvben/rumdl)
-  > Fast Markdown linter and formatter written in Rust
-
-### [can1357](https://github.com/can1357)
-- 🌟 👤 [can1357](https://github.com/can1357) Starred [watzon/semantouch](https://github.com/watzon/semantouch)
-
-### [fcakyon](https://github.com/fcakyon)
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
-
-### [fnuecke](https://github.com/fnuecke)
-- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
-  > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol...
-
-### [gabrielfalcao](https://github.com/gabrielfalcao)
-- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [quinnjr/armybox](https://github.com/quinnjr/armybox)
-  > A #[no_std] BusyBox/Toybox clone in Rust - 291 applets, 108KB binary, 100% Toybox compatible
-
-### [gamous](https://github.com/gamous)
-- 🌟 👤 [gamous](https://github.com/gamous) Starred [KarpelesLab/puremp](https://github.com/KarpelesLab/puremp)
-  > Pure-Rust, clean-room arbitrary-precision arithmetic: integers, rationals, MPFR-class floats, decima...
-
-### [ioncodes](https://github.com/ioncodes)
-- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [par274/sharpemu](https://github.com/par274/sharpemu)
-  > An experimental PlayStation 5 emulator project.
-
-### [jmccarthy](https://github.com/jmccarthy)
-- 🚀 👤 [jmccarthy](https://github.com/jmccarthy) Made [diffusioninc/seecad](https://github.com/diffusioninc/seecad) public
-  > Helping the models with 3D
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [liuxiaoyu1104/InstanceControl](https://github.com/liuxiaoyu1104/InstanceControl)
-  > [ECCV 2026] Controllable Complex Image Generation without Instance Labeling
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [liuxiaoyu1104/InstanceControl](https://github.com/liuxiaoyu1104/InstanceControl) to [johndpope/InstanceControl](https://github.com/johndpope/InstanceControl)
-  > [ECCV 2026] Controllable Complex Image Generation without Instance Labeling
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [LAW1223/AlignVid](https://github.com/LAW1223/AlignVid)
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [LAW1223/AlignVid](https://github.com/LAW1223/AlignVid) to [johndpope/AlignVid](https://github.com/johndpope/AlignVid)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [markshenouda/MarkCodesOS](https://github.com/markshenouda/MarkCodesOS)
-  > My portfolio as a tiny OS — freestanding C → WebAssembly, no DOM, no framework. Also boots on bare-m...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [markshenouda/MarkCodesOS](https://github.com/markshenouda/MarkCodesOS) to [johndpope/MarkCodesOS](https://github.com/johndpope/MarkCodesOS)
-  > My portfolio as a tiny OS — freestanding C → WebAssembly, no DOM, no framework. Also boots on bare-m...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [nv-tlabs/ardy](https://github.com/nv-tlabs/ardy)
-  > Official implementation of ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [nv-tlabs/ardy](https://github.com/nv-tlabs/ardy) to [johndpope/ardy](https://github.com/johndpope/ardy)
-  > Official implementation of ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive...
-
-### [maurigre](https://github.com/maurigre)
-- 🌟 👤 [maurigre](https://github.com/maurigre) Starred [maurigre/mgr-method](https://github.com/maurigre/mgr-method)
-
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset) to [mrexodia/crackmes-re-dataset](https://github.com/mrexodia/crackmes-re-dataset)
-  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [videlalvaro/leet-llm](https://github.com/videlalvaro/leet-llm)
-  > A hands-on Swift and Metal course for building LLM inference from first principles on Apple silicon,...
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
-  > AI Observability & Evaluation
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tonk-labs/tonk](https://github.com/tonk-labs/tonk)
-  > A portable data substrate for humans and their tools to think together.
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open)
-  > Open-source Reflect rewrite
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [dialog-db/dialog-db](https://github.com/dialog-db/dialog-db)
-  > Dialog is an embeddable database designed for local-first software.
-
-### [rand-tech](https://github.com/rand-tech)
-- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence)
-  > Local development against a remote Kubernetes or OpenShift cluster
-
-### [randombit](https://github.com/randombit)
-- 🌟 👤 [randombit](https://github.com/randombit) Starred [SkyLabsAI/BRiCk](https://github.com/SkyLabsAI/BRiCk)
-  > Formalization of C++ for verification purposes.
-- 🌟 👤 [randombit](https://github.com/randombit) Starred [remix7531/wots-fv](https://github.com/remix7531/wots-fv)
-  > Machine-checked functional-correctness proof of an RFC 8391 WOTS+ C   implementation (WOTSP-SHA2_256...
-
-### [realoriginal](https://github.com/realoriginal)
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [caprinux/rel-fuscate](https://github.com/caprinux/rel-fuscate)
-  > A novel obfuscation technique for ELF programs by abusing symbol resolution metadata to break disass...
-
-### [redstar](https://github.com/redstar)
-- 🌟 👤 [redstar](https://github.com/redstar) Starred [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
-  > Keeping track of companies that "care about your data 🥺"
-
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open)
-  > Open-source Reflect rewrite
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [nathannncurtis/mdview-zig](https://github.com/nathannncurtis/mdview-zig)
-  > Fast, native markdown viewer — Zig + DirectWrite/Cairo/CoreText, ~285KB, cross-platform
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [aaddrick/selkie](https://github.com/aaddrick/selkie)
-  > A Zig-based markdown viewer with GFM support, native Mermaid chart rendering, and theming
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [minchenlee/rmdv](https://github.com/minchenlee/rmdv)
-  > Native Rust markdown viewer — Mermaid, Graphviz DOT, LaTeX math, mind maps. No Electron, no browser....
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [Ranrar/Marco](https://github.com/Ranrar/Marco)
-  > Marco — a lightweight Markdown Composer and Viewer
-
-### [simonw](https://github.com/simonw)
-- 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/ready-for-datasette](https://github.com/datasette/ready-for-datasette) public
-  > Tracking which Datasette plugins are ready for Datasette 1.0
-
-### [thomasdarimont](https://github.com/thomasdarimont)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [floodtide/dom-docx](https://github.com/floodtide/dom-docx)
-  > Convert semantic HTML fragments to native, editable Word documents (OOXML)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Prajwalg19/keycloak-login-email-svelte](https://github.com/Prajwalg19/keycloak-login-email-svelte)
-  > Ready to use setup for keycloak login pages and email theming using svelte. Follows shadcn-svelte de...
-
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [MonoLisaFont/monolisa-nerdfonts](https://github.com/MonoLisaFont/monolisa-nerdfonts)
-  > Nerd Fonts patcher for MonoLisa font
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [google-gemini/gemini-live-translate-livekit](https://github.com/google-gemini/gemini-live-translate-livekit)
-  > Real-time broadcast translation powered by the Gemini Live API and LiveKit.
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
-  > Examples and guides for using the Gemini API
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [quangdang46/hashline](https://github.com/quangdang46/hashline)
-  > Stable line-addressed file editing for Claude Code, Codex using content-hashed anchors instead of fr...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [xai-org/grok-build-plugin-cc](https://github.com/xai-org/grok-build-plugin-cc)
-  > Claude Code plugin that delegates reviews, rescue tasks, and session transfer to the Grok Build CLI
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [kromych/disarm64](https://github.com/kromych/disarm64)
-  > Instruction decoder generator
-
+The users you follow have no public activity today that matches the filter criteria.
 
 <!-- nav -->
-[← 2026-07-13](archive/2026/07/13.md)
+[← 2026-07-14](archive/2026/07/14.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 23:16:58 UTC*
+*Last updated at 2026-07-15 00:15:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
