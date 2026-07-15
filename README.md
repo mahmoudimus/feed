@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BaseMax](https://github.com/BaseMax)
+- 🚀 👤 [BaseMax](https://github.com/BaseMax) Made [BaseMax/comment-stripper](https://github.com/BaseMax/comment-stripper) public
+  > A CLI tool that strips comments from source code files across a wide range of languages (C-like lang...
+
+### [DominikLindorfer](https://github.com/DominikLindorfer)
+- 🌟 👤 [DominikLindorfer](https://github.com/DominikLindorfer) Starred [CodeHalwell/power-pptx](https://github.com/CodeHalwell/power-pptx)
+  > Create Open XML PowerPoint documents in Python
+
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [ysrdevs/goldeneye-metal](https://github.com/ysrdevs/goldeneye-metal)
   > GoldenEye Metal is an experimental, source-only static recompilation project focused on a native App...
@@ -28,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+
+### [fnuecke](https://github.com/fnuecke)
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+  > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol...
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [quinnjr/armybox](https://github.com/quinnjr/armybox)
@@ -56,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > My portfolio as a tiny OS — freestanding C → WebAssembly, no DOM, no framework. Also boots on bare-m...
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [markshenouda/MarkCodesOS](https://github.com/markshenouda/MarkCodesOS) to [johndpope/MarkCodesOS](https://github.com/johndpope/MarkCodesOS)
   > My portfolio as a tiny OS — freestanding C → WebAssembly, no DOM, no framework. Also boots on bare-m...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [nv-tlabs/ardy](https://github.com/nv-tlabs/ardy)
+  > Official implementation of ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [nv-tlabs/ardy](https://github.com/nv-tlabs/ardy) to [johndpope/ardy](https://github.com/johndpope/ardy)
+  > Official implementation of ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive...
 
 ### [maurigre](https://github.com/maurigre)
 - 🌟 👤 [maurigre](https://github.com/maurigre) Starred [maurigre/mgr-method](https://github.com/maurigre/mgr-method)
@@ -63,6 +79,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset) to [mrexodia/crackmes-re-dataset](https://github.com/mrexodia/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [videlalvaro/leet-llm](https://github.com/videlalvaro/leet-llm)
+  > A hands-on Swift and Metal course for building LLM inference from first principles on Apple silicon,...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
@@ -111,6 +129,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [floodtide/dom-docx](https://github.com/floodtide/dom-docx)
   > Convert semantic HTML fragments to native, editable Word documents (OOXML)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Prajwalg19/keycloak-login-email-svelte](https://github.com/Prajwalg19/keycloak-login-email-svelte)
+  > Ready to use setup for keycloak login pages and email theming using svelte. Follows shadcn-svelte de...
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [MonoLisaFont/monolisa-nerdfonts](https://github.com/MonoLisaFont/monolisa-nerdfonts)
@@ -132,7 +152,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-14 19:28:06 UTC*
+*Last updated at 2026-07-14 23:16:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
