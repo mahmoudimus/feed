@@ -48,6 +48,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) to [tegmentum/Enzyme](https://github.com/tegmentum/Enzyme)
   > High-performance automatic differentiation of LLVM and MLIR.
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [flutter/agent-plugins](https://github.com/flutter/agent-plugins)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [duckdb/duckdb-python](https://github.com/duckdb/duckdb-python)
+  > The DuckDB Python package
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [duckdb/duckdb-go](https://github.com/duckdb/duckdb-go)
+  > duckdb-go provides a database/sql driver for the DuckDB database engine.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [duckdb/duckdb-go-bindings](https://github.com/duckdb/duckdb-go-bindings)
+
 ### [zhefox](https://github.com/zhefox)
 - 🍴 👤 [zhefox](https://github.com/zhefox) Forked [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) to [zhefox/firecrawl](https://github.com/zhefox/firecrawl)
   > The API to search, scrape, and interact with the web at scale. 🔥
@@ -58,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 10:31:52 UTC*
+*Last updated at 2026-07-15 11:29:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
