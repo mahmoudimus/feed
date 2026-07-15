@@ -8,14 +8,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang)
+  > Database-Backed Durable Golang Workflows
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [cockroachdb/errors](https://github.com/cockroachdb/errors)
+  > Go error library with error portability over the network
+
 
 <!-- nav -->
 [← 2026-07-14](archive/2026/07/14.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 00:15:28 UTC*
+*Last updated at 2026-07-15 01:30:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
