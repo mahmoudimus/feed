@@ -14,6 +14,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [amcghm/StoryBox](https://github.com/amcghm/StoryBox) to [johndpope/StoryBox](https://github.com/johndpope/StoryBox)
   > Implementation of the AAAI 2026 paper "StoryBox: Collaborative Multi-Agent Simulation for Hybrid Bot...
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [perplexityai/wandr](https://github.com/perplexityai/wandr)
+
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [nmarasoiu/llama.cpp](https://github.com/nmarasoiu/llama.cpp)
   > LLM inference in C/C++
@@ -46,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 07:34:10 UTC*
+*Last updated at 2026-07-15 08:43:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
