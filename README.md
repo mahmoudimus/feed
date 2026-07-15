@@ -14,6 +14,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [github/gh-stack](https://github.com/github/gh-stack)
   > GitHub Stacked PRs
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [tigrisdata/tag](https://github.com/tigrisdata/tag)
+  > Tigris Acceleration Gateway
+
+### [adonovan](https://github.com/adonovan)
+- 🍴 👤 [adonovan](https://github.com/adonovan) Forked [openconfig/ygot](https://github.com/openconfig/ygot) to [adonovan/ygot](https://github.com/adonovan/ygot)
+  > A YANG-centric Go toolkit - Go/Protobuf Code Generation; Validation; Marshaling/Unmarshaling
+
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [Remocn/remocn](https://github.com/Remocn/remocn)
   > Production-ready animations, transitions, backgrounds, and scenes for Remotion
@@ -29,6 +37,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [alire-project/alire-index](https://github.com/alire-project/alire-index) to [ingydotnet/alire-index](https://github.com/ingydotnet/alire-index)
   > Community index for the Alire project
+
+### [interference-security](https://github.com/interference-security)
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [suchithnarayan/SupplyDrift](https://github.com/suchithnarayan/SupplyDrift)
+  > Discover hidden dependencies across repositories, container images, cloud runtimes, and endpoints, u...
 
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [Raynos/golden-sun-prototype-fable](https://github.com/Raynos/golden-sun-prototype-fable)
@@ -67,6 +79,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > wk the workspace tool
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Danau5tin/ai-trains-ai](https://github.com/Danau5tin/ai-trains-ai)
   > RL-training an AI agent to RL-train AI agents.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hegeldev/hegel-ocaml](https://github.com/hegeldev/hegel-ocaml)
+  > Property-based testing for OCaml, built on Hypothesis
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [davis7dotsh/my-pi-setup](https://github.com/davis7dotsh/my-pi-setup)
+  > The setup I use for pi. Changes a ton, don't recommend hard copying it, just a taste of what's possi...
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [nmarasoiu/llama.cpp](https://github.com/nmarasoiu/llama.cpp)
@@ -170,7 +186,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 21:19:03 UTC*
+*Last updated at 2026-07-15 22:18:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
