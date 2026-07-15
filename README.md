@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [NYU-LLM-CTF/CTFTiny](https://github.com/NYU-LLM-CTF/CTFTiny)
   > Official repository for CTFTiny
 
+### [ingydotnet](https://github.com/ingydotnet)
+- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [alire-project/alire-index](https://github.com/alire-project/alire-index) to [ingydotnet/alire-index](https://github.com/ingydotnet/alire-index)
+  > Community index for the Alire project
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [amcghm/StoryBox](https://github.com/amcghm/StoryBox)
   > Implementation of the AAAI 2026 paper "StoryBox: Collaborative Multi-Agent Simulation for Hybrid Bot...
@@ -25,6 +29,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [kenichi-shibata](https://github.com/kenichi-shibata)
 - 🌟 👤 [kenichi-shibata](https://github.com/kenichi-shibata) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
   > The API to search, scrape, and interact with the web at scale. 🔥
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [vihdzp/combinatorial-games](https://github.com/vihdzp/combinatorial-games)
+  > Combinatorial game library in Lean 4
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Marisa-Chan/GhidrOrean](https://github.com/Marisa-Chan/GhidrOrean)
@@ -79,6 +87,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An enhanced Enterprise-grade Jira MCP server.
 - 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/confluence-mcp](https://github.com/flowgent-labs/confluence-mcp)
   > An enhanced Enterprise-grade Confluence MCP server.
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/telegram-mcp](https://github.com/flowgent-labs/telegram-mcp)
+  > An enhanced Enterprise-grade Telegram MCP server.
 
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [argotorg/solidity](https://github.com/argotorg/solidity)
@@ -110,7 +120,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 15:28:51 UTC*
+*Last updated at 2026-07-15 16:28:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
