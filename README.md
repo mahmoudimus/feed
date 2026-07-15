@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [nmarasoiu](https://github.com/nmarasoiu)
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [nmarasoiu/llama.cpp](https://github.com/nmarasoiu/llama.cpp)
+  > LLM inference in C/C++
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers)
+  > Our library for RL environments + evals
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang)
   > Database-Backed Durable Golang Workflows
@@ -28,7 +36,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 04:04:34 UTC*
+*Last updated at 2026-07-15 05:45:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
