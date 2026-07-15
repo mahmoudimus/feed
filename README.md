@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [boyney123](https://github.com/boyney123)
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [Remocn/remocn](https://github.com/Remocn/remocn)
+  > Production-ready animations, transitions, backgrounds, and scenes for Remotion
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [amcghm/StoryBox](https://github.com/amcghm/StoryBox)
   > Implementation of the AAAI 2026 paper "StoryBox: Collaborative Multi-Agent Simulation for Hybrid Bot...
@@ -44,10 +48,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [wargio](https://github.com/wargio) Starred [dubyte/dir2opds](https://github.com/dubyte/dir2opds)
   > Self-hosted OPDS ebook server — turn any folder into a digital librar
 
-### [zacharywhitley](https://github.com/zacharywhitley)
-- 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) to [tegmentum/Enzyme](https://github.com/tegmentum/Enzyme)
-  > High-performance automatic differentiation of LLVM and MLIR.
-
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [flutter/agent-plugins](https://github.com/flutter/agent-plugins)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [duckdb/duckdb-python](https://github.com/duckdb/duckdb-python)
@@ -55,6 +55,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [duckdb/duckdb-go](https://github.com/duckdb/duckdb-go)
   > duckdb-go provides a database/sql driver for the DuckDB database engine.
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [duckdb/duckdb-go-bindings](https://github.com/duckdb/duckdb-go-bindings)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go)
+  > Golang driver for ClickHouse
 
 ### [zhefox](https://github.com/zhefox)
 - 🍴 👤 [zhefox](https://github.com/zhefox) Forked [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) to [zhefox/firecrawl](https://github.com/zhefox/firecrawl)
@@ -66,7 +68,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 11:29:10 UTC*
+*Last updated at 2026-07-15 12:24:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
