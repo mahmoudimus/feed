@@ -22,11 +22,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [amcghm/StoryBox](https://github.com/amcghm/StoryBox) to [johndpope/StoryBox](https://github.com/johndpope/StoryBox)
   > Implementation of the AAAI 2026 paper "StoryBox: Collaborative Multi-Agent Simulation for Hybrid Bot...
 
+### [kenichi-shibata](https://github.com/kenichi-shibata)
+- 🌟 👤 [kenichi-shibata](https://github.com/kenichi-shibata) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+  > The API to search, scrape, and interact with the web at scale. 🔥
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Marisa-Chan/GhidrOrean](https://github.com/Marisa-Chan/GhidrOrean)
+  > Ghidra Oreans DeVirt
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [perplexityai/wandr](https://github.com/perplexityai/wandr)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nexacodes/moontask](https://github.com/nexacodes/moontask)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [justrach/codegraff](https://github.com/justrach/codegraff)
   > graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop, TS...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline)
+  > A desktop app for using tldraw with local files.
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [nmarasoiu/llama.cpp](https://github.com/nmarasoiu/llama.cpp)
@@ -35,6 +45,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [PrimeIntellect-ai/verifiers](https://github.com/PrimeIntellect-ai/verifiers)
   > Our library for RL environments + evals
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [bytedance/Repo2Run](https://github.com/bytedance/Repo2Run)
+  > Repo2Run is an LLM-based agent that automates environment configuration by generating error-free Doc...
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [stakpak/agent](https://github.com/stakpak/agent)
+  > Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your a...
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang)
@@ -84,7 +98,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 13:29:51 UTC*
+*Last updated at 2026-07-15 14:31:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
