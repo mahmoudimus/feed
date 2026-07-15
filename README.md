@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [Remocn/remocn](https://github.com/Remocn/remocn)
   > Production-ready animations, transitions, backgrounds, and scenes for Remotion
 
+### [h3xstream](https://github.com/h3xstream)
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [NYU-LLM-CTF/CTFTiny](https://github.com/NYU-LLM-CTF/CTFTiny)
+  > Official repository for CTFTiny
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [amcghm/StoryBox](https://github.com/amcghm/StoryBox)
   > Implementation of the AAAI 2026 paper "StoryBox: Collaborative Multi-Agent Simulation for Hybrid Bot...
@@ -21,6 +25,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [perplexityai/wandr](https://github.com/perplexityai/wandr)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nexacodes/moontask](https://github.com/nexacodes/moontask)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [justrach/codegraff](https://github.com/justrach/codegraff)
+  > graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop, TS...
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [nmarasoiu/llama.cpp](https://github.com/nmarasoiu/llama.cpp)
@@ -48,6 +54,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [wargio](https://github.com/wargio) Starred [dubyte/dir2opds](https://github.com/dubyte/dir2opds)
   > Self-hosted OPDS ebook server — turn any folder into a digital librar
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [argotorg/solidity](https://github.com/argotorg/solidity)
+  > Solidity, the Smart Contract Programming Language
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Poseidon-fan/linux-0.11-rs](https://github.com/Poseidon-fan/linux-0.11-rs)
+  > Linux 0.11 rewritten in idiomatic Rust: kernel, std-style user library, and 60+ coreutils — boots on...
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [flutter/agent-plugins](https://github.com/flutter/agent-plugins)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [duckdb/duckdb-python](https://github.com/duckdb/duckdb-python)
@@ -57,6 +69,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [duckdb/duckdb-go-bindings](https://github.com/duckdb/duckdb-go-bindings)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go)
   > Golang driver for ClickHouse
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [orlp/foldhash](https://github.com/orlp/foldhash)
+  > A fast, non-cryptographic, minimally DoS-resistant hashing algorithm for Rust.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [antlabs/wsutil](https://github.com/antlabs/wsutil)
+  > websocket的工具函数
 
 ### [zhefox](https://github.com/zhefox)
 - 🍴 👤 [zhefox](https://github.com/zhefox) Forked [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) to [zhefox/firecrawl](https://github.com/zhefox/firecrawl)
@@ -68,7 +84,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 12:24:40 UTC*
+*Last updated at 2026-07-15 13:29:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
