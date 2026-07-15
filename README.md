@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [alire-project/alire-index](https://github.com/alire-project/alire-index) to [ingydotnet/alire-index](https://github.com/ingydotnet/alire-index)
   > Community index for the Alire project
 
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [Raynos/golden-sun-prototype-fable](https://github.com/Raynos/golden-sun-prototype-fable)
+  > https://spirebound-0-3-1.vercel.app/
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [amcghm/StoryBox](https://github.com/amcghm/StoryBox)
   > Implementation of the AAAI 2026 paper "StoryBox: Collaborative Multi-Agent Simulation for Hybrid Bot...
@@ -45,6 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop, TS...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline)
   > A desktop app for using tldraw with local files.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [theknarf-experiments/wk](https://github.com/theknarf-experiments/wk)
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [nmarasoiu/llama.cpp](https://github.com/nmarasoiu/llama.cpp)
@@ -64,9 +69,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [cockroachdb/errors](https://github.com/cockroachdb/errors)
   > Go error library with error portability over the network
 
+### [sintaxi](https://github.com/sintaxi)
+- 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [infomiho/buzz-static-hosting](https://github.com/infomiho/buzz-static-hosting)
+  > Self-hosted simple static site hosting like surge.sh
+
 ### [sobolevn](https://github.com/sobolevn)
 - 🍴 👤 [sobolevn](https://github.com/sobolevn) Forked [RAprogramm/yew-nav-link](https://github.com/RAprogramm/yew-nav-link) to [sobolevn/yew-nav-link](https://github.com/sobolevn/yew-nav-link)
   > Enterprise-grade navigation library for Yew — automatic active state detection and a complete compon...
+- 🍴 👤 [sobolevn](https://github.com/sobolevn) Forked [skatkov/devtui](https://github.com/skatkov/devtui) to [sobolevn/devtui](https://github.com/sobolevn/devtui)
+  > A Swiss-army app for developers
 
 ### [tommyettinger](https://github.com/tommyettinger)
 - 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [libgdx/libgdx-demo-pax-britannica](https://github.com/libgdx/libgdx-demo-pax-britannica) to [tommyettinger/libgdx-demo-pax-britannica](https://github.com/tommyettinger/libgdx-demo-pax-britannica)
@@ -120,7 +131,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 16:28:07 UTC*
+*Last updated at 2026-07-15 17:27:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
