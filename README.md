@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) to [Stanzilla/electron-builder](https://github.com/Stanzilla/electron-builder)
+  > A complete solution to package and build a ready for distribution Electron app with “auto update” su...
+
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [Remocn/remocn](https://github.com/Remocn/remocn)
   > Production-ready animations, transitions, backgrounds, and scenes for Remotion
@@ -50,6 +54,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline)
   > A desktop app for using tldraw with local files.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [theknarf-experiments/wk](https://github.com/theknarf-experiments/wk)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Danau5tin/ai-trains-ai](https://github.com/Danau5tin/ai-trains-ai)
+  > RL-training an AI agent to RL-train AI agents.
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [nmarasoiu/llama.cpp](https://github.com/nmarasoiu/llama.cpp)
@@ -62,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Repo2Run is an LLM-based agent that automates environment configuration by generating error-free Doc...
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [stakpak/agent](https://github.com/stakpak/agent)
   > Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your a...
+
+### [rougier](https://github.com/rougier)
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [jordanhubbard/shemacs](https://github.com/jordanhubbard/shemacs)
+  > This is a version of emacs implemented purely from Unix shell commands
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang)
@@ -82,6 +92,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [tommyettinger](https://github.com/tommyettinger)
 - 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [libgdx/libgdx-demo-pax-britannica](https://github.com/libgdx/libgdx-demo-pax-britannica) to [tommyettinger/libgdx-demo-pax-britannica](https://github.com/tommyettinger/libgdx-demo-pax-britannica)
   > Libgdx demo - pax britannica
+
+### [tuhdo](https://github.com/tuhdo)
+- 🌟 👤 [tuhdo](https://github.com/tuhdo) Starred [Tura-AI/tura](https://github.com/Tura-AI/tura)
+  > Across 348 long-horizon benchmark sessions, Tura used up to 83.1% fewer turns on the rewrite benchma...
 
 ### [vigna](https://github.com/vigna)
 - 🍴 👤 [vigna](https://github.com/vigna) Forked [specbranch/fp-rand](https://github.com/specbranch/fp-rand) to [vigna/fp-rand](https://github.com/vigna/fp-rand)
@@ -107,6 +121,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Poseidon-fan/linux-0.11-rs](https://github.com/Poseidon-fan/linux-0.11-rs)
   > Linux 0.11 rewritten in idiomatic Rust: kernel, std-style user library, and 60+ coreutils — boots on...
 
+### [zacharywhitley](https://github.com/zacharywhitley)
+- 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [raytheonbbn/parliament](https://github.com/raytheonbbn/parliament) to [tegmentum/parliament](https://github.com/tegmentum/parliament)
+  > Standards-compliant triple store for RDF, OWL, and SPARQL
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [flutter/agent-plugins](https://github.com/flutter/agent-plugins)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [duckdb/duckdb-python](https://github.com/duckdb/duckdb-python)
@@ -131,7 +149,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 17:27:02 UTC*
+*Last updated at 2026-07-15 18:21:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
