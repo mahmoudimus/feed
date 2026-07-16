@@ -40,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MSNightmare/LegacyHive](https://github.com/MSNightmare/LegacyHive) to [fengjixuchui/LegacyHive](https://github.com/fengjixuchui/LegacyHive)
   > N/A
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [simonw/llm](https://github.com/simonw/llm)
+  > Access large language models from the command-line
+
 ### [jcs090218](https://github.com/jcs090218)
 - 🌟 👤 [jcs090218](https://github.com/jcs090218) Starred [emacs-eask/cli](https://github.com/emacs-eask/cli)
   > CLI for building, running, testing, and managing your Emacs Lisp dependencies
@@ -77,13 +81,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [trieu](https://github.com/trieu) Forked [ALucek/GraphRAG-Breakdown](https://github.com/ALucek/GraphRAG-Breakdown) to [trieu/GraphRAG-Breakdown](https://github.com/trieu/GraphRAG-Breakdown)
   > A breakdown of knowledge graph RAG with diagrams and examples
 
+### [yegor256](https://github.com/yegor256)
+- 🌟 👤 [yegor256](https://github.com/yegor256) Starred [RAprogramm/yew-nav-link](https://github.com/RAprogramm/yew-nav-link)
+  > KaiCode 2026 WINNER! Enterprise-grade navigation library for Yew — automatic active state detection ...
+- 🌟 👤 [yegor256](https://github.com/yegor256) Starred [Ahoo-Wang/Wow](https://github.com/Ahoo-Wang/Wow)
+  > Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing ...
+- 🌟 👤 [yegor256](https://github.com/yegor256) Starred [ChopLogic/chop-logic-components](https://github.com/ChopLogic/chop-logic-components)
+  > Reusable React components and hooks for Chop Logic project
+
 
 <!-- nav -->
 [← 2026-07-15](archive/2026/07/15.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 08:43:08 UTC*
+*Last updated at 2026-07-16 09:38:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
