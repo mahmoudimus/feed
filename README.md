@@ -32,6 +32,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [jdx/aube](https://github.com/jdx/aube)
   > A fast Node.js package manager
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
+  > 176 vulnerabilities in Samsung preinstalled Android apps
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [NiTianErXing666/HOOKSELF](https://github.com/NiTianErXing666/HOOKSELF) to [fengjixuchui/HOOKSELF](https://github.com/fengjixuchui/HOOKSELF)
   > 基于proot原理修改的ptrace hook框架，适用于arm64 的安卓手机
@@ -55,6 +59,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [laurci](https://github.com/laurci)
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [samwho/spacer](https://github.com/samwho/spacer)
   > CLI tool to insert spacers when command output stops
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
+  > 🦊 Firefox in WebAssembly
 
 ### [nikic](https://github.com/nikic)
 - 🍴 👤 [nikic](https://github.com/nikic) Forked [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) to [nikic/Enzyme](https://github.com/nikic/Enzyme)
@@ -95,7 +103,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 09:38:24 UTC*
+*Last updated at 2026-07-16 10:37:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
