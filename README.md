@@ -23,6 +23,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
   > Automate browser based workflows with AI
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [WhitzardAgent/AgentGuard](https://github.com/WhitzardAgent/AgentGuard)
+  > AgentGuard: Zero-Trust Security Foundation for AI Agents
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openclaw/shellbench](https://github.com/openclaw/shellbench)
+  > The agent benchmark that scores the full stack — harness, config, and model — not just the LLM. Trac...
+
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api)
   > Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
@@ -86,6 +92,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [samwho/spacer](https://github.com/samwho/spacer)
   > CLI tool to insert spacers when command output stops
 
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser)
+  > An experimental Gecko-based web browser for iOS 13+.
+
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🍴 👤 [sbycrosz](https://github.com/sbycrosz) Forked [pagopa/io-react-native-crypto](https://github.com/pagopa/io-react-native-crypto) to [pavebank/io-react-native-crypto](https://github.com/pavebank/io-react-native-crypto)
 
@@ -96,6 +106,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [sintaxi](https://github.com/sintaxi)
 - 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [theswerd/brainless](https://github.com/theswerd/brainless)
   > Claude Code, Codex, and Grok interfaces as shadcn components
+
+### [smolijar](https://github.com/smolijar)
+- 🍴 👤 [smolijar](https://github.com/smolijar) Forked [kysely-org/awesome-kysely](https://github.com/kysely-org/awesome-kysely) to [smolijar/awesome-kysely](https://github.com/smolijar/awesome-kysely)
+  > A curated list of Kysely resources, tools, utilities and applications.
 
 ### [staringispolite](https://github.com/staringispolite)
 - 🌟 👤 [staringispolite](https://github.com/staringispolite) Starred [VitSoonYoung/SpriteStack2D](https://github.com/VitSoonYoung/SpriteStack2D)
@@ -121,7 +135,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 13:30:20 UTC*
+*Last updated at 2026-07-16 14:37:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
