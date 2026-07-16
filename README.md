@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AlexsJones](https://github.com/AlexsJones)
+- 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [AlexsJones/keychron-micro](https://github.com/AlexsJones/keychron-micro)
+  > Linux: turn a Keychron Q0 Max into a scriptable macropad. Keys run scripts, the board lights up with...
+
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [neo773/twitter-emoji-replacer](https://github.com/neo773/twitter-emoji-replacer)
 
@@ -43,6 +47,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Surgical x64 VEH/VCH dumper. Walks the vectored exception handler list, extracts each handler as a s...
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MSNightmare/LegacyHive](https://github.com/MSNightmare/LegacyHive) to [fengjixuchui/LegacyHive](https://github.com/fengjixuchui/LegacyHive)
   > N/A
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [kernelwernel/llarm](https://github.com/kernelwernel/llarm) to [fengjixuchui/llarm](https://github.com/fengjixuchui/llarm)
+  > ARM emulator, assembler, and disassembler libraries/tools
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [simonw/llm](https://github.com/simonw/llm)
@@ -53,6 +59,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [hit9/code-symbol-index](https://github.com/hit9/code-symbol-index)
   > A simple tree-sitter based code symbol index and searching. (fully ai maintained;  (providing API + ...
+
+### [izuzak](https://github.com/izuzak)
+- 🍴 👤 [izuzak](https://github.com/izuzak) Forked [oxidecomputer/iddqd](https://github.com/oxidecomputer/iddqd) to [izuzak/iddqd](https://github.com/izuzak/iddqd)
+  > Maps where keys are borrowed from values.
 
 ### [jcs090218](https://github.com/jcs090218)
 - 🌟 👤 [jcs090218](https://github.com/jcs090218) Starred [emacs-eask/cli](https://github.com/emacs-eask/cli)
@@ -65,14 +75,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [pixel-point/aval](https://github.com/pixel-point/aval)
   > A new open-source format for interactive video on the web, with a built-in state machine, frame-accu...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [pixel-point/aval](https://github.com/pixel-point/aval) to [johndpope/aval](https://github.com/johndpope/aval)
+  > A new open-source format for interactive video on the web, with a built-in state machine, frame-accu...
+
+### [juicycleff](https://github.com/juicycleff)
+- 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [xraph/fabriq](https://github.com/xraph/fabriq)
+  > A standalone data fabric for Go: one transactional write path that fans out to relational, time-seri...
 
 ### [laurci](https://github.com/laurci)
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [samwho/spacer](https://github.com/samwho/spacer)
   > CLI tool to insert spacers when command output stops
-
-### [nikic](https://github.com/nikic)
-- 🍴 👤 [nikic](https://github.com/nikic) Forked [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) to [nikic/Enzyme](https://github.com/nikic/Enzyme)
-  > High-performance automatic differentiation of LLVM and MLIR.
 
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🍴 👤 [sbycrosz](https://github.com/sbycrosz) Forked [pagopa/io-react-native-crypto](https://github.com/pagopa/io-react-native-crypto) to [pavebank/io-react-native-crypto](https://github.com/pavebank/io-react-native-crypto)
@@ -109,7 +121,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 12:28:04 UTC*
+*Last updated at 2026-07-16 13:30:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
