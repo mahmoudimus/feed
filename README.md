@@ -48,6 +48,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [simonw/llm](https://github.com/simonw/llm)
   > Access large language models from the command-line
 
+### [hit9](https://github.com/hit9)
+- 🌟 👤 [hit9](https://github.com/hit9) Starred [hit9/code-symbol-index](https://github.com/hit9/code-symbol-index)
+  > A simple tree-sitter based code symbol index and searching. (fully ai maintained;  (providing API + ...
+
 ### [jcs090218](https://github.com/jcs090218)
 - 🌟 👤 [jcs090218](https://github.com/jcs090218) Starred [emacs-eask/cli](https://github.com/emacs-eask/cli)
   > CLI for building, running, testing, and managing your Emacs Lisp dependencies
@@ -56,13 +60,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [NimbleMarkets/ntcharts](https://github.com/NimbleMarkets/ntcharts)
   > Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [pixel-point/aval](https://github.com/pixel-point/aval)
+  > A new open-source format for interactive video on the web, with a built-in state machine, frame-accu...
+
 ### [laurci](https://github.com/laurci)
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [samwho/spacer](https://github.com/samwho/spacer)
   > CLI tool to insert spacers when command output stops
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
-  > 🦊 Firefox in WebAssembly
 
 ### [nikic](https://github.com/nikic)
 - 🍴 👤 [nikic](https://github.com/nikic) Forked [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) to [nikic/Enzyme](https://github.com/nikic/Enzyme)
@@ -103,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 10:37:00 UTC*
+*Last updated at 2026-07-16 11:29:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
