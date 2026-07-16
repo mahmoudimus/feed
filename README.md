@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Bluebugs](https://github.com/Bluebugs) Forked [buildroot/buildroot](https://github.com/buildroot/buildroot) to [mountain-reverie/buildroot](https://github.com/mountain-reverie/buildroot)
   > Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mir...
 
+### [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt)
+- 🌟 👤 [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt) Starred [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)
+  > JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
+
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [neo773/twitter-emoji-replacer](https://github.com/neo773/twitter-emoji-replacer)
 
@@ -180,7 +184,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 20:16:18 UTC*
+*Last updated at 2026-07-16 21:19:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
