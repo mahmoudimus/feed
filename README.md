@@ -78,6 +78,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [NimbleMarkets/ntcharts](https://github.com/NimbleMarkets/ntcharts)
   > Nimble Terminal Charts for the Golang BubbleTea framework and your TUIs
 
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [PabloLec/neoss](https://github.com/PabloLec/neoss)
+  > :heavy_check_mark: User-friendly and detailed socket statistics with a Terminal UI.
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [stdlib-js/blas](https://github.com/stdlib-js/blas)
+  > Standard library basic linear algebra subprograms (BLAS).
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [pixel-point/aval](https://github.com/pixel-point/aval)
   > A new open-source format for interactive video on the web, with a built-in state machine, frame-accu...
@@ -135,7 +141,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 14:37:22 UTC*
+*Last updated at 2026-07-16 15:29:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
