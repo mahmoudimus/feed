@@ -47,6 +47,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [simonw/llm](https://github.com/simonw/llm)
   > Access large language models from the command-line
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [bstnxbt/dflash-mlx](https://github.com/bstnxbt/dflash-mlx)
+  > Lossless DFlash speculative decoding for MLX on Apple Silicon
 
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [hit9/code-symbol-index](https://github.com/hit9/code-symbol-index)
@@ -107,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 11:29:56 UTC*
+*Last updated at 2026-07-16 12:28:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
