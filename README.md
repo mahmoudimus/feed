@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [AlexsJones/keychron-micro](https://github.com/AlexsJones/keychron-micro)
   > Linux: turn a Keychron Q0 Max into a scriptable macropad. Keys run scripts, the board lights up with...
 
+### [Bluebugs](https://github.com/Bluebugs)
+- 🍴 👤 [Bluebugs](https://github.com/Bluebugs) Forked [buildroot/buildroot](https://github.com/buildroot/buildroot) to [mountain-reverie/buildroot](https://github.com/mountain-reverie/buildroot)
+  > Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mir...
+
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [neo773/twitter-emoji-replacer](https://github.com/neo773/twitter-emoji-replacer)
 
@@ -30,6 +34,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > AgentGuard: Zero-Trust Security Foundation for AI Agents
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openclaw/shellbench](https://github.com/openclaw/shellbench)
   > The agent benchmark that scores the full stack — harness, config, and model — not just the LLM. Trac...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)
+  > Codex Dream Skin
 
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api)
@@ -96,6 +102,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [xraph/fabriq](https://github.com/xraph/fabriq)
   > A standalone data fabric for Go: one transactional write path that fans out to relational, time-seri...
 
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [10-X-eng/vibecad](https://github.com/10-X-eng/vibecad)
+  > A fork of FreeCAD that has a clanker brain. 
+
 ### [laurci](https://github.com/laurci)
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [samwho/spacer](https://github.com/samwho/spacer)
   > CLI tool to insert spacers when command output stops
@@ -139,6 +149,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [trieu](https://github.com/trieu) Forked [ALucek/GraphRAG-Breakdown](https://github.com/ALucek/GraphRAG-Breakdown) to [trieu/GraphRAG-Breakdown](https://github.com/trieu/GraphRAG-Breakdown)
   > A breakdown of knowledge graph RAG with diagrams and examples
 
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/apache-tvm-ffi-feedstock](https://github.com/conda-forge/apache-tvm-ffi-feedstock) to [xhochy/apache-tvm-ffi-feedstock](https://github.com/xhochy/apache-tvm-ffi-feedstock)
+  > A conda-smithy repository for apache-tvm-ffi.
+
 ### [yegor256](https://github.com/yegor256)
 - 🌟 👤 [yegor256](https://github.com/yegor256) Starred [RAprogramm/yew-nav-link](https://github.com/RAprogramm/yew-nav-link)
   > KaiCode 2026 WINNER! Enterprise-grade navigation library for Yew — automatic active state detection ...
@@ -153,7 +167,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 17:27:57 UTC*
+*Last updated at 2026-07-16 18:21:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
