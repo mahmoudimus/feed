@@ -64,6 +64,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [kernelwernel/llarm](https://github.com/kernelwernel/llarm) to [fengjixuchui/llarm](https://github.com/fengjixuchui/llarm)
   > ARM emulator, assembler, and disassembler libraries/tools
 
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [patonw/leaves](https://github.com/patonw/leaves)
+  > A text-mode disk usage visualization utility
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [simonw/llm](https://github.com/simonw/llm)
   > Access large language models from the command-line
@@ -73,6 +77,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [hit9/code-symbol-index](https://github.com/hit9/code-symbol-index)
   > A simple tree-sitter based code symbol index and searching. (fully ai maintained;  (providing API + ...
+
+### [ingydotnet](https://github.com/ingydotnet)
+- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [babashka/babashka](https://github.com/babashka/babashka) to [ingydotnet/babashka](https://github.com/ingydotnet/babashka)
+  > Native, fast starting Clojure interpreter for scripting
 
 ### [izuzak](https://github.com/izuzak)
 - 🍴 👤 [izuzak](https://github.com/izuzak) Forked [oxidecomputer/iddqd](https://github.com/oxidecomputer/iddqd) to [izuzak/iddqd](https://github.com/izuzak/iddqd)
@@ -97,6 +105,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A new open-source format for interactive video on the web, with a built-in state machine, frame-accu...
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [pixel-point/aval](https://github.com/pixel-point/aval) to [johndpope/aval](https://github.com/johndpope/aval)
   > A new open-source format for interactive video on the web, with a built-in state machine, frame-accu...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [NUKnightLab/interactive-textbook](https://github.com/NUKnightLab/interactive-textbook)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [NUKnightLab/timeline-ng](https://github.com/NUKnightLab/timeline-ng)
+  > A modern rebuild of Knight Lab TimelineJS as a Svelte 5 monorepo
 
 ### [juicycleff](https://github.com/juicycleff)
 - 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [xraph/fabriq](https://github.com/xraph/fabriq)
@@ -109,6 +120,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [laurci](https://github.com/laurci)
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [samwho/spacer](https://github.com/samwho/spacer)
   > CLI tool to insert spacers when command output stops
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pancsta/asyncmachine-go](https://github.com/pancsta/asyncmachine-go)
+  > state machine which runs code
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [harmont-dev/hyper](https://github.com/harmont-dev/hyper)
+  > Distributed Firecracker VM Orchestrator written in Elixir
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser)
@@ -163,7 +180,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 19:25:53 UTC*
+*Last updated at 2026-07-16 20:16:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
