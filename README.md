@@ -30,6 +30,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dain](https://github.com/dain) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
   > Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A l...
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [NYU-LLM-CTF/CTFTiny](https://github.com/NYU-LLM-CTF/CTFTiny)
   > Official repository for CTFTiny
@@ -105,6 +109,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Database-Backed Durable Golang Workflows
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [cockroachdb/errors](https://github.com/cockroachdb/errors)
   > Go error library with error portability over the network
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
 ### [sintaxi](https://github.com/sintaxi)
 - 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [infomiho/buzz-static-hosting](https://github.com/infomiho/buzz-static-hosting)
@@ -186,7 +194,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-15 22:18:06 UTC*
+*Last updated at 2026-07-15 23:17:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
