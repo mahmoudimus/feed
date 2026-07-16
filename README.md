@@ -19,9 +19,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
   > Automate browser based workflows with AI
 
+### [davidfrickert](https://github.com/davidfrickert)
+- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api)
+  > Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [jdx/aube](https://github.com/jdx/aube)
+  > A fast Node.js package manager
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [NiTianErXing666/HOOKSELF](https://github.com/NiTianErXing666/HOOKSELF) to [fengjixuchui/HOOKSELF](https://github.com/fengjixuchui/HOOKSELF)
@@ -42,6 +51,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [laurci](https://github.com/laurci)
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [samwho/spacer](https://github.com/samwho/spacer)
   > CLI tool to insert spacers when command output stops
+
+### [nikic](https://github.com/nikic)
+- 🍴 👤 [nikic](https://github.com/nikic) Forked [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) to [nikic/Enzyme](https://github.com/nikic/Enzyme)
+  > High-performance automatic differentiation of LLVM and MLIR.
+
+### [sbycrosz](https://github.com/sbycrosz)
+- 🍴 👤 [sbycrosz](https://github.com/sbycrosz) Forked [pagopa/io-react-native-crypto](https://github.com/pagopa/io-react-native-crypto) to [pavebank/io-react-native-crypto](https://github.com/pavebank/io-react-native-crypto)
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [robertsdotpm/runloom](https://github.com/robertsdotpm/runloom)
@@ -67,7 +83,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 07:38:50 UTC*
+*Last updated at 2026-07-16 08:43:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
