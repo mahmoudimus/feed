@@ -149,10 +149,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [trieu](https://github.com/trieu) Forked [ALucek/GraphRAG-Breakdown](https://github.com/ALucek/GraphRAG-Breakdown) to [trieu/GraphRAG-Breakdown](https://github.com/trieu/GraphRAG-Breakdown)
   > A breakdown of knowledge graph RAG with diagrams and examples
 
-### [xhochy](https://github.com/xhochy)
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/apache-tvm-ffi-feedstock](https://github.com/conda-forge/apache-tvm-ffi-feedstock) to [xhochy/apache-tvm-ffi-feedstock](https://github.com/xhochy/apache-tvm-ffi-feedstock)
-  > A conda-smithy repository for apache-tvm-ffi.
-
 ### [yegor256](https://github.com/yegor256)
 - 🌟 👤 [yegor256](https://github.com/yegor256) Starred [RAprogramm/yew-nav-link](https://github.com/RAprogramm/yew-nav-link)
   > KaiCode 2026 WINNER! Enterprise-grade navigation library for Yew — automatic active state detection ...
@@ -167,7 +163,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 18:21:18 UTC*
+*Last updated at 2026-07-16 19:25:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
