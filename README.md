@@ -18,6 +18,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [JeffLi1993](https://github.com/JeffLi1993)
 - 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [SpanChenGithub/seo-geo-skills](https://github.com/SpanChenGithub/seo-geo-skills)
   > Practical SEO and GEO skills, prompts, workflows, and templates for AI-assisted content growth.
+- 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [Intuition-Lab/personal-model](https://github.com/Intuition-Lab/personal-model)
+  > Build your HUMAN.md.
 
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
@@ -102,12 +104,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser)
   > An experimental Gecko-based web browser for iOS 13+.
 
+### [openprivacy](https://github.com/openprivacy)
+- 🌟 👤 [openprivacy](https://github.com/openprivacy) Starred [apple/container](https://github.com/apple/container)
+  > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
+
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🍴 👤 [sbycrosz](https://github.com/sbycrosz) Forked [pagopa/io-react-native-crypto](https://github.com/pagopa/io-react-native-crypto) to [pavebank/io-react-native-crypto](https://github.com/pavebank/io-react-native-crypto)
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [robertsdotpm/runloom](https://github.com/robertsdotpm/runloom)
   > Real Goroutines for Python 3.13t+ free-threaded.
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [theogbob/WebkitWasm](https://github.com/theogbob/WebkitWasm)
+  > WebKit compiled to WebAssembly: a full browser engine running inside a browser tab, rendering to can...
 
 ### [sintaxi](https://github.com/sintaxi)
 - 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [theswerd/brainless](https://github.com/theswerd/brainless)
@@ -141,7 +149,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 15:29:55 UTC*
+*Last updated at 2026-07-16 16:26:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
