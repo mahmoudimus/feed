@@ -129,6 +129,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [staringispolite](https://github.com/staringispolite) Starred [VitSoonYoung/SpriteStack2D](https://github.com/VitSoonYoung/SpriteStack2D)
   > Render pseudo 3D sprite node from a single 2D texture of different view angles
 
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [nextgres/uplpgsql](https://github.com/nextgres/uplpgsql)
+  > WIP JIT-Compiled PL/pgSQL based on the NEXTGRES Universal Procedural Language
+
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [ALucek/GraphRAG-Breakdown](https://github.com/ALucek/GraphRAG-Breakdown)
   > A breakdown of knowledge graph RAG with diagrams and examples
@@ -149,7 +153,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-16 16:26:43 UTC*
+*Last updated at 2026-07-16 17:27:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
