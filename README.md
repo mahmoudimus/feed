@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [lencx/Noi](https://github.com/lencx/Noi)
   > 🚀 Less chaos. More flow.
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [starfallreverie/tsundrain](https://github.com/starfallreverie/tsundrain) to [fengjixuchui/tsundrain](https://github.com/fengjixuchui/tsundrain)
+  > external discord token grabber via process memory scanning
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [pushtell/react-bootstrap-date-picker](https://github.com/pushtell/react-bootstrap-date-picker)
   > React-Bootstrap based date picker.
@@ -23,6 +27,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
   > 🦊 Firefox in WebAssembly
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [dont-rely-on-nulls/zerl](https://github.com/dont-rely-on-nulls/zerl)
+  > A Zig library to idiomatically communicate with other BEAM nodes
+
+### [sbycrosz](https://github.com/sbycrosz)
+- 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [tobyhs/USBDebugStatus](https://github.com/tobyhs/USBDebugStatus)
+  > Android home screen widget to show if USB debugging is on
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
@@ -40,6 +52,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-EnviroUrban](https://github.com/tspannhw/SNACKAI-CoCo-EnviroUrban)
   > Internal Air Quality Monitoring with Pimoroni Enviro Urban
 
+### [yegor256](https://github.com/yegor256)
+- 🌟 👤 [yegor256](https://github.com/yegor256) Starred [Liuziyu77/ClaudeScope](https://github.com/Liuziyu77/ClaudeScope)
+  > Visualize Claude Code session trajectories — time, tokens, tools, and thinking — as an interactive G...
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [anomalyco/opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go)
 
@@ -49,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 06:42:34 UTC*
+*Last updated at 2026-07-17 07:36:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
