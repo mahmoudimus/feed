@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [pushtell/react-bootstrap-date-picker](https://github.com/pushtell/react-bootstrap-date-picker)
   > React-Bootstrap based date picker.
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+  > AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a v...
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
   > A python wrapper for Alpha Vantage API for financial data.
@@ -38,6 +42,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🍴 👤 [mitsuakki](https://github.com/mitsuakki) Forked [bedrock-v/Vedrock](https://github.com/bedrock-v/Vedrock) to [mitsuakki/vedrock](https://github.com/mitsuakki/vedrock)
   > Lightweight Minecraft: Bedrock Edition server software written in V
+- 🚀 👤 [mitsuakki](https://github.com/mitsuakki) Made [mitsuakki/blog](https://github.com/mitsuakki/blog) public
+  > My personal blog where i write reverse and software engineering posts
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [dont-rely-on-nulls/zerl](https://github.com/dont-rely-on-nulls/zerl)
@@ -60,6 +66,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [randombit](https://github.com/randombit)
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [joske/yserver](https://github.com/joske/yserver)
   > A modern X11 server written from scratch in Rust.
+
+### [robconery](https://github.com/robconery)
+- 🍴 👤 [robconery](https://github.com/robconery) Forked [subsonic/SubSonic-2.0](https://github.com/subsonic/SubSonic-2.0) to [robconery/SubSonic-2.0](https://github.com/robconery/SubSonic-2.0)
+  > SubSonic 2.0 Home
 
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [DG1JAN/xOTA-Antenna](https://github.com/DG1JAN/xOTA-Antenna)
@@ -98,7 +108,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 13:29:24 UTC*
+*Last updated at 2026-07-17 14:30:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
