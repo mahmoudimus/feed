@@ -66,6 +66,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jmcarp](https://github.com/jmcarp) Starred [veraison/corim](https://github.com/veraison/corim)
   > CoRIM and CoMID manipulation library
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Yuecheng919/GemDepth](https://github.com/Yuecheng919/GemDepth)
+  > 【ICML 2026】GemDepth: Geometry-Embedded Features for 3D-Consistent Video Depth
+
+### [keithduncan](https://github.com/keithduncan)
+- 🌟 👤 [keithduncan](https://github.com/keithduncan) Starred [jjn1056/pagi](https://github.com/jjn1056/pagi)
+  > Perl port of Python's ASGI
+
 ### [mar0x](https://github.com/mar0x)
 - 🍴 👤 [mar0x](https://github.com/mar0x) Forked [milk-v/milkv.io](https://github.com/milk-v/milkv.io) to [mar0x/milkv.io](https://github.com/mar0x/milkv.io)
 
@@ -100,6 +108,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [runta-dev/clawshell](https://github.com/runta-dev/clawshell)
   > The local runtime control layer for OpenClaw/Hermes-agent, PII & sensitive credentials protection.
+- 🍴 👤 [nikivdev](https://github.com/nikivdev) Forked [team-reflect/reflect-open](https://github.com/team-reflect/reflect-open) to [nikivdev/reflect-open](https://github.com/nikivdev/reflect-open)
+  > Open-source Reflect rewrite: A local-first AI agent-friendly Markdown note-taking app
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [nmarasoiu/oh-my-pi](https://github.com/nmarasoiu/oh-my-pi)
@@ -108,6 +118,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Turtle-PB/imgui_xl](https://github.com/Turtle-PB/imgui_xl)
   > Dear ImGui XL - Enhanced fork for community contributions, backend improvements, and extended exampl...
+
+### [patrickmscott](https://github.com/patrickmscott)
+- 🍴 👤 [patrickmscott](https://github.com/patrickmscott) Forked [cloudflare/foundations](https://github.com/cloudflare/foundations) to [patrickmscott/foundations](https://github.com/patrickmscott/foundations)
+  > Cloudflare's Rust service foundations library.
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [haowei-freesky/HERMES](https://github.com/haowei-freesky/HERMES)
@@ -134,6 +148,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
   > A feed-forward 3D foundation model for reconstructing scenes from streaming data
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync)
+  > Automatic subtitle synchronization tool.
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [rivet-dev/agentos](https://github.com/rivet-dev/agentos)
@@ -142,6 +158,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [staringispolite](https://github.com/staringispolite)
 - 🌟 👤 [staringispolite](https://github.com/staringispolite) Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
   > A feed-forward 3D foundation model for reconstructing scenes from streaming data
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [jjochum-code/Pixelquarium](https://github.com/jjochum-code/Pixelquarium)
+  > Cozy open-source aquarium idle game in pixel art — runs in the browser, no server needed
 
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-LabQuestions](https://github.com/tspannhw/SNACKAI-CoCo-LabQuestions)
@@ -170,7 +190,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 18:18:53 UTC*
+*Last updated at 2026-07-17 19:24:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
