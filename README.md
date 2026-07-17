@@ -45,6 +45,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [mitsuakki](https://github.com/mitsuakki) Made [mitsuakki/blog](https://github.com/mitsuakki/blog) public
   > My personal blog where i write reverse and software engineering posts
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RenNagasaki/Echokraut](https://github.com/RenNagasaki/Echokraut)
+  > A TTS Dalamud Plugin that breaks the silence! For self hosted TTS Services.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sebane1/RoleplayingVoiceDalamud](https://github.com/Sebane1/RoleplayingVoiceDalamud)
+  > Spoken in game voices, enhanced mod management, Twitch integration, and more!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MinhakaDev/FFXIV-TTS](https://github.com/MinhakaDev/FFXIV-TTS)
+  > FFXIV Launcher with TTS is a guide to add high-quality Text-to-Speech (TTS) to Final Fantasy XIV usi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keifufu/XivVoices](https://github.com/keifufu/XivVoices)
+  > FFXIV TTS Plugin
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [dont-rely-on-nulls/zerl](https://github.com/dont-rely-on-nulls/zerl)
   > A Zig library to idiomatically communicate with other BEAM nodes
@@ -70,6 +80,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [robconery](https://github.com/robconery)
 - 🍴 👤 [robconery](https://github.com/robconery) Forked [subsonic/SubSonic-2.0](https://github.com/subsonic/SubSonic-2.0) to [robconery/SubSonic-2.0](https://github.com/robconery/SubSonic-2.0)
   > SubSonic 2.0 Home
+- 🍴 👤 [robconery](https://github.com/robconery) Forked [microsoft/vscode](https://github.com/microsoft/vscode) to [robconery/vscode](https://github.com/robconery/vscode)
+  > Visual Studio Code
 
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [DG1JAN/xOTA-Antenna](https://github.com/DG1JAN/xOTA-Antenna)
@@ -95,6 +107,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-EnviroUrban](https://github.com/tspannhw/SNACKAI-CoCo-EnviroUrban)
   > Internal Air Quality Monitoring with Pimoroni Enviro Urban
 
+### [yangdanny97](https://github.com/yangdanny97)
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [snorkel-ai/senior-swe-bench-v2026.06](https://github.com/snorkel-ai/senior-swe-bench-v2026.06)
+  > Harbor dataset for Senior SWE-Bench (v2026.06)
+
 ### [yegor256](https://github.com/yegor256)
 - 🌟 👤 [yegor256](https://github.com/yegor256) Starred [Liuziyu77/ClaudeScope](https://github.com/Liuziyu77/ClaudeScope)
   > Visualize Claude Code session trajectories — time, tokens, tools, and thinking — as an interactive G...
@@ -108,7 +124,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 14:30:06 UTC*
+*Last updated at 2026-07-17 15:24:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
