@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [starfallreverie/tsundrain](https://github.com/starfallreverie/tsundrain) to [fengjixuchui/tsundrain](https://github.com/fengjixuchui/tsundrain)
   > external discord token grabber via process memory scanning
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [medialab/xan](https://github.com/medialab/xan)
+  > The CSV magician
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [pushtell/react-bootstrap-date-picker](https://github.com/pushtell/react-bootstrap-date-picker)
   > React-Bootstrap based date picker.
@@ -31,6 +35,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
   > A python wrapper for Alpha Vantage API for financial data.
+
+### [interference-security](https://github.com/interference-security)
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+  > #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
@@ -110,6 +118,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [snorkel-ai/senior-swe-bench-v2026.06](https://github.com/snorkel-ai/senior-swe-bench-v2026.06)
   > Harbor dataset for Senior SWE-Bench (v2026.06)
+- 🍴 👤 [yangdanny97](https://github.com/yangdanny97) Forked [snorkel-ai/senior-swe-bench-v2026.06](https://github.com/snorkel-ai/senior-swe-bench-v2026.06) to [yangdanny97/senior-swe-bench-v2026.06](https://github.com/yangdanny97/senior-swe-bench-v2026.06)
+  > Harbor dataset for Senior SWE-Bench (v2026.06)
 
 ### [yegor256](https://github.com/yegor256)
 - 🌟 👤 [yegor256](https://github.com/yegor256) Starred [Liuziyu77/ClaudeScope](https://github.com/Liuziyu77/ClaudeScope)
@@ -124,7 +134,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 15:24:58 UTC*
+*Last updated at 2026-07-17 16:24:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
