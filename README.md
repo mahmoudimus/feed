@@ -150,6 +150,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync)
   > Automatic subtitle synchronization tool.
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [urchin-tidebot/vlsubsync](https://github.com/urchin-tidebot/vlsubsync)
+  > One-click subtitle synchronization for VLC
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [rivet-dev/agentos](https://github.com/rivet-dev/agentos)
@@ -190,7 +192,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 19:24:24 UTC*
+*Last updated at 2026-07-17 21:14:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
