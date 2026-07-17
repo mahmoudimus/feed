@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [lencx/Noi](https://github.com/lencx/Noi)
   > 🚀 Less chaos. More flow.
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy)
+  > Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [starfallreverie/tsundrain](https://github.com/starfallreverie/tsundrain) to [fengjixuchui/tsundrain](https://github.com/fengjixuchui/tsundrain)
   > external discord token grabber via process memory scanning
@@ -36,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
   > A python wrapper for Alpha Vantage API for financial data.
 
+### [h3xstream](https://github.com/h3xstream)
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [naveen-ithappu/sarif-explorer](https://github.com/naveen-ithappu/sarif-explorer)
+  > A simple, zero-dependency Node.js CLI that converts SARIF reports into interactive, shareable HTML r...
+
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
   > #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
@@ -43,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
   > 🦊 Firefox in WebAssembly
+
+### [jmcarp](https://github.com/jmcarp)
+- 🌟 👤 [jmcarp](https://github.com/jmcarp) Starred [veraison/corim](https://github.com/veraison/corim)
+  > CoRIM and CoMID manipulation library
 
 ### [mar0x](https://github.com/mar0x)
 - 🍴 👤 [mar0x](https://github.com/mar0x) Forked [milk-v/milkv.io](https://github.com/milk-v/milkv.io) to [mar0x/milkv.io](https://github.com/mar0x/milkv.io)
@@ -52,6 +64,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Lightweight Minecraft: Bedrock Edition server software written in V
 - 🚀 👤 [mitsuakki](https://github.com/mitsuakki) Made [mitsuakki/blog](https://github.com/mitsuakki/blog) public
   > My personal blog where i write reverse and software engineering posts
+
+### [mohamed-barakat](https://github.com/mohamed-barakat)
+- 🍴 👤 [mohamed-barakat](https://github.com/mohamed-barakat) Forked [kamalsaleh/HigherHomologicalAlgebra.jl](https://github.com/kamalsaleh/HigherHomologicalAlgebra.jl) to [homalg-project/HigherHomologicalAlgebra.jl](https://github.com/homalg-project/HigherHomologicalAlgebra.jl)
+  > Julia transpilation of the HigherHomologicalAlgebra packages
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RenNagasaki/Echokraut](https://github.com/RenNagasaki/Echokraut)
@@ -72,10 +88,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The missing observability layer for the Vercel AI SDK.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [runta-dev/clawshell](https://github.com/runta-dev/clawshell)
+  > The local runtime security layer for OpenClaw/Hermes-agent, PII & sensitive credentials protection.
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [nmarasoiu/oh-my-pi](https://github.com/nmarasoiu/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Turtle-PB/imgui_xl](https://github.com/Turtle-PB/imgui_xl)
+  > Dear ImGui XL - Enhanced fork for community contributions, backend improvements, and extended exampl...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [haowei-freesky/HERMES](https://github.com/haowei-freesky/HERMES)
@@ -134,7 +156,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 16:24:14 UTC*
+*Last updated at 2026-07-17 17:23:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
