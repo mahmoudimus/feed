@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [pushtell/react-bootstrap-date-picker](https://github.com/pushtell/react-bootstrap-date-picker)
   > React-Bootstrap based date picker.
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
+  > A python wrapper for Alpha Vantage API for financial data.
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
   > 🦊 Firefox in WebAssembly
@@ -56,6 +60,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [randombit](https://github.com/randombit)
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [joske/yserver](https://github.com/joske/yserver)
   > A modern X11 server written from scratch in Rust.
+
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [DG1JAN/xOTA-Antenna](https://github.com/DG1JAN/xOTA-Antenna)
+  > A pcb for end fed antennas (EFHW, random wire) for SOTA, POTA,... xOTA
 
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [tobyhs/USBDebugStatus](https://github.com/tobyhs/USBDebugStatus)
@@ -90,7 +98,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 12:22:01 UTC*
+*Last updated at 2026-07-17 13:29:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
