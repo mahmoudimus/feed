@@ -30,6 +30,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ambethia](https://github.com/ambethia) Starred [TKDFusion/3DPrinter-FilamentCutter-DWTas-Crossbow](https://github.com/TKDFusion/3DPrinter-FilamentCutter-DWTas-Crossbow)
   > Crossbow: The filament cutter for A4T (and other toolheads with flat tops that fit sherpa-mini or or...
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [pressly/goose](https://github.com/pressly/goose)
+  > A database migration tool. Supports SQL migrations and Go functions. 
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [starfallreverie/tsundrain](https://github.com/starfallreverie/tsundrain) to [fengjixuchui/tsundrain](https://github.com/fengjixuchui/tsundrain)
   > external discord token grabber via process memory scanning
@@ -77,11 +81,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mar0x](https://github.com/mar0x)
 - 🍴 👤 [mar0x](https://github.com/mar0x) Forked [milk-v/milkv.io](https://github.com/milk-v/milkv.io) to [mar0x/milkv.io](https://github.com/mar0x/milkv.io)
 
+### [mimoo](https://github.com/mimoo)
+- 🍴 👤 [mimoo](https://github.com/mimoo) Forked [mitschabaude/tg](https://github.com/mitschabaude/tg) to [mimoo/tg](https://github.com/mimoo/tg)
+  > Read-only Telegram access for agents.
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🍴 👤 [mitsuakki](https://github.com/mitsuakki) Forked [bedrock-v/Vedrock](https://github.com/bedrock-v/Vedrock) to [mitsuakki/vedrock](https://github.com/mitsuakki/vedrock)
   > Lightweight Minecraft: Bedrock Edition server software written in V
 - 🚀 👤 [mitsuakki](https://github.com/mitsuakki) Made [mitsuakki/blog](https://github.com/mitsuakki/blog) public
   > My personal blog where i write reverse and software engineering posts
+
+### [miyakogi](https://github.com/miyakogi)
+- 🍴 👤 [miyakogi](https://github.com/miyakogi) Forked [raphamorim/rio](https://github.com/raphamorim/rio) to [miyakogi/rio](https://github.com/miyakogi/rio)
+  > A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
 ### [mohamed-barakat](https://github.com/mohamed-barakat)
 - 🍴 👤 [mohamed-barakat](https://github.com/mohamed-barakat) Forked [homalg-project/HigherHomologicalAlgebra.jl](https://github.com/homalg-project/HigherHomologicalAlgebra.jl) to [mohamed-barakat/HigherHomologicalAlgebra.jl](https://github.com/mohamed-barakat/HigherHomologicalAlgebra.jl)
@@ -96,6 +108,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > FFXIV Launcher with TTS is a guide to add high-quality Text-to-Speech (TTS) to Final Fantasy XIV usi...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keifufu/XivVoices](https://github.com/keifufu/XivVoices)
   > FFXIV TTS Plugin
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)
+  > A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [dont-rely-on-nulls/zerl](https://github.com/dont-rely-on-nulls/zerl)
@@ -192,7 +206,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 21:14:48 UTC*
+*Last updated at 2026-07-17 22:14:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
