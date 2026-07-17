@@ -28,15 +28,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
   > 🦊 Firefox in WebAssembly
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🍴 👤 [mitsuakki](https://github.com/mitsuakki) Forked [bedrock-v/Vedrock](https://github.com/bedrock-v/Vedrock) to [mitsuakki/vedrock](https://github.com/mitsuakki/vedrock)
+  > Lightweight Minecraft: Bedrock Edition server software written in V
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [dont-rely-on-nulls/zerl](https://github.com/dont-rely-on-nulls/zerl)
   > A Zig library to idiomatically communicate with other BEAM nodes
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [freddiehg/freddie](https://github.com/freddiehg/freddie)
   > Changing keys is easy if you're this talented
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [foglamp-labs/foglamp](https://github.com/foglamp-labs/foglamp)
+  > The missing observability layer for the Vercel AI SDK.
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [nmarasoiu/oh-my-pi](https://github.com/nmarasoiu/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [joske/yserver](https://github.com/joske/yserver)
+  > A modern X11 server written from scratch in Rust.
 
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [tobyhs/USBDebugStatus](https://github.com/tobyhs/USBDebugStatus)
@@ -71,7 +81,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 10:30:49 UTC*
+*Last updated at 2026-07-17 11:27:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
