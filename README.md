@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [pushtell/react-bootstrap-date-picker](https://github.com/pushtell/react-bootstrap-date-picker)
   > React-Bootstrap based date picker.
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
+  > 🦊 Firefox in WebAssembly
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
   > A feed-forward 3D foundation model for reconstructing scenes from streaming data
@@ -45,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 05:51:10 UTC*
+*Last updated at 2026-07-17 06:42:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
