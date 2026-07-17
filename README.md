@@ -28,6 +28,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
   > 🦊 Firefox in WebAssembly
 
+### [mar0x](https://github.com/mar0x)
+- 🍴 👤 [mar0x](https://github.com/mar0x) Forked [milk-v/milkv.io](https://github.com/milk-v/milkv.io) to [mar0x/milkv.io](https://github.com/mar0x/milkv.io)
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🍴 👤 [mitsuakki](https://github.com/mitsuakki) Forked [bedrock-v/Vedrock](https://github.com/bedrock-v/Vedrock) to [mitsuakki/vedrock](https://github.com/mitsuakki/vedrock)
   > Lightweight Minecraft: Bedrock Edition server software written in V
@@ -39,10 +42,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Changing keys is easy if you're this talented
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [foglamp-labs/foglamp](https://github.com/foglamp-labs/foglamp)
   > The missing observability layer for the Vercel AI SDK.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [nmarasoiu/oh-my-pi](https://github.com/nmarasoiu/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [haowei-freesky/HERMES](https://github.com/haowei-freesky/HERMES)
+  > Official Repository for paper "HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video...
 
 ### [randombit](https://github.com/randombit)
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [joske/yserver](https://github.com/joske/yserver)
@@ -81,7 +90,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 11:27:30 UTC*
+*Last updated at 2026-07-17 12:22:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
