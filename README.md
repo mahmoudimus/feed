@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [CDSoft](https://github.com/CDSoft)
+- 🌟 👤 [CDSoft](https://github.com/CDSoft) Starred [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
+  > Git integration for buffers
+- 🌟 👤 [CDSoft](https://github.com/CDSoft) Starred [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit)
+  > An interactive and powerful Git interface for Neovim, inspired by Magit
+
 ### [John-K](https://github.com/John-K)
 - 🌟 👤 [John-K](https://github.com/John-K) Starred [SerafiniJose/rusty](https://github.com/SerafiniJose/rusty)
   > Turn an old Android device into an ambient Spotify Connect receiver — synced lyrics, a built-in scre...
@@ -19,6 +25,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [anthropics/claude-desktop-buddy](https://github.com/anthropics/claude-desktop-buddy)
   > Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop
+
+### [ambethia](https://github.com/ambethia)
+- 🌟 👤 [ambethia](https://github.com/ambethia) Starred [TKDFusion/3DPrinter-FilamentCutter-DWTas-Crossbow](https://github.com/TKDFusion/3DPrinter-FilamentCutter-DWTas-Crossbow)
+  > Crossbow: The filament cutter for A4T (and other toolheads with flat tops that fit sherpa-mini or or...
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [starfallreverie/tsundrain](https://github.com/starfallreverie/tsundrain) to [fengjixuchui/tsundrain](https://github.com/fengjixuchui/tsundrain)
@@ -66,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > My personal blog where i write reverse and software engineering posts
 
 ### [mohamed-barakat](https://github.com/mohamed-barakat)
-- 🍴 👤 [mohamed-barakat](https://github.com/mohamed-barakat) Forked [kamalsaleh/HigherHomologicalAlgebra.jl](https://github.com/kamalsaleh/HigherHomologicalAlgebra.jl) to [homalg-project/HigherHomologicalAlgebra.jl](https://github.com/homalg-project/HigherHomologicalAlgebra.jl)
+- 🍴 👤 [mohamed-barakat](https://github.com/mohamed-barakat) Forked [homalg-project/HigherHomologicalAlgebra.jl](https://github.com/homalg-project/HigherHomologicalAlgebra.jl) to [mohamed-barakat/HigherHomologicalAlgebra.jl](https://github.com/mohamed-barakat/HigherHomologicalAlgebra.jl)
   > Julia transpilation of the HigherHomologicalAlgebra packages
 
 ### [mrexodia](https://github.com/mrexodia)
@@ -89,7 +99,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [runta-dev/clawshell](https://github.com/runta-dev/clawshell)
-  > The local runtime security layer for OpenClaw/Hermes-agent, PII & sensitive credentials protection.
+  > The local runtime control layer for OpenClaw/Hermes-agent, PII & sensitive credentials protection.
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [nmarasoiu/oh-my-pi](https://github.com/nmarasoiu/oh-my-pi)
@@ -125,6 +135,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
   > A feed-forward 3D foundation model for reconstructing scenes from streaming data
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [rivet-dev/agentos](https://github.com/rivet-dev/agentos)
+  > A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux V...
+
 ### [staringispolite](https://github.com/staringispolite)
 - 🌟 👤 [staringispolite](https://github.com/staringispolite) Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)
   > A feed-forward 3D foundation model for reconstructing scenes from streaming data
@@ -156,7 +170,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 17:23:07 UTC*
+*Last updated at 2026-07-17 18:18:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
