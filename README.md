@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [aevyrie/big_space](https://github.com/aevyrie/big_space)
   > When 32-bit worlds aren't big enough
 
+### [hsiafan](https://github.com/hsiafan)
+- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox)
+  > Another Better Mihomo Client
+
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [SergioMOrozco/lerobot_3d](https://github.com/SergioMOrozco/lerobot_3d)
   > LeRobot 3D: facilitating easier 3d spatial reasoning for the lerobot platform
@@ -52,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 06:34:48 UTC*
+*Last updated at 2026-07-18 07:30:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
