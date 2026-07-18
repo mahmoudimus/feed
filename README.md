@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [ProjectArgus-cc/libargus.cc](https://github.com/ProjectArgus-cc/libargus.cc) to [Hellblazer/libargus.cc](https://github.com/Hellblazer/libargus.cc)
   > A unified, unmanaged multimodal runtime. Zero-allocation native AI inference for Java 22+.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [lemonade-sdk/llamacpp-rocm](https://github.com/lemonade-sdk/llamacpp-rocm) to [NyaMisty/llamacpp-rocmfpx-ci](https://github.com/NyaMisty/llamacpp-rocmfpx-ci)
+  > Fresh builds of llama.cpp with AMD ROCm™ 7 acceleration
+
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast)
   > droast - a dockerfile linter that actually has opinions 🔥
@@ -27,6 +31,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [waaldev/waldi](https://github.com/waaldev/waldi)
   > A quiet place to write, and to be read.
+
+### [ankane](https://github.com/ankane)
+- 🚀 👤 [ankane](https://github.com/ankane) Made [ankane/nanoarrow-ruby](https://github.com/ankane/nanoarrow-ruby) public
+  > Zero-dependency Arrow library for Ruby
 
 ### [dibyendumajumdar](https://github.com/dibyendumajumdar)
 - 🍴 👤 [dibyendumajumdar](https://github.com/dibyendumajumdar) Forked [dlang/dmd](https://github.com/dlang/dmd) to [CompilerProgramming/laser-d](https://github.com/CompilerProgramming/laser-d)
@@ -120,7 +128,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 21:14:36 UTC*
+*Last updated at 2026-07-18 22:14:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
