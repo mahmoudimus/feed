@@ -8,6 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [can1357](https://github.com/can1357)
+- 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
+
 ### [fnuecke](https://github.com/fnuecke)
 - 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [cBournhonesque/lightyear](https://github.com/cBournhonesque/lightyear)
   > A networking library to make multiplayer games for the Bevy game engine
@@ -32,6 +35,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [rwjblue/antennabench](https://github.com/rwjblue/antennabench)
   > Local-first antenna comparison and profiling app
 
+### [simonw](https://github.com/simonw)
+- 🍴 👤 [simonw](https://github.com/simonw) Forked [nascheme/quixote](https://github.com/nascheme/quixote) to [simonw/quixote](https://github.com/simonw/quixote)
+  > Quixote is a framework for writing Web-based applications using Python
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [jprx/gxf-playground](https://github.com/jprx/gxf-playground)
+  > Experimenting with SPRR/ GXF in a Hypervisor.framework VM
+
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [shobhitmehro/pyrefly-attrs-demo](https://github.com/shobhitmehro/pyrefly-attrs-demo)
 
@@ -41,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 04:03:14 UTC*
+*Last updated at 2026-07-18 05:43:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
