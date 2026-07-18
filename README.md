@@ -11,6 +11,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [quickpod/quickpod-cli](https://github.com/quickpod/quickpod-cli)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [donvito/aibackends](https://github.com/donvito/aibackends)
+  > A Python library to run AI tasks and workflows locally. Works with CPU and GPU
+
 ### [fnuecke](https://github.com/fnuecke)
 - 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [cBournhonesque/lightyear](https://github.com/cBournhonesque/lightyear)
   > A networking library to make multiplayer games for the Bevy game engine
@@ -56,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 07:30:41 UTC*
+*Last updated at 2026-07-18 08:31:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
