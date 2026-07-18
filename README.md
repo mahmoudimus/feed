@@ -32,13 +32,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [rwjblue/antennabench](https://github.com/rwjblue/antennabench)
   > Local-first antenna comparison and profiling app
 
+### [yangdanny97](https://github.com/yangdanny97)
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [shobhitmehro/pyrefly-attrs-demo](https://github.com/shobhitmehro/pyrefly-attrs-demo)
+
 
 <!-- nav -->
 [← 2026-07-17](archive/2026/07/17.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 02:58:29 UTC*
+*Last updated at 2026-07-18 04:03:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
