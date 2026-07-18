@@ -23,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
 
+### [dibyendumajumdar](https://github.com/dibyendumajumdar)
+- 🍴 👤 [dibyendumajumdar](https://github.com/dibyendumajumdar) Forked [dlang/dmd](https://github.com/dlang/dmd) to [CompilerProgramming/laser-d](https://github.com/CompilerProgramming/laser-d)
+  > dmd D Programming Language compiler
+
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
   > The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of t...
@@ -90,6 +94,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [shobhitmehro/pyrefly-attrs-demo](https://github.com/shobhitmehro/pyrefly-attrs-demo)
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [scipy/scipy-stubs](https://github.com/scipy/scipy-stubs)
+  > Official type stubs for SciPy
 
 
 <!-- nav -->
@@ -97,7 +103,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 14:23:43 UTC*
+*Last updated at 2026-07-18 15:18:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
