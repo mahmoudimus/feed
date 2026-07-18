@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [ProjectArgus-cc/libargus.cc](https://github.com/ProjectArgus-cc/libargus.cc) to [Hellblazer/libargus.cc](https://github.com/Hellblazer/libargus.cc)
   > A unified, unmanaged multimodal runtime. Zero-allocation native AI inference for Java 22+.
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast)
+  > droast - a dockerfile linter that actually has opinions 🔥
+
 ### [ThomasVitale](https://github.com/ThomasVitale)
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [CourseOrchestra/hurdy-gurdy](https://github.com/CourseOrchestra/hurdy-gurdy)
   > Generate client and server side Java/Kotlin code based on OpenAPI spec
@@ -67,6 +71,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [instavm/tarit](https://github.com/instavm/tarit)
   > A hypervisor and sandbox cloud for self-hosted AI agents and RL
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [keycloak/keycloak](https://github.com/keycloak/keycloak)
+  > Open Source Identity and Access Management For Modern Applications and Services
+
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [rwjblue/antennabench](https://github.com/rwjblue/antennabench)
   > Local-first antenna comparison and profiling app
@@ -107,7 +115,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 16:16:19 UTC*
+*Last updated at 2026-07-18 17:18:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
