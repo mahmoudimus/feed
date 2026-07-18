@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
+  > Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI ...
+
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
 
@@ -65,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 09:28:50 UTC*
+*Last updated at 2026-07-18 10:26:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
