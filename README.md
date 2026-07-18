@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox)
   > Another Better Mihomo Client
 
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [InvoxiPlayGames/xenon-bltool](https://github.com/InvoxiPlayGames/xenon-bltool)
+  > Work-in-progress utility for working with Xbox 360 bootloader stages, and soon more.
+
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [SergioMOrozco/lerobot_3d](https://github.com/SergioMOrozco/lerobot_3d)
   > LeRobot 3D: facilitating easier 3d spatial reasoning for the lerobot platform
@@ -60,6 +64,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [jprx/gxf-playground](https://github.com/jprx/gxf-playground)
   > Experimenting with SPRR/ GXF in a Hypervisor.framework VM
 
+### [trieu](https://github.com/trieu)
+- 🌟 👤 [trieu](https://github.com/trieu) Starred [seanZhang414/openadserver](https://github.com/seanZhang414/openadserver)
+  > Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google A...
+- 🍴 👤 [trieu](https://github.com/trieu) Forked [seanZhang414/openadserver](https://github.com/seanZhang414/openadserver) to [trieu/openadserver](https://github.com/trieu/openadserver)
+  > Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google A...
+
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [shobhitmehro/pyrefly-attrs-demo](https://github.com/shobhitmehro/pyrefly-attrs-demo)
 
@@ -69,7 +79,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 10:26:35 UTC*
+*Last updated at 2026-07-18 11:19:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
