@@ -28,9 +28,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [waaldev/waldi](https://github.com/waaldev/waldi)
   > A quiet place to write, and to be read.
 
-### [can1357](https://github.com/can1357)
-- 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
-
 ### [dibyendumajumdar](https://github.com/dibyendumajumdar)
 - 🍴 👤 [dibyendumajumdar](https://github.com/dibyendumajumdar) Forked [dlang/dmd](https://github.com/dlang/dmd) to [CompilerProgramming/laser-d](https://github.com/CompilerProgramming/laser-d)
   > dmd D Programming Language compiler
@@ -87,6 +84,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [nascheme/quixote](https://github.com/nascheme/quixote) to [simonw/quixote](https://github.com/simonw/quixote)
   > Quixote is a framework for writing Web-based applications using Python
 
+### [skx](https://github.com/skx)
+- 🌟 👤 [skx](https://github.com/skx) Starred [robpike/lisp](https://github.com/robpike/lisp)
+  > Toy Lisp 1.5 interpreter
+
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [jprx/gxf-playground](https://github.com/jprx/gxf-playground)
   > Experimenting with SPRR/ GXF in a Hypervisor.framework VM
@@ -119,7 +120,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 18:15:06 UTC*
+*Last updated at 2026-07-18 19:23:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
