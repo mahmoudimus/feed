@@ -133,6 +133,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Turtle-PB/imgui_xl](https://github.com/Turtle-PB/imgui_xl)
   > Dear ImGui XL - Enhanced fork for community contributions, backend improvements, and extended exampl...
 
+### [parasyte](https://github.com/parasyte)
+- 🌟 👤 [parasyte](https://github.com/parasyte) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🌟 👤 [parasyte](https://github.com/parasyte) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+- 🌟 👤 [parasyte](https://github.com/parasyte) Starred [pwilkin/trellis.cpp](https://github.com/pwilkin/trellis.cpp)
+  > TRELLIS.2 image-to-3D in C++/GGML (CUDA + Vulkan), with a resident HTTP server
+
 ### [patrickmscott](https://github.com/patrickmscott)
 - 🍴 👤 [patrickmscott](https://github.com/patrickmscott) Forked [cloudflare/foundations](https://github.com/cloudflare/foundations) to [patrickmscott/foundations](https://github.com/patrickmscott/foundations)
   > Cloudflare's Rust service foundations library.
@@ -206,7 +214,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-17 22:14:16 UTC*
+*Last updated at 2026-07-17 23:15:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
