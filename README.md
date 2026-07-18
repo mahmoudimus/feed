@@ -52,6 +52,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [aevyrie/big_space](https://github.com/aevyrie/big_space)
   > When 32-bit worlds aren't big enough
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [oblien/openship](https://github.com/oblien/openship)
+  > Self-hosted deployment platform
+
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox)
   > Another Better Mihomo Client
@@ -63,6 +67,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Alternative NetISO server for x360 netiso dashlaunch plugin
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [XeFreedom/NetISO](https://github.com/XeFreedom/NetISO)
   > NetISO plugin for the Xbox 360
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [maxanthonycharles-del/boggleflix](https://github.com/maxanthonycharles-del/boggleflix)
 
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [SergioMOrozco/lerobot_3d](https://github.com/SergioMOrozco/lerobot_3d)
@@ -79,6 +86,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [instavm/tarit](https://github.com/instavm/tarit)
   > A hypervisor and sandbox cloud for self-hosted AI agents and RL
+
+### [progrium](https://github.com/progrium)
+- 🌟 👤 [progrium](https://github.com/progrium) Starred [efunn/bigboy](https://github.com/efunn/bigboy)
+  > large computer does large things
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [keycloak/keycloak](https://github.com/keycloak/keycloak)
@@ -128,7 +139,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 22:14:32 UTC*
+*Last updated at 2026-07-18 23:15:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
