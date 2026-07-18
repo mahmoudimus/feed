@@ -48,9 +48,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mksh](https://github.com/mksh) Starred [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css)
   > Open source CSS framework for data visualization.
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
-  > Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links,...
+### [moriyoshi](https://github.com/moriyoshi)
+- 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [ihciah/rust2go](https://github.com/ihciah/rust2go)
+  > Call Between Golang and Rust Asynchronously
 
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [rwjblue/antennabench](https://github.com/rwjblue/antennabench)
@@ -70,6 +70,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [trieu](https://github.com/trieu) Forked [seanZhang414/openadserver](https://github.com/seanZhang414/openadserver) to [trieu/openadserver](https://github.com/trieu/openadserver)
   > Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google A...
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [uint23/cterm](https://github.com/uint23/cterm)
+  > A tiny, cross-platform terminal emulator (written in C)
+
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [shobhitmehro/pyrefly-attrs-demo](https://github.com/shobhitmehro/pyrefly-attrs-demo)
 
@@ -79,7 +83,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 11:19:51 UTC*
+*Last updated at 2026-07-18 12:13:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
