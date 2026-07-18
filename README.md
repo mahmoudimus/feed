@@ -54,6 +54,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [InvoxiPlayGames/xenon-bltool](https://github.com/InvoxiPlayGames/xenon-bltool)
   > Work-in-progress utility for working with Xbox 360 bootloader stages, and soon more.
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [tuxuser/netiso-srv](https://github.com/tuxuser/netiso-srv)
+  > Alternative NetISO server for x360 netiso dashlaunch plugin
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [XeFreedom/NetISO](https://github.com/XeFreedom/NetISO)
+  > NetISO plugin for the Xbox 360
 
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [SergioMOrozco/lerobot_3d](https://github.com/SergioMOrozco/lerobot_3d)
@@ -115,7 +119,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 17:18:49 UTC*
+*Last updated at 2026-07-18 18:15:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
