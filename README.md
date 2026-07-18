@@ -81,6 +81,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tsnl](https://github.com/tsnl) Starred [raphamorim/rio](https://github.com/raphamorim/rio)
   > A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
+### [tuhdo](https://github.com/tuhdo)
+- 🌟 👤 [tuhdo](https://github.com/tuhdo) Starred [Yu-369/VibeCurb](https://github.com/Yu-369/VibeCurb)
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [uint23/cterm](https://github.com/uint23/cterm)
   > A tiny, cross-platform terminal emulator (written in C)
@@ -94,7 +97,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 13:28:03 UTC*
+*Last updated at 2026-07-18 14:23:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
