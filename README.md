@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [CourseOrchestra/hurdy-gurdy](https://github.com/CourseOrchestra/hurdy-gurdy)
   > Generate client and server side Java/Kotlin code based on OpenAPI spec
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [waaldev/waldi](https://github.com/waaldev/waldi)
+  > A quiet place to write, and to be read.
+
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
 
@@ -103,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 15:18:17 UTC*
+*Last updated at 2026-07-18 16:16:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
