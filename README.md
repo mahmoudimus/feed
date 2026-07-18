@@ -12,13 +12,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
   > Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI ...
 
+### [Hellblazer](https://github.com/Hellblazer)
+- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [ProjectArgus-cc/libargus.cc](https://github.com/ProjectArgus-cc/libargus.cc) to [Hellblazer/libargus.cc](https://github.com/Hellblazer/libargus.cc)
+  > A unified, unmanaged multimodal runtime. Zero-allocation native AI inference for Java 22+.
+
+### [ThomasVitale](https://github.com/ThomasVitale)
+- 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [CourseOrchestra/hurdy-gurdy](https://github.com/CourseOrchestra/hurdy-gurdy)
+  > Generate client and server side Java/Kotlin code based on OpenAPI spec
+
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
-
-### [donvito](https://github.com/donvito)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [quickpod/quickpod-cli](https://github.com/quickpod/quickpod-cli)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [donvito/aibackends](https://github.com/donvito/aibackends)
-  > A Python library to run AI tasks using a GPU locally
 
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
@@ -52,6 +55,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [ihciah/rust2go](https://github.com/ihciah/rust2go)
   > Call Between Golang and Rust Asynchronously
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [instavm/tarit](https://github.com/instavm/tarit)
+  > A hypervisor and sandbox cloud for self-hosted AI agents and RL
+
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [rwjblue/antennabench](https://github.com/rwjblue/antennabench)
   > Local-first antenna comparison and profiling app
@@ -70,6 +77,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [trieu](https://github.com/trieu) Forked [seanZhang414/openadserver](https://github.com/seanZhang414/openadserver) to [trieu/openadserver](https://github.com/trieu/openadserver)
   > Open Source Ad Serving Platform with ML-Powered CTR Prediction | Self-hosted alternative to Google A...
 
+### [tsnl](https://github.com/tsnl)
+- 🌟 👤 [tsnl](https://github.com/tsnl) Starred [raphamorim/rio](https://github.com/raphamorim/rio)
+  > A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [uint23/cterm](https://github.com/uint23/cterm)
   > A tiny, cross-platform terminal emulator (written in C)
@@ -83,7 +94,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-18 12:13:58 UTC*
+*Last updated at 2026-07-18 13:28:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
