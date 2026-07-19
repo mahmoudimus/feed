@@ -19,6 +19,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat)
   > Satellite tracker and pass predictor for Android, inspired by Gpredict
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [ok1hra/Parameterizable-3D-print-Antenna-rotator-in-OpenScad](https://github.com/ok1hra/Parameterizable-3D-print-Antenna-rotator-in-OpenScad)
 
 ### [eleanor-em](https://github.com/eleanor-em)
 - 🍴 👤 [eleanor-em](https://github.com/eleanor-em) Forked [rerun-io/kittest_inspector](https://github.com/rerun-io/kittest_inspector) to [eleanor-em/kittest_inspector](https://github.com/eleanor-em/kittest_inspector)
@@ -85,6 +86,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > a distributed computing library for OCaml
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [stefvw93/weft](https://github.com/stefvw93/weft)
   > Weft is a reactive DOM library where every node is an Effect.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Metalymph/relay](https://github.com/Metalymph/relay)
+  > Backend-agnostic async message queue for MoonBit with reliability, observability, incident detection...
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [stupside/castor](https://github.com/stupside/castor)
@@ -99,6 +102,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+
+### [sdras](https://github.com/sdras)
+- 🍴 👤 [sdras](https://github.com/sdras) Forked [GoogleChromeLabs/webmcp-tools](https://github.com/GoogleChromeLabs/webmcp-tools) to [sdras/webmcp-tools](https://github.com/sdras/webmcp-tools)
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
@@ -120,7 +126,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 16:16:43 UTC*
+*Last updated at 2026-07-19 17:19:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
