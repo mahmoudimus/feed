@@ -13,11 +13,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Post-exploitation and evasion research toolkit for Linux.
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [V4bel/Januscape](https://github.com/V4bel/Januscape) to [fengjixuchui/Januscape](https://github.com/fengjixuchui/Januscape)
 
+### [fmeum](https://github.com/fmeum)
+- 🍴 👤 [fmeum](https://github.com/fmeum) Forked [withered-magic/starpls](https://github.com/withered-magic/starpls) to [fmeum/starpls](https://github.com/fmeum/starpls)
+  > An LSP implementation for Starlark, the configuration language used by Bazel and Buck2.
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
   > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [Sizeable-Bingus/BingusLdr](https://github.com/Sizeable-Bingus/BingusLdr)
   > BingusLdr is a DLL loader built with Crystal Palace that uses a CET compatible stack spoofing techni...
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader)
+  > "AI-Trader: 100% Fully-Automated Agent-Native Trading"  
 
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac)
@@ -43,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hyfdev/moonbit-agent-skills](https://github.com/hyfdev/moonbit-agent-skills)
+  > Agent Skills for MoonBit. Help coding agents work with MoonBit and write better MoonBit code.
+
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [stupside/castor](https://github.com/stupside/castor)
   > Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in rea...
@@ -67,7 +79,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 09:32:22 UTC*
+*Last updated at 2026-07-19 10:29:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
