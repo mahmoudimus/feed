@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
   > Learn it. Build it. Ship it for others.
 
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat)
+  > Satellite tracker and pass predictor for Android, inspired by Gpredict
+
 ### [eleanor-em](https://github.com/eleanor-em)
 - 🍴 👤 [eleanor-em](https://github.com/eleanor-em) Forked [rerun-io/kittest_inspector](https://github.com/rerun-io/kittest_inspector) to [eleanor-em/kittest_inspector](https://github.com/eleanor-em/kittest_inspector)
 
@@ -116,7 +120,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 15:19:03 UTC*
+*Last updated at 2026-07-19 16:16:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
