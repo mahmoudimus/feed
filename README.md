@@ -12,6 +12,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
   > Learn it. Build it. Ship it for others.
 
+### [eleanor-em](https://github.com/eleanor-em)
+- 🍴 👤 [eleanor-em](https://github.com/eleanor-em) Forked [rerun-io/kittest_inspector](https://github.com/rerun-io/kittest_inspector) to [eleanor-em/kittest_inspector](https://github.com/eleanor-em/kittest_inspector)
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MatheuZSecurity/Furtex](https://github.com/MatheuZSecurity/Furtex) to [fengjixuchui/Furtex](https://github.com/fengjixuchui/Furtex)
   > Post-exploitation and evasion research toolkit for Linux.
@@ -62,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [jztan/qt4-doc-mcp-server](https://github.com/jztan/qt4-doc-mcp-server) to [mrexodia/qt4-doc-mcp-server](https://github.com/mrexodia/qt4-doc-mcp-server)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [jztan/qt4-doc-mcp-server](https://github.com/jztan/qt4-doc-mcp-server) to [mrexodia/qt-doc-mcp](https://github.com/mrexodia/qt-doc-mcp)
   > Offline MCP Server for Qt 4.8.4 documentation
 
 ### [nikivdev](https://github.com/nikivdev)
@@ -105,7 +108,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 12:14:08 UTC*
+*Last updated at 2026-07-19 13:28:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
