@@ -55,6 +55,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [SantiagoMille/germinal](https://github.com/SantiagoMille/germinal)
   > Codebase for Germinal, a broadly enabling generative pipeline for efficient generation of epitope-ta...
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
@@ -64,6 +68,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hyfdev/moonbit-agent-skills](https://github.com/hyfdev/moonbit-agent-skills)
   > Agent Skills for MoonBit. Help coding agents work with MoonBit and write better MoonBit code.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [backtracking/functory](https://github.com/backtracking/functory)
+  > a distributed computing library for OCaml
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [stupside/castor](https://github.com/stupside/castor)
@@ -76,6 +82,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
+  > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
@@ -97,7 +105,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 11:22:38 UTC*
+*Last updated at 2026-07-19 12:14:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
