@@ -106,6 +106,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [sdras](https://github.com/sdras)
 - 🍴 👤 [sdras](https://github.com/sdras) Forked [GoogleChromeLabs/webmcp-tools](https://github.com/GoogleChromeLabs/webmcp-tools) to [sdras/webmcp-tools](https://github.com/sdras/webmcp-tools)
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [hanwen/go-fuse](https://github.com/hanwen/go-fuse)
+  > FUSE bindings for Go
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
   >  ggml speech-to-text inference for 16+ model families
@@ -126,7 +130,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 17:19:42 UTC*
+*Last updated at 2026-07-19 18:15:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
