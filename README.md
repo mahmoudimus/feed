@@ -78,6 +78,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Offline MCP Server for Qt 4.8.4 documentation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anomalyco/browser-control](https://github.com/anomalyco/browser-control)
   > Local browser driver for trusted agents: control your existing Chromium browser through a small exte...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
+  > 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hyfdev/moonbit-agent-skills](https://github.com/hyfdev/moonbit-agent-skills)
@@ -109,6 +111,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [hanwen/go-fuse](https://github.com/hanwen/go-fuse)
   > FUSE bindings for Go
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [gakonst/nanocodex](https://github.com/gakonst/nanocodex)
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
@@ -130,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 18:15:02 UTC*
+*Last updated at 2026-07-19 19:23:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
