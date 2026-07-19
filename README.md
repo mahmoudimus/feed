@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [SantiagoMille/germinal](https://github.com/SantiagoMille/germinal)
   > Codebase for Germinal, a broadly enabling generative pipeline for efficient generation of epitope-ta...
 
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [stupside/castor](https://github.com/stupside/castor)
+  > Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in rea...
+
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
   > Self-hosted game stream host for Moonlight.
@@ -42,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 05:58:16 UTC*
+*Last updated at 2026-07-19 06:58:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
