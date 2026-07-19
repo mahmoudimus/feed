@@ -11,10 +11,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jlfwong](https://github.com/jlfwong)
 - 🌟 👤 [jlfwong](https://github.com/jlfwong) Starred [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)
   > Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for yo...
+- 🍴 👤 [jlfwong](https://github.com/jlfwong) Forked [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) to [jlfwong/opendisplay](https://github.com/jlfwong/opendisplay)
+  > Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for yo...
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis)
+  > Personal AI, On Personal Devices
 
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [SantiagoMille/germinal](https://github.com/SantiagoMille/germinal)
   > Codebase for Germinal, a broadly enabling generative pipeline for efficient generation of epitope-ta...
+
+### [progrium](https://github.com/progrium)
+- 🌟 👤 [progrium](https://github.com/progrium) Starred [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
+  > Self-hosted game stream host for Moonlight.
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
@@ -32,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 04:13:49 UTC*
+*Last updated at 2026-07-19 05:58:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
