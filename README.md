@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [CDSoft](https://github.com/CDSoft)
+- 🌟 👤 [CDSoft](https://github.com/CDSoft) Starred [rvben/rumdl](https://github.com/rvben/rumdl)
+  > Fast Markdown linter and formatter written in Rust
+
 ### [Clivern](https://github.com/Clivern)
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
   > Learn it. Build it. Ship it for others.
@@ -67,6 +71,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [jztan/qt4-doc-mcp-server](https://github.com/jztan/qt4-doc-mcp-server) to [mrexodia/qt-doc-mcp](https://github.com/mrexodia/qt-doc-mcp)
   > Offline MCP Server for Qt 4.8.4 documentation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anomalyco/browser-control](https://github.com/anomalyco/browser-control)
+  > Local browser driver for trusted agents: control your existing Chromium browser through a small exte...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hyfdev/moonbit-agent-skills](https://github.com/hyfdev/moonbit-agent-skills)
@@ -108,7 +114,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 13:28:17 UTC*
+*Last updated at 2026-07-19 14:26:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
