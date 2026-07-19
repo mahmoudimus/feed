@@ -133,13 +133,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [wincent](https://github.com/wincent) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
   > Lore is a next-generation, open source version control system
 
+### [zzzeek](https://github.com/zzzeek)
+- 🌟 👤 [zzzeek](https://github.com/zzzeek) Starred [realiti4/claude-swap](https://github.com/realiti4/claude-swap)
+  > Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, a...
+
 
 <!-- nav -->
 [← 2026-07-18](archive/2026/07/18.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 20:14:40 UTC*
+*Last updated at 2026-07-19 21:15:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
