@@ -13,6 +13,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Post-exploitation and evasion research toolkit for Linux.
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [V4bel/Januscape](https://github.com/V4bel/Januscape) to [fengjixuchui/Januscape](https://github.com/fengjixuchui/Januscape)
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
+  > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [Sizeable-Bingus/BingusLdr](https://github.com/Sizeable-Bingus/BingusLdr)
+  > BingusLdr is a DLL loader built with Crystal Palace that uses a CET compatible stack spoofing techni...
+
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac)
   > Surge-style macOS whole-home gateway and control plane with mihomo TUN, DHCP/DNS, and an agent-frien...
@@ -32,6 +38,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [SantiagoMille/germinal](https://github.com/SantiagoMille/germinal)
   > Codebase for Germinal, a broadly enabling generative pipeline for efficient generation of epitope-ta...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [stupside/castor](https://github.com/stupside/castor)
@@ -57,7 +67,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 08:43:55 UTC*
+*Last updated at 2026-07-19 09:32:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
