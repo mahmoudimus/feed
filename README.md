@@ -79,6 +79,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Agent Skills for MoonBit. Help coding agents work with MoonBit and write better MoonBit code.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [backtracking/functory](https://github.com/backtracking/functory)
   > a distributed computing library for OCaml
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [stefvw93/weft](https://github.com/stefvw93/weft)
+  > Weft is a reactive DOM library where every node is an Effect.
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [stupside/castor](https://github.com/stupside/castor)
@@ -114,7 +116,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 14:26:14 UTC*
+*Last updated at 2026-07-19 15:19:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
