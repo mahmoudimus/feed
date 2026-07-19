@@ -123,6 +123,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [stupside/castor](https://github.com/stupside/castor)
   > Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in rea...
 
+### [uakarsh](https://github.com/uakarsh)
+- 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer)
+  > Transformer related optimization, including BERT, GPT
+- 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+  > TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) an...
+
 ### [wincent](https://github.com/wincent)
 - 🌟 👤 [wincent](https://github.com/wincent) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
   > Lore is a next-generation, open source version control system
@@ -133,7 +139,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 19:23:23 UTC*
+*Last updated at 2026-07-19 20:14:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
