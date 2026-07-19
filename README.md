@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+  > Learn it. Build it. Ship it for others.
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MatheuZSecurity/Furtex](https://github.com/MatheuZSecurity/Furtex) to [fengjixuchui/Furtex](https://github.com/fengjixuchui/Furtex)
   > Post-exploitation and evasion research toolkit for Linux.
@@ -33,6 +37,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [Repcz/Tool](https://github.com/Repcz/Tool)
   > Powered by DeepSeek V4
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+
 ### [jlfwong](https://github.com/jlfwong)
 - 🌟 👤 [jlfwong](https://github.com/jlfwong) Starred [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)
   > Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for yo...
@@ -50,6 +58,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [jztan/qt4-doc-mcp-server](https://github.com/jztan/qt4-doc-mcp-server) to [mrexodia/qt4-doc-mcp-server](https://github.com/mrexodia/qt4-doc-mcp-server)
+  > Offline MCP Server for Qt 4.8.4 documentation
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hyfdev/moonbit-agent-skills](https://github.com/hyfdev/moonbit-agent-skills)
@@ -63,6 +73,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
   > Self-hosted game stream host for Moonlight.
 
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
   >  ggml speech-to-text inference for 16+ model families
@@ -73,13 +87,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [stupside/castor](https://github.com/stupside/castor)
   > Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in rea...
 
+### [wincent](https://github.com/wincent)
+- 🌟 👤 [wincent](https://github.com/wincent) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
+  > Lore is a next-generation, open source version control system
+
 
 <!-- nav -->
 [← 2026-07-18](archive/2026/07/18.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 10:29:01 UTC*
+*Last updated at 2026-07-19 11:22:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
