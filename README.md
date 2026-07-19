@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
   > Learn it. Build it. Ship it for others.
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat)
   > Satellite tracker and pass predictor for Android, inspired by Gpredict
@@ -112,6 +116,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [hanwen/go-fuse](https://github.com/hanwen/go-fuse)
   > FUSE bindings for Go
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [gakonst/nanocodex](https://github.com/gakonst/nanocodex)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [matthewdgreen/decipher](https://github.com/matthewdgreen/decipher)
+  > An AI-enabled application for cracking ciphers
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
@@ -143,7 +149,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 21:15:11 UTC*
+*Last updated at 2026-07-19 22:15:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
