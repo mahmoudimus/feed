@@ -8,6 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MatheuZSecurity/Furtex](https://github.com/MatheuZSecurity/Furtex) to [fengjixuchui/Furtex](https://github.com/fengjixuchui/Furtex)
+  > Post-exploitation and evasion research toolkit for Linux.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [V4bel/Januscape](https://github.com/V4bel/Januscape) to [fengjixuchui/Januscape](https://github.com/fengjixuchui/Januscape)
+
+### [hsiafan](https://github.com/hsiafan)
+- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac)
+  > Surge-style macOS whole-home gateway and control plane with mihomo TUN, DHCP/DNS, and an agent-frien...
+- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [Repcz/Tool](https://github.com/Repcz/Tool)
+  > Powered by DeepSeek V4
+
 ### [jlfwong](https://github.com/jlfwong)
 - 🌟 👤 [jlfwong](https://github.com/jlfwong) Starred [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)
   > Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for yo...
@@ -46,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-19 07:46:08 UTC*
+*Last updated at 2026-07-19 08:43:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
