@@ -14,6 +14,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Nitr0-G](https://github.com/Nitr0-G) Forked [zyantific/zydis-db](https://github.com/zyantific/zydis-db) to [Nitr0-G/zydis-db](https://github.com/Nitr0-G/zydis-db)
   > Zydis instruction DB and editor/generator project
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [aiwnios/Aiwnios](https://github.com/aiwnios/Aiwnios)
+  > A HolyC Compiler/Runtime for aarch64/riscv64/amd64 windows/linux/macos/*bsd
+
+### [athkdev](https://github.com/athkdev)
+- 🌟 👤 [athkdev](https://github.com/athkdev) Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
+  > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [upstash/context7](https://github.com/upstash/context7)
   > Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
@@ -34,6 +42,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [RandomStuffFromAI/IDA-VTable-Utility](https://github.com/RandomStuffFromAI/IDA-VTable-Utility) to [fengjixuchui/IDA-VTable-Utility](https://github.com/fengjixuchui/IDA-VTable-Utility)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [nikgeneburn/MemPDB](https://github.com/nikgeneburn/MemPDB) to [fengjixuchui/MemPDB](https://github.com/fengjixuchui/MemPDB)
   > Fast in-memory Microsoft PDB parser for C++20. Tiered parsing (functions, globals, structs), optiona...
+
+### [ftomassetti](https://github.com/ftomassetti)
+- 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [a-sit-plus/jsonpath4k](https://github.com/a-sit-plus/jsonpath4k)
+  > Kotlin Multiplatform RFC9535 JSONPath Library
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
@@ -71,10 +83,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [XiaomiRobotics/Xiaomi-Robotics-1](https://github.com/XiaomiRobotics/Xiaomi-Robotics-1)
   > Code for Xiaomi-Robotics-1
 
-### [mahmoud](https://github.com/mahmoud)
-- 🍴 👤 [mahmoud](https://github.com/mahmoud) Forked [vinci1it2000/formulas](https://github.com/vinci1it2000/formulas) to [mahmoud/formulas](https://github.com/mahmoud/formulas)
-  > Excel formulas interpreter in Python.
-
 ### [mhils](https://github.com/mhils)
 - 🌟 👤 [mhils](https://github.com/mhils) Starred [CleverCloud/nlrs](https://github.com/CleverCloud/nlrs)
   > A minimal rust crate for simple and efficient Netlink requests
@@ -110,6 +118,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [stephenlb](https://github.com/stephenlb)
 - 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [retr0-1337/jarvis](https://github.com/retr0-1337/jarvis)
   > Local AI voice assistant powered by Whisper, Ollama, and edge-tts. Fully offline, no API keys.
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [icsboyx/bottarga](https://github.com/icsboyx/bottarga)
+  > Bottarga is a simle Text to Speech bot for Twitch chat.  It can read chat messages and convert them ...
 
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [skizzophrenic/Cardputer-CSI-Human-Detector](https://github.com/skizzophrenic/Cardputer-CSI-Human-Detector)
@@ -124,7 +134,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 15:34:19 UTC*
+*Last updated at 2026-07-20 16:28:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
