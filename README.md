@@ -14,6 +14,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Nitr0-G](https://github.com/Nitr0-G) Forked [zyantific/zydis-db](https://github.com/zyantific/zydis-db) to [Nitr0-G/zydis-db](https://github.com/Nitr0-G/zydis-db)
   > Zydis instruction DB and editor/generator project
 
+### [davidfrickert](https://github.com/davidfrickert)
+- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [upstash/context7](https://github.com/upstash/context7)
+  > Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana)
+  > MCP server for Grafana
+- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server)
+  > Model Context Protocol (MCP) server for Kubernetes and OpenShift
+
 ### [edwinsoen](https://github.com/edwinsoen)
 - 🌟 👤 [edwinsoen](https://github.com/edwinsoen) Starred [lucidio-ai/lucidio](https://github.com/lucidio-ai/lucidio)
   > AI media generation harness
@@ -21,6 +29,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)
   > Self-hosted audiobook and podcast server
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [L4STeam/udp_prague](https://github.com/L4STeam/udp_prague)
+  > The Prague congestion control protocol for UDP-based applications targeting very interactive user ex...
 
 ### [joekoolade](https://github.com/joekoolade)
 - 🌟 👤 [joekoolade](https://github.com/joekoolade) Starred [joekoolade/joe-ng](https://github.com/joekoolade/joe-ng)
@@ -39,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mahmoud](https://github.com/mahmoud)
 - 🍴 👤 [mahmoud](https://github.com/mahmoud) Forked [vinci1it2000/formulas](https://github.com/vinci1it2000/formulas) to [mahmoud/formulas](https://github.com/mahmoud/formulas)
   > Excel formulas interpreter in Python.
+
+### [mhils](https://github.com/mhils)
+- 🌟 👤 [mhils](https://github.com/mhils) Starred [CleverCloud/nlrs](https://github.com/CleverCloud/nlrs)
+  > A minimal rust crate for simple and efficient Netlink requests
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tuist/hive](https://github.com/tuist/hive)
@@ -69,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 07:59:13 UTC*
+*Last updated at 2026-07-20 09:13:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
