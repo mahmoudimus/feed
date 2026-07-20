@@ -67,7 +67,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+  > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
 ### [joekoolade](https://github.com/joekoolade)
 - 🌟 👤 [joekoolade](https://github.com/joekoolade) Starred [joekoolade/joe-ng](https://github.com/joekoolade/joe-ng)
@@ -81,7 +81,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+  > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [KinetiNode/claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean)
@@ -119,6 +119,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
   > Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 
+### [richardstartin](https://github.com/richardstartin)
+- 🌟 👤 [richardstartin](https://github.com/richardstartin) Starred [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)
+  > ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SD...
+
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [WSJTX/wsjtx](https://github.com/WSJTX/wsjtx)
   > Weak-signal communication for Amateur Radio using digital protocols.
@@ -128,6 +132,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [hoainho/img2threejs](https://github.com/hoainho/img2threejs)
   > Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready T...
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [verifereum/vyper-hol](https://github.com/verifereum/vyper-hol)
+  > Formal specification and verification of Vyper
 
 ### [stephenlb](https://github.com/stephenlb)
 - 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [retr0-1337/jarvis](https://github.com/retr0-1337/jarvis)
@@ -142,9 +148,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [ruvnet/RuVector](https://github.com/ruvnet/RuVector)
   > RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.
 
-### [xhochy](https://github.com/xhochy)
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/pickledb-feedstock](https://github.com/conda-forge/pickledb-feedstock) to [xhochy/pickledb-feedstock](https://github.com/xhochy/pickledb-feedstock)
-  > A conda-smithy repository for pickledb.
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [mahmoudimus/idavator](https://github.com/mahmoudimus/idavator)
+  > an "elevator" to round-trip lift IDA microcode up to LLVM and back down again to IDA microcode. ida2...
 
 ### [zserge](https://github.com/zserge)
 - 🌟 👤 [zserge](https://github.com/zserge) Starred [zupcode-com/awesome-free-services-for-your-next-startup-or-saas](https://github.com/zupcode-com/awesome-free-services-for-your-next-startup-or-saas)
@@ -156,7 +162,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 18:35:06 UTC*
+*Last updated at 2026-07-20 19:30:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
