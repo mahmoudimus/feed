@@ -64,6 +64,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [KinetiNode/claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean)
   > he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engi...
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [tomjaguarpaw/ghcid-check](https://github.com/tomjaguarpaw/ghcid-check)
+  > ghcid-check
 
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [XiaomiRobotics/Xiaomi-Robotics-1](https://github.com/XiaomiRobotics/Xiaomi-Robotics-1)
@@ -86,6 +88,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A showcase repo containing demo of a potential Windows Sandbox abuse
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)
   > Talk to one agent. Ship with a crew.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
+  > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tuist/hive](https://github.com/tuist/hive)
@@ -103,6 +107,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [hoainho/img2threejs](https://github.com/hoainho/img2threejs)
   > Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready T...
 
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [retr0-1337/jarvis](https://github.com/retr0-1337/jarvis)
+  > Local AI voice assistant powered by Whisper, Ollama, and edge-tts. Fully offline, no API keys.
+
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [skizzophrenic/Cardputer-CSI-Human-Detector](https://github.com/skizzophrenic/Cardputer-CSI-Human-Detector)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
@@ -116,7 +124,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 14:42:08 UTC*
+*Last updated at 2026-07-20 15:34:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
