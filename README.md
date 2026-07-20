@@ -65,6 +65,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mhils](https://github.com/mhils) Starred [CleverCloud/nlrs](https://github.com/CleverCloud/nlrs)
   > A minimal rust crate for simple and efficient Netlink requests
 
+### [mingrammer](https://github.com/mingrammer)
+- 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
+  > Skills for Design Engineers.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrooted/sandbox-shenanigans](https://github.com/unrooted/sandbox-shenanigans)
   > A showcase repo containing demo of a potential Windows Sandbox abuse
@@ -100,7 +104,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 12:45:36 UTC*
+*Last updated at 2026-07-20 13:31:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
