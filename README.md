@@ -55,6 +55,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)
   > Self-hosted audiobook and podcast server
 
+### [jcs090218](https://github.com/jcs090218)
+- 🌟 👤 [jcs090218](https://github.com/jcs090218) Starred [jcs090218/JCSUnity](https://github.com/jcs090218/JCSUnity)
+  > Rapidly build your game with multiple or various components and preset default settings
+- 🌟 👤 [jcs090218](https://github.com/jcs090218) Starred [emacs-eask/cli](https://github.com/emacs-eask/cli)
+  > CLI for building, running, testing, and managing your Emacs Lisp dependencies
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [L4STeam/udp_prague](https://github.com/L4STeam/udp_prague)
   > The Prague congestion control protocol for UDP-based applications targeting very interactive user ex...
@@ -136,6 +142,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [ruvnet/RuVector](https://github.com/ruvnet/RuVector)
   > RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.
 
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/pickledb-feedstock](https://github.com/conda-forge/pickledb-feedstock) to [xhochy/pickledb-feedstock](https://github.com/xhochy/pickledb-feedstock)
+  > A conda-smithy repository for pickledb.
+
 ### [zserge](https://github.com/zserge)
 - 🌟 👤 [zserge](https://github.com/zserge) Starred [zupcode-com/awesome-free-services-for-your-next-startup-or-saas](https://github.com/zupcode-com/awesome-free-services-for-your-next-startup-or-saas)
   > Build your next startup for FREE with services ranging from website design, app development, idea va...
@@ -146,7 +156,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 17:34:16 UTC*
+*Last updated at 2026-07-20 18:35:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
