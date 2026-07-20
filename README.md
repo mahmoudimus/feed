@@ -26,6 +26,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [edwinsoen](https://github.com/edwinsoen) Starred [lucidio-ai/lucidio](https://github.com/lucidio-ai/lucidio)
   > AI media generation harness
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) to [fengjixuchui/ai-agent-book](https://github.com/fengjixuchui/ai-agent-book)
+  > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing) to [fengjixuchui/DetectTpmSpoofing](https://github.com/fengjixuchui/DetectTpmSpoofing)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [weak1337/IntelOpRegionFingerprint](https://github.com/weak1337/IntelOpRegionFingerprint) to [fengjixuchui/IntelOpRegionFingerprint](https://github.com/fengjixuchui/IntelOpRegionFingerprint)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [RandomStuffFromAI/IDA-VTable-Utility](https://github.com/RandomStuffFromAI/IDA-VTable-Utility) to [fengjixuchui/IDA-VTable-Utility](https://github.com/fengjixuchui/IDA-VTable-Utility)
+
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)
   > Self-hosted audiobook and podcast server
@@ -56,6 +63,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mhils](https://github.com/mhils) Starred [CleverCloud/nlrs](https://github.com/CleverCloud/nlrs)
   > A minimal rust crate for simple and efficient Netlink requests
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrooted/sandbox-shenanigans](https://github.com/unrooted/sandbox-shenanigans)
+  > A showcase repo containing demo of a potential Windows Sandbox abuse
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tuist/hive](https://github.com/tuist/hive)
   > Agentic product development
@@ -85,7 +96,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 09:13:16 UTC*
+*Last updated at 2026-07-20 10:58:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
