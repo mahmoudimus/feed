@@ -30,9 +30,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server)
   > Model Context Protocol (MCP) server for Kubernetes and OpenShift
 
+### [dthree](https://github.com/dthree)
+- 🌟 👤 [dthree](https://github.com/dthree) Starred [mindcloud-inc/universal-api-reference](https://github.com/mindcloud-inc/universal-api-reference)
+  > One consistent API reference for 3,000+ APIs for developers and AI agents.
+
 ### [edwinsoen](https://github.com/edwinsoen)
 - 🌟 👤 [edwinsoen](https://github.com/edwinsoen) Starred [lucidio-ai/lucidio](https://github.com/lucidio-ai/lucidio)
   > AI media generation harness
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [oblien/openship](https://github.com/oblien/openship)
+  > Self-hosted deployment platform
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) to [fengjixuchui/ai-agent-book](https://github.com/fengjixuchui/ai-agent-book)
@@ -92,6 +100,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [XiaomiRobotics/Xiaomi-Robotics-1](https://github.com/XiaomiRobotics/Xiaomi-Robotics-1)
   > Code for Xiaomi-Robotics-1
+
+### [mikehearn](https://github.com/mikehearn)
+- 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [dawndrain/movie-gen](https://github.com/dawndrain/movie-gen)
 
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
@@ -162,7 +173,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 19:30:28 UTC*
+*Last updated at 2026-07-20 20:27:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
