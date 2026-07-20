@@ -123,6 +123,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Run once. Reuse everywhere.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [soteria-tools/soteria](https://github.com/soteria-tools/soteria)
   > Scaling Reasoning for the Age of AI
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
+  > 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [exoharness/exo](https://github.com/exoharness/exo)
+  > Exo is an agent + harness architecture that is fully recursive, able to safely edit all aspects of i...
+
+### [parasyte](https://github.com/parasyte)
+- 🌟 👤 [parasyte](https://github.com/parasyte) Starred [pendulum-project/statime](https://github.com/pendulum-project/statime)
+  > Implementation of the Precision Time Protocol (PTP) in Rust
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [earendil-works/pi-review](https://github.com/earendil-works/pi-review)
@@ -173,7 +181,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 20:27:19 UTC*
+*Last updated at 2026-07-20 21:23:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
