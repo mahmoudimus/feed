@@ -55,6 +55,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [a-sit-plus/jsonpath4k](https://github.com/a-sit-plus/jsonpath4k)
   > Kotlin Multiplatform RFC9535 JSONPath Library
 
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [segeljakt/toml-fmt](https://github.com/segeljakt/toml-fmt) to [gabrielfalcao/toml-fmt](https://github.com/gabrielfalcao/toml-fmt)
+  > Format .toml files
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
   > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
@@ -170,6 +174,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [mahmoudimus/idavator](https://github.com/mahmoudimus/idavator)
   > an "elevator" to round-trip lift IDA microcode up to LLVM and back down again to IDA microcode. ida2...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
 ### [zserge](https://github.com/zserge)
 - 🌟 👤 [zserge](https://github.com/zserge) Starred [zupcode-com/awesome-free-services-for-your-next-startup-or-saas](https://github.com/zupcode-com/awesome-free-services-for-your-next-startup-or-saas)
@@ -181,7 +187,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 21:23:08 UTC*
+*Last updated at 2026-07-20 22:17:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
