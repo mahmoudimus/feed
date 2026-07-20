@@ -35,6 +35,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [nikgeneburn/MemPDB](https://github.com/nikgeneburn/MemPDB) to [fengjixuchui/MemPDB](https://github.com/fengjixuchui/MemPDB)
   > Fast in-memory Microsoft PDB parser for C++20. Tiered parsing (functions, globals, structs), optiona...
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
+  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)
   > Self-hosted audiobook and podcast server
@@ -42,6 +46,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [L4STeam/udp_prague](https://github.com/L4STeam/udp_prague)
   > The Prague congestion control protocol for UDP-based applications targeting very interactive user ex...
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 
 ### [joekoolade](https://github.com/joekoolade)
 - 🌟 👤 [joekoolade](https://github.com/joekoolade) Starred [joekoolade/joe-ng](https://github.com/joekoolade/joe-ng)
@@ -56,6 +64,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [KinetiNode/claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean)
   > he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engi...
+
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [XiaomiRobotics/Xiaomi-Robotics-1](https://github.com/XiaomiRobotics/Xiaomi-Robotics-1)
+  > Code for Xiaomi-Robotics-1
 
 ### [mahmoud](https://github.com/mahmoud)
 - 🍴 👤 [mahmoud](https://github.com/mahmoud) Forked [vinci1it2000/formulas](https://github.com/vinci1it2000/formulas) to [mahmoud/formulas](https://github.com/mahmoud/formulas)
@@ -104,7 +116,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 13:31:44 UTC*
+*Last updated at 2026-07-20 14:42:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
