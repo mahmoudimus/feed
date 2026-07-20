@@ -32,6 +32,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing) to [fengjixuchui/DetectTpmSpoofing](https://github.com/fengjixuchui/DetectTpmSpoofing)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [weak1337/IntelOpRegionFingerprint](https://github.com/weak1337/IntelOpRegionFingerprint) to [fengjixuchui/IntelOpRegionFingerprint](https://github.com/fengjixuchui/IntelOpRegionFingerprint)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [RandomStuffFromAI/IDA-VTable-Utility](https://github.com/RandomStuffFromAI/IDA-VTable-Utility) to [fengjixuchui/IDA-VTable-Utility](https://github.com/fengjixuchui/IDA-VTable-Utility)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [nikgeneburn/MemPDB](https://github.com/nikgeneburn/MemPDB) to [fengjixuchui/MemPDB](https://github.com/fengjixuchui/MemPDB)
+  > Fast in-memory Microsoft PDB parser for C++20. Tiered parsing (functions, globals, structs), optiona...
 
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)
@@ -66,6 +68,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrooted/sandbox-shenanigans](https://github.com/unrooted/sandbox-shenanigans)
   > A showcase repo containing demo of a potential Windows Sandbox abuse
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)
+  > Talk to one agent. Ship with a crew.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tuist/hive](https://github.com/tuist/hive)
@@ -96,7 +100,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 10:58:18 UTC*
+*Last updated at 2026-07-20 11:57:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
