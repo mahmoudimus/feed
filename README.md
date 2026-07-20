@@ -20,6 +20,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [joekoolade](https://github.com/joekoolade) Starred [joekoolade/joe-ng](https://github.com/joekoolade/joe-ng)
   > A metacircular Java VM: an all-Java boot-image writer and baseline compiler that turn Java classes i...
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [tsandrini/tensorfiles](https://github.com/tsandrini/tensorfiles)
+  > tsandrini's fully covariant tensorfiles [maintainer=@tsandrini]
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [tsandrini/tensorfiles](https://github.com/tsandrini/tensorfiles) to [johndpope/tensorfiles](https://github.com/johndpope/tensorfiles)
+  > tsandrini's fully covariant tensorfiles [maintainer=@tsandrini]
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [earendil-works/pi-review](https://github.com/earendil-works/pi-review)
   > A review extension for Pi
@@ -41,7 +47,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 04:22:03 UTC*
+*Last updated at 2026-07-20 06:01:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
