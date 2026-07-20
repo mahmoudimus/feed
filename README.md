@@ -73,6 +73,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [tsandrini/tensorfiles](https://github.com/tsandrini/tensorfiles) to [johndpope/tensorfiles](https://github.com/johndpope/tensorfiles)
   > tsandrini's fully covariant tensorfiles [maintainer=@tsandrini]
 
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [KinetiNode/claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean)
   > he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engi...
@@ -82,10 +86,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [XiaomiRobotics/Xiaomi-Robotics-1](https://github.com/XiaomiRobotics/Xiaomi-Robotics-1)
   > Code for Xiaomi-Robotics-1
-
-### [mhils](https://github.com/mhils)
-- 🌟 👤 [mhils](https://github.com/mhils) Starred [CleverCloud/nlrs](https://github.com/CleverCloud/nlrs)
-  > A minimal rust crate for simple and efficient Netlink requests
 
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
@@ -104,12 +104,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Agentic product development
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tuist/once](https://github.com/tuist/once)
   > Run once. Reuse everywhere.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [soteria-tools/soteria](https://github.com/soteria-tools/soteria)
+  > Scaling Reasoning for the Age of AI
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [earendil-works/pi-review](https://github.com/earendil-works/pi-review)
   > A review extension for Pi
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
   > Pi extension for async subagent delegation with truncation, artifacts, and session sharing
+
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [WSJTX/wsjtx](https://github.com/WSJTX/wsjtx)
+  > Weak-signal communication for Amateur Radio using digital protocols.
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [jl1nie/mfsk-core](https://github.com/jl1nie/mfsk-core)
+  > Pure-Rust library for WSJT-family digital amateur-radio modes (FT8/FT4/FST4/WSPR/JT9/JT65). Protocol...
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [hoainho/img2threejs](https://github.com/hoainho/img2threejs)
@@ -128,13 +136,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [ruvnet/RuVector](https://github.com/ruvnet/RuVector)
   > RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.
 
+### [zserge](https://github.com/zserge)
+- 🌟 👤 [zserge](https://github.com/zserge) Starred [zupcode-com/awesome-free-services-for-your-next-startup-or-saas](https://github.com/zupcode-com/awesome-free-services-for-your-next-startup-or-saas)
+  > Build your next startup for FREE with services ranging from website design, app development, idea va...
+
 
 <!-- nav -->
 [← 2026-07-19](archive/2026/07/19.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 16:28:11 UTC*
+*Last updated at 2026-07-20 17:34:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
