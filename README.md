@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Nitr0-G](https://github.com/Nitr0-G)
+- 🍴 👤 [Nitr0-G](https://github.com/Nitr0-G) Forked [zyantific/zydis](https://github.com/zyantific/zydis) to [Nitr0-G/zydis](https://github.com/Nitr0-G/zydis)
+  > Fast and lightweight x86/x86-64 disassembler and code generation library
+- 🍴 👤 [Nitr0-G](https://github.com/Nitr0-G) Forked [zyantific/zydis-db](https://github.com/zyantific/zydis-db) to [Nitr0-G/zydis-db](https://github.com/Nitr0-G/zydis-db)
+  > Zydis instruction DB and editor/generator project
+
 ### [edwinsoen](https://github.com/edwinsoen)
 - 🌟 👤 [edwinsoen](https://github.com/edwinsoen) Starred [lucidio-ai/lucidio](https://github.com/lucidio-ai/lucidio)
   > AI media generation harness
@@ -26,9 +32,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [tsandrini/tensorfiles](https://github.com/tsandrini/tensorfiles) to [johndpope/tensorfiles](https://github.com/johndpope/tensorfiles)
   > tsandrini's fully covariant tensorfiles [maintainer=@tsandrini]
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [KinetiNode/claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean)
+  > he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engi...
+
+### [mahmoud](https://github.com/mahmoud)
+- 🍴 👤 [mahmoud](https://github.com/mahmoud) Forked [vinci1it2000/formulas](https://github.com/vinci1it2000/formulas) to [mahmoud/formulas](https://github.com/mahmoud/formulas)
+  > Excel formulas interpreter in Python.
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tuist/hive](https://github.com/tuist/hive)
+  > Agentic product development
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tuist/once](https://github.com/tuist/once)
+  > Run once. Reuse everywhere.
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [earendil-works/pi-review](https://github.com/earendil-works/pi-review)
   > A review extension for Pi
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
+  > Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [hoainho/img2threejs](https://github.com/hoainho/img2threejs)
@@ -47,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 06:01:28 UTC*
+*Last updated at 2026-07-20 07:59:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
