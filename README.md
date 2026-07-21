@@ -111,6 +111,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [janestreet/incremental](https://github.com/janestreet/incremental)
   > A library for incremental computations
 
+### [mathiasbynens](https://github.com/mathiasbynens)
+- 🌟 👤 [mathiasbynens](https://github.com/mathiasbynens) Starred [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
+  > 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
   > High-performance single-GPU inference for selected model checkpoints and GPUs.
@@ -177,7 +181,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 20:24:21 UTC*
+*Last updated at 2026-07-21 21:23:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
