@@ -20,6 +20,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [SignTools/admanager-tool](https://github.com/SignTools/admanager-tool)
   > TIGI Software Apps Manager backup management tool
 
+### [buger](https://github.com/buger)
+- 🌟 👤 [buger](https://github.com/buger) Starred [xerj-org/xerj](https://github.com/xerj-org/xerj)
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
@@ -42,9 +45,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [shefben/ida_scripts](https://github.com/shefben/ida_scripts)
   > custom IDA 9.2, 9.3+ scripts, ida resource viewer, resource/rsrc parsers, mfc fixups and more!
 
+### [jentfoo](https://github.com/jentfoo)
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [dimetron/pi-go](https://github.com/dimetron/pi-go)
+  > Go implementation of AI coding agent
+
 ### [jlfwong](https://github.com/jlfwong)
 - 🍴 👤 [jlfwong](https://github.com/jlfwong) Forked [ndraiman/pi-cursor-provider](https://github.com/ndraiman/pi-cursor-provider) to [jlfwong/pi-cursor-provider](https://github.com/jlfwong/pi-cursor-provider)
   > Pi extension for Cursor models via OAuth and local gRPC proxy
+
+### [joepie91](https://github.com/joepie91)
+- 🍴 👤 [joepie91](https://github.com/joepie91) Forked [MarginaliaSearch/submit-site-to-marginalia-search](https://github.com/MarginaliaSearch/submit-site-to-marginalia-search) to [joepie91/submit-site-to-marginalia-search](https://github.com/joepie91/submit-site-to-marginalia-search)
+  > Submit websites to be crawled by Marginalia Search here
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mingukkang/FlashDecoder](https://github.com/mingukkang/FlashDecoder)
@@ -71,6 +82,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [Blaizzy/nativ](https://github.com/Blaizzy/nativ)
   > Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [unbalancedparentheses/concrete2](https://github.com/unbalancedparentheses/concrete2)
+  > Systems programming language designed for safe and predictable code, with semantics defined by a sma...
 
 ### [notfoundry](https://github.com/notfoundry)
 - 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [janestreet/incremental](https://github.com/janestreet/incremental)
@@ -118,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 13:30:15 UTC*
+*Last updated at 2026-07-21 14:38:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
