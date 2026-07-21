@@ -31,6 +31,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ankane](https://github.com/ankane)
 - 🍴 👤 [ankane](https://github.com/ankane) Forked [apache/opendal](https://github.com/apache/opendal) to [ankane/opendal](https://github.com/ankane/opendal)
   > Apache OpenDAL: One Layer, All Storage.
+- 🍴 👤 [ankane](https://github.com/ankane) Forked [fast/mea](https://github.com/fast/mea) to [ankane/mea](https://github.com/ankane/mea)
+  > MEA provides async primitives and combinators that are runtime agnostic.
 
 ### [buger](https://github.com/buger)
 - 🌟 👤 [buger](https://github.com/buger) Starred [xerj-org/xerj](https://github.com/xerj-org/xerj)
@@ -70,6 +72,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > custom IDA 9.2, 9.3+ scripts, ida resource viewer, resource/rsrc parsers, mfc fixups and more!
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [ant4g0nist/decompiler](https://github.com/ant4g0nist/decompiler)
   > Ghidra decompiler plugin for LLDB
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [shadowartist201/CSO_Processor](https://github.com/shadowartist201/CSO_Processor)
 
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [dimetron/pi-go](https://github.com/dimetron/pi-go)
@@ -101,6 +104,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions)
   > Agentic AI workflow for Supply Chain Analysis using GitHub Actions
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit)
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko)
+  > Agentic review of Linux Kernel code changes
 
 ### [kevaundray](https://github.com/kevaundray)
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [erigontech/erigon](https://github.com/erigontech/erigon) to [kevaundray/erigon](https://github.com/kevaundray/erigon)
@@ -176,7 +181,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 18:24:52 UTC*
+*Last updated at 2026-07-21 19:28:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
