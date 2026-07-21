@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [DamienCassou](https://github.com/DamienCassou) Forked [dapr/quickstarts](https://github.com/dapr/quickstarts) to [DamienCassou/quickstarts](https://github.com/DamienCassou/quickstarts)
   > Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
 
+### [Gcenx](https://github.com/Gcenx)
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [drizzt/openfpga-SNES](https://github.com/drizzt/openfpga-SNES)
+  > SNES for the Analogue Pocket
+
 ### [JakeWharton](https://github.com/JakeWharton)
 - 🌟 👤 [JakeWharton](https://github.com/JakeWharton) Starred [romainguy/vibrance](https://github.com/romainguy/vibrance)
   > Natural color mixing for Kotlin and Compose Multiplatform.
@@ -84,6 +88,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [justaugustus](https://github.com/justaugustus)
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions)
   > Agentic AI workflow for Supply Chain Analysis using GitHub Actions
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit)
 
 ### [kevaundray](https://github.com/kevaundray)
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [erigontech/erigon](https://github.com/erigontech/erigon) to [kevaundray/erigon](https://github.com/kevaundray/erigon)
@@ -153,7 +158,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 16:27:53 UTC*
+*Last updated at 2026-07-21 17:27:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
