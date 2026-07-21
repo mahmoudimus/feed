@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [SignTools/admanager-tool](https://github.com/SignTools/admanager-tool)
   > TIGI Software Apps Manager backup management tool
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+  > Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
+
 ### [buger](https://github.com/buger)
 - 🌟 👤 [buger](https://github.com/buger) Starred [xerj-org/xerj](https://github.com/xerj-org/xerj)
 - 🍴 👤 [buger](https://github.com/buger) Forked [ssvlabs/ssv-network](https://github.com/ssvlabs/ssv-network) to [probelabs/ssv-network](https://github.com/probelabs/ssv-network)
@@ -40,6 +44,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [0xjrx/magnetar](https://github.com/0xjrx/magnetar)
   > A EDR bypassing shellcode loader framework for Windows 10 64bit, featuring ETW/AMSI patching, Tartar...
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [blader/humanizer](https://github.com/blader/humanizer)
+  > Claude Code skill that removes signs of AI-generated writing from text
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [MarkSchofield/WindowsToolchain](https://github.com/MarkSchofield/WindowsToolchain)
@@ -72,6 +80,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [xai-org/grok-build](https://github.com/xai-org/grok-build) to [johndpope/grok-build](https://github.com/johndpope/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
+### [justaugustus](https://github.com/justaugustus)
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions)
+  > Agentic AI workflow for Supply Chain Analysis using GitHub Actions
+
+### [kevaundray](https://github.com/kevaundray)
+- 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [erigontech/erigon](https://github.com/erigontech/erigon) to [kevaundray/erigon](https://github.com/kevaundray/erigon)
+  > Ethereum implementation on the efficiency frontier 
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [janestreet/incremental](https://github.com/janestreet/incremental)
@@ -137,7 +153,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 15:31:07 UTC*
+*Last updated at 2026-07-21 16:27:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
