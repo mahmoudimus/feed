@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [0xjrx/magnetar](https://github.com/0xjrx/magnetar)
   > A EDR bypassing shellcode loader framework for Windows 10 64bit, featuring ETW/AMSI patching, Tartar...
 
+### [jlfwong](https://github.com/jlfwong)
+- 🍴 👤 [jlfwong](https://github.com/jlfwong) Forked [ndraiman/pi-cursor-provider](https://github.com/ndraiman/pi-cursor-provider) to [jlfwong/pi-cursor-provider](https://github.com/jlfwong/pi-cursor-provider)
+  > Pi extension for Cursor models via OAuth and local gRPC proxy
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mingukkang/FlashDecoder](https://github.com/mingukkang/FlashDecoder)
   > Official FlashDecoder Github
@@ -38,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 04:07:53 UTC*
+*Last updated at 2026-07-21 05:57:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
