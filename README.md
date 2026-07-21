@@ -22,6 +22,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [buger](https://github.com/buger)
 - 🌟 👤 [buger](https://github.com/buger) Starred [xerj-org/xerj](https://github.com/xerj-org/xerj)
+- 🍴 👤 [buger](https://github.com/buger) Forked [ssvlabs/ssv-network](https://github.com/ssvlabs/ssv-network) to [probelabs/ssv-network](https://github.com/probelabs/ssv-network)
+  > SSV Network's smart contracts
 
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
@@ -94,6 +96,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ocornut](https://github.com/ocornut)
 - 🍴 👤 [ocornut](https://github.com/ocornut) Forked [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui) to [ocornut/TBImGui](https://github.com/ocornut/TBImGui)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [AmelieHeinrich/agfx](https://github.com/AmelieHeinrich/agfx)
+  > Small RHI for indie game development
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [pizlonator/fil-c](https://github.com/pizlonator/fil-c)
@@ -133,7 +137,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 14:38:34 UTC*
+*Last updated at 2026-07-21 15:31:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
