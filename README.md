@@ -28,12 +28,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
   > Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 
-### [ankane](https://github.com/ankane)
-- 🍴 👤 [ankane](https://github.com/ankane) Forked [apache/opendal](https://github.com/apache/opendal) to [ankane/opendal](https://github.com/ankane/opendal)
-  > Apache OpenDAL: One Layer, All Storage.
-- 🍴 👤 [ankane](https://github.com/ankane) Forked [fast/mea](https://github.com/fast/mea) to [ankane/mea](https://github.com/ankane/mea)
-  > MEA provides async primitives and combinators that are runtime agnostic.
-
 ### [buger](https://github.com/buger)
 - 🌟 👤 [buger](https://github.com/buger) Starred [xerj-org/xerj](https://github.com/xerj-org/xerj)
 - 🍴 👤 [buger](https://github.com/buger) Forked [ssvlabs/ssv-network](https://github.com/ssvlabs/ssv-network) to [probelabs/ssv-network](https://github.com/probelabs/ssv-network)
@@ -46,6 +40,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [realfishsam/agent-notch](https://github.com/realfishsam/agent-notch)
   > The open-source alternative to vibe-island
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)
+  > Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSee...
 
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [ahaoboy/es5](https://github.com/ahaoboy/es5)
@@ -181,7 +177,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 19:28:35 UTC*
+*Last updated at 2026-07-21 20:24:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
