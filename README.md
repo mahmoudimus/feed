@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [DamienCassou](https://github.com/DamienCassou) Forked [dapr/quickstarts](https://github.com/dapr/quickstarts) to [DamienCassou/quickstarts](https://github.com/DamienCassou/quickstarts)
   > Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [SignTools/admanager-tool](https://github.com/SignTools/admanager-tool)
+  > TIGI Software Apps Manager backup management tool
+
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [realfishsam/agent-notch](https://github.com/realfishsam/agent-notch)
 
@@ -39,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [janestreet/incremental](https://github.com/janestreet/incremental)
   > A library for incremental computations
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
+  > High-performance single-GPU inference for selected model checkpoints and GPUs.
+
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [Blaizzy/nativ](https://github.com/Blaizzy/nativ)
   > Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
@@ -57,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 08:50:18 UTC*
+*Last updated at 2026-07-21 09:47:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
