@@ -39,6 +39,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [MarkSchofield/WindowsToolchain](https://github.com/MarkSchofield/WindowsToolchain)
   > A repository containing a CMake toolchain for using MSVC
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [shefben/ida_scripts](https://github.com/shefben/ida_scripts)
+  > custom IDA 9.2, 9.3+ scripts, ida resource viewer, resource/rsrc parsers, mfc fixups and more!
 
 ### [jlfwong](https://github.com/jlfwong)
 - 🍴 👤 [jlfwong](https://github.com/jlfwong) Forked [ndraiman/pi-cursor-provider](https://github.com/ndraiman/pi-cursor-provider) to [jlfwong/pi-cursor-provider](https://github.com/jlfwong/pi-cursor-provider)
@@ -53,6 +55,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [ECCV 2026] MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [wassermanproductions/scriptbreak](https://github.com/wassermanproductions/scriptbreak)
   > Screenplay breakdown & AI prompt-pack studio — import a script, get scenes, elements, bibles, shot l...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [xai-org/grok-build](https://github.com/xai-org/grok-build) to [johndpope/grok-build](https://github.com/johndpope/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [janestreet/incremental](https://github.com/janestreet/incremental)
@@ -74,6 +80,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [ocornut](https://github.com/ocornut) Forked [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui) to [ocornut/TBImGui](https://github.com/ocornut/TBImGui)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui)
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [pizlonator/fil-c](https://github.com/pizlonator/fil-c)
+  > Fil-C: completely compatible memory safety for C and C++
+
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [omahili/react-native-reorderable-list](https://github.com/omahili/react-native-reorderable-list)
   > A reorderable list for React Native applications, powered by Reanimated 🚀
@@ -94,6 +104,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [trietptm](https://github.com/trietptm) Starred [vEnhance/mosp.evanchen.cc](https://github.com/vEnhance/mosp.evanchen.cc)
   > Static typescript/Python adaptation of the MOSP puzzle hunt (2021-2022)
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [megamarc/Tilengine](https://github.com/megamarc/Tilengine)
+  > Free 2D graphics engine with raster effects for retro/classic style game development
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
@@ -104,7 +118,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 12:28:21 UTC*
+*Last updated at 2026-07-21 13:30:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
