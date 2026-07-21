@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [athkdev](https://github.com/athkdev) Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
   > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
+### [brandur](https://github.com/brandur)
+- 🌟 👤 [brandur](https://github.com/brandur) Starred [yaroslav/audition](https://github.com/yaroslav/audition)
+  > Auditions Ruby scripts, gems, Rack apps, and Rails applications for the ability to run under Ractors...
+
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [upstash/context7](https://github.com/upstash/context7)
   > Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
@@ -54,10 +58,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ftomassetti](https://github.com/ftomassetti)
 - 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [a-sit-plus/jsonpath4k](https://github.com/a-sit-plus/jsonpath4k)
   > Kotlin Multiplatform RFC9535 JSONPath Library
-
-### [gabrielfalcao](https://github.com/gabrielfalcao)
-- 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [segeljakt/toml-fmt](https://github.com/segeljakt/toml-fmt) to [gabrielfalcao/toml-fmt](https://github.com/gabrielfalcao/toml-fmt)
-  > Format .toml files
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
@@ -177,6 +177,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [neuralink/tsui](https://github.com/neuralink/tsui)
+  > An (experimental) elegant TUI for configuring Tailscale.
+
 ### [zserge](https://github.com/zserge)
 - 🌟 👤 [zserge](https://github.com/zserge) Starred [zupcode-com/awesome-free-services-for-your-next-startup-or-saas](https://github.com/zupcode-com/awesome-free-services-for-your-next-startup-or-saas)
   > Build your next startup for FREE with services ranging from website design, app development, idea va...
@@ -187,7 +191,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-20 22:17:51 UTC*
+*Last updated at 2026-07-20 23:19:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
