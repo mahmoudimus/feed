@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [0xjrx/magnetar](https://github.com/0xjrx/magnetar)
+  > A EDR bypassing shellcode loader framework for Windows 10 64bit, featuring ETW/AMSI patching, Tartar...
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mingukkang/FlashDecoder](https://github.com/mingukkang/FlashDecoder)
   > Official FlashDecoder Github
@@ -20,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [Blaizzy/nativ](https://github.com/Blaizzy/nativ)
   > Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 
+### [sbycrosz](https://github.com/sbycrosz)
+- 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [omahili/react-native-reorderable-list](https://github.com/omahili/react-native-reorderable-list)
+  > A reorderable list for React Native applications, powered by Reanimated 🚀
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [Blaizzy/nativ](https://github.com/Blaizzy/nativ)
   > Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
@@ -30,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 02:58:51 UTC*
+*Last updated at 2026-07-21 04:07:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
