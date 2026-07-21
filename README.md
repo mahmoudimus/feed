@@ -12,6 +12,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [DamienCassou](https://github.com/DamienCassou) Forked [dapr/quickstarts](https://github.com/dapr/quickstarts) to [DamienCassou/quickstarts](https://github.com/DamienCassou/quickstarts)
   > Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [realfishsam/agent-notch](https://github.com/realfishsam/agent-notch)
+
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [ahaoboy/es5](https://github.com/ahaoboy/es5)
+  > A ES5 JavaScript engine written in Rust
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [0xjrx/magnetar](https://github.com/0xjrx/magnetar)
   > A EDR bypassing shellcode loader framework for Windows 10 64bit, featuring ETW/AMSI patching, Tartar...
@@ -50,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 06:57:08 UTC*
+*Last updated at 2026-07-21 07:49:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
