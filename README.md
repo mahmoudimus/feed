@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [DamienCassou](https://github.com/DamienCassou) Forked [dapr/quickstarts](https://github.com/dapr/quickstarts) to [DamienCassou/quickstarts](https://github.com/DamienCassou/quickstarts)
   > Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
 
+### [JakeWharton](https://github.com/JakeWharton)
+- 🌟 👤 [JakeWharton](https://github.com/JakeWharton) Starred [romainguy/vibrance](https://github.com/romainguy/vibrance)
+  > Natural color mixing for Kotlin and Compose Multiplatform.
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [SignTools/admanager-tool](https://github.com/SignTools/admanager-tool)
   > TIGI Software Apps Manager backup management tool
@@ -51,8 +55,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [Blaizzy/nativ](https://github.com/Blaizzy/nativ)
   > Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 
+### [notfoundry](https://github.com/notfoundry)
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [janestreet/incremental](https://github.com/janestreet/incremental)
+  > A library for incremental computations
+
 ### [ocornut](https://github.com/ocornut)
 - 🍴 👤 [ocornut](https://github.com/ocornut) Forked [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui) to [ocornut/TBImGui](https://github.com/ocornut/TBImGui)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui)
 
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [omahili/react-native-reorderable-list](https://github.com/omahili/react-native-reorderable-list)
@@ -68,7 +77,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 10:40:48 UTC*
+*Last updated at 2026-07-21 11:32:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
