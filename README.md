@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [DamienCassou](https://github.com/DamienCassou)
+- 🍴 👤 [DamienCassou](https://github.com/DamienCassou) Forked [dapr/quickstarts](https://github.com/dapr/quickstarts) to [DamienCassou/quickstarts](https://github.com/DamienCassou/quickstarts)
+  > Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [0xjrx/magnetar](https://github.com/0xjrx/magnetar)
   > A EDR bypassing shellcode loader framework for Windows 10 64bit, featuring ETW/AMSI patching, Tartar...
@@ -23,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [ECCV 2026] MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [KlingAIResearch/MetaView](https://github.com/KlingAIResearch/MetaView) to [johndpope/MetaView](https://github.com/johndpope/MetaView)
   > [ECCV 2026] MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [janestreet/incremental](https://github.com/janestreet/incremental)
+  > A library for incremental computations
 
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [Blaizzy/nativ](https://github.com/Blaizzy/nativ)
@@ -42,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 05:57:46 UTC*
+*Last updated at 2026-07-21 06:57:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
