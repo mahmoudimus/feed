@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
   > Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 
+### [ankane](https://github.com/ankane)
+- 🍴 👤 [ankane](https://github.com/ankane) Forked [apache/opendal](https://github.com/apache/opendal) to [ankane/opendal](https://github.com/ankane/opendal)
+  > Apache OpenDAL: One Layer, All Storage.
+
 ### [buger](https://github.com/buger)
 - 🌟 👤 [buger](https://github.com/buger) Starred [xerj-org/xerj](https://github.com/xerj-org/xerj)
 - 🍴 👤 [buger](https://github.com/buger) Forked [ssvlabs/ssv-network](https://github.com/ssvlabs/ssv-network) to [probelabs/ssv-network](https://github.com/probelabs/ssv-network)
@@ -52,12 +56,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [blader/humanizer](https://github.com/blader/humanizer)
   > Claude Code skill that removes signs of AI-generated writing from text
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+  > Warp is an agentic development environment, born out of the terminal.
+
+### [h3xstream](https://github.com/h3xstream)
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [no-faff/InstallerClean](https://github.com/no-faff/InstallerClean)
+  > Open source tool to safely clean orphaned Windows Installer files and reclaim disk space
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [MarkSchofield/WindowsToolchain](https://github.com/MarkSchofield/WindowsToolchain)
   > A repository containing a CMake toolchain for using MSVC
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [shefben/ida_scripts](https://github.com/shefben/ida_scripts)
   > custom IDA 9.2, 9.3+ scripts, ida resource viewer, resource/rsrc parsers, mfc fixups and more!
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [ant4g0nist/decompiler](https://github.com/ant4g0nist/decompiler)
+  > Ghidra decompiler plugin for LLDB
 
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [dimetron/pi-go](https://github.com/dimetron/pi-go)
@@ -109,6 +121,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [unbalancedparentheses/concrete2](https://github.com/unbalancedparentheses/concrete2)
   > Systems programming language designed for safe and predictable code, with semantics defined by a sma...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [korulang/koru](https://github.com/korulang/koru)
+  > The event continuation language
 
 ### [notfoundry](https://github.com/notfoundry)
 - 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [janestreet/incremental](https://github.com/janestreet/incremental)
@@ -119,6 +133,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [AmelieHeinrich/agfx](https://github.com/AmelieHeinrich/agfx)
   > Small RHI for indie game development
+
+### [openprivacy](https://github.com/openprivacy)
+- 🍴 👤 [openprivacy](https://github.com/openprivacy) Forked [CivicActions/guidebook](https://github.com/CivicActions/guidebook) to [openprivacy/guidebook](https://github.com/openprivacy/guidebook)
+  > The home of policies and guidelines that make up CivicActions
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [pizlonator/fil-c](https://github.com/pizlonator/fil-c)
@@ -158,7 +176,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 17:27:57 UTC*
+*Last updated at 2026-07-21 18:24:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
