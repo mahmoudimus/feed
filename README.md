@@ -132,6 +132,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [notfoundry](https://github.com/notfoundry)
 - 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [janestreet/incremental](https://github.com/janestreet/incremental)
   > A library for incremental computations
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [AlmanacCode/codealmanac](https://github.com/AlmanacCode/codealmanac)
+  > A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants...
 
 ### [ocornut](https://github.com/ocornut)
 - 🍴 👤 [ocornut](https://github.com/ocornut) Forked [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui) to [ocornut/TBImGui](https://github.com/ocornut/TBImGui)
@@ -154,6 +156,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [Blaizzy/nativ](https://github.com/Blaizzy/nativ)
   > Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
+
+### [sintaxi](https://github.com/sintaxi)
+- 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [AlmanacCode/codealmanac](https://github.com/AlmanacCode/codealmanac)
+  > A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants...
 
 ### [trietptm](https://github.com/trietptm)
 - 🌟 👤 [trietptm](https://github.com/trietptm) Starred [vEnhance/blog.evanchen.cc](https://github.com/vEnhance/blog.evanchen.cc)
@@ -181,7 +187,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 21:23:59 UTC*
+*Last updated at 2026-07-21 22:16:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
