@@ -81,6 +81,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [karust/openserp](https://github.com/karust/openserp)
   > Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuc...
 
+### [heiner](https://github.com/heiner)
+- 🍴 👤 [heiner](https://github.com/heiner) Forked [OpenBW/openbw](https://github.com/OpenBW/openbw) to [heiner/openbw](https://github.com/heiner/openbw)
+  > OpenBW - free and open-source Best Wargame
+
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [icculus/mojoshader](https://github.com/icculus/mojoshader)
   > Use Direct3D shaders with other 3D rendering APIs.
@@ -90,6 +94,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [Chocapikk/wpprobe](https://github.com/Chocapikk/wpprobe)
   > A fast WordPress plugin enumeration tool
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [Nystik-gh/ignis](https://github.com/Nystik-gh/ignis)
+  > Run Obsidian as a self-hosted web app. Not remote desktop, an actual web app.
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [HKUST-KnowComp/EvolvingWorld](https://github.com/HKUST-KnowComp/EvolvingWorld)
@@ -103,6 +109,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [RakuenSoftware/aimee](https://github.com/RakuenSoftware/aimee)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [borkdude/cljbang.el](https://github.com/borkdude/cljbang.el)
   > A Clojure-like language that runs as Emacs Lisp.
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken)
+  > Language model tokenization at GB/s
 
 ### [mahmoud](https://github.com/mahmoud)
 - 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [observablehq/framework](https://github.com/observablehq/framework)
@@ -169,6 +177,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A list of web application security
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [openai/fence](https://github.com/openai/fence)
   > A fence keeps things out, but also in. This project is still in early, and active development.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Google-Cloud-AI/alphaevolve-on-googlecloud](https://github.com/Google-Cloud-AI/alphaevolve-on-googlecloud)
 
 
 <!-- nav -->
@@ -176,7 +185,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 17:27:30 UTC*
+*Last updated at 2026-07-22 18:21:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
