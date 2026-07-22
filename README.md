@@ -35,6 +35,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [adamk33n3r](https://github.com/adamk33n3r) Starred [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus)
   > Self-hosted AI workspace. 
 
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [osresearch/papercraft](https://github.com/osresearch/papercraft)
+  > Unfolding STL models to make laser cut patterns
+
 ### [alessandrogario](https://github.com/alessandrogario)
 - 🍴 👤 [alessandrogario](https://github.com/alessandrogario) Forked [trailofbits/mquire](https://github.com/trailofbits/mquire) to [alessandrogario/mquire](https://github.com/alessandrogario/mquire)
   > Zero-dependency Linux memory forensics, leveraging kernel-embedded BTF and kallsyms for type-aware m...
@@ -78,6 +82,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Local-first system of record for documents (PDFs, images, text files, etc.) for you and your agents
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken)
   > Language model tokenization at GB/s
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [block/buzz](https://github.com/block/buzz)
+  > A hive mind communication platform
 
 ### [qinsoon](https://github.com/qinsoon)
 - 🍴 👤 [qinsoon](https://github.com/qinsoon) Forked [mmtk/ruby](https://github.com/mmtk/ruby) to [qinsoon/ruby](https://github.com/qinsoon/ruby)
@@ -101,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 09:46:10 UTC*
+*Last updated at 2026-07-22 10:40:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
