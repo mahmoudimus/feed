@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [icculus/mojoshader](https://github.com/icculus/mojoshader)
   > Use Direct3D shaders with other 3D rendering APIs.
 
+### [interference-security](https://github.com/interference-security)
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [Chocapikk/wpprobe](https://github.com/Chocapikk/wpprobe)
+  > A fast WordPress plugin enumeration tool
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [HKUST-KnowComp/EvolvingWorld](https://github.com/HKUST-KnowComp/EvolvingWorld)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [HKUST-KnowComp/EvolvingWorld](https://github.com/HKUST-KnowComp/EvolvingWorld) to [johndpope/EvolvingWorld](https://github.com/johndpope/EvolvingWorld)
@@ -46,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 02:58:43 UTC*
+*Last updated at 2026-07-22 04:08:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
