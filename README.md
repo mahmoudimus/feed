@@ -26,6 +26,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Can Language Models Rebuild Programs From Scratch?
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
+  > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use case...
 
 ### [adamk33n3r](https://github.com/adamk33n3r)
 - 🌟 👤 [adamk33n3r](https://github.com/adamk33n3r) Starred [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus)
@@ -43,7 +45,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [artob/edky](https://github.com/artob/edky)
-  > Convert Ed25519 public keys between various encoding formats.
+  > 🦀 Convert Ed25519 public keys between various encoding formats such as Base16, Base32z, Base58, Base...
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [icculus/mojoshader](https://github.com/icculus/mojoshader)
@@ -74,6 +76,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [kenn-io/docbank](https://github.com/kenn-io/docbank)
   > Local-first system of record for documents (PDFs, images, text files, etc.) for you and your agents
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [marcelroed/gigatoken](https://github.com/marcelroed/gigatoken)
+  > Language model tokenization at GB/s
 
 ### [qinsoon](https://github.com/qinsoon)
 - 🍴 👤 [qinsoon](https://github.com/qinsoon) Forked [mmtk/ruby](https://github.com/mmtk/ruby) to [qinsoon/ruby](https://github.com/qinsoon/ruby)
@@ -97,7 +101,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 08:49:07 UTC*
+*Last updated at 2026-07-22 09:46:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
