@@ -90,6 +90,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Use Direct3D shaders with other 3D rendering APIs.
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [ned14/llfio](https://github.com/ned14/llfio)
   > P1031 low level file i/o and filesystem library for the C++ standard
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [can1357/kraken-rs](https://github.com/can1357/kraken-rs)
 
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [Chocapikk/wpprobe](https://github.com/Chocapikk/wpprobe)
@@ -160,6 +161,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [secYOUre](https://github.com/secYOUre) Starred [lyallcooper/justif](https://github.com/lyallcooper/justif)
   > Publication-grade text justification for the web
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [libkrun/libkrun](https://github.com/libkrun/libkrun)
+  > A dynamic library providing Virtualization-based process isolation capabilities
+
 ### [tommyettinger](https://github.com/tommyettinger)
 - 🌟 👤 [tommyettinger](https://github.com/tommyettinger) Starred [satchmogdx/satchmo-template](https://github.com/satchmogdx/satchmo-template)
   > Template for simplified forks of gdx-core
@@ -187,7 +192,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 19:28:21 UTC*
+*Last updated at 2026-07-22 20:21:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
