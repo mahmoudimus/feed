@@ -12,11 +12,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [apple/container](https://github.com/apple/container)
   > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
 
+### [Naville](https://github.com/Naville)
+- 🚀 👤 [Naville](https://github.com/Naville) Made [UrsulaProject/BemaniTools](https://github.com/UrsulaProject/BemaniTools) public
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
   > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openguardrails/openguardrails](https://github.com/openguardrails/openguardrails)
   > The vendor-neutral protocol for AI agent safety & security — and the neutral benchmark that ranks th...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zapier/AutomationBench](https://github.com/zapier/AutomationBench)
+  > A benchmark for evaluating AI agents on realistic business workflows
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [facebookresearch/ProgramBench](https://github.com/facebookresearch/ProgramBench)
+  > Can Language Models Rebuild Programs From Scratch?
 
 ### [adamk33n3r](https://github.com/adamk33n3r)
 - 🌟 👤 [adamk33n3r](https://github.com/adamk33n3r) Starred [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus)
@@ -52,9 +59,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [observablehq/framework](https://github.com/observablehq/framework)
   > A static site generator for data apps, dashboards, reports, and more. Observable Framework combines ...
 
+### [mbr](https://github.com/mbr)
+- 🍴 👤 [mbr](https://github.com/mbr) Forked [ogglord/pi-web-nix](https://github.com/ogglord/pi-web-nix) to [mbr/pi-web-nix](https://github.com/mbr/pi-web-nix)
+  > NixOS flake packaging of @jmfederico/pi-web — web control plane for Pi Coding Agent
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
   > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [kenn-io/docbank](https://github.com/kenn-io/docbank)
+  > Local-first system of record for documents (PDFs, images, text files, etc.) for you and your agents
+
+### [qinsoon](https://github.com/qinsoon)
+- 🍴 👤 [qinsoon](https://github.com/qinsoon) Forked [mmtk/ruby](https://github.com/mmtk/ruby) to [qinsoon/ruby](https://github.com/qinsoon/ruby)
+  > Fork of The Ruby Programming Language [mirror], with added support for MMTk
 
 ### [secYOUre](https://github.com/secYOUre)
 - 🌟 👤 [secYOUre](https://github.com/secYOUre) Starred [lyallcooper/justif](https://github.com/lyallcooper/justif)
@@ -74,7 +93,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 06:54:17 UTC*
+*Last updated at 2026-07-22 07:45:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
