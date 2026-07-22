@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [apple/container](https://github.com/apple/container)
   > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
 
+### [JeffLi1993](https://github.com/JeffLi1993)
+- 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)
+  > Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (s...
+
 ### [Naville](https://github.com/Naville)
 - 🚀 👤 [Naville](https://github.com/Naville) Made [UrsulaProject/KatyPerry](https://github.com/UrsulaProject/KatyPerry) public
 
@@ -47,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools)
   > Framework for tracking and building your own Google Find My Device / Find Hub trackers 🧭
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [jtydhr88/ComfyTV](https://github.com/jtydhr88/ComfyTV)
+  > ComfyTV — the canvas-based app that truly belongs to ComfyUI.
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [maximhq/bifrost](https://github.com/maximhq/bifrost)
   > Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, g...
@@ -68,6 +76,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [HKUST-KnowComp/EvolvingWorld](https://github.com/HKUST-KnowComp/EvolvingWorld)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [HKUST-KnowComp/EvolvingWorld](https://github.com/HKUST-KnowComp/EvolvingWorld) to [johndpope/EvolvingWorld](https://github.com/johndpope/EvolvingWorld)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [finnmckenty/NTSCRT](https://github.com/finnmckenty/NTSCRT)
+  > Vintage analog TV/VHS image tool for macOS: ntsc-rs signal emulation + RetroArch CRT shaders (libras...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [finnmckenty/NTSCRT](https://github.com/finnmckenty/NTSCRT) to [johndpope/NTSCRT](https://github.com/johndpope/NTSCRT)
+  > Vintage analog TV/VHS image tool for macOS: ntsc-rs signal emulation + RetroArch CRT shaders (libras...
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [RakuenSoftware/aimee](https://github.com/RakuenSoftware/aimee)
@@ -85,6 +97,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
   > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
+  > Firmware for the Xteink X3 and X4 e-readers
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [kenn-io/docbank](https://github.com/kenn-io/docbank)
@@ -118,13 +132,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [trekhleb](https://github.com/trekhleb) Starred [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs)
   > Modern framework for fast, powerful React apps
 
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)
+  > AI-native design editor. Open-source Figma alternative.
+
+### [zchee](https://github.com/zchee)
+- 🍴 👤 [zchee](https://github.com/zchee) Forked [xai-org/grok-build](https://github.com/xai-org/grok-build) to [zchee/grok-build](https://github.com/zchee/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
+  > A list of web application security
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [openai/fence](https://github.com/openai/fence)
+  > A fence keeps things out, but also in.
+
 
 <!-- nav -->
 [← 2026-07-21](archive/2026/07/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 13:30:25 UTC*
+*Last updated at 2026-07-22 14:37:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
