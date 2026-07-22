@@ -43,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [alessandrogario](https://github.com/alessandrogario) Forked [trailofbits/mquire](https://github.com/trailofbits/mquire) to [alessandrogario/mquire](https://github.com/alessandrogario/mquire)
   > Zero-dependency Linux memory forensics, leveraging kernel-embedded BTF and kallsyms for type-aware m...
 
+### [cra0](https://github.com/cra0)
+- 🌟 👤 [cra0](https://github.com/cra0) Starred [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools)
+  > Framework for tracking and building your own Google Find My Device / Find Hub trackers 🧭
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [maximhq/bifrost](https://github.com/maximhq/bifrost)
   > Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, g...
@@ -64,6 +68,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [HKUST-KnowComp/EvolvingWorld](https://github.com/HKUST-KnowComp/EvolvingWorld)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [HKUST-KnowComp/EvolvingWorld](https://github.com/HKUST-KnowComp/EvolvingWorld) to [johndpope/EvolvingWorld](https://github.com/johndpope/EvolvingWorld)
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [RakuenSoftware/aimee](https://github.com/RakuenSoftware/aimee)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [borkdude/cljbang.el](https://github.com/borkdude/cljbang.el)
+  > A Clojure-like language that runs as Emacs Lisp.
 
 ### [mahmoud](https://github.com/mahmoud)
 - 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [observablehq/framework](https://github.com/observablehq/framework)
@@ -93,6 +102,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [qinsoon](https://github.com/qinsoon) Forked [mmtk/ruby](https://github.com/mmtk/ruby) to [qinsoon/ruby](https://github.com/qinsoon/ruby)
   > Fork of The Ruby Programming Language [mirror], with added support for MMTk
 
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
+  > Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for...
+
 ### [secYOUre](https://github.com/secYOUre)
 - 🌟 👤 [secYOUre](https://github.com/secYOUre) Starred [lyallcooper/justif](https://github.com/lyallcooper/justif)
   > Publication-grade text justification for the web
@@ -111,7 +124,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 12:28:40 UTC*
+*Last updated at 2026-07-22 13:30:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
