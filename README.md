@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Naville](https://github.com/Naville)
 - 🚀 👤 [Naville](https://github.com/Naville) Made [UrsulaProject/KatyPerry](https://github.com/UrsulaProject/KatyPerry) public
 
+### [Nitr0-G](https://github.com/Nitr0-G)
+- 🌟 👤 [Nitr0-G](https://github.com/Nitr0-G) Starred [rigtorp/Function](https://github.com/rigtorp/Function)
+  > Heap allocation free version of C++11 std::function
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
   > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
@@ -94,6 +98,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mbr](https://github.com/mbr) Forked [ogglord/pi-web-nix](https://github.com/ogglord/pi-web-nix) to [mbr/pi-web-nix](https://github.com/mbr/pi-web-nix)
   > NixOS flake packaging of @jmfederico/pi-web — web control plane for Pi Coding Agent
 
+### [mekanix](https://github.com/mekanix)
+- 🍴 👤 [mekanix](https://github.com/mekanix) Forked [maolan/engine](https://github.com/maolan/engine) to [mekanix/maolan-engine](https://github.com/mekanix/maolan-engine)
+  > Maolan engine
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
   > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
@@ -146,7 +154,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
   > A list of web application security
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [openai/fence](https://github.com/openai/fence)
-  > A fence keeps things out, but also in.
+  > A fence keeps things out, but also in. This project is still in early, and active development.
 
 
 <!-- nav -->
@@ -154,7 +162,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 15:30:10 UTC*
+*Last updated at 2026-07-22 16:27:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
