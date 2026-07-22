@@ -15,6 +15,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
   > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openguardrails/openguardrails](https://github.com/openguardrails/openguardrails)
+  > The vendor-neutral protocol for AI agent safety & security — and the neutral benchmark that ranks th...
+
+### [adamk33n3r](https://github.com/adamk33n3r)
+- 🌟 👤 [adamk33n3r](https://github.com/adamk33n3r) Starred [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus)
+  > laptop 
+- 🌟 👤 [adamk33n3r](https://github.com/adamk33n3r) Starred [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus)
+  > Self-hosted AI workspace. 
+
+### [alessandrogario](https://github.com/alessandrogario)
+- 🍴 👤 [alessandrogario](https://github.com/alessandrogario) Forked [trailofbits/mquire](https://github.com/trailofbits/mquire) to [alessandrogario/mquire](https://github.com/alessandrogario/mquire)
+  > Zero-dependency Linux memory forensics, leveraging kernel-embedded BTF and kallsyms for type-aware m...
 
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [maximhq/bifrost](https://github.com/maximhq/bifrost)
@@ -32,9 +44,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [HKUST-KnowComp/EvolvingWorld](https://github.com/HKUST-KnowComp/EvolvingWorld)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [HKUST-KnowComp/EvolvingWorld](https://github.com/HKUST-KnowComp/EvolvingWorld) to [johndpope/EvolvingWorld](https://github.com/johndpope/EvolvingWorld)
 
+### [mahmoud](https://github.com/mahmoud)
+- 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [observablehq/framework](https://github.com/observablehq/framework)
+  > A static site generator for data apps, dashboards, reports, and more. Observable Framework combines ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
   > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
+
+### [secYOUre](https://github.com/secYOUre)
+- 🌟 👤 [secYOUre](https://github.com/secYOUre) Starred [lyallcooper/justif](https://github.com/lyallcooper/justif)
+  > Publication-grade text justification for the web
 
 ### [tommyettinger](https://github.com/tommyettinger)
 - 🌟 👤 [tommyettinger](https://github.com/tommyettinger) Starred [satchmogdx/satchmo-template](https://github.com/satchmogdx/satchmo-template)
@@ -50,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 04:08:19 UTC*
+*Last updated at 2026-07-22 05:57:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
