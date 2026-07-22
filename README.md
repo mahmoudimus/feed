@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi)
   > Heterogeneous GPU Sharing on Kubernetes
 
+### [Gcenx](https://github.com/Gcenx)
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [sysprog21/libx11-compat](https://github.com/sysprog21/libx11-compat)
+  > An in-process implementation of Xlib layered on top of SDL2/SDL3
+
 ### [Houfeng](https://github.com/Houfeng)
 - 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [apple/container](https://github.com/apple/container)
   > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
@@ -148,6 +152,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > C++ project to create C++ projects
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
   > DeepEP: an efficient expert-parallel communication library
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [plasma-ai/fractal](https://github.com/plasma-ai/fractal)
+  > Hierarchical agent loops with recursive self-organization.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [fuma-nama/tegami](https://github.com/fuma-nama/tegami)
+  > A tool to manage changelogs, versioning, and publishing in monorepos.
 
 ### [qinsoon](https://github.com/qinsoon)
 - 🍴 👤 [qinsoon](https://github.com/qinsoon) Forked [mmtk/ruby](https://github.com/mmtk/ruby) to [qinsoon/ruby](https://github.com/qinsoon/ruby)
@@ -156,6 +164,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
   > Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for...
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)
+  > Vite plugin that reimplements the Next.js API surface — deploy anywhere
 
 ### [secYOUre](https://github.com/secYOUre)
 - 🌟 👤 [secYOUre](https://github.com/secYOUre) Starred [lyallcooper/justif](https://github.com/lyallcooper/justif)
@@ -192,7 +204,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 20:21:51 UTC*
+*Last updated at 2026-07-22 21:22:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
