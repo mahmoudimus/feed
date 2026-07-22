@@ -32,6 +32,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [maximhq/bifrost](https://github.com/maximhq/bifrost)
   > Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, g...
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [artob/edky](https://github.com/artob/edky)
+  > Convert Ed25519 public keys between various encoding formats.
+
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [icculus/mojoshader](https://github.com/icculus/mojoshader)
   > Use Direct3D shaders with other 3D rendering APIs.
@@ -70,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 05:57:00 UTC*
+*Last updated at 2026-07-22 06:54:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
