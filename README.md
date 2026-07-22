@@ -111,6 +111,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Open source q language
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [gakonst/nanocodex](https://github.com/gakonst/nanocodex)
   > Blazing-fast, minimal, library-first reimplementation of Codex
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [chshersh/cppnew](https://github.com/chshersh/cppnew)
+  > C++ project to create C++ projects
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP)
+  > DeepEP: an efficient expert-parallel communication library
 
 ### [qinsoon](https://github.com/qinsoon)
 - 🍴 👤 [qinsoon](https://github.com/qinsoon) Forked [mmtk/ruby](https://github.com/mmtk/ruby) to [qinsoon/ruby](https://github.com/qinsoon/ruby)
@@ -150,7 +154,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 14:37:52 UTC*
+*Last updated at 2026-07-22 15:30:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
