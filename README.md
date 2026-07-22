@@ -13,7 +13,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
 
 ### [Naville](https://github.com/Naville)
-- 🚀 👤 [Naville](https://github.com/Naville) Made [UrsulaProject/BemaniTools](https://github.com/UrsulaProject/BemaniTools) public
+- 🚀 👤 [Naville](https://github.com/Naville) Made [UrsulaProject/KatyPerry](https://github.com/UrsulaProject/KatyPerry) public
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
@@ -24,6 +24,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A benchmark for evaluating AI agents on realistic business workflows
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [facebookresearch/ProgramBench](https://github.com/facebookresearch/ProgramBench)
   > Can Language Models Rebuild Programs From Scratch?
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+  > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
 
 ### [adamk33n3r](https://github.com/adamk33n3r)
 - 🌟 👤 [adamk33n3r](https://github.com/adamk33n3r) Starred [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus)
@@ -46,6 +48,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [icculus/mojoshader](https://github.com/icculus/mojoshader)
   > Use Direct3D shaders with other 3D rendering APIs.
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [ned14/llfio](https://github.com/ned14/llfio)
+  > P1031 low level file i/o and filesystem library for the C++ standard
 
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [Chocapikk/wpprobe](https://github.com/Chocapikk/wpprobe)
@@ -93,7 +97,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 07:45:37 UTC*
+*Last updated at 2026-07-22 08:49:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
