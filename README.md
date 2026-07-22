@@ -107,6 +107,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [erigontech/erigon](https://github.com/erigontech/erigon) to [kevaundray/erigon](https://github.com/kevaundray/erigon)
   > Ethereum implementation on the efficiency frontier 
 
+### [kevyonan](https://github.com/kevyonan)
+- 🌟 👤 [kevyonan](https://github.com/kevyonan) Starred [LostCityRS/Server](https://github.com/LostCityRS/Server)
+  > Setup scripts for Engine + Content
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [janestreet/incremental](https://github.com/janestreet/incremental)
   > A library for incremental computations
@@ -153,6 +157,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [omahili/react-native-reorderable-list](https://github.com/omahili/react-native-reorderable-list)
   > A reorderable list for React Native applications, powered by Reanimated 🚀
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [ethereum/kohaku](https://github.com/ethereum/kohaku)
+  > Privacy-first tooling for the Ethereum ecosystem
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [Blaizzy/nativ](https://github.com/Blaizzy/nativ)
   > Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
@@ -187,7 +195,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-21 22:16:40 UTC*
+*Last updated at 2026-07-21 23:16:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
