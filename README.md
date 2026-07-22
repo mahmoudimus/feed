@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AlexsJones](https://github.com/AlexsJones)
+- 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi)
+  > Heterogeneous GPU Sharing on Kubernetes
+
 ### [Houfeng](https://github.com/Houfeng)
 - 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [apple/container](https://github.com/apple/container)
   > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
@@ -36,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
   > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use case...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [microsoft/SetupBench](https://github.com/microsoft/SetupBench)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [ernie-research/MEnvAgent](https://github.com/ernie-research/MEnvAgent)
+  > Official Code of MEnvAgent
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [siegelz/core-bench](https://github.com/siegelz/core-bench)
 
 ### [adamk33n3r](https://github.com/adamk33n3r)
 - 🌟 👤 [adamk33n3r](https://github.com/adamk33n3r) Starred [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus)
@@ -66,6 +74,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [artob/edky](https://github.com/artob/edky)
   > 🦀 Convert Ed25519 public keys between various encoding formats such as Base16, Base32z, Base58, Base...
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [deedy5/ddgs](https://github.com/deedy5/ddgs)
+  > A metasearch library that aggregates results from diverse web search services
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [karust/openserp](https://github.com/karust/openserp)
+  > Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuc...
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [icculus/mojoshader](https://github.com/icculus/mojoshader)
@@ -162,7 +176,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 16:27:26 UTC*
+*Last updated at 2026-07-22 17:27:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
