@@ -136,6 +136,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
   > Firmware for the Xteink X3 and X4 e-readers
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
+  > Multi-architecture emulation for the modern era.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [kenn-io/docbank](https://github.com/kenn-io/docbank)
@@ -168,6 +170,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [cloudflare/vinext](https://github.com/cloudflare/vinext)
   > Vite plugin that reimplements the Next.js API surface — deploy anywhere
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
+  > How soon until perfect decompilation? https://decbench.com/
 
 ### [secYOUre](https://github.com/secYOUre)
 - 🌟 👤 [secYOUre](https://github.com/secYOUre) Starred [lyallcooper/justif](https://github.com/lyallcooper/justif)
@@ -197,6 +201,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [openai/fence](https://github.com/openai/fence)
   > A fence keeps things out, but also in. This project is still in early, and active development.
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [Google-Cloud-AI/alphaevolve-on-googlecloud](https://github.com/Google-Cloud-AI/alphaevolve-on-googlecloud)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [MDMAtk/TormentNexus](https://github.com/MDMAtk/TormentNexus)
+  > At long last
 
 
 <!-- nav -->
@@ -204,7 +210,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-22 21:22:20 UTC*
+*Last updated at 2026-07-22 23:18:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
