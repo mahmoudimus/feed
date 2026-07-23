@@ -20,6 +20,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [jjolano/shadow](https://github.com/jjolano/shadow)
   > A jailbreak detection bypass for modern iOS jailbreaks.
 
+### [buger](https://github.com/buger)
+- 🍴 👤 [buger](https://github.com/buger) Forked [xerj-org/xerj](https://github.com/xerj-org/xerj) to [probelabs/xerj](https://github.com/probelabs/xerj)
+
 ### [firmai](https://github.com/firmai)
 - 🍴 👤 [firmai](https://github.com/firmai) Forked [sam-tritto/bxai](https://github.com/sam-tritto/bxai) to [FirmAI-Research/bxai](https://github.com/FirmAI-Research/bxai)
 
@@ -30,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop)
   > Removes 20+ patterns of AI slop from any piece of writing.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
+  > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tonbo-io/ursula](https://github.com/tonbo-io/ursula)
@@ -62,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 11:34:47 UTC*
+*Last updated at 2026-07-23 12:27:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
