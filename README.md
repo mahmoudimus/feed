@@ -23,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [essobedo](https://github.com/essobedo) Forked [gradle/declarative-samples-java-app](https://github.com/gradle/declarative-samples-java-app) to [essobedo/declarative-samples-java-app](https://github.com/essobedo/declarative-samples-java-app)
   > A sample Java application written in the Declarative Gradle DSL, using the prototype Declarative Jav...
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [openshiporg/openship](https://github.com/openshiporg/openship)
+  > multi-channel fulfillment at scale
+
 ### [firmai](https://github.com/firmai)
 - 🍴 👤 [firmai](https://github.com/firmai) Forked [sam-tritto/bxai](https://github.com/sam-tritto/bxai) to [FirmAI-Research/bxai](https://github.com/FirmAI-Research/bxai)
 
@@ -77,7 +81,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 14:42:50 UTC*
+*Last updated at 2026-07-23 15:36:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
