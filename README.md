@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [xerj-org/xerj](https://github.com/xerj-org/xerj) to [probelabs/xerj](https://github.com/probelabs/xerj)
 
+### [eonarheim](https://github.com/eonarheim)
+- 🍴 👤 [eonarheim](https://github.com/eonarheim) Forked [KdotJPG/OpenSimplex2](https://github.com/KdotJPG/OpenSimplex2) to [eonarheim/OpenSimplex2](https://github.com/eonarheim/OpenSimplex2)
+  > Successors to OpenSimplex Noise, plus updated OpenSimplex.
+
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [h3nock/remux](https://github.com/h3nock/remux)
   > Native iOS tmux client with a mobile-first UI for persistent terminal sessions.
@@ -93,7 +97,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 16:28:48 UTC*
+*Last updated at 2026-07-23 17:28:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
