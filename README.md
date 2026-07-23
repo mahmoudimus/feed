@@ -20,6 +20,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [jjolano/shadow](https://github.com/jjolano/shadow)
   > A jailbreak detection bypass for modern iOS jailbreaks.
 
+### [firmai](https://github.com/firmai)
+- 🍴 👤 [firmai](https://github.com/firmai) Forked [sam-tritto/bxai](https://github.com/sam-tritto/bxai) to [FirmAI-Research/bxai](https://github.com/FirmAI-Research/bxai)
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [acunningham-ship-it/veilbrowser](https://github.com/acunningham-ship-it/veilbrowser)
   > Stealth browser for AI agents — real Chrome over raw CDP, no Playwright/Puppeteer. TypeScript + MCP-...
@@ -31,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
   > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tonbo-io/ursula](https://github.com/tonbo-io/ursula)
+  > Distributed event stream server over HTTP, backed by S3.
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🚀 👤 [qiyuangong](https://github.com/qiyuangong) Made [sii-system/agent-fleet](https://github.com/sii-system/agent-fleet) public
@@ -50,6 +57,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [Human-Agent-Society/CORAL](https://github.com/Human-Agent-Society/CORAL)
   > 🔥🔥COLM 2026🔥🔥      CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evo...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)
+  > An open-source database of AI models.
 
 
 <!-- nav -->
@@ -57,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 07:53:25 UTC*
+*Last updated at 2026-07-23 08:49:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
