@@ -12,10 +12,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [JakeWharton](https://github.com/JakeWharton) Forked [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) to [JakeWharton/kotlinx.coroutines](https://github.com/JakeWharton/kotlinx.coroutines)
   > Library support for Kotlin coroutines 
 
-### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
-- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [markrussinovich/DoomPaint](https://github.com/markrussinovich/DoomPaint)
-  > Doom using MS Paint as a playable display by leveraging clipboard and paste. Includes Doom shareware...
-
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [jjolano/shadow](https://github.com/jjolano/shadow)
   > A jailbreak detection bypass for modern iOS jailbreaks.
@@ -37,6 +33,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
   > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
+  > A framework for few-shot evaluation of language models.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tonbo-io/ursula](https://github.com/tonbo-io/ursula)
@@ -52,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [sblackshear](https://github.com/sblackshear)
 - 🌟 👤 [sblackshear](https://github.com/sblackshear) Starred [aresrpg/aresrpg](https://github.com/aresrpg/aresrpg)
   > AresRPG — a source-available web MMORPG built on Sui and Three.js, developed in the open
+
+### [sritchie](https://github.com/sritchie)
+- 🍴 👤 [sritchie](https://github.com/sritchie) Forked [TopherTimeMachine/TronView](https://github.com/TopherTimeMachine/TronView) to [sritchie/TronView](https://github.com/sritchie/TronView)
+  > Display EFIS flight data or any type of sensor data on screen or AR glasses. Designed for Raspberry ...
 
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample)
@@ -69,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 12:27:59 UTC*
+*Last updated at 2026-07-23 13:30:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
