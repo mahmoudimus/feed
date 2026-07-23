@@ -63,6 +63,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Distributed event stream server over HTTP, backed by S3.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [zenml-io/kitaru](https://github.com/zenml-io/kitaru)
   > Record, replay, and improve AI agents in production, built on ZenML
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [chenglou/freerange](https://github.com/chenglou/freerange)
+  > Static @fit checks for ordinary TypeScript layout code
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🚀 👤 [qiyuangong](https://github.com/qiyuangong) Made [sii-system/agent-fleet](https://github.com/sii-system/agent-fleet) public
@@ -97,7 +99,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 17:28:25 UTC*
+*Last updated at 2026-07-23 18:23:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
