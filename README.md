@@ -20,9 +20,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [jjolano/shadow](https://github.com/jjolano/shadow)
   > A jailbreak detection bypass for modern iOS jailbreaks.
 
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop)
+  > Removes 20+ patterns of AI slop from any piece of writing.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
   > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🚀 👤 [qiyuangong](https://github.com/qiyuangong) Made [sii-system/agent-fleet](https://github.com/sii-system/agent-fleet) public
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [sii-system/agent-opik-plugin](https://github.com/sii-system/agent-opik-plugin)
+- 🍴 👤 [qiyuangong](https://github.com/qiyuangong) Forked [sii-system/agent-opik-plugin](https://github.com/sii-system/agent-opik-plugin) to [qiyuangong/agent-opik-plugin](https://github.com/qiyuangong/agent-opik-plugin)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [sii-system/agent-fleet](https://github.com/sii-system/agent-fleet)
+- 🍴 👤 [qiyuangong](https://github.com/qiyuangong) Forked [sii-system/agent-fleet](https://github.com/sii-system/agent-fleet) to [qiyuangong/agent-fleet](https://github.com/qiyuangong/agent-fleet)
 
 ### [sblackshear](https://github.com/sblackshear)
 - 🌟 👤 [sblackshear](https://github.com/sblackshear) Starred [aresrpg/aresrpg](https://github.com/aresrpg/aresrpg)
@@ -32,13 +43,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample)
   > Go by Example
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Human-Agent-Society/CORAL](https://github.com/Human-Agent-Society/CORAL)
+  > 🔥🔥COLM 2026🔥🔥      CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evo...
+
 
 <!-- nav -->
 [← 2026-07-22](archive/2026/07/22.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 04:07:52 UTC*
+*Last updated at 2026-07-23 05:58:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
