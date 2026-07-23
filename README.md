@@ -38,6 +38,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [firmai](https://github.com/firmai)
 - 🍴 👤 [firmai](https://github.com/firmai) Forked [sam-tritto/bxai](https://github.com/sam-tritto/bxai) to [FirmAI-Research/bxai](https://github.com/FirmAI-Research/bxai)
 
+### [guilsa](https://github.com/guilsa)
+- 🌟 👤 [guilsa](https://github.com/guilsa) Starred [philippta/flyscrape](https://github.com/philippta/flyscrape)
+  > Flyscrape is a command-line web scraping tool designed for those without advanced programming skills...
+
 ### [jmccarthy](https://github.com/jmccarthy)
 - 🌟 👤 [jmccarthy](https://github.com/jmccarthy) Starred [gokulrajaram/ProductSpec](https://github.com/gokulrajaram/ProductSpec)
   > Open standard for software intent in the AI agent era.
@@ -73,6 +77,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [sii-system/agent-fleet](https://github.com/sii-system/agent-fleet)
 - 🍴 👤 [qiyuangong](https://github.com/qiyuangong) Forked [sii-system/agent-fleet](https://github.com/sii-system/agent-fleet) to [qiyuangong/agent-fleet](https://github.com/qiyuangong/agent-fleet)
 
+### [rwjblue](https://github.com/rwjblue)
+- 🍴 👤 [rwjblue](https://github.com/rwjblue) Forked [HagaleTechnologies/pancetta](https://github.com/HagaleTechnologies/pancetta) to [rwjblue/pancetta](https://github.com/rwjblue/pancetta)
+  > Autonomous FT8 ham radio station in Rust — decode, priority-score, and work QSOs from a terminal UI;...
+
 ### [sblackshear](https://github.com/sblackshear)
 - 🌟 👤 [sblackshear](https://github.com/sblackshear) Starred [aresrpg/aresrpg](https://github.com/aresrpg/aresrpg)
   > AresRPG — a source-available web MMORPG built on Sui and Three.js, developed in the open
@@ -92,6 +100,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An open-source database of AI models.
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth)
   > OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - use...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust)
+  > Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLi...
 
 
 <!-- nav -->
@@ -99,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 19:27:59 UTC*
+*Last updated at 2026-07-23 20:21:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
