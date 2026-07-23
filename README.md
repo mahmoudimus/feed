@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [xerj-org/xerj](https://github.com/xerj-org/xerj) to [probelabs/xerj](https://github.com/probelabs/xerj)
 
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [h3nock/remux](https://github.com/h3nock/remux)
+  > Native iOS tmux client with a mobile-first UI for persistent terminal sessions.
+
 ### [essobedo](https://github.com/essobedo)
 - 🍴 👤 [essobedo](https://github.com/essobedo) Forked [gradle/declarative-samples-java-app](https://github.com/gradle/declarative-samples-java-app) to [essobedo/declarative-samples-java-app](https://github.com/essobedo/declarative-samples-java-app)
   > A sample Java application written in the Declarative Gradle DSL, using the prototype Declarative Jav...
@@ -29,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [firmai](https://github.com/firmai)
 - 🍴 👤 [firmai](https://github.com/firmai) Forked [sam-tritto/bxai](https://github.com/sam-tritto/bxai) to [FirmAI-Research/bxai](https://github.com/FirmAI-Research/bxai)
+
+### [jmccarthy](https://github.com/jmccarthy)
+- 🌟 👤 [jmccarthy](https://github.com/jmccarthy) Starred [gokulrajaram/ProductSpec](https://github.com/gokulrajaram/ProductSpec)
+  > Open standard for software intent in the AI agent era.
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [acunningham-ship-it/veilbrowser](https://github.com/acunningham-ship-it/veilbrowser)
@@ -43,10 +51,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
   > A framework for few-shot evaluation of language models.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xingyaoww/code-act](https://github.com/xingyaoww/code-act)
+  > Official Repo for ICML 2024 paper "Executable Code Actions Elicit Better LLM Agents" by Xingyao Wang...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tonbo-io/ursula](https://github.com/tonbo-io/ursula)
   > Distributed event stream server over HTTP, backed by S3.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [zenml-io/kitaru](https://github.com/zenml-io/kitaru)
+  > Record, replay, and improve AI agents in production, built on ZenML
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🚀 👤 [qiyuangong](https://github.com/qiyuangong) Made [sii-system/agent-fleet](https://github.com/sii-system/agent-fleet) public
@@ -81,7 +93,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 15:36:41 UTC*
+*Last updated at 2026-07-23 16:28:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
