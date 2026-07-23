@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [xerj-org/xerj](https://github.com/xerj-org/xerj) to [probelabs/xerj](https://github.com/probelabs/xerj)
 
+### [essobedo](https://github.com/essobedo)
+- 🍴 👤 [essobedo](https://github.com/essobedo) Forked [gradle/declarative-samples-java-app](https://github.com/gradle/declarative-samples-java-app) to [essobedo/declarative-samples-java-app](https://github.com/essobedo/declarative-samples-java-app)
+  > A sample Java application written in the Declarative Gradle DSL, using the prototype Declarative Jav...
+
 ### [firmai](https://github.com/firmai)
 - 🍴 👤 [firmai](https://github.com/firmai) Forked [sam-tritto/bxai](https://github.com/sam-tritto/bxai) to [FirmAI-Research/bxai](https://github.com/FirmAI-Research/bxai)
 
@@ -64,6 +68,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 🔥🔥COLM 2026🔥🔥      CORAL is a robust, lightweight infrastructure for multi-agent autonomous self-evo...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)
   > An open-source database of AI models.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth)
+  > OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - use...
 
 
 <!-- nav -->
@@ -71,7 +77,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-23 13:30:30 UTC*
+*Last updated at 2026-07-23 14:42:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
