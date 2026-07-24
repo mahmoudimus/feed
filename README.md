@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Kesin11](https://github.com/Kesin11)
+- 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [schroneko/influ-quest](https://github.com/schroneko/influ-quest)
+  > Influenza-themed retro RPG MCP server for event talks
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [tractordev/wanix](https://github.com/tractordev/wanix)
   > A compute toolkit for the web with the depth of Plan 9 from Bell Labs
@@ -44,6 +48,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [tim-hardcastle/pipefish](https://github.com/tim-hardcastle/pipefish)
   > Source code for the Pipefish programming language
 
+### [mjpieters](https://github.com/mjpieters)
+- 🍴 👤 [mjpieters](https://github.com/mjpieters) Forked [astral-sh/ruff](https://github.com/astral-sh/ruff) to [mjpieters/ruff](https://github.com/mjpieters/ruff)
+  > An extremely fast Python linter and code formatter, written in Rust.
+
 ### [moriyoshi](https://github.com/moriyoshi)
 - 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [moriyoshi/imbh](https://github.com/moriyoshi/imbh)
   > A small-footprint, embeddable observability database for Rust.
@@ -70,6 +78,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > HedgeDoc - Ideas grow better together
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [tantek/cassis](https://github.com/tantek/cassis)
   > CASSIS is universal javascript/PHP that works on the client and the server for scalable application ...
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
+  > 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [super-linter/super-linter](https://github.com/super-linter/super-linter)
+  > Combination of multiple linters to run as a GitHub Action or standalone
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+  > A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 
 ### [wl4g](https://github.com/wl4g)
 - 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/nexus-mcp](https://github.com/flowgent-labs/nexus-mcp)
@@ -109,7 +127,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 09:44:39 UTC*
+*Last updated at 2026-07-24 10:38:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
