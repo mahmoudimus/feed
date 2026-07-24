@@ -24,6 +24,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Proof-of-concept game using VBS enclaves to protect itself from cheating
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [UnderminersTeam/UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) to [fengjixuchui/UndertaleModTool](https://github.com/fengjixuchui/UndertaleModTool)
   > The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [google/cityhash](https://github.com/google/cityhash) to [fengjixuchui/cityhash](https://github.com/fengjixuchui/cityhash)
+  > Automatically exported from code.google.com/p/cityhash
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [spiceai/spiceai](https://github.com/spiceai/spiceai)
@@ -32,6 +34,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [mrsanshui/WeChatPYAPI](https://github.com/mrsanshui/WeChatPYAPI)
   > 基于微信PC端的Python接口，开发者可通过Python轻松调用。实现微信机器人、群管理等强大的功能！3.9.10.19、4.0、4.x、x64、微信hook、微信接口
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ssveitch/kemeleon-py](https://github.com/ssveitch/kemeleon-py)
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [juggler-ai/juggler](https://github.com/juggler-ai/juggler)
@@ -57,10 +62,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > agent multiplexer that lives in your terminal.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Humalike/hermes-humalike-plugin](https://github.com/Humalike/hermes-humalike-plugin)
   > A Hermes Agent plugin that makes your bot feel like a person in the chat instead of a bot. It plugs ...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [xa11y/xa11y](https://github.com/xa11y/xa11y) to [mrexodia/xa11y](https://github.com/mrexodia/xa11y)
+  > Cross platform desktop accessibility library
 
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
   > HedgeDoc - Ideas grow better together
+- 🌟 👤 [progrium](https://github.com/progrium) Starred [tantek/cassis](https://github.com/tantek/cassis)
+  > CASSIS is universal javascript/PHP that works on the client and the server for scalable application ...
 
 ### [wl4g](https://github.com/wl4g)
 - 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/nexus-mcp](https://github.com/flowgent-labs/nexus-mcp)
@@ -100,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 08:48:19 UTC*
+*Last updated at 2026-07-24 09:44:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
