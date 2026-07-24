@@ -32,6 +32,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [juggler-ai/juggler](https://github.com/juggler-ai/juggler)
   > The Juggler Code Agent
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [tim-hardcastle/pipefish](https://github.com/tim-hardcastle/pipefish)
+  > Source code for the Pipefish programming language
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
@@ -48,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Humalike/hermes-humalike-plugin](https://github.com/Humalike/hermes-humalike-plugin)
   > A Hermes Agent plugin that makes your bot feel like a person in the chat instead of a bot. It plugs ...
 
+### [wl4g](https://github.com/wl4g)
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/nexus-mcp](https://github.com/flowgent-labs/nexus-mcp)
+  > An enhanced Enterprise-grade MCP server.
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)
   > Tools for publishing transcripts for Claude Code sessions
@@ -57,6 +63,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Transformer Grammars: Augmenting Transformer Language Models with Syntactic Inductive Biases at Scal...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [google-deepmind/dm_control](https://github.com/google-deepmind/dm_control)
   > Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environment...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent)
+  > TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph...
 
 
 <!-- nav -->
@@ -64,7 +72,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 04:06:35 UTC*
+*Last updated at 2026-07-24 05:56:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
