@@ -22,6 +22,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [blobbyblo/vad-manipulation](https://github.com/blobbyblo/vad-manipulation) to [fengjixuchui/vad-manipulation](https://github.com/fengjixuchui/vad-manipulation)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame) to [fengjixuchui/SecureGame](https://github.com/fengjixuchui/SecureGame)
   > Proof-of-concept game using VBS enclaves to protect itself from cheating
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [UnderminersTeam/UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) to [fengjixuchui/UndertaleModTool](https://github.com/fengjixuchui/UndertaleModTool)
+  > The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [spiceai/spiceai](https://github.com/spiceai/spiceai)
+  > Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL qu...
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [juggler-ai/juggler](https://github.com/juggler-ai/juggler)
@@ -58,7 +64,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 02:58:31 UTC*
+*Last updated at 2026-07-24 04:06:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
