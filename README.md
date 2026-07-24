@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [tractordev/wanix](https://github.com/tractordev/wanix)
   > A compute toolkit for the web with the depth of Plan 9 from Bell Labs
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1)
+  > Wan: Open and Advanced Large-Scale Video Generative Models
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [oblien/openship](https://github.com/oblien/openship)
   > Self-hosted deployment platform
@@ -127,7 +131,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 11:30:52 UTC*
+*Last updated at 2026-07-24 12:25:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
