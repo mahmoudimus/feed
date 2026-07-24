@@ -18,6 +18,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [TheTom](https://github.com/TheTom)
 - 🚀 👤 [TheTom](https://github.com/TheTom) Made [TheTom/offlabel](https://github.com/TheTom/offlabel) public
+- 🍴 👤 [TheTom](https://github.com/TheTom) Forked [doldecomp/melee](https://github.com/doldecomp/melee) to [TheTom/melee-decomp](https://github.com/TheTom/melee-decomp)
+  > A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.
 
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [tractordev/wanix](https://github.com/tractordev/wanix)
@@ -89,6 +91,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [xa11y/xa11y](https://github.com/xa11y/xa11y) to [mrexodia/xa11y](https://github.com/mrexodia/xa11y)
   > Cross platform desktop accessibility library
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [open-telemetry/opentelemetry-cpp](https://github.com/open-telemetry/opentelemetry-cpp)
+  > The OpenTelemetry C++ Client
+
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja)
   > Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync
@@ -109,6 +115,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [secYOUre](https://github.com/secYOUre)
 - 🌟 👤 [secYOUre](https://github.com/secYOUre) Starred [RobTand/gridbook](https://github.com/RobTand/gridbook)
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [fizzyedit/fizzy](https://github.com/fizzyedit/fizzy)
+  > Pixel art editor made with Zig
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
@@ -152,7 +162,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 14:31:55 UTC*
+*Last updated at 2026-07-24 15:28:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
