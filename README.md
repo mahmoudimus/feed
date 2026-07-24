@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Gcenx](https://github.com/Gcenx)
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [bryanthaboi/pokemon-gen1-recomp-project](https://github.com/bryanthaboi/pokemon-gen1-recomp-project)
+  > Pokemon Gen 1 Recompilation Project - aka Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Pok...
+
 ### [Kesin11](https://github.com/Kesin11)
 - 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [schroneko/influ-quest](https://github.com/schroneko/influ-quest)
   > Influenza-themed retro RPG MCP server for event talks
@@ -43,6 +47,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [mrsanshui/WeChatPYAPI](https://github.com/mrsanshui/WeChatPYAPI)
   > 基于微信PC端的Python接口，开发者可通过Python轻松调用。实现微信机器人、群管理等强大的功能！3.9.10.19、4.0、4.x、x64、微信hook、微信接口
 
+### [ingydotnet](https://github.com/ingydotnet)
+- 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [clojurestar/clojure-cc](https://github.com/clojurestar/clojure-cc)
+  > Website for Clojure Dialects
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ssveitch/kemeleon-py](https://github.com/ssveitch/kemeleon-py)
 
@@ -76,6 +84,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A Hermes Agent plugin that makes your bot feel like a person in the chat instead of a bot. It plugs ...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [xa11y/xa11y](https://github.com/xa11y/xa11y) to [mrexodia/xa11y](https://github.com/mrexodia/xa11y)
   > Cross platform desktop accessibility library
+
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja)
+  > Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [miraclebakelaser/hcker-news-helper](https://github.com/miraclebakelaser/hcker-news-helper)
+  > The official companion browser extension for hcker.news. Vote, favorite, flag, hide, and reply using...
 
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
@@ -131,7 +145,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 12:25:35 UTC*
+*Last updated at 2026-07-24 13:29:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
