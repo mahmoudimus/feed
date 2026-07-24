@@ -29,11 +29,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [spiceai/spiceai](https://github.com/spiceai/spiceai)
   > Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL qu...
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [mrsanshui/WeChatPYAPI](https://github.com/mrsanshui/WeChatPYAPI)
+  > 基于微信PC端的Python接口，开发者可通过Python轻松调用。实现微信机器人、群管理等强大的功能！3.9.10.19、4.0、4.x、x64、微信hook、微信接口
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [juggler-ai/juggler](https://github.com/juggler-ai/juggler)
   > The Juggler Code Agent
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [tim-hardcastle/pipefish](https://github.com/tim-hardcastle/pipefish)
   > Source code for the Pipefish programming language
+
+### [moriyoshi](https://github.com/moriyoshi)
+- 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [moriyoshi/imbh](https://github.com/moriyoshi/imbh)
+  > A small-footprint, embeddable observability database for Rust.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
@@ -65,6 +73,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environment...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent)
   > TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [frenzymath/Archon](https://github.com/frenzymath/Archon)
+  >   AI-assisted Lean project automation with DAG blueprints, proof orchestration, and multi-agent codi...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Shineos/claude-orchestra](https://github.com/Shineos/claude-orchestra)
+  > Claude Code を活用したマルチエージェントシステム。Orchestratorと専門エージェントが連携して効率的な開発を実現します。
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [revfactory/harness](https://github.com/revfactory/harness)
+  > A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [coleam00/Archon](https://github.com/coleam00/Archon)
+  > The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [SaehwanPark/meta-harness](https://github.com/SaehwanPark/meta-harness)
+  > Codex-native meta-skill that designs domain-specific & specialized agents and generates the skills t...
 
 
 <!-- nav -->
@@ -72,7 +92,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 05:56:17 UTC*
+*Last updated at 2026-07-24 06:50:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
