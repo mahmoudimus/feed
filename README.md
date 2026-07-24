@@ -25,6 +25,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [TheTom](https://github.com/TheTom) Forked [doldecomp/melee](https://github.com/doldecomp/melee) to [TheTom/melee-decomp](https://github.com/TheTom/melee-decomp)
   > A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.
 
+### [Uberi](https://github.com/Uberi)
+- 🍴 👤 [Uberi](https://github.com/Uberi) Forked [fwupd/fwupd](https://github.com/fwupd/fwupd) to [Uberi/fwupd](https://github.com/Uberi/fwupd)
+  > A system daemon to allow session software to update firmware
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [tractordev/wanix](https://github.com/tractordev/wanix)
   > A compute toolkit for the web with the depth of Plan 9 from Bell Labs
@@ -51,6 +55,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [google/cityhash](https://github.com/google/cityhash) to [fengjixuchui/cityhash](https://github.com/fengjixuchui/cityhash)
   > Automatically exported from code.google.com/p/cityhash
+
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [block/buzz](https://github.com/block/buzz)
+  > A hive mind communication platform
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [spiceai/spiceai](https://github.com/spiceai/spiceai)
@@ -192,7 +200,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 21:21:27 UTC*
+*Last updated at 2026-07-24 22:20:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
