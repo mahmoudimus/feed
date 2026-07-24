@@ -155,6 +155,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [SaehwanPark/meta-harness](https://github.com/SaehwanPark/meta-harness)
   > Codex-native meta-skill that designs domain-specific & specialized agents and generates the skills t...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [stylelint/vscode-stylelint](https://github.com/stylelint/vscode-stylelint)
+  > The official Visual Studio Code extension for Stylelint
 
 
 <!-- nav -->
@@ -162,7 +164,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 16:29:57 UTC*
+*Last updated at 2026-07-24 17:29:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
