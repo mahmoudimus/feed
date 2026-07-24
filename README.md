@@ -29,6 +29,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [tractordev/wanix](https://github.com/tractordev/wanix)
   > A compute toolkit for the web with the depth of Plan 9 from Bell Labs
 
+### [Xyl2k](https://github.com/Xyl2k)
+- 🍴 👤 [Xyl2k](https://github.com/Xyl2k) Forked [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) to [Xyl2k/notepad-plus-plus](https://github.com/Xyl2k/notepad-plus-plus)
+  > Notepad++ official repository
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1)
   > Wan: Open and Advanced Large-Scale Video Generative Models
@@ -69,6 +73,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The Juggler Code Agent
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [tim-hardcastle/pipefish](https://github.com/tim-hardcastle/pipefish)
   > Source code for the Pipefish programming language
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [Gyoonus/deoptfuscator](https://github.com/Gyoonus/deoptfuscator)
+  > Deobfuscator for Android Application
 
 ### [mjpieters](https://github.com/mjpieters)
 - 🍴 👤 [mjpieters](https://github.com/mjpieters) Forked [astral-sh/ruff](https://github.com/astral-sh/ruff) to [mjpieters/ruff](https://github.com/mjpieters/ruff)
@@ -175,6 +183,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > High-performance Aho-Corasick multi-pattern string matching for Go
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [coregx/pubsub](https://github.com/coregx/pubsub)
   > Production-ready Pub/Sub library and standalone service for Go. Reliable messaging, DLQ, exponential...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [gastownhall/gascity](https://github.com/gastownhall/gascity)
+  > Orchestration-builder SDK for multi-agent coding workflows
 
 
 <!-- nav -->
@@ -182,7 +192,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 18:26:40 UTC*
+*Last updated at 2026-07-24 19:28:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
