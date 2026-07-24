@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [bryanthaboi/pokemon-gen1-recomp-project](https://github.com/bryanthaboi/pokemon-gen1-recomp-project)
   > Pokemon Gen 1 Recompilation Project - aka Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Pok...
 
+### [KIC](https://github.com/KIC)
+- 🌟 👤 [KIC](https://github.com/KIC) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
+  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
 ### [Kesin11](https://github.com/Kesin11)
 - 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [schroneko/influ-quest](https://github.com/schroneko/influ-quest)
   > Influenza-themed retro RPG MCP server for event talks
@@ -81,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iksteen/shellglass](https://github.com/iksteen/shellglass)
   > Mirror a pty as live HTML in your browser or to an ssh client
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
-  > DecBench: How close are we to recovering perfect decompilation from binaries?
+  > DecBench: An experimental living benchmark to measure how close we are to perfect decompilation on b...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [iksteen/shellglass](https://github.com/iksteen/shellglass) to [mrexodia/shellglass](https://github.com/mrexodia/shellglass)
   > Mirror a pty as live HTML in your browser or to an ssh client
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
@@ -100,6 +104,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [miraclebakelaser/hcker-news-helper](https://github.com/miraclebakelaser/hcker-news-helper)
   > The official companion browser extension for hcker.news. Vote, favorite, flag, hide, and reply using...
+
+### [parasyte](https://github.com/parasyte)
+- 🌟 👤 [parasyte](https://github.com/parasyte) Starred [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
+  > Open-source MCP to use Blender with any LLM
 
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
@@ -157,6 +165,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Codex-native meta-skill that designs domain-specific & specialized agents and generates the skills t...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [stylelint/vscode-stylelint](https://github.com/stylelint/vscode-stylelint)
   > The official Visual Studio Code extension for Stylelint
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Dicklesworthstone/ntm](https://github.com/Dicklesworthstone/ntm)
+  > Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) ac...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [coregx/gxpdf](https://github.com/coregx/gxpdf)
+  > GxPDF - Enterprise-grade PDF library for Go. Table extraction, text parsing, encryption, document cr...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [coregx/coregex](https://github.com/coregx/coregex)
+  > Pure Go production-grade regex engine with SIMD optimizations. Up to 3-3000x+ faster than stdlib.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [coregx/ahocorasick](https://github.com/coregx/ahocorasick)
+  > High-performance Aho-Corasick multi-pattern string matching for Go
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [coregx/pubsub](https://github.com/coregx/pubsub)
+  > Production-ready Pub/Sub library and standalone service for Go. Reliable messaging, DLQ, exponential...
 
 
 <!-- nav -->
@@ -164,7 +182,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 17:29:27 UTC*
+*Last updated at 2026-07-24 18:26:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
