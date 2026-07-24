@@ -16,6 +16,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [schroneko/influ-quest](https://github.com/schroneko/influ-quest)
   > Influenza-themed retro RPG MCP server for event talks
 
+### [TheTom](https://github.com/TheTom)
+- 🚀 👤 [TheTom](https://github.com/TheTom) Made [TheTom/offlabel](https://github.com/TheTom/offlabel) public
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [tractordev/wanix](https://github.com/tractordev/wanix)
   > A compute toolkit for the web with the depth of Plan 9 from Bell Labs
@@ -50,6 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [clojurestar/clojure-cc](https://github.com/clojurestar/clojure-cc)
   > Website for Clojure Dialects
+- 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [yaml/yamlstar](https://github.com/yaml/yamlstar)
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ssveitch/kemeleon-py](https://github.com/ssveitch/kemeleon-py)
@@ -103,6 +107,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [super-linter/super-linter](https://github.com/super-linter/super-linter)
   > Combination of multiple linters to run as a GitHub Action or standalone
 
+### [secYOUre](https://github.com/secYOUre)
+- 🌟 👤 [secYOUre](https://github.com/secYOUre) Starred [RobTand/gridbook](https://github.com/RobTand/gridbook)
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
   > A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -145,7 +152,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 13:29:45 UTC*
+*Last updated at 2026-07-24 14:31:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
