@@ -58,9 +58,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Humalike/hermes-humalike-plugin](https://github.com/Humalike/hermes-humalike-plugin)
   > A Hermes Agent plugin that makes your bot feel like a person in the chat instead of a bot. It plugs ...
 
+### [progrium](https://github.com/progrium)
+- 🌟 👤 [progrium](https://github.com/progrium) Starred [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc)
+  > HedgeDoc - Ideas grow better together
+
 ### [wl4g](https://github.com/wl4g)
 - 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/nexus-mcp](https://github.com/flowgent-labs/nexus-mcp)
   > An enhanced Enterprise-grade MCP server.
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [shanytc/snes9x](https://github.com/shanytc/snes9x)
+  > SuperSnes9x - Portable Super Nintendo Entertainment System (TM) emulator based on Snes9x
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)
@@ -92,7 +100,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 07:45:22 UTC*
+*Last updated at 2026-07-24 08:48:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
