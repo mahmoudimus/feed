@@ -16,6 +16,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [oblien/openship](https://github.com/oblien/openship)
   > Self-hosted deployment platform
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [x500x/wknet](https://github.com/x500x/wknet) to [fengjixuchui/wknet](https://github.com/fengjixuchui/wknet)
+  > 一个正在发展中的纯 windows 内核态的http/websocket客户端库
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [blobbyblo/vad-manipulation](https://github.com/blobbyblo/vad-manipulation) to [fengjixuchui/vad-manipulation](https://github.com/fengjixuchui/vad-manipulation)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame) to [fengjixuchui/SecureGame](https://github.com/fengjixuchui/SecureGame)
+  > Proof-of-concept game using VBS enclaves to protect itself from cheating
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [juggler-ai/juggler](https://github.com/juggler-ai/juggler)
+  > The Juggler Code Agent
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit)
@@ -28,12 +39,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Mirror a pty as live HTML in your browser or to an ssh client
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
   > agent multiplexer that lives in your terminal.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Humalike/hermes-humalike-plugin](https://github.com/Humalike/hermes-humalike-plugin)
+  > A Hermes Agent plugin that makes your bot feel like a person in the chat instead of a bot. It plugs ...
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts)
   > Tools for publishing transcripts for Claude Code sessions
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
   > #1 Persistent memory for AI coding agents based on real-world benchmarks
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [google-deepmind/transformer_grammars](https://github.com/google-deepmind/transformer_grammars)
+  > Transformer Grammars: Augmenting Transformer Language Models with Syntactic Inductive Biases at Scal...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [google-deepmind/dm_control](https://github.com/google-deepmind/dm_control)
+  > Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environment...
 
 
 <!-- nav -->
@@ -41,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-24 01:31:16 UTC*
+*Last updated at 2026-07-24 02:58:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
