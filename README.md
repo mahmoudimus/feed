@@ -38,6 +38,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [shidenggui/easyquotation](https://github.com/shidenggui/easyquotation)
   > 实时获取免费股票行情，支持新浪 / 腾讯(港股) / 集思录
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pixperk/dabba](https://github.com/pixperk/dabba)
+  > miniature Linux container runtime in C++ built to understand containers from first principles.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OP-Engineering/pure-module-skill](https://github.com/OP-Engineering/pure-module-skill)
+
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
   > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
@@ -52,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 07:36:45 UTC*
+*Last updated at 2026-07-25 08:37:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
