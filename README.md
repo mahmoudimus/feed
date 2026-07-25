@@ -46,6 +46,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dthree](https://github.com/dthree)
 - 🌟 👤 [dthree](https://github.com/dthree) Starred [Onemoremichael/agent-attention-streamdeck](https://github.com/Onemoremichael/agent-attention-streamdeck)
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [egoist/kero](https://github.com/egoist/kero)
+  > A native terminal workspace for macOS.
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [XSere/swfrztool](https://github.com/XSere/swfrztool) to [fengjixuchui/swfrztool](https://github.com/fengjixuchui/swfrztool)
   > 内核级希沃冰点还原管理工具
@@ -69,11 +73,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [crnbaker/gostringsynth](https://github.com/crnbaker/gostringsynth)
   > A finite difference string synthesizer written in Go
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [imbue-ai/mngr](https://github.com/imbue-ai/mngr)
+  > CLI for managing coding agents
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [imbue-ai/sculptor](https://github.com/imbue-ai/sculptor)
+  > Build product with grounded, parallel coding agents.
+
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [shidenggui/easytrader](https://github.com/shidenggui/easytrader)
   > 提供同花顺客户端/miniqmt/雪球的股票量化交易，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [shidenggui/easyquotation](https://github.com/shidenggui/easyquotation)
   > 实时获取免费股票行情，支持新浪 / 腾讯(港股) / 集思录
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/Vedrock](https://github.com/bedrock-v/Vedrock)
+  > Lightweight Minecraft: Bedrock Edition server software written in V
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pixperk/dabba](https://github.com/pixperk/dabba)
@@ -99,6 +113,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
   > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
+### [yangdanny97](https://github.com/yangdanny97)
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [MarcoGorelli/polars-reverse-geocode](https://github.com/MarcoGorelli/polars-reverse-geocode)
+  > Fast offline reverse geocoder
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [ValdezFOmar/tree-sitter-format-string](https://github.com/ValdezFOmar/tree-sitter-format-string)
   > Curly brace style string formatting grammar for tree-sitter
@@ -109,7 +127,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 13:28:50 UTC*
+*Last updated at 2026-07-25 14:29:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
