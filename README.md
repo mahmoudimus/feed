@@ -31,6 +31,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 🗻 Log-structured, embeddable key-value storage engine written in Rust
 - 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [fjall-rs/fjall](https://github.com/fjall-rs/fjall) to [gabrielfalcao/fjall](https://github.com/gabrielfalcao/fjall)
   > 🗻 Log-structured, embeddable key-value storage engine written in Rust
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [crnbaker/gostringsynth](https://github.com/crnbaker/gostringsynth)
+  > A finite difference string synthesizer written in Go
 
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [shidenggui/easytrader](https://github.com/shidenggui/easytrader)
@@ -42,6 +44,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pixperk/dabba](https://github.com/pixperk/dabba)
   > miniature Linux container runtime in C++ built to understand containers from first principles.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OP-Engineering/pure-module-skill](https://github.com/OP-Engineering/pure-module-skill)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [next-state/open-dreamer](https://github.com/next-state/open-dreamer)
+  > Open-source Dreamer world-model implementation in JAX
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [google/llvm-propeller](https://github.com/google/llvm-propeller)
@@ -61,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 09:30:29 UTC*
+*Last updated at 2026-07-25 10:28:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
