@@ -8,6 +8,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [alibaba/zvec](https://github.com/alibaba/zvec)
+  > A lightweight, lightning-fast, in-process vector database
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+  > Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: determi...
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [alibaba/pipcook](https://github.com/alibaba/pipcook)
+  > Machine learning platform for Web developers
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [alibaba/MNN](https://github.com/alibaba/MNN)
+  > MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performanc...
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [nilbuild/slim](https://github.com/nilbuild/slim)
+  > Give your localhost a local or public URL
+
+### [Gcenx](https://github.com/Gcenx)
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [utmapp/d3dmetal-native](https://github.com/utmapp/d3dmetal-native)
+  > DirectX implementation on Metal
+
 ### [Midi12](https://github.com/Midi12)
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
   > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you ...
@@ -46,6 +62,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > ARM emulator, assembly, and disassembly libraries/tools (can run Linux!)
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
   > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
+
+### [bsideup](https://github.com/bsideup)
+- 🌟 👤 [bsideup](https://github.com/bsideup) Starred [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)
 
 ### [dthree](https://github.com/dthree)
 - 🌟 👤 [dthree](https://github.com/dthree) Starred [Onemoremichael/agent-attention-streamdeck](https://github.com/Onemoremichael/agent-attention-streamdeck)
@@ -106,6 +125,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [iii-hq/workers](https://github.com/iii-hq/workers)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [letta-ai/trajectory](https://github.com/letta-ai/trajectory)
   > Convert sessions across harnesses to a unified trajectory format - designed to be consumed by agents...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [angt/secret](https://github.com/angt/secret)
+  > A tiny secret store to keep your little secrets
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [google/llvm-propeller](https://github.com/google/llvm-propeller)
@@ -133,7 +154,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 17:19:19 UTC*
+*Last updated at 2026-07-25 18:14:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
