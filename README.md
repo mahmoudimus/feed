@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+  > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you ...
+
 ### [bbugdigger](https://github.com/bbugdigger)
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [rust-osdev/x86_64](https://github.com/rust-osdev/x86_64)
   > Library to program x86_64 hardware.
@@ -78,6 +82,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > CLI for managing coding agents
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [imbue-ai/sculptor](https://github.com/imbue-ai/sculptor)
   > Build product with grounded, parallel coding agents.
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
+  > 🙌 OpenHands: AI-Driven Development
 
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [shidenggui/easytrader](https://github.com/shidenggui/easytrader)
@@ -127,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 16:16:18 UTC*
+*Last updated at 2026-07-25 17:19:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
