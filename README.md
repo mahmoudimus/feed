@@ -129,6 +129,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [shidenggui/easyquotation](https://github.com/shidenggui/easyquotation)
   > 实时获取免费股票行情，支持新浪 / 腾讯(港股) / 集思录
 
+### [jentfoo](https://github.com/jentfoo)
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [jentfoo/toolbox-sidescale](https://github.com/jentfoo/toolbox-sidescale)
+  > Sidecar for go-appsec/toolbox which handles the Tailscale Noise and DERP protocols
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/Vedrock](https://github.com/bedrock-v/Vedrock)
   > Lightweight Minecraft: Bedrock Edition server software written in V
@@ -150,6 +154,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The AI-era curl
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
   > The fastest browser for AI agents to run web automation, built for sharing your logged-in browser st...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [varunneal/nanorun](https://github.com/varunneal/nanorun)
+  > Training and Research Experimentation platform
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [google/llvm-propeller](https://github.com/google/llvm-propeller)
@@ -158,6 +164,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [MengTo/Skills](https://github.com/MengTo/Skills)
   > Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)
+  > A Call of Duty-quality FPS in Three.js, built from a single prompt.
 
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
@@ -177,7 +185,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 21:15:38 UTC*
+*Last updated at 2026-07-25 22:15:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
