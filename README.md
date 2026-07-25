@@ -8,6 +8,41 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [bbugdigger](https://github.com/bbugdigger)
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [rust-osdev/x86_64](https://github.com/rust-osdev/x86_64)
+  > Library to program x86_64 hardware.
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [hrbust86/HookMsrBySVM](https://github.com/hrbust86/HookMsrBySVM)
+  > hook msr by amd svm
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [shreyaslad/sonar](https://github.com/shreyaslad/sonar)
+  > A Type-1 hypervisor aimed to implement kernel hotswapping
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [RIKEN-RCCS/MilvusVisor](https://github.com/RIKEN-RCCS/MilvusVisor)
+  > A thin-hypervisor that runs on aarch64 CPUs.
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [Air14/airhv](https://github.com/Air14/airhv)
+  > Simple Intel VT-x hypervisor
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [kmlgping/ShotHv](https://github.com/kmlgping/ShotHv)
+  > ShotHv
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [bi-zone/rdtsc-checkvirt-poc](https://github.com/bi-zone/rdtsc-checkvirt-poc)
+  > Virtualization detection through speculative execution PoCs and papers
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [KANKOSHEV/NoScreen](https://github.com/KANKOSHEV/NoScreen)
+  > Hiding the window from screenshots using the function win32kfull::GreProtectSpriteContent
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [wizardengineer/hwid-checker-mg](https://github.com/wizardengineer/hwid-checker-mg)
+  > hwid-checker-mg is simple, proof-of-concept, hardware id checker made in C++ that utilizes the SMBIO...
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [Tai7sy/BE_Fuck](https://github.com/Tai7sy/BE_Fuck)
+  > BattlEye Emulator, modified from slicktors work.
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [ApexLegendsUC/anti-cheat-emulator](https://github.com/ApexLegendsUC/anti-cheat-emulator)
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [sondernextdoor/Poseidon](https://github.com/sondernextdoor/Poseidon)
+  > Stealthy UM <-> KM communication system without creating any system threads, permanent hooks, driver...
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [crtdll/battleye-decryption](https://github.com/crtdll/battleye-decryption)
+  > Decrypts multiple BattlEye packets from BEService<>BEDaisy (including those with multiple encryption...
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [ekknod/smm](https://github.com/ekknod/smm)
+  > alternative smm driver for ryzen motherboards
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [binsnake/fARM64](https://github.com/binsnake/fARM64)
+  > ARM64 decoder and encoder
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [kernelwernel/llarm](https://github.com/kernelwernel/llarm)
+  > ARM emulator, assembly, and disassembly libraries/tools (can run Linux!)
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
+  > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
+
 ### [dthree](https://github.com/dthree)
 - 🌟 👤 [dthree](https://github.com/dthree) Starred [Onemoremichael/agent-attention-streamdeck](https://github.com/Onemoremichael/agent-attention-streamdeck)
 
@@ -49,10 +84,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [iii-hq/iii](https://github.com/iii-hq/iii)
   > Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [iii-hq/workers](https://github.com/iii-hq/workers)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [letta-ai/trajectory](https://github.com/letta-ai/trajectory)
+  > Convert sessions across harnesses to a unified trajectory format - designed to be consumed by agents...
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [google/llvm-propeller](https://github.com/google/llvm-propeller)
   > PROPELLER: Profile Guided Optimizing Large Scale LLVM-based Relinker
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [MengTo/Skills](https://github.com/MengTo/Skills)
+  > Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
 
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
@@ -68,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 12:15:24 UTC*
+*Last updated at 2026-07-25 13:28:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
