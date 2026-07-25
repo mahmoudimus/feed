@@ -40,10 +40,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [shidenggui/easyquotation](https://github.com/shidenggui/easyquotation)
   > 实时获取免费股票行情，支持新浪 / 腾讯(港股) / 集思录
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stencil-hq/slab](https://github.com/stencil-hq/slab)
-  > A design language for agents
-
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pixperk/dabba](https://github.com/pixperk/dabba)
   > miniature Linux container runtime in C++ built to understand containers from first principles.
@@ -72,7 +68,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 11:23:57 UTC*
+*Last updated at 2026-07-25 12:15:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
