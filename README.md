@@ -19,6 +19,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performanc...
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [nilbuild/slim](https://github.com/nilbuild/slim)
   > Give your localhost a local or public URL
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [block/buzz](https://github.com/block/buzz)
+  > A hive mind communication platform
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [block/elasticgraph](https://github.com/block/elasticgraph)
+  > Schema-driven, scalable, cloud-native, batteries-included GraphQL, backed by Elasticsearch/OpenSearc...
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [block/spirit](https://github.com/block/spirit)
+  > Online schema change and data operations for MySQL 8.0+
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [block/proto-fleet](https://github.com/block/proto-fleet)
+  > Proto Fleet. Mining management software. Evolved.
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [block/builderbot](https://github.com/block/builderbot)
+  > Incubating experimental AI projects to operate millions of lines of code
 
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [utmapp/d3dmetal-native](https://github.com/utmapp/d3dmetal-native)
@@ -68,6 +78,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [dthree](https://github.com/dthree)
 - 🌟 👤 [dthree](https://github.com/dthree) Starred [Onemoremichael/agent-attention-streamdeck](https://github.com/Onemoremichael/agent-attention-streamdeck)
+
+### [dumbasPL](https://github.com/dumbasPL)
+- 🌟 👤 [dumbasPL](https://github.com/dumbasPL) Starred [gekkehenkie11/esphome_gree_ac](https://github.com/gekkehenkie11/esphome_gree_ac)
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [egoist/kero](https://github.com/egoist/kero)
@@ -127,6 +140,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Convert sessions across harnesses to a unified trajectory format - designed to be consumed by agents...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [angt/secret](https://github.com/angt/secret)
   > A tiny secret store to keep your little secrets
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [yusukebe/ax](https://github.com/yusukebe/ax)
+  > The AI-era curl
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)
+  > The fastest browser for AI agents to run web automation, built for sharing your logged-in browser st...
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [google/llvm-propeller](https://github.com/google/llvm-propeller)
@@ -154,7 +171,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 18:14:49 UTC*
+*Last updated at 2026-07-25 19:24:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
