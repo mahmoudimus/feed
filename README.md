@@ -73,8 +73,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
   > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
 
+### [bduisenov](https://github.com/bduisenov)
+- 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+  > Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+
 ### [bsideup](https://github.com/bsideup)
 - 🌟 👤 [bsideup](https://github.com/bsideup) Starred [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)
+- 🌟 👤 [bsideup](https://github.com/bsideup) Starred [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+  > Nano vLLM
 
 ### [dthree](https://github.com/dthree)
 - 🌟 👤 [dthree](https://github.com/dthree) Starred [Onemoremichael/agent-attention-streamdeck](https://github.com/Onemoremichael/agent-attention-streamdeck)
@@ -171,7 +177,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 20:17:17 UTC*
+*Last updated at 2026-07-25 21:15:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
