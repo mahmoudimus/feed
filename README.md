@@ -25,7 +25,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [apresta/max-studio-tools](https://github.com/apresta/max-studio-tools) to [gabrielfalcao/max-studio-tools](https://github.com/gabrielfalcao/max-studio-tools)
   > Max/MSP externals covering essential studio gear
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [didriksg/Crisp](https://github.com/didriksg/Crisp)
-  > Every display control macOS hides, in one menu bar panel: external monitor brightness (DDC or softwa...
+  > A free, open-source alternative to BetterDisplay and Lunar. Every display control macOS hides in one...
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [nyblnet/bento](https://github.com/nyblnet/bento)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [fjall-rs/fjall](https://github.com/fjall-rs/fjall)
   > 🗻 Log-structured, embeddable key-value storage engine written in Rust
@@ -40,12 +40,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [shidenggui/easyquotation](https://github.com/shidenggui/easyquotation)
   > 实时获取免费股票行情，支持新浪 / 腾讯(港股) / 集思录
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stencil-hq/slab](https://github.com/stencil-hq/slab)
+  > A design language for agents
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pixperk/dabba](https://github.com/pixperk/dabba)
   > miniature Linux container runtime in C++ built to understand containers from first principles.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OP-Engineering/pure-module-skill](https://github.com/OP-Engineering/pure-module-skill)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [next-state/open-dreamer](https://github.com/next-state/open-dreamer)
   > Open-source Dreamer world-model implementation in JAX
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [iii-hq/iii](https://github.com/iii-hq/iii)
+  > Effortlessly compose, extend, and observe every service in real-time for the first time ever.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [iii-hq/workers](https://github.com/iii-hq/workers)
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [google/llvm-propeller](https://github.com/google/llvm-propeller)
@@ -65,7 +72,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-25 10:28:57 UTC*
+*Last updated at 2026-07-25 11:23:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
