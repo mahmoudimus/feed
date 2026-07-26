@@ -22,6 +22,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [entireio/cli](https://github.com/entireio/cli)
+  > 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are ind...
 
 ### [jmcarp](https://github.com/jmcarp)
 - 🌟 👤 [jmcarp](https://github.com/jmcarp) Starred [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
@@ -72,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 16:18:23 UTC*
+*Last updated at 2026-07-26 17:19:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
