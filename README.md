@@ -15,6 +15,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [DinoChiesa](https://github.com/DinoChiesa)
 - 🌟 👤 [DinoChiesa](https://github.com/DinoChiesa) Starred [snexts/snexts.github.io](https://github.com/snexts/snexts.github.io)
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [skorotkiewicz/inflect-speechd](https://github.com/skorotkiewicz/inflect-speechd)
+
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [tonbo-io/typed-arrow](https://github.com/tonbo-io/typed-arrow)
   > First-class compile‑time Arrow schemas for Rust.
@@ -29,7 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 05:59:33 UTC*
+*Last updated at 2026-07-26 07:04:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
