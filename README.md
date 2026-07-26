@@ -8,12 +8,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Dicklesworthstone](https://github.com/Dicklesworthstone)
+- 🍴 👤 [Dicklesworthstone](https://github.com/Dicklesworthstone) Forked [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) to [Dicklesworthstone/hnswlib-rs](https://github.com/Dicklesworthstone/hnswlib-rs)
+  > Rust implementation of the HNSW algorithm (Malkov-Yashunin)
+
 ### [DinoChiesa](https://github.com/DinoChiesa)
 - 🌟 👤 [DinoChiesa](https://github.com/DinoChiesa) Starred [snexts/snexts.github.io](https://github.com/snexts/snexts.github.io)
 
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
+
+### [jmcarp](https://github.com/jmcarp)
+- 🌟 👤 [jmcarp](https://github.com/jmcarp) Starred [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
+  > A command-line benchmarking tool
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [skorotkiewicz/inflect-speechd](https://github.com/skorotkiewicz/inflect-speechd)
@@ -60,7 +68,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 14:28:59 UTC*
+*Last updated at 2026-07-26 15:22:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
