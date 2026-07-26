@@ -25,6 +25,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [entireio/cli](https://github.com/entireio/cli)
   > 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are ind...
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [NousResearch/autonovel](https://github.com/NousResearch/autonovel)
+  > An autonomous novel writing pipeline, by Hermes Agent
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
+  > Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for N...
+
 ### [jmcarp](https://github.com/jmcarp)
 - 🌟 👤 [jmcarp](https://github.com/jmcarp) Starred [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
   > A command-line benchmarking tool
@@ -55,6 +61,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semanti...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deer-flow/llm-space](https://github.com/deer-flow/llm-space)
   > A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate pe...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [elmindreda/duff](https://github.com/elmindreda/duff)
+  > Command-line utility for finding duplicate files
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [github/codeql-action](https://github.com/github/codeql-action)
@@ -74,7 +82,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 17:19:34 UTC*
+*Last updated at 2026-07-26 18:17:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
