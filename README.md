@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [DinoChiesa](https://github.com/DinoChiesa)
 - 🌟 👤 [DinoChiesa](https://github.com/DinoChiesa) Starred [snexts/snexts.github.io](https://github.com/snexts/snexts.github.io)
 
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .agents directory.
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [skorotkiewicz/inflect-speechd](https://github.com/skorotkiewicz/inflect-speechd)
 
@@ -25,6 +29,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Nbt library for Minecraft: Bedrock Edition written in V
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/raknet](https://github.com/bedrock-v/raknet)
   > V library for RakNet protocol.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/ExCrypt](https://github.com/emoose/ExCrypt) to [mrexodia/ExCrypt](https://github.com/mrexodia/ExCrypt)
+  > Open source replacement for the Xbox360 XeCrypt suite.
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ekzhang/graphon](https://github.com/ekzhang/graphon)
+  > 🌌 A very small graph database in Zig
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow)
+  > An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semanti...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [github/codeql-action](https://github.com/github/codeql-action)
@@ -44,7 +58,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 11:26:53 UTC*
+*Last updated at 2026-07-26 12:19:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
