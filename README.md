@@ -8,10 +8,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [Dicklesworthstone](https://github.com/Dicklesworthstone)
-- 🍴 👤 [Dicklesworthstone](https://github.com/Dicklesworthstone) Forked [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) to [Dicklesworthstone/hnswlib-rs](https://github.com/Dicklesworthstone/hnswlib-rs)
-  > Rust implementation of the HNSW algorithm (Malkov-Yashunin)
-
 ### [DinoChiesa](https://github.com/DinoChiesa)
 - 🌟 👤 [DinoChiesa](https://github.com/DinoChiesa) Starred [snexts/snexts.github.io](https://github.com/snexts/snexts.github.io)
 
@@ -61,6 +57,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/ExCrypt](https://github.com/emoose/ExCrypt) to [mrexodia/ExCrypt](https://github.com/mrexodia/ExCrypt)
   > Open source replacement for the Xbox360 XeCrypt suite.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)
+  > Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [block/buzz](https://github.com/block/buzz)
+  > A hive mind communication platform
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ekzhang/graphon](https://github.com/ekzhang/graphon)
@@ -74,9 +74,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook)
   > 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent
 
+### [notfoundry](https://github.com/notfoundry)
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [neilberkman/ccrider](https://github.com/neilberkman/ccrider)
+  > Search, browse, and resume your Claude Code sessions. Fast.
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [github/codeql-action](https://github.com/github/codeql-action)
   > Actions for running CodeQL analysis
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [steelbrain/reims-vgpu](https://github.com/steelbrain/reims-vgpu)
+  > reims-vgpu is an experimental virtual GPU for macOS guests
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [tonbo-io/typed-arrow](https://github.com/tonbo-io/typed-arrow)
@@ -92,7 +100,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 21:16:04 UTC*
+*Last updated at 2026-07-26 22:16:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
