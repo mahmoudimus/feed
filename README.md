@@ -8,10 +8,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [Dicklesworthstone](https://github.com/Dicklesworthstone)
-- 🍴 👤 [Dicklesworthstone](https://github.com/Dicklesworthstone) Forked [jean-pierreBoth/hnswlib-rs](https://github.com/jean-pierreBoth/hnswlib-rs) to [Dicklesworthstone/hnswlib-rs](https://github.com/Dicklesworthstone/hnswlib-rs)
-  > Rust implementation of the HNSW algorithm (Malkov-Yashunin)
-
 ### [DinoChiesa](https://github.com/DinoChiesa)
 - 🌟 👤 [DinoChiesa](https://github.com/DinoChiesa) Starred [snexts/snexts.github.io](https://github.com/snexts/snexts.github.io)
 
@@ -21,6 +17,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [skorotkiewicz/inflect-speechd](https://github.com/skorotkiewicz/inflect-speechd)
+
+### [mathiasbynens](https://github.com/mathiasbynens)
+- 🌟 👤 [mathiasbynens](https://github.com/mathiasbynens) Starred [ccev/TrafficLight](https://github.com/ccev/TrafficLight)
+  > 🚦 Beautiful traffic logging for pogo
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/protocol](https://github.com/bedrock-v/protocol)
@@ -60,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 13:28:21 UTC*
+*Last updated at 2026-07-26 14:28:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
