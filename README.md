@@ -18,6 +18,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [skorotkiewicz/inflect-speechd](https://github.com/skorotkiewicz/inflect-speechd)
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/protocol](https://github.com/bedrock-v/protocol)
+  > A protocol library written in V for Minecraft: Bedrock Edition 
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/nbt](https://github.com/bedrock-v/nbt)
+  > Nbt library for Minecraft: Bedrock Edition written in V
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/raknet](https://github.com/bedrock-v/raknet)
+  > V library for RakNet protocol.
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [github/codeql-action](https://github.com/github/codeql-action)
+  > Actions for running CodeQL analysis
+
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [tonbo-io/typed-arrow](https://github.com/tonbo-io/typed-arrow)
   > First-class compile‑time Arrow schemas for Rust.
@@ -32,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 07:04:18 UTC*
+*Last updated at 2026-07-26 08:45:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
