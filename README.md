@@ -8,14 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [aportale/posterazor](https://github.com/aportale/posterazor)
+  > The PosteRazor cuts a raster image into pieces which can afterwards be printed out and assembled to ...
+
 
 <!-- nav -->
 [← 2026-07-25](archive/2026/07/25.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 00:19:48 UTC*
+*Last updated at 2026-07-26 01:31:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
