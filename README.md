@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [DinoChiesa](https://github.com/DinoChiesa)
 - 🌟 👤 [DinoChiesa](https://github.com/DinoChiesa) Starred [snexts/snexts.github.io](https://github.com/snexts/snexts.github.io)
 
+### [John-K](https://github.com/John-K)
+- 🌟 👤 [John-K](https://github.com/John-K) Starred [superdingo101/daylight-calendar-card](https://github.com/superdingo101/daylight-calendar-card)
+  > A beautiful, custom Home Assistant calendar card
+
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
   > Lightpanda: the headless browser designed for AI and automation
@@ -86,7 +90,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 19:25:11 UTC*
+*Last updated at 2026-07-26 20:18:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
