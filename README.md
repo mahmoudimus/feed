@@ -39,6 +39,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 🌌 A very small graph database in Zig
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow)
   > An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semanti...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deer-flow/llm-space](https://github.com/deer-flow/llm-space)
+  > A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate pe...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [github/codeql-action](https://github.com/github/codeql-action)
@@ -58,7 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 12:19:30 UTC*
+*Last updated at 2026-07-26 13:28:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
