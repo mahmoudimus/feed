@@ -71,6 +71,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate pe...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [elmindreda/duff](https://github.com/elmindreda/duff)
   > Command-line utility for finding duplicate files
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook)
+  > 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [github/codeql-action](https://github.com/github/codeql-action)
@@ -90,7 +92,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 20:18:25 UTC*
+*Last updated at 2026-07-26 21:16:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
