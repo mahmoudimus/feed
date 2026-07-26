@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [DinoChiesa](https://github.com/DinoChiesa)
 - 🌟 👤 [DinoChiesa](https://github.com/DinoChiesa) Starred [snexts/snexts.github.io](https://github.com/snexts/snexts.github.io)
 
+### [KIC](https://github.com/KIC)
+- 🌟 👤 [KIC](https://github.com/KIC) Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+  > Lightpanda: the headless browser designed for AI and automation
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
@@ -68,7 +72,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 15:22:03 UTC*
+*Last updated at 2026-07-26 16:18:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
