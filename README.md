@@ -8,6 +8,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [DinoChiesa](https://github.com/DinoChiesa)
+- 🌟 👤 [DinoChiesa](https://github.com/DinoChiesa) Starred [snexts/snexts.github.io](https://github.com/snexts/snexts.github.io)
+
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [tonbo-io/typed-arrow](https://github.com/tonbo-io/typed-arrow)
+  > First-class compile‑time Arrow schemas for Rust.
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [aportale/posterazor](https://github.com/aportale/posterazor)
   > The PosteRazor cuts a raster image into pieces which can afterwards be printed out and assembled to ...
@@ -18,7 +25,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 02:58:48 UTC*
+*Last updated at 2026-07-26 04:16:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
