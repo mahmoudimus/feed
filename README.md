@@ -31,6 +31,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
   > Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for N...
 
+### [heinermann](https://github.com/heinermann)
+- 🌟 👤 [heinermann](https://github.com/heinermann) Starred [Tigule/Alpha](https://github.com/Tigule/Alpha)
+  > Documenting an alpha version of World of Warcraft
+
 ### [jmcarp](https://github.com/jmcarp)
 - 🌟 👤 [jmcarp](https://github.com/jmcarp) Starred [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
   > A command-line benchmarking tool
@@ -82,7 +86,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 18:17:37 UTC*
+*Last updated at 2026-07-26 19:25:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
