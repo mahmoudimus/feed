@@ -35,6 +35,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [armxe/tiktok-api](https://github.com/armxe/tiktok-api)
   > Overview of TikTok's Anti-Bot Encrypted Values - X-Argus, X-Bogus and more.
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [1992724048/stdpp-xorstr](https://github.com/1992724048/stdpp-xorstr)
+  > C++20 compile-time string & array obfuscation: Huffman compression + CBC-mode XOR + even/odd byte in...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [hello245m/free-stockdb](https://github.com/hello245m/free-stockdb)
+  > 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
@@ -55,6 +59,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [VAIL-UCLA/WorldWeaver](https://github.com/VAIL-UCLA/WorldWeaver)
 
 ### [juicycleff](https://github.com/juicycleff)
 - 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
@@ -110,6 +117,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Open Frontier Intelligence
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pg83/shitty](https://github.com/pg83/shitty)
   > new terminal emulator
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA)
+  > FlashKDA: high-performance Kimi Delta Attention kernels
 
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [ib-api-reloaded/ib_async](https://github.com/ib-api-reloaded/ib_async)
@@ -152,6 +161,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [dedicated-os/dedicated-zero40](https://github.com/dedicated-os/dedicated-zero40)
   > DEDICATED OS is a hyper-focused, single-system launcher for playing Nintendo DS on the MagicX Zero40
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [azahar-emu/azahar](https://github.com/azahar-emu/azahar)
+  > An open-source 3DS emulator project based on Citra.
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion)
@@ -170,7 +181,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 19:28:56 UTC*
+*Last updated at 2026-07-27 20:27:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
