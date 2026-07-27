@@ -44,6 +44,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [neural-maze/production-ocr-course](https://github.com/neural-maze/production-ocr-course)
   > Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernet...
 
+### [jaredpalmer](https://github.com/jaredpalmer)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
+  > AgentENV (AENV) is a distributed platform for running agent environments at scale.
+
 ### [juicycleff](https://github.com/juicycleff)
 - 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
@@ -72,6 +76,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
   > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
+  > AgentENV (AENV) is a distributed platform for running agent environments at scale.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm)
@@ -84,10 +90,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A Swift library providing CoreAnimation (QuartzCore) API compatibility for WebAssembly, powered by  ...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [orielhaim/tszig](https://github.com/orielhaim/tszig)
   > An experimental compiler that translates TypeScript into Zig
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
+  > Open Frontier Intelligence
 
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [ib-api-reloaded/ib_async](https://github.com/ib-api-reloaded/ib_async)
   > Python sync/async framework for Interactive Brokers API (replaces ib_insync)
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [google/xls](https://github.com/google/xls)
+  > XLS: Accelerated HW Synthesis
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [losfair/bake](https://github.com/losfair/bake)
+  > Bake microVMs into standalone executables
 
 ### [simonw](https://github.com/simonw)
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) to [simonw/scriptc](https://github.com/simonw/scriptc)
@@ -128,7 +144,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 15:52:46 UTC*
+*Last updated at 2026-07-27 16:40:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
