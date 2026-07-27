@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [armxe/tiktok-api](https://github.com/armxe/tiktok-api)
   > Overview of TikTok's Anti-Bot Encrypted Values - X-Argus, X-Bogus and more.
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+  > Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i...
+
 ### [juicycleff](https://github.com/juicycleff)
 - 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
@@ -62,6 +66,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/idaxex](https://github.com/emoose/idaxex) to [mrexodia/idaxex](https://github.com/mrexodia/idaxex)
   > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
+  > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm)
@@ -103,6 +109,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [dusty-nv/NanoLLM](https://github.com/dusty-nv/NanoLLM)
+  > Optimized local inference for LLMs with HuggingFace-like APIs for quantization, vision/language mode...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [huggingface/nanoVLM](https://github.com/huggingface/nanoVLM)
+  > The simplest, fastest repository for training/finetuning small-sized VLMs.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli)
+  > Automate Ghidra reverse engineering from the command line — headless analysis, decompilation, and st...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [droe/binja-blocks](https://github.com/droe/binja-blocks)
+  > Apple Blocks Plugin for Binary Ninja
 
 
 <!-- nav -->
@@ -110,7 +124,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 12:02:17 UTC*
+*Last updated at 2026-07-27 13:46:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
