@@ -90,6 +90,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
   > AgentENV (AENV) is a distributed platform for running agent environments at scale.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+  > The most RAM effiecent harness
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
+  > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm)
@@ -166,7 +170,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 18:28:13 UTC*
+*Last updated at 2026-07-27 19:28:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
