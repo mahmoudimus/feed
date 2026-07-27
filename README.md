@@ -25,6 +25,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [entireio/cli](https://github.com/entireio/cli)
   > 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are ind...
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [Julian-adv/OpenMMO](https://github.com/Julian-adv/OpenMMO)
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [NousResearch/autonovel](https://github.com/NousResearch/autonovel)
   > An autonomous novel writing pipeline, by Hermes Agent
@@ -61,6 +64,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [block/buzz](https://github.com/block/buzz)
   > A hive mind communication platform
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) to [mrexodia/herdr](https://github.com/mrexodia/herdr)
+  > agent multiplexer that lives in your terminal.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ekzhang/graphon](https://github.com/ekzhang/graphon)
@@ -100,7 +105,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 22:16:59 UTC*
+*Last updated at 2026-07-26 23:17:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
