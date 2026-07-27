@@ -1,111 +1,21 @@
-# Daily GitHub Activity (2026-07-26)
+# Daily GitHub Activity (2026-07-27)
 
 <!-- nav -->
-[← 2026-07-25](archive/2026/07/25.md)
+[← 2026-07-26](archive/2026/07/26.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [DinoChiesa](https://github.com/DinoChiesa)
-- 🌟 👤 [DinoChiesa](https://github.com/DinoChiesa) Starred [snexts/snexts.github.io](https://github.com/snexts/snexts.github.io)
-
-### [John-K](https://github.com/John-K)
-- 🌟 👤 [John-K](https://github.com/John-K) Starred [superdingo101/daylight-calendar-card](https://github.com/superdingo101/daylight-calendar-card)
-  > A beautiful, custom Home Assistant calendar card
-
-### [KIC](https://github.com/KIC)
-- 🌟 👤 [KIC](https://github.com/KIC) Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
-  > Lightpanda: the headless browser designed for AI and automation
-
-### [dustinblackman](https://github.com/dustinblackman)
-- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-  > Skills for Real Engineers. Straight from my .agents directory.
-- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [entireio/cli](https://github.com/entireio/cli)
-  > 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are ind...
-
-### [fangpenlin](https://github.com/fangpenlin)
-- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [Julian-adv/OpenMMO](https://github.com/Julian-adv/OpenMMO)
-
-### [h2non](https://github.com/h2non)
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [NousResearch/autonovel](https://github.com/NousResearch/autonovel)
-  > An autonomous novel writing pipeline, by Hermes Agent
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent)
-  > Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for N...
-
-### [heinermann](https://github.com/heinermann)
-- 🌟 👤 [heinermann](https://github.com/heinermann) Starred [Tigule/Alpha](https://github.com/Tigule/Alpha)
-  > Documenting an alpha version of World of Warcraft
-
-### [jmcarp](https://github.com/jmcarp)
-- 🌟 👤 [jmcarp](https://github.com/jmcarp) Starred [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-  > A command-line benchmarking tool
-
-### [lgastako](https://github.com/lgastako)
-- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [skorotkiewicz/inflect-speechd](https://github.com/skorotkiewicz/inflect-speechd)
-
-### [mathiasbynens](https://github.com/mathiasbynens)
-- 🌟 👤 [mathiasbynens](https://github.com/mathiasbynens) Starred [ccev/TrafficLight](https://github.com/ccev/TrafficLight)
-  > 🚦 Beautiful traffic logging for pogo
-
-### [mitsuakki](https://github.com/mitsuakki)
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/protocol](https://github.com/bedrock-v/protocol)
-  > A protocol library written in V for Minecraft: Bedrock Edition 
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/nbt](https://github.com/bedrock-v/nbt)
-  > Nbt library for Minecraft: Bedrock Edition written in V
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bedrock-v/raknet](https://github.com/bedrock-v/raknet)
-  > V library for RakNet protocol.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/ExCrypt](https://github.com/emoose/ExCrypt) to [mrexodia/ExCrypt](https://github.com/mrexodia/ExCrypt)
-  > Open source replacement for the Xbox360 XeCrypt suite.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)
-  > Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [block/buzz](https://github.com/block/buzz)
-  > A hive mind communication platform
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) to [mrexodia/herdr](https://github.com/mrexodia/herdr)
-  > agent multiplexer that lives in your terminal.
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ekzhang/graphon](https://github.com/ekzhang/graphon)
-  > 🌌 A very small graph database in Zig
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow)
-  > An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semanti...
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deer-flow/llm-space](https://github.com/deer-flow/llm-space)
-  > A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate pe...
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [elmindreda/duff](https://github.com/elmindreda/duff)
-  > Command-line utility for finding duplicate files
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook)
-  > 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent
-
-### [notfoundry](https://github.com/notfoundry)
-- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [neilberkman/ccrider](https://github.com/neilberkman/ccrider)
-  > Search, browse, and resume your Claude Code sessions. Fast.
-
-### [qiyuangong](https://github.com/qiyuangong)
-- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [github/codeql-action](https://github.com/github/codeql-action)
-  > Actions for running CodeQL analysis
-
-### [spotlightishere](https://github.com/spotlightishere)
-- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [steelbrain/reims-vgpu](https://github.com/steelbrain/reims-vgpu)
-  > reims-vgpu is an experimental virtual GPU for macOS guests
-
-### [stepancheg](https://github.com/stepancheg)
-- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [tonbo-io/typed-arrow](https://github.com/tonbo-io/typed-arrow)
-  > First-class compile‑time Arrow schemas for Rust.
-
-### [xyproto](https://github.com/xyproto)
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [aportale/posterazor](https://github.com/aportale/posterazor)
-  > The PosteRazor cuts a raster image into pieces which can afterwards be printed out and assembled to ...
-
+The users you follow have no public activity today that matches the filter criteria.
 
 <!-- nav -->
-[← 2026-07-25](archive/2026/07/25.md)
+[← 2026-07-26](archive/2026/07/26.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-26 23:17:54 UTC*
+*Last updated at 2026-07-27 00:19:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
