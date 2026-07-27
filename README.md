@@ -67,6 +67,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
 
+### [keithduncan](https://github.com/keithduncan)
+- 🌟 👤 [keithduncan](https://github.com/keithduncan) Starred [sporevm/sporevm](https://github.com/sporevm/sporevm)
+  > Forkable aarch64 Linux microVMs with fast capture, resume, and local fan-out
+
 ### [kevaundray](https://github.com/kevaundray)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [misilva73/pbt-planning](https://github.com/misilva73/pbt-planning)
 
@@ -163,6 +167,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > DEDICATED OS is a hyper-focused, single-system launcher for playing Nintendo DS on the MagicX Zero40
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [azahar-emu/azahar](https://github.com/azahar-emu/azahar)
   > An open-source 3DS emulator project based on Citra.
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)
+  > Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [teamtype/teamtype](https://github.com/teamtype/teamtype)
+  > Peer-to-peer, editor-agnostic collaborative editing of local text files.
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion)
@@ -174,6 +182,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Automate Ghidra reverse engineering from the command line — headless analysis, decompilation, and st...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [droe/binja-blocks](https://github.com/droe/binja-blocks)
   > Apple Blocks Plugin for Binary Ninja
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
+  > Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for ...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [sgaunet/perplexity-go](https://github.com/sgaunet/perplexity-go)
+  > A comprehensive Go client library for the Perplexity AI API with support for chat completions, async...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [code-yeongyu/codex-rules](https://github.com/code-yeongyu/codex-rules)
+  > Codex plugin that injects project rule files into model context through lifecycle hooks.
 
 
 <!-- nav -->
@@ -181,7 +195,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 20:27:58 UTC*
+*Last updated at 2026-07-27 21:23:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
