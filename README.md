@@ -40,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
   > Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i...
 
+### [h3xstream](https://github.com/h3xstream)
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [MDGDSS/caido-openapi](https://github.com/MDGDSS/caido-openapi)
+  > Accelerate endpoint testing by providing schemas or paths.
+
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [neural-maze/production-ocr-course](https://github.com/neural-maze/production-ocr-course)
   > Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernet...
@@ -75,9 +79,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mbr](https://github.com/mbr) Starred [mbr/elm-wss](https://github.com/mbr/elm-wss)
   > Elm websockets, simple.
 
+### [minirop](https://github.com/minirop)
+- 🌟 👤 [minirop](https://github.com/minirop) Starred [BlackLabelHQ/RecompOne](https://github.com/BlackLabelHQ/RecompOne)
+  > PSX Static recompiler, its gud, i think?
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/idaxex](https://github.com/emoose/idaxex) to [mrexodia/idaxex](https://github.com/mrexodia/idaxex)
-  > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
+  > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable formats...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
   > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
@@ -158,7 +166,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 17:31:09 UTC*
+*Last updated at 2026-07-27 18:28:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
