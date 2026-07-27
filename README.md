@@ -40,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
   > Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i...
 
+### [imrehg](https://github.com/imrehg)
+- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [neural-maze/production-ocr-course](https://github.com/neural-maze/production-ocr-course)
+  > Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernet...
+
 ### [juicycleff](https://github.com/juicycleff)
 - 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
@@ -124,7 +128,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 14:56:47 UTC*
+*Last updated at 2026-07-27 15:52:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
