@@ -32,9 +32,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [frol](https://github.com/frol) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [armxe/tiktok-api](https://github.com/armxe/tiktok-api)
+  > Overview of TikTok's Anti-Bot Encrypted Values - X-Argus, X-Bogus and more.
+
 ### [juicycleff](https://github.com/juicycleff)
 - 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
+
+### [kevaundray](https://github.com/kevaundray)
+- 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [misilva73/pbt-planning](https://github.com/misilva73/pbt-planning)
 
 ### [mahmoud](https://github.com/mahmoud)
 - 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [AARomanov1985/Audio-Cassette-Simulation](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
@@ -51,6 +58,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Claus, an anthropic API crate.
 - 🌟 👤 [mbr](https://github.com/mbr) Starred [mbr/elm-wss](https://github.com/mbr/elm-wss)
   > Elm websockets, simple.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/idaxex](https://github.com/emoose/idaxex) to [mrexodia/idaxex](https://github.com/mrexodia/idaxex)
+  > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm)
@@ -82,6 +93,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [trieu](https://github.com/trieu) Forked [dedupeio/dedupe](https://github.com/dedupeio/dedupe) to [LEO-CDP/dedupe](https://github.com/LEO-CDP/dedupe)
   > :id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-reso...
 
+### [xakraz](https://github.com/xakraz)
+- 🍴 👤 [xakraz](https://github.com/xakraz) Forked [StatusCakeDev/terraform-provider-statuscake](https://github.com/StatusCakeDev/terraform-provider-statuscake) to [xakraz/terraform-provider-statuscake](https://github.com/xakraz/terraform-provider-statuscake)
+  > Terraform StatusCake provider
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [dedicated-os/dedicated-zero40](https://github.com/dedicated-os/dedicated-zero40)
   > DEDICATED OS is a hyper-focused, single-system launcher for playing Nintendo DS on the MagicX Zero40
@@ -95,7 +110,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 10:15:23 UTC*
+*Last updated at 2026-07-27 12:02:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
