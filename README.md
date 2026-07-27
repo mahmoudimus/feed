@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)
+  > A beautiful config generator for Ghostty terminal.
+
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [deskflow/deskflow](https://github.com/deskflow/deskflow)
   > Share a single keyboard and mouse between multiple computers.
@@ -38,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 02:59:22 UTC*
+*Last updated at 2026-07-27 04:21:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
