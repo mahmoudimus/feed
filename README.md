@@ -48,6 +48,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
   > AgentENV (AENV) is a distributed platform for running agent environments at scale.
 
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
+  > TypeScript-to-Native Compiler
+
 ### [juicycleff](https://github.com/juicycleff)
 - 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
@@ -92,6 +96,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An experimental compiler that translates TypeScript into Zig
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
   > Open Frontier Intelligence
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pg83/shitty](https://github.com/pg83/shitty)
+  > new terminal emulator
 
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [ib-api-reloaded/ib_async](https://github.com/ib-api-reloaded/ib_async)
@@ -115,9 +121,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [rbenaley/Vauban](https://github.com/rbenaley/Vauban)
   > A fortified bastion (PAM) designed to protect and control access to organization computing assets.  ...
 
+### [tiran](https://github.com/tiran)
+- 🍴 👤 [tiran](https://github.com/tiran) Forked [astral-sh/uv](https://github.com/astral-sh/uv) to [tiran/uv](https://github.com/tiran/uv)
+  > An extremely fast Python package and project manager, written in Rust.
+
 ### [trieu](https://github.com/trieu)
 - 🍴 👤 [trieu](https://github.com/trieu) Forked [dedupeio/dedupe](https://github.com/dedupeio/dedupe) to [LEO-CDP/dedupe](https://github.com/LEO-CDP/dedupe)
   > :id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-reso...
+
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [SixtyAteWhiskey/Atlas](https://github.com/SixtyAteWhiskey/Atlas)
+  > Sixty's Atlas Auto Installer - Downloads and installs kiwix, Ollama, VLC, MSTY, and jDownloader
 
 ### [xakraz](https://github.com/xakraz)
 - 🍴 👤 [xakraz](https://github.com/xakraz) Forked [StatusCakeDev/terraform-provider-statuscake](https://github.com/StatusCakeDev/terraform-provider-statuscake) to [xakraz/terraform-provider-statuscake](https://github.com/xakraz/terraform-provider-statuscake)
@@ -144,7 +158,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 16:40:24 UTC*
+*Last updated at 2026-07-27 17:31:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
