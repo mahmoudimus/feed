@@ -105,6 +105,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The most RAM effiecent harness
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
   > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm)
@@ -158,6 +160,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [SixtyAteWhiskey/Atlas](https://github.com/SixtyAteWhiskey/Atlas)
   > Sixty's Atlas Auto Installer - Downloads and installs kiwix, Ollama, VLC, MSTY, and jDownloader
 
+### [willshiao](https://github.com/willshiao)
+- 🌟 👤 [willshiao](https://github.com/willshiao) Starred [pikvm/ustreamer](https://github.com/pikvm/ustreamer)
+  > µStreamer - Lightweight and fast MJPEG-HTTP streamer
+
 ### [xakraz](https://github.com/xakraz)
 - 🍴 👤 [xakraz](https://github.com/xakraz) Forked [StatusCakeDev/terraform-provider-statuscake](https://github.com/StatusCakeDev/terraform-provider-statuscake) to [xakraz/terraform-provider-statuscake](https://github.com/xakraz/terraform-provider-statuscake)
   > Terraform StatusCake provider
@@ -188,6 +194,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A comprehensive Go client library for the Perplexity AI API with support for chat completions, async...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [code-yeongyu/codex-rules](https://github.com/code-yeongyu/codex-rules)
   > Codex plugin that injects project rule files into model context through lifecycle hooks.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [kubernetes-sigs/randfill](https://github.com/kubernetes-sigs/randfill)
+  > Fuzz testing for go.
 
 
 <!-- nav -->
@@ -195,7 +203,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 21:23:00 UTC*
+*Last updated at 2026-07-27 22:20:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
