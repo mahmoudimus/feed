@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [AltoidUC/bandicam-overlay-hook](https://github.com/AltoidUC/bandicam-overlay-hook) to [fengjixuchui/bandicam-overlay-hook](https://github.com/fengjixuchui/bandicam-overlay-hook)
   > Hijack Bandicam's in-game overlay for rendering onto the screen with DirectX11.
 
+### [juicycleff](https://github.com/juicycleff)
+- 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
+  > TypeScript-to-Native Compiler
+
 ### [mahmoud](https://github.com/mahmoud)
 - 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [AARomanov1985/Audio-Cassette-Simulation](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
   > This project simulates cassette tape audio profiles using ffmpeg
@@ -42,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 04:21:51 UTC*
+*Last updated at 2026-07-27 06:07:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
