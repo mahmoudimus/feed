@@ -12,8 +12,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)
   > A beautiful config generator for Ghostty terminal.
 
+### [boyney123](https://github.com/boyney123)
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+  > A framework for building agent-native applications.
+
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [aplavin/Synchray.jl](https://github.com/aplavin/Synchray.jl)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [macton/nagent](https://github.com/macton/nagent)
 
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [deskflow/deskflow](https://github.com/deskflow/deskflow)
@@ -47,6 +52,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mbr](https://github.com/mbr) Starred [mbr/elm-wss](https://github.com/mbr/elm-wss)
   > Elm websockets, simple.
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm)
+  > Latitude is the open-source ai monitoring platform.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)
+  > Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [1amageek/Xcircuite](https://github.com/1amageek/Xcircuite)
+  > Headless core runtime and CLI for the LSI semiconductor design platform
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [1amageek/OpenCoreAnimation](https://github.com/1amageek/OpenCoreAnimation)
+  > A Swift library providing CoreAnimation (QuartzCore) API compatibility for WebAssembly, powered by  ...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [orielhaim/tszig](https://github.com/orielhaim/tszig)
+  > An experimental compiler that translates TypeScript into Zig
+
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [ib-api-reloaded/ib_async](https://github.com/ib-api-reloaded/ib_async)
   > Python sync/async framework for Interactive Brokers API (replaces ib_insync)
@@ -54,6 +71,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [simonw](https://github.com/simonw)
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) to [simonw/scriptc](https://github.com/simonw/scriptc)
   > TypeScript-to-Native Compiler
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Tingsters/Showtail](https://github.com/Tingsters/Showtail)
+  > Showtail helps students show their work by capturing prompts, edits, decisions, artifacts, and refle...
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [rbenaley/Vauban](https://github.com/rbenaley/Vauban)
+  > A fortified bastion (PAM) designed to protect and control access to organization computing assets.  ...
 
 ### [trieu](https://github.com/trieu)
 - 🍴 👤 [trieu](https://github.com/trieu) Forked [dedupeio/dedupe](https://github.com/dedupeio/dedupe) to [LEO-CDP/dedupe](https://github.com/LEO-CDP/dedupe)
@@ -63,13 +86,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [dedicated-os/dedicated-zero40](https://github.com/dedicated-os/dedicated-zero40)
   > DEDICATED OS is a hyper-focused, single-system launcher for playing Nintendo DS on the MagicX Zero40
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion)
+
 
 <!-- nav -->
 [← 2026-07-26](archive/2026/07/26.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 08:07:20 UTC*
+*Last updated at 2026-07-27 10:15:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
