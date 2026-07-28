@@ -46,9 +46,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [frol](https://github.com/frol) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
   > Build local voice agents with open-source models
 
+### [gamous](https://github.com/gamous)
+- 🍴 👤 [gamous](https://github.com/gamous) Forked [19h/morok](https://github.com/19h/morok) to [LLVMPasses/morok](https://github.com/LLVMPasses/morok)
+  > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
   > Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agen...
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [alexcorvi/heic2any](https://github.com/alexcorvi/heic2any)
+  > Converting HEIF/HEIF image formats to PNG/GIF/JPEG in the browser
 
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [christianhelle/httpgenerator](https://github.com/christianhelle/httpgenerator)
@@ -69,6 +75,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [matthewfl](https://github.com/matthewfl)
 - 🌟 👤 [matthewfl](https://github.com/matthewfl) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
   > The most RAM effiecent harness
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ongardie/raft.tla](https://github.com/ongardie/raft.tla)
+  > TLA+ specification for the Raft consensus algorithm
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jokull/result-rpc](https://github.com/jokull/result-rpc)
+  > One Result and one wire-safe tagged error union from server to screen
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [rougier/nano-mu4e](https://github.com/rougier/nano-mu4e)
@@ -99,7 +111,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 08:52:37 UTC*
+*Last updated at 2026-07-28 09:50:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
