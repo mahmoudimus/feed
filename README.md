@@ -46,6 +46,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [aanari](https://github.com/aanari) Forked [toolsdk-ai/toolsdk-mcp-registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) to [aanari/toolsdk-mcp-registry](https://github.com/aanari/toolsdk-mcp-registry)
   > MCPSDK.dev(ToolSDK.ai)'s Awesome MCP Servers and Packages Registry and Database with Structured JSON...
 
+### [andyleejordan](https://github.com/andyleejordan)
+- 🌟 👤 [andyleejordan](https://github.com/andyleejordan) Starred [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules)
+  > Bicep registry modules
+
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
   > Build local voice agents with open-source models
@@ -97,6 +101,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
   > Build local voice agents with open-source models
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letstri/druk](https://github.com/letstri/druk)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tuiparts/tuiparts](https://github.com/tuiparts/tuiparts)
+  > UI component library for terminal applications built on @opentui/*
 
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [pgmq/pgmq](https://github.com/pgmq/pgmq)
@@ -160,6 +166,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A fully interactive 3D Chess Game built using Three.js and GSAP, featuring lifelike 3D chess pieces ...
 - 🍴 👤 [stephenlb](https://github.com/stephenlb) Forked [mrabhin03/3D-Chess-Game](https://github.com/mrabhin03/3D-Chess-Game) to [stephenlb/OpenAI-vs-Gemini-3D-Chess-Game](https://github.com/stephenlb/OpenAI-vs-Gemini-3D-Chess-Game)
   > A fully interactive 3D Chess Game built using Three.js and GSAP, featuring lifelike 3D chess pieces ...
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [parkershamblin/minecraft-ai-agents](https://github.com/parkershamblin/minecraft-ai-agents)
+  > AI minecraft agents
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
@@ -170,6 +178,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An egress firewall for untrusted workloads.
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [DataDog/toto](https://github.com/DataDog/toto)
   > Time-Series-Optimized Transformer for Observability
+
+### [wangxiao1254](https://github.com/wangxiao1254)
+- 🌟 👤 [wangxiao1254](https://github.com/wangxiao1254) Starred [radhika1601/threshold-falcon](https://github.com/radhika1601/threshold-falcon)
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Margin-Lab/evals](https://github.com/Margin-Lab/evals)
@@ -183,6 +194,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)
   > Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSee...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
+  > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
 
 
 <!-- nav -->
@@ -190,7 +203,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 20:23:20 UTC*
+*Last updated at 2026-07-28 21:22:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
