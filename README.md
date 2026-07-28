@@ -93,6 +93,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [matthewfl](https://github.com/matthewfl) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
   > The most RAM effiecent harness
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
+  > Build local voice agents with open-source models
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letstri/druk](https://github.com/letstri/druk)
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ongardie/raft.tla](https://github.com/ongardie/raft.tla)
   > TLA+ specification for the Raft consensus algorithm
@@ -134,6 +139,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [Trivo25/code-airlock](https://github.com/Trivo25/code-airlock)
   > Run Claude Code (or another coding agent) unattended, inside a disposable microVM, with its work com...
 
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/datasette-mcp](https://github.com/datasette/datasette-mcp) public
+  > Adds a /-/mcp MCP server to any Datasette instance
+
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [facebook/idb](https://github.com/facebook/idb)
   > idb is a flexible command line interface for automating iOS simulators and devices
@@ -173,7 +182,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 18:25:23 UTC*
+*Last updated at 2026-07-28 19:28:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
