@@ -50,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [andyleejordan](https://github.com/andyleejordan) Starred [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules)
   > Bicep registry modules
 
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [ityonemo/clr](https://github.com/ityonemo/clr)
+  > Checker for Lifetimes and other Refinement types
+
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
   > Build local voice agents with open-source models
@@ -77,6 +81,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [ironmansoftware/powershell-pro-tools](https://github.com/ironmansoftware/powershell-pro-tools)
   > Scripting, automation, and development tools for professionals working with PowerShell.
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [wieslawsoltes/wpf](https://github.com/wieslawsoltes/wpf)
+  > LibreWPF cross-platform desktop XAML runtime powered by ProGPU/WebGPU and Silk.NET with custom SDK-s...
+
+### [jcs090218](https://github.com/jcs090218)
+- 🌟 👤 [jcs090218](https://github.com/jcs090218) Starred [jcs090218/JCSUnity](https://github.com/jcs090218/JCSUnity)
+  > Rapidly build your game with multiple or various components and preset default settings
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [lihjacky/Homomorphic-CatPrivacy](https://github.com/lihjacky/Homomorphic-CatPrivacy)
@@ -103,6 +113,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letstri/druk](https://github.com/letstri/druk)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tuiparts/tuiparts](https://github.com/tuiparts/tuiparts)
   > UI component library for terminal applications built on @opentui/*
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RimuruW/pi-hashline-edit](https://github.com/RimuruW/pi-hashline-edit)
+  > A pi-coding-agent extension that replaces the built-in tools with a hash-anchored line-editing workf...
 
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [pgmq/pgmq](https://github.com/pgmq/pgmq)
@@ -121,6 +133,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Lightweight C++ MCP (Model Context Protocol) SDK
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [GopherSecurity/gopher-mcp](https://github.com/GopherSecurity/gopher-mcp)
   > C++ MCP SDK - build Model Context Protocol (MCP) servers and clients in C++ / CPP. Enterprise-grade ...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [HaoyiZhu/Piecewise-Taylor-Attention](https://github.com/HaoyiZhu/Piecewise-Taylor-Attention)
+  > Piecewise-Taylor Attention
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/implot](https://github.com/ocornut/implot)
@@ -152,10 +166,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [Trivo25/code-airlock](https://github.com/Trivo25/code-airlock)
   > Run Claude Code (or another coding agent) unattended, inside a disposable microVM, with its work com...
-
-### [simonw](https://github.com/simonw)
-- 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/datasette-mcp](https://github.com/datasette/datasette-mcp) public
-  > Adds a /-/mcp MCP server to any Datasette instance
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [facebook/idb](https://github.com/facebook/idb)
@@ -203,7 +213,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 21:22:36 UTC*
+*Last updated at 2026-07-28 22:19:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
