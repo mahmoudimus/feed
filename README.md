@@ -30,6 +30,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [TheTom](https://github.com/TheTom) Forked [Blackwellboy/model-serving-minefield](https://github.com/Blackwellboy/model-serving-minefield) to [TheTom/model-serving-minefield](https://github.com/TheTom/model-serving-minefield)
   > Community registry of LLM serving-path traps that produce confidently wrong measurements: templates,...
 
+### [ThomasVitale](https://github.com/ThomasVitale)
+- 🍴 👤 [ThomasVitale](https://github.com/ThomasVitale) Forked [quarkusio/quarkus](https://github.com/quarkusio/quarkus) to [ThomasVitale/quarkus](https://github.com/ThomasVitale/quarkus)
+  > Quarkus: Supersonic Subatomic Java. 
+
 ### [aanari](https://github.com/aanari)
 - 🍴 👤 [aanari](https://github.com/aanari) Forked [awesomedata/apd-core](https://github.com/awesomedata/apd-core) to [aanari/apd-core](https://github.com/aanari/apd-core)
   > Core meta for awesome-public-datasets. Contribute new data here!
@@ -126,12 +130,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [rougier/nano-mu4e](https://github.com/rougier/nano-mu4e)
   > Alternative layour for mu4e
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [Trivo25/code-airlock](https://github.com/Trivo25/code-airlock)
+  > Run Claude Code (or another coding agent) unattended, inside a disposable microVM, with its work com...
+
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [facebook/idb](https://github.com/facebook/idb)
   > idb is a flexible command line interface for automating iOS simulators and devices
 
 ### [stephenlb](https://github.com/stephenlb)
 - 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [mrabhin03/3D-Chess-Game](https://github.com/mrabhin03/3D-Chess-Game)
+  > A fully interactive 3D Chess Game built using Three.js and GSAP, featuring lifelike 3D chess pieces ...
+- 🍴 👤 [stephenlb](https://github.com/stephenlb) Forked [mrabhin03/3D-Chess-Game](https://github.com/mrabhin03/3D-Chess-Game) to [stephenlb/OpenAI-vs-Gemini-3D-Chess-Game](https://github.com/stephenlb/OpenAI-vs-Gemini-3D-Chess-Game)
   > A fully interactive 3D Chess Game built using Three.js and GSAP, featuring lifelike 3D chess pieces ...
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
@@ -163,7 +173,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 17:29:07 UTC*
+*Last updated at 2026-07-28 18:25:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
