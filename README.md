@@ -107,6 +107,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ovidiuch](https://github.com/ovidiuch) Starred [livestorejs/livestore](https://github.com/livestorejs/livestore)
   > LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync...
 
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [ethz-spylab/cryptanalysis-benchmark](https://github.com/ethz-spylab/cryptanalysis-benchmark)
+
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol)
   > Fully featured and community-driven hacking environment
@@ -126,6 +129,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [facebook/idb](https://github.com/facebook/idb)
   > idb is a flexible command line interface for automating iOS simulators and devices
+
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [mrabhin03/3D-Chess-Game](https://github.com/mrabhin03/3D-Chess-Game)
+  > A fully interactive 3D Chess Game built using Three.js and GSAP, featuring lifelike 3D chess pieces ...
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
@@ -156,7 +163,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 16:30:12 UTC*
+*Last updated at 2026-07-28 17:29:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
