@@ -12,6 +12,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)
   > A beautiful config generator for Ghostty terminal.
 
+### [Skytrias](https://github.com/Skytrias)
+- 🌟 👤 [Skytrias](https://github.com/Skytrias) Starred [entzmingerc/DelugeSynthPresets](https://github.com/entzmingerc/DelugeSynthPresets)
+  > Collection of synth presets sourced from the Deluge community. 
+
+### [aanari](https://github.com/aanari)
+- 🍴 👤 [aanari](https://github.com/aanari) Forked [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) to [aanari/awesome-mcp-servers](https://github.com/aanari/awesome-mcp-servers)
+  > A collection of MCP servers.
+
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
   > A framework for building agent-native applications.
@@ -177,6 +185,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [teamtype/teamtype](https://github.com/teamtype/teamtype)
   > Peer-to-peer, editor-agnostic collaborative editing of local text files.
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)
+  > CUDA on non-NVIDIA GPUs
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion)
@@ -203,7 +213,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 22:20:27 UTC*
+*Last updated at 2026-07-27 23:20:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
