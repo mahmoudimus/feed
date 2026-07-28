@@ -49,6 +49,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gamous](https://github.com/gamous)
 - 🍴 👤 [gamous](https://github.com/gamous) Forked [19h/morok](https://github.com/19h/morok) to [LLVMPasses/morok](https://github.com/LLVMPasses/morok)
   > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [1193776794/launch](https://github.com/1193776794/launch)
+  > 检测工具
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
+  > TypeScript-to-Native Compiler
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
@@ -115,7 +119,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 10:47:17 UTC*
+*Last updated at 2026-07-28 11:38:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
