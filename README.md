@@ -98,6 +98,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Build local voice agents with open-source models
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letstri/druk](https://github.com/letstri/druk)
 
+### [myusuf3](https://github.com/myusuf3)
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [pgmq/pgmq](https://github.com/pgmq/pgmq)
+  > A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ongardie/raft.tla](https://github.com/ongardie/raft.tla)
   > TLA+ specification for the Raft consensus algorithm
@@ -107,6 +111,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > FlashMLA: Efficient Multi-head Latent Attention Kernels
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [freezetheflame/NanoHarness](https://github.com/freezetheflame/NanoHarness)
   > A minimal, composable AI agent harness framework in Python.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hkr04/cpp-mcp](https://github.com/hkr04/cpp-mcp)
+  > Lightweight C++ MCP (Model Context Protocol) SDK
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [GopherSecurity/gopher-mcp](https://github.com/GopherSecurity/gopher-mcp)
+  > C++ MCP SDK - build Model Context Protocol (MCP) servers and clients in C++ / CPP. Enterprise-grade ...
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/implot](https://github.com/ocornut/implot)
@@ -182,7 +190,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 19:28:34 UTC*
+*Last updated at 2026-07-28 20:23:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
