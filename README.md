@@ -30,10 +30,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [TheTom](https://github.com/TheTom) Forked [Blackwellboy/model-serving-minefield](https://github.com/Blackwellboy/model-serving-minefield) to [TheTom/model-serving-minefield](https://github.com/TheTom/model-serving-minefield)
   > Community registry of LLM serving-path traps that produce confidently wrong measurements: templates,...
 
-### [TomasVotruba](https://github.com/TomasVotruba)
-- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [carthage-software/mago](https://github.com/carthage-software/mago)
-  > Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code...
-
 ### [aanari](https://github.com/aanari)
 - 🍴 👤 [aanari](https://github.com/aanari) Forked [awesomedata/apd-core](https://github.com/awesomedata/apd-core) to [aanari/apd-core](https://github.com/aanari/apd-core)
   > Core meta for awesome-public-datasets. Contribute new data here!
@@ -49,6 +45,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
   > Build local voice agents with open-source models
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
+  > Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agen...
 
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [christianhelle/httpgenerator](https://github.com/christianhelle/httpgenerator)
@@ -85,6 +85,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Open-source credential gateway with a built-in vault. give your AI agents access to services without...
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [ironsh/iron-proxy](https://github.com/ironsh/iron-proxy)
   > An egress firewall for untrusted workloads.
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [DataDog/toto](https://github.com/DataDog/toto)
+  > Time-Series-Optimized Transformer for Observability
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [balajismaniam/adk-harness-engineering](https://github.com/balajismaniam/adk-harness-engineering)
@@ -97,7 +99,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 07:49:41 UTC*
+*Last updated at 2026-07-28 08:52:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
