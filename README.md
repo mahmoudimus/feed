@@ -8,10 +8,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [JakeWharton](https://github.com/JakeWharton)
-- 🌟 👤 [JakeWharton](https://github.com/JakeWharton) Starred [bigskysoftware/idiomorph](https://github.com/bigskysoftware/idiomorph)
-  > A DOM-merging algorithm
-
 ### [NormXU](https://github.com/NormXU)
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [MoonshotAI/MoonEP](https://github.com/MoonshotAI/MoonEP)
   > MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts
@@ -152,7 +148,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 14:47:01 UTC*
+*Last updated at 2026-07-28 15:43:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
