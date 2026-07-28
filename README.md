@@ -1,219 +1,24 @@
-# Daily GitHub Activity (2026-07-27)
+# Daily GitHub Activity (2026-07-28)
 
 <!-- nav -->
-[← 2026-07-26](archive/2026/07/26.md)
+[← 2026-07-27](archive/2026/07/27.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [P4nda0s](https://github.com/P4nda0s)
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config)
-  > A beautiful config generator for Ghostty terminal.
-
-### [Skytrias](https://github.com/Skytrias)
-- 🌟 👤 [Skytrias](https://github.com/Skytrias) Starred [entzmingerc/DelugeSynthPresets](https://github.com/entzmingerc/DelugeSynthPresets)
-  > Collection of synth presets sourced from the Deluge community. 
-
 ### [aanari](https://github.com/aanari)
-- 🍴 👤 [aanari](https://github.com/aanari) Forked [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) to [aanari/awesome-mcp-servers](https://github.com/aanari/awesome-mcp-servers)
-  > A collection of MCP servers.
-
-### [boyney123](https://github.com/boyney123)
-- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
-  > A framework for building agent-native applications.
-
-### [emcfarlane](https://github.com/emcfarlane)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [aplavin/Synchray.jl](https://github.com/aplavin/Synchray.jl)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [macton/nagent](https://github.com/macton/nagent)
-
-### [fangpenlin](https://github.com/fangpenlin)
-- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [deskflow/deskflow](https://github.com/deskflow/deskflow)
-  > Share a single keyboard and mouse between multiple computers.
-
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [AltoidUC/bandicam-overlay-hook](https://github.com/AltoidUC/bandicam-overlay-hook) to [fengjixuchui/bandicam-overlay-hook](https://github.com/fengjixuchui/bandicam-overlay-hook)
-  > Hijack Bandicam's in-game overlay for rendering onto the screen with DirectX11.
-
-### [frol](https://github.com/frol)
-- 🌟 👤 [frol](https://github.com/frol) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
-  > TypeScript-to-Native Compiler
-
-### [gamous](https://github.com/gamous)
-- 🌟 👤 [gamous](https://github.com/gamous) Starred [armxe/tiktok-api](https://github.com/armxe/tiktok-api)
-  > Overview of TikTok's Anti-Bot Encrypted Values - X-Argus, X-Bogus and more.
-- 🌟 👤 [gamous](https://github.com/gamous) Starred [1992724048/stdpp-xorstr](https://github.com/1992724048/stdpp-xorstr)
-  > C++20 compile-time string & array obfuscation: Huffman compression + CBC-mode XOR + even/odd byte in...
-- 🌟 👤 [gamous](https://github.com/gamous) Starred [hello245m/free-stockdb](https://github.com/hello245m/free-stockdb)
-  > 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
-
-### [h2non](https://github.com/h2non)
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
-  > Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i...
-
-### [h3xstream](https://github.com/h3xstream)
-- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [MDGDSS/caido-openapi](https://github.com/MDGDSS/caido-openapi)
-  > Accelerate endpoint testing by providing schemas or paths.
-
-### [imrehg](https://github.com/imrehg)
-- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [neural-maze/production-ocr-course](https://github.com/neural-maze/production-ocr-course)
-  > Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernet...
-
-### [jaredpalmer](https://github.com/jaredpalmer)
-- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
-  > AgentENV (AENV) is a distributed platform for running agent environments at scale.
-
-### [jeremyckahn](https://github.com/jeremyckahn)
-- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
-  > TypeScript-to-Native Compiler
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [VAIL-UCLA/WorldWeaver](https://github.com/VAIL-UCLA/WorldWeaver)
-
-### [juicycleff](https://github.com/juicycleff)
-- 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
-  > TypeScript-to-Native Compiler
-
-### [keithduncan](https://github.com/keithduncan)
-- 🌟 👤 [keithduncan](https://github.com/keithduncan) Starred [sporevm/sporevm](https://github.com/sporevm/sporevm)
-  > Forkable aarch64 Linux microVMs with fast capture, resume, and local fan-out
-
-### [kevaundray](https://github.com/kevaundray)
-- 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [misilva73/pbt-planning](https://github.com/misilva73/pbt-planning)
-
-### [mahmoud](https://github.com/mahmoud)
-- 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [AARomanov1985/Audio-Cassette-Simulation](https://github.com/AARomanov1985/Audio-Cassette-Simulation)
-  > This project simulates cassette tape audio profiles using ffmpeg
-
-### [mbr](https://github.com/mbr)
-- 🌟 👤 [mbr](https://github.com/mbr) Starred [mbr/mercutio-rs](https://github.com/mbr/mercutio-rs)
-  > A sans-io MCP server library for Rust
-- 🌟 👤 [mbr](https://github.com/mbr) Starred [socketcan-rs/socketcan-rs](https://github.com/socketcan-rs/socketcan-rs)
-  > Linux SocketCAN access in Rust
-- 🌟 👤 [mbr](https://github.com/mbr) Starred [mbr/pgdb-rs](https://github.com/mbr/pgdb-rs)
-  > Postgres database as a fixture in Rust
-- 🌟 👤 [mbr](https://github.com/mbr) Starred [mbr/claus-rs](https://github.com/mbr/claus-rs)
-  > Claus, an anthropic API crate.
-- 🌟 👤 [mbr](https://github.com/mbr) Starred [mbr/elm-wss](https://github.com/mbr/elm-wss)
-  > Elm websockets, simple.
-
-### [minirop](https://github.com/minirop)
-- 🌟 👤 [minirop](https://github.com/minirop) Starred [BlackLabelHQ/RecompOne](https://github.com/BlackLabelHQ/RecompOne)
-  > PSX Static recompiler, its gud, i think?
-
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/idaxex](https://github.com/emoose/idaxex) to [mrexodia/idaxex](https://github.com/mrexodia/idaxex)
-  > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable formats...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
-  > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
-  > AgentENV (AENV) is a distributed platform for running agent environments at scale.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
-  > The most RAM effiecent harness
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
-  > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
-  > The world's fastest apk (android)/java open source decompiler
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm)
-  > Latitude is the open-source ai monitoring platform.
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)
-  > Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [1amageek/Xcircuite](https://github.com/1amageek/Xcircuite)
-  > Headless core runtime and CLI for the LSI semiconductor design platform
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [1amageek/OpenCoreAnimation](https://github.com/1amageek/OpenCoreAnimation)
-  > A Swift library providing CoreAnimation (QuartzCore) API compatibility for WebAssembly, powered by  ...
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [orielhaim/tszig](https://github.com/orielhaim/tszig)
-  > An experimental compiler that translates TypeScript into Zig
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
-  > Open Frontier Intelligence
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pg83/shitty](https://github.com/pg83/shitty)
-  > new terminal emulator
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA)
-  > FlashKDA: high-performance Kimi Delta Attention kernels
-
-### [pfalcon](https://github.com/pfalcon)
-- 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [ib-api-reloaded/ib_async](https://github.com/ib-api-reloaded/ib_async)
-  > Python sync/async framework for Interactive Brokers API (replaces ib_insync)
-
-### [rand-tech](https://github.com/rand-tech)
-- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [google/xls](https://github.com/google/xls)
-  > XLS: Accelerated HW Synthesis
-
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [losfair/bake](https://github.com/losfair/bake)
-  > Bake microVMs into standalone executables
-
-### [simonw](https://github.com/simonw)
-- 🍴 👤 [simonw](https://github.com/simonw) Forked [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) to [simonw/scriptc](https://github.com/simonw/scriptc)
-  > TypeScript-to-Native Compiler
-
-### [thomasdarimont](https://github.com/thomasdarimont)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Tingsters/Showtail](https://github.com/Tingsters/Showtail)
-  > Showtail helps students show their work by capturing prompts, edits, decisions, artifacts, and refle...
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [rbenaley/Vauban](https://github.com/rbenaley/Vauban)
-  > A fortified bastion (PAM) designed to protect and control access to organization computing assets.  ...
-
-### [tiran](https://github.com/tiran)
-- 🍴 👤 [tiran](https://github.com/tiran) Forked [astral-sh/uv](https://github.com/astral-sh/uv) to [tiran/uv](https://github.com/tiran/uv)
-  > An extremely fast Python package and project manager, written in Rust.
-
-### [trieu](https://github.com/trieu)
-- 🍴 👤 [trieu](https://github.com/trieu) Forked [dedupeio/dedupe](https://github.com/dedupeio/dedupe) to [LEO-CDP/dedupe](https://github.com/LEO-CDP/dedupe)
-  > :id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-reso...
-
-### [tspannhw](https://github.com/tspannhw)
-- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [SixtyAteWhiskey/Atlas](https://github.com/SixtyAteWhiskey/Atlas)
-  > Sixty's Atlas Auto Installer - Downloads and installs kiwix, Ollama, VLC, MSTY, and jDownloader
-
-### [willshiao](https://github.com/willshiao)
-- 🌟 👤 [willshiao](https://github.com/willshiao) Starred [pikvm/ustreamer](https://github.com/pikvm/ustreamer)
-  > µStreamer - Lightweight and fast MJPEG-HTTP streamer
-
-### [xakraz](https://github.com/xakraz)
-- 🍴 👤 [xakraz](https://github.com/xakraz) Forked [StatusCakeDev/terraform-provider-statuscake](https://github.com/StatusCakeDev/terraform-provider-statuscake) to [xakraz/terraform-provider-statuscake](https://github.com/xakraz/terraform-provider-statuscake)
-  > Terraform StatusCake provider
-
-### [xyproto](https://github.com/xyproto)
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [dedicated-os/dedicated-zero40](https://github.com/dedicated-os/dedicated-zero40)
-  > DEDICATED OS is a hyper-focused, single-system launcher for playing Nintendo DS on the MagicX Zero40
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [azahar-emu/azahar](https://github.com/azahar-emu/azahar)
-  > An open-source 3DS emulator project based on Citra.
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative)
-  > Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [teamtype/teamtype](https://github.com/teamtype/teamtype)
-  > Peer-to-peer, editor-agnostic collaborative editing of local text files.
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)
-  > CUDA on non-NVIDIA GPUs
-
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [dusty-nv/NanoLLM](https://github.com/dusty-nv/NanoLLM)
-  > Optimized local inference for LLMs with HuggingFace-like APIs for quantization, vision/language mode...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [huggingface/nanoVLM](https://github.com/huggingface/nanoVLM)
-  > The simplest, fastest repository for training/finetuning small-sized VLMs.
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli)
-  > Automate Ghidra reverse engineering from the command line — headless analysis, decompilation, and st...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [droe/binja-blocks](https://github.com/droe/binja-blocks)
-  > Apple Blocks Plugin for Binary Ninja
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
-  > Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for ...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [sgaunet/perplexity-go](https://github.com/sgaunet/perplexity-go)
-  > A comprehensive Go client library for the Perplexity AI API with support for chat completions, async...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [code-yeongyu/codex-rules](https://github.com/code-yeongyu/codex-rules)
-  > Codex plugin that injects project rule files into model context through lifecycle hooks.
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [kubernetes-sigs/randfill](https://github.com/kubernetes-sigs/randfill)
-  > Fuzz testing for go.
+- 🍴 👤 [aanari](https://github.com/aanari) Forked [awesomedata/apd-core](https://github.com/awesomedata/apd-core) to [aanari/apd-core](https://github.com/aanari/apd-core)
+  > Core meta for awesome-public-datasets. Contribute new data here!
 
 
 <!-- nav -->
-[← 2026-07-26](archive/2026/07/26.md)
+[← 2026-07-27](archive/2026/07/27.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-27 23:20:46 UTC*
+*Last updated at 2026-07-28 00:17:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
