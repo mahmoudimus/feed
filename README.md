@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [aanari](https://github.com/aanari) Forked [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) to [aanari/awesome-mcp-servers-tensorblock](https://github.com/aanari/awesome-mcp-servers-tensorblock)
   > A comprehensive collection of Model Context Protocol (MCP) servers
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
+  > Build local voice agents with open-source models
+
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [christianhelle/httpgenerator](https://github.com/christianhelle/httpgenerator)
   > Generate .http files from OpenAPI (Swagger) specifications
@@ -48,8 +52,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [facebook/idb](https://github.com/facebook/idb)
   > idb is a flexible command line interface for automating iOS simulators and devices
 
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+  > OpenShell is the safe, private runtime for autonomous AI agents.
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [balajismaniam/adk-harness-engineering](https://github.com/balajismaniam/adk-harness-engineering)
+- 🍴 👤 [zchee](https://github.com/zchee) Forked [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) to [zchee/codex-transcripts](https://github.com/zchee/codex-transcripts)
+  > Tools for publishing transcripts for Claude Code sessions
 
 
 <!-- nav -->
@@ -57,7 +67,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 05:55:42 UTC*
+*Last updated at 2026-07-28 06:48:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
