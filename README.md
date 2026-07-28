@@ -70,6 +70,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [ironmansoftware/powershell-pro-tools](https://github.com/ironmansoftware/powershell-pro-tools)
   > Scripting, automation, and development tools for professionals working with PowerShell.
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [lihjacky/Homomorphic-CatPrivacy](https://github.com/lihjacky/Homomorphic-CatPrivacy)
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [chrissotraidis/harkinianpad](https://github.com/chrissotraidis/harkinianpad)
   > Ocarina of Time native on iOS and iPadOS via Ship of Harkinian with Metal rendering, touch controls,...
@@ -95,6 +98,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/implot](https://github.com/ocornut/implot)
   > Advanced 2D Plotting for Dear ImGui
+
+### [ovidiuch](https://github.com/ovidiuch)
+- 🌟 👤 [ovidiuch](https://github.com/ovidiuch) Starred [livestorejs/livestore](https://github.com/livestorejs/livestore)
+  > LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync...
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol)
+  > Fully featured and community-driven hacking environment
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [rougier/nano-mu4e](https://github.com/rougier/nano-mu4e)
@@ -122,6 +133,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [balajismaniam/adk-harness-engineering](https://github.com/balajismaniam/adk-harness-engineering)
 - 🍴 👤 [zchee](https://github.com/zchee) Forked [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) to [zchee/codex-transcripts](https://github.com/zchee/codex-transcripts)
   > Tools for publishing transcripts for Claude Code sessions
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+  > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
 
 <!-- nav -->
@@ -129,7 +142,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 12:31:35 UTC*
+*Last updated at 2026-07-28 13:31:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
