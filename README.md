@@ -100,6 +100,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [DataDog/toto](https://github.com/DataDog/toto)
   > Time-Series-Optimized Transformer for Observability
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Margin-Lab/evals](https://github.com/Margin-Lab/evals)
+  > Fast, robust, configurable agent evals
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [balajismaniam/adk-harness-engineering](https://github.com/balajismaniam/adk-harness-engineering)
 - 🍴 👤 [zchee](https://github.com/zchee) Forked [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) to [zchee/codex-transcripts](https://github.com/zchee/codex-transcripts)
@@ -111,7 +115,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 09:50:55 UTC*
+*Last updated at 2026-07-28 10:47:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
