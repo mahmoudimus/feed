@@ -53,6 +53,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 检测工具
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [carved4/net](https://github.com/carved4/net)
+  > low-level windows networking library using afd.sys sockets and schannel tls. bypasses winsock, winht...
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing)
@@ -85,6 +87,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > TLA+ specification for the Raft consensus algorithm
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jokull/result-rpc](https://github.com/jokull/result-rpc)
   > One Result and one wire-safe tagged error union from server to screen
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
+  > FlashMLA: Efficient Multi-head Latent Attention Kernels
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [freezetheflame/NanoHarness](https://github.com/freezetheflame/NanoHarness)
+  > A minimal, composable AI agent harness framework in Python.
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/implot](https://github.com/ocornut/implot)
+  > Advanced 2D Plotting for Dear ImGui
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [rougier/nano-mu4e](https://github.com/rougier/nano-mu4e)
@@ -119,7 +129,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 11:38:00 UTC*
+*Last updated at 2026-07-28 12:31:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
