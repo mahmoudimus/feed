@@ -25,10 +25,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Awesome health data catalog for ML: datasets, access tiers, PHI risk, OMOP mapping, crosswalks, use ...
 - 🍴 👤 [aanari](https://github.com/aanari) Forked [geniusrise/awesome-healthcare-datasets](https://github.com/geniusrise/awesome-healthcare-datasets) to [aanari/awesome-healthcare-datasets](https://github.com/aanari/awesome-healthcare-datasets)
   > Healthcare and biomedical datasets, for AI/ML
+- 🍴 👤 [aanari](https://github.com/aanari) Forked [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) to [aanari/awesome-mcp-servers-tensorblock](https://github.com/aanari/awesome-mcp-servers-tensorblock)
+  > A comprehensive collection of Model Context Protocol (MCP) servers
 
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [christianhelle/httpgenerator](https://github.com/christianhelle/httpgenerator)
   > Generate .http files from OpenAPI (Swagger) specifications
+
+### [kyleconroy](https://github.com/kyleconroy)
+- 🌟 👤 [kyleconroy](https://github.com/kyleconroy) Starred [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
+  > Generate type-safe code from SQL
 
 ### [matthewfl](https://github.com/matthewfl)
 - 🌟 👤 [matthewfl](https://github.com/matthewfl) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
@@ -37,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [rougier/nano-mu4e](https://github.com/rougier/nano-mu4e)
   > Alternative layour for mu4e
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [facebook/idb](https://github.com/facebook/idb)
+  > idb is a flexible command line interface for automating iOS simulators and devices
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [balajismaniam/adk-harness-engineering](https://github.com/balajismaniam/adk-harness-engineering)
@@ -47,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 04:04:44 UTC*
+*Last updated at 2026-07-28 05:55:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
