@@ -106,6 +106,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol)
   > Fully featured and community-driven hacking environment
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+  > Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [K0bin/SourceRenderer](https://github.com/K0bin/SourceRenderer)
+  > Toy game engine - Also known as dreieck.exe
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [grizzzer/CVE-2026-42978-PoC-Research](https://github.com/grizzzer/CVE-2026-42978-PoC-Research)
+  > CVE-2026-42978 — Use-After-Free race condition in Windows Push Notifications (WpnService). Patch dif...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [rougier/nano-mu4e](https://github.com/rougier/nano-mu4e)
@@ -135,6 +143,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Tools for publishing transcripts for Claude Code sessions
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
   > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)
+  > Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSee...
 
 
 <!-- nav -->
@@ -142,7 +152,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 13:31:17 UTC*
+*Last updated at 2026-07-28 14:47:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
