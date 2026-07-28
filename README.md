@@ -26,6 +26,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [christianhelle/httpgenerator](https://github.com/christianhelle/httpgenerator)
   > Generate .http files from OpenAPI (Swagger) specifications
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [koltyj/logic-pro-mcp](https://github.com/koltyj/logic-pro-mcp)
+  > Bidirectional, stateful control of Logic Pro from AI assistants. 8 dispatcher tools + 7 resources ac...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [MongLong0214/logic-pro-mcp](https://github.com/MongLong0214/logic-pro-mcp)
+  > Local MCP server for stateful, fail-closed Logic Pro control and live project readback.
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [balajismaniam/adk-harness-engineering](https://github.com/balajismaniam/adk-harness-engineering)
 
@@ -35,7 +41,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-28 01:30:53 UTC*
+*Last updated at 2026-07-28 02:58:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
