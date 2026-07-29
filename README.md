@@ -16,6 +16,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [wharton-generative-ai-labs/AIBO](https://github.com/wharton-generative-ai-labs/AIBO) to [Hellblazer/AIBO](https://github.com/Hellblazer/AIBO)
   > An open-source tool for running controlled behavioral experiments on AI systems at scale.
 
+### [KIC](https://github.com/KIC)
+- 🌟 👤 [KIC](https://github.com/KIC) Starred [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
+  > A community collection of OpenClaw use cases for making life easier.
+- 🌟 👤 [KIC](https://github.com/KIC) Starred [bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets)
+  > A list of publicly available datasets with real-time data maintained by the team at bytewax.io
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🚀 👤 [P4nda0s](https://github.com/P4nda0s) Made [P4nda0s/bin-trace-agent](https://github.com/P4nda0s/bin-trace-agent) public
   > bin-trace-agent 
@@ -26,9 +32,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
   > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
 
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [makerbase-mks/MKS-StepStick-Driver](https://github.com/makerbase-mks/MKS-StepStick-Driver)
+  > Include MKS TMC2209, MKS TMC2225, MKS TMC2208, MKS TB67S109 and so on
+
+### [boyney123](https://github.com/boyney123)
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [block/buzz](https://github.com/block/buzz)
+  > A hive mind communication platform
+
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
   > Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [koreader/koreader](https://github.com/koreader/koreader)
+  > An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervan...
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [onur-aslan/sdd](https://github.com/onur-aslan/sdd)
@@ -61,10 +77,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [LaurentiuGabriel/token-town](https://github.com/LaurentiuGabriel/token-town)
   > A live simulation on how LLMs are working.
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [jreoka/armada](https://github.com/jreoka/armada)
+  > Serverless, end-to-end encrypted communities powered by Concord and Nostr
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio)
+  > Control panel for VLLM, Sglang, llama.cpp, exllamav3
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [scrya-com/adventure-engine](https://github.com/scrya-com/adventure-engine)
   > Ariadne — Scrya native Rust point-and-click adventure runtime (thread through the labyrinth)
+
+### [kmelve](https://github.com/kmelve)
+- 🌟 👤 [kmelve](https://github.com/kmelve) Starred [sanity-labs/oclif-plugin-skills-flag](https://github.com/sanity-labs/oclif-plugin-skills-flag)
+  > Expose per-command Markdown to coding agents through an oclif flag
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [openai/codex-security](https://github.com/openai/codex-security)
@@ -77,6 +101,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [marbemac](https://github.com/marbemac)
 - 🌟 👤 [marbemac](https://github.com/marbemac) Starred [theMackabu/ant](https://github.com/theMackabu/ant)
   > javascript for 🐜's, a tiny runtime with big ambitions
+
+### [michelp](https://github.com/michelp)
+- 🍴 👤 [michelp](https://github.com/michelp) Forked [NomaDamas/vllm-mock](https://github.com/NomaDamas/vllm-mock) to [michelp/vllm-mock](https://github.com/michelp/vllm-mock)
+  > Mock of vLLM. Easily test your vllm code without any GPUs.
 
 ### [miyakogi](https://github.com/miyakogi)
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [tomasklaen/uosc](https://github.com/tomasklaen/uosc)
@@ -157,7 +185,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 16:27:32 UTC*
+*Last updated at 2026-07-29 17:25:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
