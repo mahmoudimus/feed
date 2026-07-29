@@ -25,6 +25,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [tiwe0/wxshadow-hook-poc](https://github.com/tiwe0/wxshadow-hook-poc) to [fengjixuchui/wxshadow-hook-poc](https://github.com/fengjixuchui/wxshadow-hook-poc)
 
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [bearcove/dodeca](https://github.com/bearcove/dodeca)
+  > A query-system-based static site generator
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [scrya-com/adventure-engine](https://github.com/scrya-com/adventure-engine)
   > Ariadne — Scrya native Rust point-and-click adventure runtime (thread through the labyrinth)
@@ -41,6 +45,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [enzv/rc](https://github.com/enzv/rc)
   > Plan 9 shell in Go
 
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [samuelcolvin/nextcall](https://github.com/samuelcolvin/nextcall)
+  > A macOS menu bar app that makes sure you're never late to a video call.
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [rhaiscript/rhai](https://github.com/rhaiscript/rhai)
   > Rhai - An embedded scripting language for Rust.
@@ -56,6 +64,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)
+  > aider is AI pair programming in your terminal
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [ianopolous/JPC](https://github.com/ianopolous/JPC)
+  > JPC - The fast x86 PC emulator in 100% pure Java
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-AgentTesting](https://github.com/tspannhw/SNACKAI-CoCo-AgentTesting)
@@ -71,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 08:54:06 UTC*
+*Last updated at 2026-07-29 09:51:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
