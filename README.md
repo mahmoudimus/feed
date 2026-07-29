@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Dicklesworthstone](https://github.com/Dicklesworthstone) Forked [SSheldon/rust-block](https://github.com/SSheldon/rust-block) to [Dicklesworthstone/rust-block](https://github.com/Dicklesworthstone/rust-block)
   > Rust interface for Apple's C language extension of blocks.
 
+### [Hellblazer](https://github.com/Hellblazer)
+- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [wharton-generative-ai-labs/AIBO](https://github.com/wharton-generative-ai-labs/AIBO) to [Hellblazer/AIBO](https://github.com/Hellblazer/AIBO)
+  > An open-source tool for running controlled behavioral experiments on AI systems at scale.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🚀 👤 [P4nda0s](https://github.com/P4nda0s) Made [P4nda0s/bin-trace-agent](https://github.com/P4nda0s/bin-trace-agent) public
   > bin-trace-agent 
@@ -70,6 +74,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [sig-id/nucleus](https://github.com/sig-id/nucleus)
   > Lightweight OCI container runtime for NixOS
 
+### [marbemac](https://github.com/marbemac)
+- 🌟 👤 [marbemac](https://github.com/marbemac) Starred [theMackabu/ant](https://github.com/theMackabu/ant)
+  > javascript for 🐜's, a tiny runtime with big ambitions
+
 ### [miyakogi](https://github.com/miyakogi)
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [tomasklaen/uosc](https://github.com/tomasklaen/uosc)
   > Feature-rich minimalist proximity-based UI for MPV player.
@@ -102,6 +110,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [sobolevn](https://github.com/sobolevn)
 - 🍴 👤 [sobolevn](https://github.com/sobolevn) Forked [GreengageDB/greengage](https://github.com/GreengageDB/greengage) to [sobolevn/greengage](https://github.com/sobolevn/greengage)
   > Greengage DB is an open source MPP database platform based on Greenplum® database software.
+- 🍴 👤 [sobolevn](https://github.com/sobolevn) Forked [Artem7898/django-nova](https://github.com/Artem7898/django-nova) to [sobolevn/django-nova](https://github.com/sobolevn/django-nova)
+  > A typed, unified, asynchronous-oriented toolkit for Django 5+*
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [fpganinja/taxi](https://github.com/fpganinja/taxi)
@@ -147,7 +157,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 15:35:10 UTC*
+*Last updated at 2026-07-29 16:27:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
