@@ -30,7 +30,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [P4nda0s](https://github.com/P4nda0s) Made [P4nda0s/bin-trace-agent](https://github.com/P4nda0s/bin-trace-agent) public
   > bin-trace-agent 
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
@@ -87,6 +87,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A query-system-based static site generator
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff)
   > A very fast SIMD-first image comparison library (with nodejs API)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools)
+  > Official repository of VMware open-vm-tools project
+
+### [ingydotnet](https://github.com/ingydotnet)
+- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [jolt-lang/jolt](https://github.com/jolt-lang/jolt) to [ingydotnet/jolt](https://github.com/ingydotnet/jolt)
+  > A Clojure compiler implemented on top of Chez Scheme
 
 ### [jaredpalmer](https://github.com/jaredpalmer)
 - 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -109,6 +115,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Run Microsoft FARA-7B browser agent locally with Playwright/Magentic-UI + llama.cpp (LM Studio/Ollam...
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Noniv/snowflow_demo](https://github.com/Noniv/snowflow_demo)
   > A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Feat...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [grantshandy/fdg](https://github.com/grantshandy/fdg)
+  > A Force Directed Graph Drawing Library
 
 ### [kmelve](https://github.com/kmelve)
 - 🌟 👤 [kmelve](https://github.com/kmelve) Starred [sanity-labs/oclif-plugin-skills-flag](https://github.com/sanity-labs/oclif-plugin-skills-flag)
@@ -116,7 +124,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [sig-id/nucleus](https://github.com/sig-id/nucleus)
@@ -166,12 +174,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [rhaiscript/rhai](https://github.com/rhaiscript/rhai)
   > Rhai - An embedded scripting language for Rust.
 
-### [sobolevn](https://github.com/sobolevn)
-- 🍴 👤 [sobolevn](https://github.com/sobolevn) Forked [GreengageDB/greengage](https://github.com/GreengageDB/greengage) to [sobolevn/greengage](https://github.com/sobolevn/greengage)
-  > Greengage DB is an open source MPP database platform based on Greenplum® database software.
-- 🍴 👤 [sobolevn](https://github.com/sobolevn) Forked [Artem7898/django-nova](https://github.com/Artem7898/django-nova) to [sobolevn/django-nova](https://github.com/sobolevn/django-nova)
-  > A typed, unified, asynchronous-oriented toolkit for Django 5+*
-
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [fpganinja/taxi](https://github.com/fpganinja/taxi)
   > AXI, AXI stream, Ethernet, and PCIe components in System Verilog
@@ -216,7 +218,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 20:19:30 UTC*
+*Last updated at 2026-07-29 21:16:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
