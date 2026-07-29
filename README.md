@@ -25,15 +25,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [tiwe0/wxshadow-hook-poc](https://github.com/tiwe0/wxshadow-hook-poc) to [fengjixuchui/wxshadow-hook-poc](https://github.com/fengjixuchui/wxshadow-hook-poc)
 
+### [firmai](https://github.com/firmai)
+- 🌟 👤 [firmai](https://github.com/firmai) Starred [yoheinakajima/graphcon-deck](https://github.com/yoheinakajima/graphcon-deck)
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [lxien/orbien](https://github.com/lxien/orbien)
   > Orbien 是一个内网穿透平台，支持TCP/HTTP/HTTPS/UDP/socks5/文件共享及上层协议代理，传输层支持TCP、Websocket、Quic，支持多路复用，满足弱网、防火墙穿透等场...
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)
   > A simple, decentralized mesh VPN with WireGuard support.
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)
+  > AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [bearcove/dodeca](https://github.com/bearcove/dodeca)
   > A query-system-based static site generator
+
+### [jaredpalmer](https://github.com/jaredpalmer)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .agents directory.
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [LaurentiuGabriel/token-town](https://github.com/LaurentiuGabriel/token-town)
+  > A live simulation on how LLMs are working.
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [scrya-com/adventure-engine](https://github.com/scrya-com/adventure-engine)
@@ -59,6 +72,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Infatoshi/netherite](https://github.com/Infatoshi/netherite)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bloomberg/crane](https://github.com/bloomberg/crane)
+  > A new extraction system from Rocq to functional-style, memory-safe, thread-safe, readable, valid, pe...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ighoshsubho/lighthouse-attention](https://github.com/ighoshsubho/lighthouse-attention)
+  > Long Context Pre-Training with Lighthouse Attention
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
@@ -118,7 +135,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 13:32:14 UTC*
+*Last updated at 2026-07-29 14:43:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
