@@ -25,6 +25,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [tiwe0/wxshadow-hook-poc](https://github.com/tiwe0/wxshadow-hook-poc) to [fengjixuchui/wxshadow-hook-poc](https://github.com/fengjixuchui/wxshadow-hook-poc)
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [lxien/orbien](https://github.com/lxien/orbien)
+  > Orbien 是一个内网穿透平台，支持TCP/HTTP/HTTPS/UDP/socks5/文件共享及上层协议代理，传输层支持TCP、Websocket、Quic，支持多路复用，满足弱网、防火墙穿透等场...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier)
+  > A simple, decentralized mesh VPN with WireGuard support.
+
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [bearcove/dodeca](https://github.com/bearcove/dodeca)
   > A query-system-based static site generator
@@ -51,6 +57,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mohamed-barakat](https://github.com/mohamed-barakat) Starred [bgavran/TensorType](https://github.com/bgavran/TensorType)
   > Framework for type-safe pure functional and non-cubical tensor processing, written in Idris 2
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
+  > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [enzv/rc](https://github.com/enzv/rc)
   > Plan 9 shell in Go
@@ -58,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [rhaiscript/rhai](https://github.com/rhaiscript/rhai)
   > Rhai - An embedded scripting language for Rust.
+
+### [sobolevn](https://github.com/sobolevn)
+- 🍴 👤 [sobolevn](https://github.com/sobolevn) Forked [GreengageDB/greengage](https://github.com/GreengageDB/greengage) to [sobolevn/greengage](https://github.com/sobolevn/greengage)
+  > Greengage DB is an open source MPP database platform based on Greenplum® database software.
 
 ### [superp00t](https://github.com/superp00t)
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [gershwin-desktop/gershwin-desktop](https://github.com/gershwin-desktop/gershwin-desktop)
@@ -97,7 +111,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 11:41:53 UTC*
+*Last updated at 2026-07-29 12:35:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
