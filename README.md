@@ -87,13 +87,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [zakkak](https://github.com/zakkak) Forked [JCrete/jcrete2026](https://github.com/JCrete/jcrete2026) to [zakkak/jcrete2026](https://github.com/zakkak/jcrete2026)
   > JCrete 2026
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [AtomicBot-ai/atomic-llama-cpp-turboquant](https://github.com/AtomicBot-ai/atomic-llama-cpp-turboquant)
+  > llama.cpp fork with TurboQuant WHT-rotated KV cache & weight compression + Gemma 4 MTP and Qwen 3.6 ...
+
 
 <!-- nav -->
 [← 2026-07-28](archive/2026/07/28.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 10:50:13 UTC*
+*Last updated at 2026-07-29 11:41:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
