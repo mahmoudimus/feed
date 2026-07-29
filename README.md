@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Dicklesworthstone](https://github.com/Dicklesworthstone) Forked [SSheldon/rust-block](https://github.com/SSheldon/rust-block) to [Dicklesworthstone/rust-block](https://github.com/Dicklesworthstone/rust-block)
   > Rust interface for Apple's C language extension of blocks.
 
+### [Gcenx](https://github.com/Gcenx)
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [Wawona/Wawona](https://github.com/Wawona/Wawona)
+  > A native macOS Wayland Compositor
+
 ### [Hellblazer](https://github.com/Hellblazer)
 - 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [wharton-generative-ai-labs/AIBO](https://github.com/wharton-generative-ai-labs/AIBO) to [Hellblazer/AIBO](https://github.com/Hellblazer/AIBO)
   > An open-source tool for running controlled behavioral experiments on AI systems at scale.
@@ -46,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [koreader/koreader](https://github.com/koreader/koreader)
   > An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervan...
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [F2u0a0d3/takopii](https://github.com/F2u0a0d3/takopii)
+  > Android banker-malware education framework. 4 specimen APKs (0/75 VT), 95 detection rules, 8,300+ li...
+
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [onur-aslan/sdd](https://github.com/onur-aslan/sdd)
   > Spec-Driven Development workflow system optimized for smaller models, with modular skills, clearer c...
@@ -63,10 +71,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A simple, decentralized mesh VPN with WireGuard support.
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)
   > AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [yegors/deGDID](https://github.com/yegors/deGDID)
+  > Deletes all instances of Microsoft's GDID and prevents minting of new ones 
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [thebabush/xrefs](https://github.com/thebabush/xrefs)
+  > Fast binary cross-reference extractor for ELF, Mach-O, PE, and dyld shared caches
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [hcrdso/Decrypton](https://github.com/hcrdso/Decrypton)
+  > Windows x64 PE memory dumper and import rebuilder for authorized reverse engineering and binary anal...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [bearcove/dodeca](https://github.com/bearcove/dodeca)
   > A query-system-based static site generator
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff)
+  > A very fast SIMD-first image comparison library (with nodejs API)
 
 ### [jaredpalmer](https://github.com/jaredpalmer)
 - 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -85,6 +105,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [scrya-com/adventure-engine](https://github.com/scrya-com/adventure-engine)
   > Ariadne — Scrya native Rust point-and-click adventure runtime (thread through the labyrinth)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [gspain89/ms-fara-7b-lmstudio-magnetic-ui](https://github.com/gspain89/ms-fara-7b-lmstudio-magnetic-ui)
+  > Run Microsoft FARA-7B browser agent locally with Playwright/Magentic-UI + llama.cpp (LM Studio/Ollam...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Noniv/snowflow_demo](https://github.com/Noniv/snowflow_demo)
+  > A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Feat...
 
 ### [kmelve](https://github.com/kmelve)
 - 🌟 👤 [kmelve](https://github.com/kmelve) Starred [sanity-labs/oclif-plugin-skills-flag](https://github.com/sanity-labs/oclif-plugin-skills-flag)
@@ -106,10 +130,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [michelp](https://github.com/michelp) Forked [NomaDamas/vllm-mock](https://github.com/NomaDamas/vllm-mock) to [michelp/vllm-mock](https://github.com/michelp/vllm-mock)
   > Mock of vLLM. Easily test your vllm code without any GPUs.
 
-### [mimoo](https://github.com/mimoo)
-- 🍴 👤 [mimoo](https://github.com/mimoo) Forked [symbolicsoft/verifpal](https://github.com/symbolicsoft/verifpal) to [mimoo/verifpal](https://github.com/mimoo/verifpal)
-  > Cryptographic protocol analysis for real-world protocols.
-
 ### [miyakogi](https://github.com/miyakogi)
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [tomasklaen/uosc](https://github.com/tomasklaen/uosc)
   > Feature-rich minimalist proximity-based UI for MPV player.
@@ -126,6 +146,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A new extraction system from Rocq to functional-style, memory-safe, thread-safe, readable, valid, pe...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ighoshsubho/lighthouse-attention](https://github.com/ighoshsubho/lighthouse-attention)
   > Long Context Pre-Training with Lighthouse Attention
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [yoheinakajima/graphcon-deck](https://github.com/yoheinakajima/graphcon-deck)
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [twalichiewicz/HNewhere](https://github.com/twalichiewicz/HNewhere)
@@ -195,7 +216,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 18:17:27 UTC*
+*Last updated at 2026-07-29 20:19:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
