@@ -49,9 +49,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [gershwin-desktop/gershwin-desktop](https://github.com/gershwin-desktop/gershwin-desktop)
   > Desktop Environment based on GNUstep welcoming to switchers
 
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [adrianco/retort](https://github.com/adrianco/retort)
+  > Platform Evolution Engine. Distill the best from the combinatorial mess.
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Automattic/harper](https://github.com/Automattic/harper)
+  > Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
+
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-AgentTesting](https://github.com/tspannhw/SNACKAI-CoCo-AgentTesting)
   > Agent Testing
+
+### [zakkak](https://github.com/zakkak)
+- 🍴 👤 [zakkak](https://github.com/zakkak) Forked [JCrete/jcrete2026](https://github.com/JCrete/jcrete2026) to [zakkak/jcrete2026](https://github.com/zakkak/jcrete2026)
+  > JCrete 2026
 
 
 <!-- nav -->
@@ -59,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 07:01:08 UTC*
+*Last updated at 2026-07-29 08:54:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
