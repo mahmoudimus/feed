@@ -41,13 +41,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [sig-id/nucleus](https://github.com/sig-id/nucleus)
   > Lightweight OCI container runtime for NixOS
 
+### [miyakogi](https://github.com/miyakogi)
+- 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [tomasklaen/uosc](https://github.com/tomasklaen/uosc)
+  > Feature-rich minimalist proximity-based UI for MPV player.
+- 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [po5/thumbfast](https://github.com/po5/thumbfast)
+  > High-performance on-the-fly thumbnailer script for mpv
+
+### [mohamed-barakat](https://github.com/mohamed-barakat)
+- 🌟 👤 [mohamed-barakat](https://github.com/mohamed-barakat) Starred [bgavran/TensorType](https://github.com/bgavran/TensorType)
+  > Framework for type-safe pure functional and non-cubical tensor processing, written in Idris 2
+
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [enzv/rc](https://github.com/enzv/rc)
   > Plan 9 shell in Go
-
-### [samuelcolvin](https://github.com/samuelcolvin)
-- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [samuelcolvin/nextcall](https://github.com/samuelcolvin/nextcall)
-  > A macOS menu bar app that makes sure you're never late to a video call.
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [rhaiscript/rhai](https://github.com/rhaiscript/rhai)
@@ -70,6 +76,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > JPC - The fast x86 PC emulator in 100% pure Java
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [SAP/smart-test-picker](https://github.com/SAP/smart-test-picker)
+  > Selects only the tests affected by your code changes by mapping per-test runtime coverage against Gi...
 
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-AgentTesting](https://github.com/tspannhw/SNACKAI-CoCo-AgentTesting)
@@ -85,7 +93,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 09:51:30 UTC*
+*Last updated at 2026-07-29 10:50:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
