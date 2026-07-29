@@ -106,6 +106,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [michelp](https://github.com/michelp) Forked [NomaDamas/vllm-mock](https://github.com/NomaDamas/vllm-mock) to [michelp/vllm-mock](https://github.com/michelp/vllm-mock)
   > Mock of vLLM. Easily test your vllm code without any GPUs.
 
+### [mimoo](https://github.com/mimoo)
+- 🍴 👤 [mimoo](https://github.com/mimoo) Forked [symbolicsoft/verifpal](https://github.com/symbolicsoft/verifpal) to [mimoo/verifpal](https://github.com/mimoo/verifpal)
+  > Cryptographic protocol analysis for real-world protocols.
+
 ### [miyakogi](https://github.com/miyakogi)
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [tomasklaen/uosc](https://github.com/tomasklaen/uosc)
   > Feature-rich minimalist proximity-based UI for MPV player.
@@ -122,6 +126,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A new extraction system from Rocq to functional-style, memory-safe, thread-safe, readable, valid, pe...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ighoshsubho/lighthouse-attention](https://github.com/ighoshsubho/lighthouse-attention)
   > Long Context Pre-Training with Lighthouse Attention
+
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [twalichiewicz/HNewhere](https://github.com/twalichiewicz/HNewhere)
+  > A lightweight userscript that adds Hacker News discussions to any previously submitted article.
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [jstrieb/hackernews-button](https://github.com/jstrieb/hackernews-button)
+  > Privacy-preserving Firefox extension linking to Hacker News discussion; built with Bloom filters and...
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
@@ -185,7 +195,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 17:25:15 UTC*
+*Last updated at 2026-07-29 18:17:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
