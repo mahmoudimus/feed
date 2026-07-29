@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Dicklesworthstone](https://github.com/Dicklesworthstone)
+- 🍴 👤 [Dicklesworthstone](https://github.com/Dicklesworthstone) Forked [SSheldon/rust-block](https://github.com/SSheldon/rust-block) to [Dicklesworthstone/rust-block](https://github.com/Dicklesworthstone/rust-block)
+  > Rust interface for Apple's C language extension of blocks.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🚀 👤 [P4nda0s](https://github.com/P4nda0s) Made [P4nda0s/bin-trace-agent](https://github.com/P4nda0s/bin-trace-agent) public
   > bin-trace-agent 
@@ -17,6 +21,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
   > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
+
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
+  > Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [onur-aslan/sdd](https://github.com/onur-aslan/sdd)
@@ -43,6 +51,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jaredpalmer](https://github.com/jaredpalmer)
 - 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [amirmushichge/tea-leaf-scroll-world](https://github.com/amirmushichge/tea-leaf-scroll-world)
+  > An immersive scroll-driven journey of a tea leaf, from mountain mist to cup.
 
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [LaurentiuGabriel/token-town](https://github.com/LaurentiuGabriel/token-town)
@@ -120,6 +130,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [tspannhw](https://github.com/tspannhw)
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-AgentTesting](https://github.com/tspannhw/SNACKAI-CoCo-AgentTesting)
   > Agent Testing
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-RAGContractSearch](https://github.com/tspannhw/SNACKAI-CoCo-RAGContractSearch)
+  > Example Snowflake for RAG Search on PDFs
 
 ### [zakkak](https://github.com/zakkak)
 - 🍴 👤 [zakkak](https://github.com/zakkak) Forked [JCrete/jcrete2026](https://github.com/JCrete/jcrete2026) to [zakkak/jcrete2026](https://github.com/zakkak/jcrete2026)
@@ -135,7 +147,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 14:43:45 UTC*
+*Last updated at 2026-07-29 15:35:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
