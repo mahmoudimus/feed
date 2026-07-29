@@ -57,6 +57,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mohamed-barakat](https://github.com/mohamed-barakat) Starred [bgavran/TensorType](https://github.com/bgavran/TensorType)
   > Framework for type-safe pure functional and non-cubical tensor processing, written in Idris 2
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Infatoshi/netherite](https://github.com/Infatoshi/netherite)
+
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
   > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -72,6 +75,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [sobolevn](https://github.com/sobolevn)
 - 🍴 👤 [sobolevn](https://github.com/sobolevn) Forked [GreengageDB/greengage](https://github.com/GreengageDB/greengage) to [sobolevn/greengage](https://github.com/sobolevn/greengage)
   > Greengage DB is an open source MPP database platform based on Greenplum® database software.
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [fpganinja/taxi](https://github.com/fpganinja/taxi)
+  > AXI, AXI stream, Ethernet, and PCIe components in System Verilog
 
 ### [superp00t](https://github.com/superp00t)
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [gershwin-desktop/gershwin-desktop](https://github.com/gershwin-desktop/gershwin-desktop)
@@ -111,7 +118,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 12:35:11 UTC*
+*Last updated at 2026-07-29 13:32:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
