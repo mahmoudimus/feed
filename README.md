@@ -8,9 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Dicklesworthstone](https://github.com/Dicklesworthstone)
+- 🍴 👤 [Dicklesworthstone](https://github.com/Dicklesworthstone) Forked [byllyfish/exacl](https://github.com/byllyfish/exacl) to [Dicklesworthstone/exacl](https://github.com/Dicklesworthstone/exacl)
+  > Rust library to manipulate file system access control lists (ACL) on macOS, Linux, and FreeBSD.
+
 ### [JeffLi1993](https://github.com/JeffLi1993)
 - 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)
   > Advancing Open-source World Models
+
+### [John-K](https://github.com/John-K)
+- 🌟 👤 [John-K](https://github.com/John-K) Starred [lvalen91/CPC200-CCPA_resources](https://github.com/lvalen91/CPC200-CCPA_resources)
+  > CCPA Resources
 
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [reflex-dev/xy](https://github.com/reflex-dev/xy)
@@ -145,7 +153,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 16:28:35 UTC*
+*Last updated at 2026-07-30 17:28:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
