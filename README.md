@@ -118,6 +118,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [grantshandy/fdg](https://github.com/grantshandy/fdg)
   > A Force Directed Graph Drawing Library
 
+### [justaugustus](https://github.com/justaugustus)
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [openai/codex-security](https://github.com/openai/codex-security)
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
+
 ### [kmelve](https://github.com/kmelve)
 - 🌟 👤 [kmelve](https://github.com/kmelve) Starred [sanity-labs/oclif-plugin-skills-flag](https://github.com/sanity-labs/oclif-plugin-skills-flag)
   > Expose per-command Markdown to coding agents through an oclif flag
@@ -125,6 +129,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [openai/codex-security](https://github.com/openai/codex-security)
   > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)
+  > ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambig...
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [sig-id/nucleus](https://github.com/sig-id/nucleus)
@@ -169,6 +175,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [enzv/rc](https://github.com/enzv/rc)
   > Plan 9 shell in Go
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [rhaiscript/rhai](https://github.com/rhaiscript/rhai)
@@ -218,7 +228,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-29 22:17:37 UTC*
+*Last updated at 2026-07-29 23:19:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
