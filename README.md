@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)
   > Advancing Open-source World Models
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [smallstep/certificates](https://github.com/smallstep/certificates)
   > 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate mana...
@@ -32,7 +36,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 02:58:19 UTC*
+*Last updated at 2026-07-30 04:04:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
