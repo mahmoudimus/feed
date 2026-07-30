@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
+  > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
+
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [smallstep/certificates](https://github.com/smallstep/certificates)
   > 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate mana...
@@ -25,6 +29,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [precogly/precogly](https://github.com/precogly/precogly)
   > Open-source, enterprise-grade threat modeling platform
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [funador/claude-code-merge-queue](https://github.com/funador/claude-code-merge-queue)
+  > The local merge queue for parallel Claude Code agents
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
+  > Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [readest/readest](https://github.com/readest/readest)
@@ -40,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 06:47:55 UTC*
+*Last updated at 2026-07-30 07:45:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
