@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)
   > Advancing Open-source World Models
 
+### [KIC](https://github.com/KIC)
+- 🌟 👤 [KIC](https://github.com/KIC) Starred [reflex-dev/xy](https://github.com/reflex-dev/xy)
+  > Ultra-fast and customizable Python charts
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
@@ -19,6 +23,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [buger](https://github.com/buger)
 - 🌟 👤 [buger](https://github.com/buger) Starred [ZEISS/libczi](https://github.com/ZEISS/libczi)
   > libCZI is an Open Source Cross-Platform C++ library to read and write CZI.
+- 🌟 👤 [buger](https://github.com/buger) Starred [buger/jsonparser](https://github.com/buger/jsonparser)
+  > One of the fastest alternative JSON parser for Go that does not require schema
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
@@ -35,6 +41,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Project for course 521253S at University of Oulu
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [AkashaCorporation/HikariSystem-HexCore](https://github.com/AkashaCorporation/HikariSystem-HexCore) to [fengjixuchui/HikariSystem-HexCore](https://github.com/fengjixuchui/HikariSystem-HexCore)
   > The Native Reverse Engineering IDE. Zero-overhead binary analysis, full CPU emulation (PE/ELF), and ...
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass)
+  > Awesome EDR Bypass Resources For Ethical Hacking
 
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [precogly/precogly](https://github.com/precogly/precogly)
@@ -88,7 +98,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 10:40:47 UTC*
+*Last updated at 2026-07-30 11:35:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
