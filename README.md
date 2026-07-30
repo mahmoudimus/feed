@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
+### [buger](https://github.com/buger)
+- 🌟 👤 [buger](https://github.com/buger) Starred [ZEISS/libczi](https://github.com/ZEISS/libczi)
+  > libCZI is an Open Source Cross-Platform C++ library to read and write CZI.
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
   > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
@@ -25,6 +29,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate mana...
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs)
   > Rust implementation of Magic Wormhole, with new features and enhancements
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [LassiHeikkila/ComputerSecurityProject2022](https://github.com/LassiHeikkila/ComputerSecurityProject2022) to [fengjixuchui/ComputerSecurityProject2022](https://github.com/fengjixuchui/ComputerSecurityProject2022)
+  > Project for course 521253S at University of Oulu
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [AkashaCorporation/HikariSystem-HexCore](https://github.com/AkashaCorporation/HikariSystem-HexCore) to [fengjixuchui/HikariSystem-HexCore](https://github.com/fengjixuchui/HikariSystem-HexCore)
+  > The Native Reverse Engineering IDE. Zero-overhead binary analysis, full CPU emulation (PE/ELF), and ...
 
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [precogly/precogly](https://github.com/precogly/precogly)
@@ -44,13 +54,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
   > Firmware for the Xteink X3 and X4 e-readers
 
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [danbugs/serverside-wasm-book-code](https://github.com/danbugs/serverside-wasm-book-code)
+  > The code written for "Server-side WebAssembly: Building and Deploying Lightweight Apps"
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+  > The most RAM efficient harness
+
 
 <!-- nav -->
 [← 2026-07-29](archive/2026/07/29.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 07:45:49 UTC*
+*Last updated at 2026-07-30 08:51:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
