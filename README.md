@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
+### [asalih](https://github.com/asalih)
+- 🍴 👤 [asalih](https://github.com/asalih) Forked [youmark/pkcs8](https://github.com/youmark/pkcs8) to [asalih/pkcs8](https://github.com/asalih/pkcs8)
+  > Go package implementing functions to parse and convert private keys in PKCS#8 format, as defined in ...
+
 ### [buger](https://github.com/buger)
 - 🌟 👤 [buger](https://github.com/buger) Starred [ZEISS/libczi](https://github.com/ZEISS/libczi)
   > libCZI is an Open Source Cross-Platform C++ library to read and write CZI.
@@ -45,6 +49,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Project for course 521253S at University of Oulu
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [AkashaCorporation/HikariSystem-HexCore](https://github.com/AkashaCorporation/HikariSystem-HexCore) to [fengjixuchui/HikariSystem-HexCore](https://github.com/fengjixuchui/HikariSystem-HexCore)
   > The Native Reverse Engineering IDE. Zero-overhead binary analysis, full CPU emulation (PE/ELF), and ...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [wshobson/agents](https://github.com/wshobson/agents) to [fengjixuchui/agents](https://github.com/fengjixuchui/agents)
+  > Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilo...
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [timmclean/rust-timing-shield](https://github.com/timmclean/rust-timing-shield)
@@ -71,6 +77,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [HalfTimeOfLife/mispSK](https://github.com/HalfTimeOfLife/mispSK)
   > Collection of Python scripts automating operations on MISP instances (via PyMISP).
+
+### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+  > A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
@@ -109,6 +119,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Standalone MCP server for hashline anchor-based file reading, editing, and searching (Rust port of g...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)
   > OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [anthropics/cryptography-research-demo](https://github.com/anthropics/cryptography-research-demo)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
+  >  Companion code for the global workspace interpretability paper
 
 
 <!-- nav -->
@@ -116,7 +129,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 13:31:09 UTC*
+*Last updated at 2026-07-30 14:43:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
