@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs)
   > Rust implementation of Magic Wormhole, with new features and enhancements
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [justinrmiller/lance-video](https://github.com/justinrmiller/lance-video)
+  > Lance Video is a demonstration platform for analyzing and searching video content with LanceDB.
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [LassiHeikkila/ComputerSecurityProject2022](https://github.com/LassiHeikkila/ComputerSecurityProject2022) to [fengjixuchui/ComputerSecurityProject2022](https://github.com/fengjixuchui/ComputerSecurityProject2022)
   > Project for course 521253S at University of Oulu
@@ -95,10 +99,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [danbugs/serverside-wasm-book-code](https://github.com/danbugs/serverside-wasm-book-code)
   > The code written for "Server-side WebAssembly: Building and Deploying Lightweight Apps"
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [quarkiverse/quarkus-roq](https://github.com/quarkiverse/quarkus-roq)
+  > The Roq Static Site Generator allows to easily create a static website or blog using Quarkus super-p...
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
   > The most RAM efficient harness
+- 🚀 👤 [zchee](https://github.com/zchee) Made [zchee/hashline-rs](https://github.com/zchee/hashline-rs) public
+  > Standalone MCP server for hashline anchor-based file reading, editing, and searching (Rust port of g...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)
+  > OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
 
 <!-- nav -->
@@ -106,7 +116,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 12:29:56 UTC*
+*Last updated at 2026-07-30 13:31:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
