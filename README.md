@@ -46,9 +46,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
   > Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [HalfTimeOfLife/mispSK](https://github.com/HalfTimeOfLife/mispSK)
+  > Collection of Python scripts automating operations on MISP instances (via PyMISP).
+
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [readest/readest](https://github.com/readest/readest)
   > Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-pla...
+
+### [sbycrosz](https://github.com/sbycrosz)
+- 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [farhoudshapouran/react-native-ui-datepicker](https://github.com/farhoudshapouran/react-native-ui-datepicker)
+  > Customizable React Native 📅 Date Picker component for Android, iOS, and Web. It includes single, ran...
+- 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [MarceloPrado/flash-calendar](https://github.com/MarceloPrado/flash-calendar)
+  > The fastest React Native calendar 📆⚡
 
 ### [superp00t](https://github.com/superp00t)
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
@@ -68,7 +78,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 08:51:25 UTC*
+*Last updated at 2026-07-30 09:47:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
