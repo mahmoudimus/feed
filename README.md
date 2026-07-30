@@ -109,6 +109,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, r...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [stencil-hq/slab](https://github.com/stencil-hq/slab)
   > A design language for agents
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [gavinmn/iOSAppMeshTransform](https://github.com/gavinmn/iOSAppMeshTransform)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [rlouf/zeta](https://github.com/rlouf/zeta)
+  > Agent operating system
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [readest/readest](https://github.com/readest/readest)
@@ -153,7 +156,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 17:28:43 UTC*
+*Last updated at 2026-07-30 18:26:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
