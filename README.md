@@ -30,6 +30,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [buger](https://github.com/buger) Starred [buger/jsonparser](https://github.com/buger/jsonparser)
   > One of the fastest alternative JSON parser for Go that does not require schema
 
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [octanejs/octane](https://github.com/octanejs/octane)
+  > React’s programming model, compiled. The successor to Inferno, carrying its performance-first goal f...
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
   > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
@@ -81,6 +85,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [moriyoshi](https://github.com/moriyoshi)
 - 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [lifting-bits/remill](https://github.com/lifting-bits/remill)
   > Library for lifting machine code to LLVM bitcode
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [digimata/quill](https://github.com/digimata/quill)
+  > Ultra-minimalist macOS recording + transcription.
 
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
@@ -137,7 +145,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 15:36:00 UTC*
+*Last updated at 2026-07-30 16:28:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
