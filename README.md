@@ -78,6 +78,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [HalfTimeOfLife/mispSK](https://github.com/HalfTimeOfLife/mispSK)
   > Collection of Python scripts automating operations on MISP instances (via PyMISP).
 
+### [moriyoshi](https://github.com/moriyoshi)
+- 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [lifting-bits/remill](https://github.com/lifting-bits/remill)
+  > Library for lifting machine code to LLVM bitcode
+
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
   > A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project...
@@ -85,6 +89,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
   > AgentENV (AENV) is a distributed platform for running agent environments at scale.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [can1357/pon](https://github.com/can1357/pon)
+  > Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, r...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [stencil-hq/slab](https://github.com/stencil-hq/slab)
+  > A design language for agents
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [readest/readest](https://github.com/readest/readest)
@@ -129,7 +137,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 14:43:44 UTC*
+*Last updated at 2026-07-30 15:36:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
