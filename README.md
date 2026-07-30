@@ -8,9 +8,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [JeffLi1993](https://github.com/JeffLi1993)
+- 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)
+  > Advancing Open-source World Models
+
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [smallstep/certificates](https://github.com/smallstep/certificates)
   > 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate mana...
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs)
+  > Rust implementation of Magic Wormhole, with new features and enhancements
+
+### [interference-security](https://github.com/interference-security)
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [precogly/precogly](https://github.com/precogly/precogly)
+  > Open-source, enterprise-grade threat modeling platform
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [readest/readest](https://github.com/readest/readest)
@@ -22,7 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 01:30:46 UTC*
+*Last updated at 2026-07-30 02:58:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
