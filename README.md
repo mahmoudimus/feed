@@ -42,6 +42,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [AkashaCorporation/HikariSystem-HexCore](https://github.com/AkashaCorporation/HikariSystem-HexCore) to [fengjixuchui/HikariSystem-HexCore](https://github.com/fengjixuchui/HikariSystem-HexCore)
   > The Native Reverse Engineering IDE. Zero-overhead binary analysis, full CPU emulation (PE/ELF), and ...
 
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [timmclean/rust-timing-shield](https://github.com/timmclean/rust-timing-shield)
+  > Comprehensive timing leak protection for Rust programs  https://www.chosenplaintext.ca/open-source/r...
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [tkmru/awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass)
   > Awesome EDR Bypass Resources For Ethical Hacking
@@ -49,6 +53,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [precogly/precogly](https://github.com/precogly/precogly)
   > Open-source, enterprise-grade threat modeling platform
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [BlackMixture/Mix-Studio](https://github.com/BlackMixture/Mix-Studio)
+  > The cleanest, responsive AI workspace. Run highly tuned image and video workflows flawlessly from yo...
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [funador/claude-code-merge-queue](https://github.com/funador/claude-code-merge-queue)
@@ -98,7 +106,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 11:35:04 UTC*
+*Last updated at 2026-07-30 12:29:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
