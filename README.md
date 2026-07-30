@@ -50,9 +50,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [HalfTimeOfLife/mispSK](https://github.com/HalfTimeOfLife/mispSK)
   > Collection of Python scripts automating operations on MISP instances (via PyMISP).
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
+  > AgentENV (AENV) is a distributed platform for running agent environments at scale.
+
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [readest/readest](https://github.com/readest/readest)
   > Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-pla...
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [boto/boto3](https://github.com/boto/boto3)
+  > Boto3, an AWS SDK for Python
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [minio/minio-go](https://github.com/minio/minio-go)
+  > MinIO Go client SDK for S3 compatible object storage
 
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [farhoudshapouran/react-native-ui-datepicker](https://github.com/farhoudshapouran/react-native-ui-datepicker)
@@ -78,7 +88,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 09:47:56 UTC*
+*Last updated at 2026-07-30 10:40:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
