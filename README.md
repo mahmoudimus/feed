@@ -80,6 +80,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [BlackMixture/Mix-Studio](https://github.com/BlackMixture/Mix-Studio)
   > The cleanest, responsive AI workspace. Run highly tuned image and video workflows flawlessly from yo...
 
+### [kyleconroy](https://github.com/kyleconroy)
+- 🌟 👤 [kyleconroy](https://github.com/kyleconroy) Starred [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
+  > Generate type-safe code from SQL
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [funador/claude-code-merge-queue](https://github.com/funador/claude-code-merge-queue)
   > The local merge queue for parallel Claude Code agents
@@ -129,6 +133,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [MarceloPrado/flash-calendar](https://github.com/MarceloPrado/flash-calendar)
   > The fastest React Native calendar 📆⚡
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [Layr-Labs/flock-challenge](https://github.com/Layr-Labs/flock-challenge)
+
 ### [superp00t](https://github.com/superp00t)
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
   > Firmware for the Xteink X3 and X4 e-readers
@@ -150,13 +157,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
   >  Companion code for the global workspace interpretability paper
 
+### [zhkl0228](https://github.com/zhkl0228)
+- 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw)
+  > Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports mu...
+
 
 <!-- nav -->
 [← 2026-07-29](archive/2026/07/29.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-30 18:26:29 UTC*
+*Last updated at 2026-07-30 19:28:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
