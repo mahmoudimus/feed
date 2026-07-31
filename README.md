@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ry](https://github.com/ry) Starred [denoland/celld](https://github.com/denoland/celld)
   > self-hosted, distributed Durable Objects
 
+### [superp00t](https://github.com/superp00t)
+- 🌟 👤 [superp00t](https://github.com/superp00t) Starred [FernandoS27/NeoDex](https://github.com/FernandoS27/NeoDex)
+  > Archived 3ds Max toolkit for creating and editing Warcraft 3 Models.
+
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
   > Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather...
@@ -38,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 06:00:33 UTC*
+*Last updated at 2026-07-31 07:57:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
