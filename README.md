@@ -8,14 +8,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [yehonathanlitman/Lift4D](https://github.com/yehonathanlitman/Lift4D)
+  > Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild
+
+### [juicycleff](https://github.com/juicycleff)
+- 🚀 👤 [juicycleff](https://github.com/juicycleff) Made [xraph/dtl](https://github.com/xraph/dtl) public
+  > DTL — a small, embeddable expression and function language for Go.
+
 
 <!-- nav -->
 [← 2026-07-30](archive/2026/07/30.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 00:20:22 UTC*
+*Last updated at 2026-07-31 01:31:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
