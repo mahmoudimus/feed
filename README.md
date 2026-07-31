@@ -45,6 +45,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ry](https://github.com/ry) Starred [denoland/celld](https://github.com/denoland/celld)
   > self-hosted, distributed Durable Objects
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox)
+  > Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <200ms boot...
+
 ### [superp00t](https://github.com/superp00t)
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [FernandoS27/NeoDex](https://github.com/FernandoS27/NeoDex)
   > Archived 3ds Max toolkit for creating and editing Warcraft 3 Models.
@@ -56,6 +60,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [vertical-blank](https://github.com/vertical-blank)
 - 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [pcm720/fc1307-tools](https://github.com/pcm720/fc1307-tools)
   > Miscellaneous utilities for FC1307 SD-IDE chip
+
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/mcp-grafana-feedstock](https://github.com/conda-forge/mcp-grafana-feedstock) to [xhochy/mcp-grafana-feedstock](https://github.com/xhochy/mcp-grafana-feedstock)
+  > A conda-smithy repository for mcp-grafana.
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [perplexityai/numbat](https://github.com/perplexityai/numbat)
@@ -71,7 +79,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 12:33:24 UTC*
+*Last updated at 2026-07-31 13:31:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
