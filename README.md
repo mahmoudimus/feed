@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+  > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+
 ### [SynivalWoW](https://github.com/SynivalWoW)
 - 🍴 👤 [SynivalWoW](https://github.com/SynivalWoW) Forked [NeticSoul/DragonUI](https://github.com/NeticSoul/DragonUI) to [SynivalWoW/DragonUI-Ascension](https://github.com/SynivalWoW/DragonUI-Ascension)
   > Retail-inspired modular UI addon for WoW 3.3.5a (WotLK).
@@ -56,6 +60,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [kristjanvalur/cabfile](https://github.com/kristjanvalur/cabfile)
   > A python library to read windows .cab files, on windows.
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [nightlark/pymsi](https://github.com/nightlark/pymsi)
+  > Pure Python library for reading, parsing, and extracting the contents of Windows installer (.msi) fi...
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [HimClix/rexa](https://github.com/HimClix/rexa)
@@ -72,6 +78,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [justaugustus](https://github.com/justaugustus)
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [andrew/weekend-at-bernies](https://github.com/andrew/weekend-at-bernies)
   > Data collection for Weekend at Bernie's blog post
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+  > Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -159,7 +167,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 19:34:03 UTC*
+*Last updated at 2026-07-31 20:26:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
