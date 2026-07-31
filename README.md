@@ -39,6 +39,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [cacoleman16/tsecon](https://github.com/cacoleman16/tsecon)
   > High-performance time series econometrics: Rust core, Python-first API — validated estimators, a 15-...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [HimClix/rexa](https://github.com/HimClix/rexa)
+  > High-performance pure-Go regex engine with PCRE features. Drop-in regexp replacement that beats stdl...
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [yehonathanlitman/Lift4D](https://github.com/yehonathanlitman/Lift4D)
   > Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild
@@ -68,6 +72,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Render and customize rich attributed text in SwiftUI
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [BYK/fossilize](https://github.com/BYK/fossilize)
   > Create Node SEA binaries across platforms with ease
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs)
+  > QuickJS, the Next Generation: a mighty JavaScript engine
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [HexaEngine/Hexa.NET.ImGui](https://github.com/HexaEngine/Hexa.NET.ImGui)
@@ -115,7 +121,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 15:39:48 UTC*
+*Last updated at 2026-07-31 16:30:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
