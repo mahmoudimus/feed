@@ -30,6 +30,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [aakashlpin](https://github.com/aakashlpin) Starred [block/buzz](https://github.com/block/buzz)
   > A hive mind communication platform
 
+### [anzz1](https://github.com/anzz1)
+- 🍴 👤 [anzz1](https://github.com/anzz1) Forked [rxi/lite](https://github.com/rxi/lite) to [anzz1/lite](https://github.com/anzz1/lite)
+  > A lightweight text editor written in Lua
+
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) to [TykTechnologies/inspector](https://github.com/TykTechnologies/inspector)
   > Visual testing tool for MCP servers
@@ -56,6 +60,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A powerful static binary rewriting tool
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [OLmatter/llm-api-ledger](https://github.com/OLmatter/llm-api-ledger)
   > 主流 LLM API 厂商的真实用量和性能数据榜单。  不靠厂商宣传，靠用户本地装探针核账 + 众包上报脱敏数据。同套餐多用户真实流量汇聚，三方交叉验证（本地计数 vs 厂商 monitor API ...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike)
+  > Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,30...
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [getzep/graphiti](https://github.com/getzep/graphiti)
+  > Build Real-Time Knowledge Graphs for AI Agents
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [kristjanvalur/cabfile](https://github.com/kristjanvalur/cabfile)
@@ -171,7 +181,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 21:21:45 UTC*
+*Last updated at 2026-07-31 22:18:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
