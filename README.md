@@ -16,13 +16,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [juicycleff](https://github.com/juicycleff) Made [xraph/dtl](https://github.com/xraph/dtl) public
   > DTL — a small, embeddable expression and function language for Go.
 
+### [justaugustus](https://github.com/justaugustus)
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [andrew/weekend-at-bernies](https://github.com/andrew/weekend-at-bernies)
+  > Data collection for Weekend at Bernie's blog post
+
+### [ry](https://github.com/ry)
+- 🌟 👤 [ry](https://github.com/ry) Starred [denoland/celld](https://github.com/denoland/celld)
+  > self-hosted, distributed Durable Objects
+
 
 <!-- nav -->
 [← 2026-07-30](archive/2026/07/30.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 02:59:03 UTC*
+*Last updated at 2026-07-31 04:13:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
