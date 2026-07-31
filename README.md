@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [SynivalWoW](https://github.com/SynivalWoW)
+- 🍴 👤 [SynivalWoW](https://github.com/SynivalWoW) Forked [NeticSoul/DragonUI](https://github.com/NeticSoul/DragonUI) to [SynivalWoW/DragonUI-Ascension](https://github.com/SynivalWoW/DragonUI-Ascension)
+  > Retail-inspired modular UI addon for WoW 3.3.5a (WotLK).
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [yehonathanlitman/Lift4D](https://github.com/yehonathanlitman/Lift4D)
   > Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild
@@ -42,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 07:57:32 UTC*
+*Last updated at 2026-07-31 09:04:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
