@@ -49,9 +49,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
   > Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather...
 
+### [vertical-blank](https://github.com/vertical-blank)
+- 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [pcm720/fc1307-tools](https://github.com/pcm720/fc1307-tools)
+  > Miscellaneous utilities for FC1307 SD-IDE chip
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [perplexityai/numbat](https://github.com/perplexityai/numbat)
   > Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocki...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [parallel-web/parallel-web-tools](https://github.com/parallel-web/parallel-web-tools)
+  > Contains parallel-cli and the parallel-web-tools Python package. Built on the parallel-web SDK: http...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [xai-org/plugin-marketplace](https://github.com/xai-org/plugin-marketplace)
+  > Official xAI plugin marketplace
 
 
 <!-- nav -->
@@ -59,7 +67,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 10:51:24 UTC*
+*Last updated at 2026-07-31 11:40:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
