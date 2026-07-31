@@ -51,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [andrew/weekend-at-bernies](https://github.com/andrew/weekend-at-bernies)
   > Data collection for Weekend at Bernie's blog post
 
+### [luc-tielen](https://github.com/luc-tielen)
+- 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .agents directory.
+
 ### [miyakogi](https://github.com/miyakogi)
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [BoundaryML/baml](https://github.com/BoundaryML/baml)
   > The programming language for agents
@@ -76,6 +80,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ry](https://github.com/ry)
 - 🌟 👤 [ry](https://github.com/ry) Starred [denoland/celld](https://github.com/denoland/celld)
   > self-hosted, distributed Durable Objects
+
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [davila7/agents_otel_data](https://github.com/davila7/agents_otel_data)
+  > Testing Agent Open Telemetry data
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox)
@@ -107,7 +115,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 14:45:40 UTC*
+*Last updated at 2026-07-31 15:39:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
