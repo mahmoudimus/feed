@@ -12,6 +12,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [SynivalWoW](https://github.com/SynivalWoW) Forked [NeticSoul/DragonUI](https://github.com/NeticSoul/DragonUI) to [SynivalWoW/DragonUI-Ascension](https://github.com/SynivalWoW/DragonUI-Ascension)
   > Retail-inspired modular UI addon for WoW 3.3.5a (WotLK).
 
+### [ThaumicMekanism](https://github.com/ThaumicMekanism)
+- 🌟 👤 [ThaumicMekanism](https://github.com/ThaumicMekanism) Starred [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper)
+  > 100% private on-device voice models for speech-to-text and meeting transcription on macOS
+- 🍴 👤 [ThaumicMekanism](https://github.com/ThaumicMekanism) Forked [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) to [ThaumicMekanism/ghost-pepper](https://github.com/ThaumicMekanism/ghost-pepper)
+  > 100% private on-device voice models for speech-to-text and meeting transcription on macOS
+
+### [aakashlpin](https://github.com/aakashlpin)
+- 🌟 👤 [aakashlpin](https://github.com/aakashlpin) Starred [block/buzz](https://github.com/block/buzz)
+  > A hive mind communication platform
+
+### [buger](https://github.com/buger)
+- 🍴 👤 [buger](https://github.com/buger) Forked [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) to [TykTechnologies/inspector](https://github.com/TykTechnologies/inspector)
+  > Visual testing tool for MCP servers
+
+### [danieldietrich](https://github.com/danieldietrich)
+- 🍴 👤 [danieldietrich](https://github.com/danieldietrich) Forked [eclipse-enclave/enclave](https://github.com/eclipse-enclave/enclave) to [danieldietrich/enclave](https://github.com/danieldietrich/enclave)
+  > Sandbox for running AI coding agents autonomously: isolated, network-restricted, host-safe
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Infatoshi/netherite](https://github.com/Infatoshi/netherite) to [fengjixuchui/netherite](https://github.com/fengjixuchui/netherite)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [cli0xfa/mmio-for-byovd](https://github.com/cli0xfa/mmio-for-byovd) to [fengjixuchui/mmio-for-byovd](https://github.com/fengjixuchui/mmio-for-byovd)
@@ -40,6 +58,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [penberg/chimera](https://github.com/penberg/chimera)
   > Sandbox untrusted code with safe access to the host.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp)
+  > llama.cpp fork with additional SOTA quants and improved performance
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Emanuele-web04/RemodexTextKit](https://github.com/Emanuele-web04/RemodexTextKit)
+  > Render and customize rich attributed text in SwiftUI
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [BYK/fossilize](https://github.com/BYK/fossilize)
+  > Create Node SEA binaries across platforms with ease
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [HexaEngine/Hexa.NET.ImGui](https://github.com/HexaEngine/Hexa.NET.ImGui)
+  > A .NET wrapper for the Dear ImGui.
+
+### [rougier](https://github.com/rougier)
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [isaqueseneda/shieldfont](https://github.com/isaqueseneda/shieldfont)
+  > A web font that protects written content from AI scraping — humans see the text, scrapers see a plau...
 
 ### [ry](https://github.com/ry)
 - 🌟 👤 [ry](https://github.com/ry) Starred [denoland/celld](https://github.com/denoland/celld)
@@ -61,10 +93,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [pcm720/fc1307-tools](https://github.com/pcm720/fc1307-tools)
   > Miscellaneous utilities for FC1307 SD-IDE chip
 
-### [xhochy](https://github.com/xhochy)
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/mcp-grafana-feedstock](https://github.com/conda-forge/mcp-grafana-feedstock) to [xhochy/mcp-grafana-feedstock](https://github.com/xhochy/mcp-grafana-feedstock)
-  > A conda-smithy repository for mcp-grafana.
-
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [perplexityai/numbat](https://github.com/perplexityai/numbat)
   > Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocki...
@@ -79,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 13:31:08 UTC*
+*Last updated at 2026-07-31 14:45:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
