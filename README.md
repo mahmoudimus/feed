@@ -33,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [andrew/weekend-at-bernies](https://github.com/andrew/weekend-at-bernies)
   > Data collection for Weekend at Bernie's blog post
 
+### [miyakogi](https://github.com/miyakogi)
+- 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [BoundaryML/baml](https://github.com/BoundaryML/baml)
+  > The programming language for agents
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [penberg/chimera](https://github.com/penberg/chimera)
   > Sandbox untrusted code with safe access to the host.
@@ -67,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 11:40:24 UTC*
+*Last updated at 2026-07-31 12:33:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
