@@ -81,6 +81,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
   > Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
+### [kyle-elliott-tob](https://github.com/kyle-elliott-tob)
+- 🍴 👤 [kyle-elliott-tob](https://github.com/kyle-elliott-tob) Forked [zeek/zeek](https://github.com/zeek/zeek) to [kyle-elliott-tob/zeek](https://github.com/kyle-elliott-tob/zeek)
+  > Zeek is a powerful network analysis framework that is much different from the typical IDS you may kn...
+
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
@@ -167,7 +171,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 20:26:04 UTC*
+*Last updated at 2026-07-31 21:21:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
