@@ -53,6 +53,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [OLmatter/llm-api-ledger](https://github.com/OLmatter/llm-api-ledger)
   > 主流 LLM API 厂商的真实用量和性能数据榜单。  不靠厂商宣传，靠用户本地装探针核账 + 众包上报脱敏数据。同套餐多用户真实流量汇聚，三方交叉验证（本地计数 vs 厂商 monitor API ...
 
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [kristjanvalur/cabfile](https://github.com/kristjanvalur/cabfile)
+  > A python library to read windows .cab files, on windows.
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [HimClix/rexa](https://github.com/HimClix/rexa)
   > High-performance pure-Go regex engine with PCRE features. Drop-in regexp replacement that beats stdl...
@@ -81,6 +85,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [BoundaryML/baml](https://github.com/BoundaryML/baml)
   > The programming language for agents
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark)
+  > DeepSeek V4 Flash DSpark 1M NVFP4 KV recipe for 2x DGX Spark
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [penberg/chimera](https://github.com/penberg/chimera)
   > Sandbox untrusted code with safe access to the host.
@@ -92,6 +100,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Create Node SEA binaries across platforms with ease
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs)
   > QuickJS, the Next Generation: a mighty JavaScript engine
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [specula-org/Specula](https://github.com/specula-org/Specula)
+  > Specula: A tool for finding deep bugs in system code using TLA+
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lassejlv/loora](https://github.com/lassejlv/loora)
+  > A canvas design tool your agent can edit. Arrange structured UI nodes on the canvas; connect Claude,...
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [HexaEngine/Hexa.NET.ImGui](https://github.com/HexaEngine/Hexa.NET.ImGui)
@@ -112,6 +124,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox)
   > Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <200ms boot...
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [yc-software/qm](https://github.com/yc-software/qm)
+  > Multiplayer agent harness for work
 
 ### [superp00t](https://github.com/superp00t)
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [FernandoS27/NeoDex](https://github.com/FernandoS27/NeoDex)
@@ -145,7 +159,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 18:27:15 UTC*
+*Last updated at 2026-07-31 19:34:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
