@@ -59,6 +59,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
 
+### [mathiasbynens](https://github.com/mathiasbynens)
+- 🍴 👤 [mathiasbynens](https://github.com/mathiasbynens) Forked [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) to [mathiasbynens/Il2CppDumper](https://github.com/mathiasbynens/Il2CppDumper)
+  > Unity il2cpp reverse engineer
+
 ### [miyakogi](https://github.com/miyakogi)
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [BoundaryML/baml](https://github.com/BoundaryML/baml)
   > The programming language for agents
@@ -107,6 +111,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [pcm720/fc1307-tools](https://github.com/pcm720/fc1307-tools)
   > Miscellaneous utilities for FC1307 SD-IDE chip
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HullaBrian/ttd-capa](https://github.com/HullaBrian/ttd-capa)
+  > Capability extraction from Time Travel Debugging Traces
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [perplexityai/numbat](https://github.com/perplexityai/numbat)
   > Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocki...
@@ -121,7 +129,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 16:30:55 UTC*
+*Last updated at 2026-07-31 17:28:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
