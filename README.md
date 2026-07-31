@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [ThaumicMekanism](https://github.com/ThaumicMekanism) Forked [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) to [ThaumicMekanism/ghost-pepper](https://github.com/ThaumicMekanism/ghost-pepper)
   > 100% private on-device voice models for speech-to-text and meeting transcription on macOS
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [sqliteai/waste](https://github.com/sqliteai/waste)
+  > Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weigh...
+
 ### [aakashlpin](https://github.com/aakashlpin)
 - 🌟 👤 [aakashlpin](https://github.com/aakashlpin) Starred [block/buzz](https://github.com/block/buzz)
   > A hive mind communication platform
@@ -30,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [danieldietrich](https://github.com/danieldietrich) Forked [eclipse-enclave/enclave](https://github.com/eclipse-enclave/enclave) to [danieldietrich/enclave](https://github.com/danieldietrich/enclave)
   > Sandbox for running AI coding agents autonomously: isolated, network-restricted, host-safe
 
+### [dibyendumajumdar](https://github.com/dibyendumajumdar)
+- 🍴 👤 [dibyendumajumdar](https://github.com/dibyendumajumdar) Forked [heterophyllus/Geopter](https://github.com/heterophyllus/Geopter) to [BeamFour/Geopter](https://github.com/BeamFour/Geopter)
+  > Optical Design Software
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Infatoshi/netherite](https://github.com/Infatoshi/netherite) to [fengjixuchui/netherite](https://github.com/fengjixuchui/netherite)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [cli0xfa/mmio-for-byovd](https://github.com/cli0xfa/mmio-for-byovd) to [fengjixuchui/mmio-for-byovd](https://github.com/fengjixuchui/mmio-for-byovd)
@@ -38,6 +46,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [firmai](https://github.com/firmai)
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [cacoleman16/tsecon](https://github.com/cacoleman16/tsecon)
   > High-performance time series econometrics: Rust core, Python-first API — validated estimators, a 15-...
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [GJDuck/e9patch](https://github.com/GJDuck/e9patch)
+  > A powerful static binary rewriting tool
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [OLmatter/llm-api-ledger](https://github.com/OLmatter/llm-api-ledger)
+  > 主流 LLM API 厂商的真实用量和性能数据榜单。  不靠厂商宣传，靠用户本地装探针核账 + 众包上报脱敏数据。同套餐多用户真实流量汇聚，三方交叉验证（本地计数 vs 厂商 monitor API ...
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [HimClix/rexa](https://github.com/HimClix/rexa)
@@ -106,6 +120,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
   > Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather...
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [hakdogan/http-query-method](https://github.com/hakdogan/http-query-method)
+  > Quarkus demo of the HTTP QUERY method (RFC 10008): safe, idempotent, cacheable queries with a reques...
 
 ### [vertical-blank](https://github.com/vertical-blank)
 - 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [pcm720/fc1307-tools](https://github.com/pcm720/fc1307-tools)
@@ -129,7 +145,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 17:28:54 UTC*
+*Last updated at 2026-07-31 18:27:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
