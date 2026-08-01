@@ -22,6 +22,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexzhang13/alexzhang13.github.io](https://github.com/alexzhang13/alexzhang13.github.io)
   > Personal website.
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jungledesh/profile](https://github.com/jungledesh/profile)
+  > A physics-grounded, cost-aware optimization loop for vLLM
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [IBM/Flash-GMM](https://github.com/IBM/Flash-GMM)
+  > Flash-GMM, a memory-efficient GPU kernel that unlocks GMM soft clustering at billion-scale
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [majd/ipatool](https://github.com/majd/ipatool)
   > Command-line tool that allows searching and downloading app packages (known as ipa files) from the i...
@@ -32,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 08:42:58 UTC*
+*Last updated at 2026-08-01 09:36:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
