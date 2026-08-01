@@ -32,6 +32,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexzhang13/alexzhang13.github.io](https://github.com/alexzhang13/alexzhang13.github.io)
   > Personal website.
 
+### [mrphrazer](https://github.com/mrphrazer)
+- 🌟 👤 [mrphrazer](https://github.com/mrphrazer) Starred [can1357/vibemon](https://github.com/can1357/vibemon)
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jungledesh/profile](https://github.com/jungledesh/profile)
   > A physics-grounded, cost-aware optimization loop for vLLM
@@ -54,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 12:16:58 UTC*
+*Last updated at 2026-08-01 13:28:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
