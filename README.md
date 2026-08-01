@@ -81,13 +81,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd)
   > An unofficial NixOS fork with a FreeBSD kernel
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [openai/ten-proofs](https://github.com/openai/ten-proofs)
+  > Lean certificates accompanying proofs in mathematics and theoretical computer science
+
 
 <!-- nav -->
 [← 2026-07-31](archive/2026/07/31.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 19:24:04 UTC*
+*Last updated at 2026-08-01 20:17:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
