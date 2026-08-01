@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [buger](https://github.com/buger)
+- 🍴 👤 [buger](https://github.com/buger) Forked [PostHog/posthog](https://github.com/PostHog/posthog) to [probelabs/posthog-proof](https://github.com/probelabs/posthog-proof)
+  > :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools –...
+
 ### [cliffclick](https://github.com/cliffclick)
 - 🍴 👤 [cliffclick](https://github.com/cliffclick) Forked [JCrete/jcrete2026](https://github.com/JCrete/jcrete2026) to [cliffclick/jcrete2026](https://github.com/cliffclick/jcrete2026)
   > JCrete 2026
@@ -15,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)
   > Dynamically generate GitHub stats for your READMEs.
+
+### [johndpope](https://github.com/johndpope)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [oso95/scroll-world](https://github.com/oso95/scroll-world) to [johndpope/scroll-world](https://github.com/johndpope/scroll-world)
+  > A skill that turn any brand into a scrollable 3D world
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark) to [mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
@@ -38,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 09:36:16 UTC*
+*Last updated at 2026-08-01 10:30:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
