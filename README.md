@@ -58,6 +58,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > FlashInfer: Kernel Library for LLM Serving
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [apache/tvm-ffi](https://github.com/apache/tvm-ffi)
   > Open ABI and FFI for Machine Learning Systems
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven)
+  > The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep resear...
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [majd/ipatool](https://github.com/majd/ipatool)
@@ -71,6 +73,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [emproof-com/nyxstone](https://github.com/emproof-com/nyxstone)
   > Nyxstone: assembly / disassembly library based on LLVM, implemented in C++ with Rust and Python bind...
 
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [fswair/monty-compat](https://github.com/fswair/monty-compat)
+  > Release-aware Python source transpiler and capability discovery for Monty
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd)
   > An unofficial NixOS fork with a FreeBSD kernel
@@ -81,7 +87,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 17:19:16 UTC*
+*Last updated at 2026-08-01 18:16:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
