@@ -54,6 +54,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Chrome extension to make GItHub better
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Dicklesworthstone/franken_nlp](https://github.com/Dicklesworthstone/franken_nlp)
   > Pure-Rust CPU-hyper-optimized local NLP engine for Nanbeige4.2-3B (design review)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer)
+  > FlashInfer: Kernel Library for LLM Serving
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [apache/tvm-ffi](https://github.com/apache/tvm-ffi)
+  > Open ABI and FFI for Machine Learning Systems
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [majd/ipatool](https://github.com/majd/ipatool)
@@ -67,13 +71,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [emproof-com/nyxstone](https://github.com/emproof-com/nyxstone)
   > Nyxstone: assembly / disassembly library based on LLVM, implemented in C++ with Rust and Python bind...
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd)
+  > An unofficial NixOS fork with a FreeBSD kernel
+
 
 <!-- nav -->
 [← 2026-07-31](archive/2026/07/31.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 16:17:56 UTC*
+*Last updated at 2026-08-01 17:19:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
