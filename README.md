@@ -24,11 +24,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)
   > Dynamically generate GitHub stats for your READMEs.
 
+### [jaredpalmer](https://github.com/jaredpalmer)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [jdx/mise](https://github.com/jdx/mise)
+  > dev tools, env vars, task runner
+
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [oso95/scroll-world](https://github.com/oso95/scroll-world) to [johndpope/scroll-world](https://github.com/johndpope/scroll-world)
   > A skill that turn any brand into a scrollable 3D world
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Eyeline-Labs/ID-V2V](https://github.com/Eyeline-Labs/ID-V2V)
   > The official implementation of SIGGRAPH Asia 2026 paper "ID-V2V: Identity-preserving Video Restyliza...
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [antlobach/starbeam](https://github.com/antlobach/starbeam)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark) to [mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
@@ -87,13 +94,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [openai/ten-proofs](https://github.com/openai/ten-proofs)
   > Lean certificates accompanying proofs in mathematics and theoretical computer science
 
+### [yangdanny97](https://github.com/yangdanny97)
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [facebook/rules_pyrefly](https://github.com/facebook/rules_pyrefly)
+  > Bazel rules for running Pyrefly type checking over Python targets. Provides an aspect-based integrat...
+
 
 <!-- nav -->
 [← 2026-07-31](archive/2026/07/31.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 21:15:44 UTC*
+*Last updated at 2026-08-01 22:16:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
