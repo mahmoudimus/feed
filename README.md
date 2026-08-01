@@ -35,6 +35,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A physics-grounded, cost-aware optimization loop for vLLM
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [IBM/Flash-GMM](https://github.com/IBM/Flash-GMM)
   > Flash-GMM, a memory-efficient GPU kernel that unlocks GMM soft clustering at billion-scale
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [openai/ten-proofs](https://github.com/openai/ten-proofs)
+  > Lean certificates accompanying proofs in mathematics and theoretical computer science
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [majd/ipatool](https://github.com/majd/ipatool)
@@ -46,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 10:30:10 UTC*
+*Last updated at 2026-08-01 11:25:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
