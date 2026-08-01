@@ -28,14 +28,32 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [jdx/mise](https://github.com/jdx/mise)
   > dev tools, env vars, task runner
 
+### [jentfoo](https://github.com/jentfoo)
+- 🍴 👤 [jentfoo](https://github.com/jentfoo) Forked [go-appsec/toolbox-sidenuclei](https://github.com/go-appsec/toolbox-sidenuclei) to [jentfoo/toolbox-sidenuclei](https://github.com/jentfoo/toolbox-sidenuclei)
+  > Toolbox sidecar to enable automated scanning with Nuclei
+
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [oso95/scroll-world](https://github.com/oso95/scroll-world) to [johndpope/scroll-world](https://github.com/johndpope/scroll-world)
   > A skill that turn any brand into a scrollable 3D world
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Eyeline-Labs/ID-V2V](https://github.com/Eyeline-Labs/ID-V2V)
   > The official implementation of SIGGRAPH Asia 2026 paper "ID-V2V: Identity-preserving Video Restyliza...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [StarKnightt/jungle-trail](https://github.com/StarKnightt/jungle-trail)
+  > A fully procedural first-person jungle in Three.js. Zero external art assets - every texture, mesh a...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [StarKnightt/jungle-trail](https://github.com/StarKnightt/jungle-trail) to [johndpope/jungle-trail](https://github.com/johndpope/jungle-trail)
+  > A fully procedural first-person jungle in Three.js. Zero external art assets - every texture, mesh a...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [orioljim1/detris](https://github.com/orioljim1/detris)
+  > Deformable Triangle Splatting (DETRIS) — Flexible Primitives for Real-Time Radiance Field Rendering ...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [cp-cp/LiveEdit](https://github.com/cp-cp/LiveEdit)
+  > [ECCV 2026] LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [cp-cp/LiveEdit](https://github.com/cp-cp/LiveEdit) to [johndpope/LiveEdit](https://github.com/johndpope/LiveEdit)
+  > [ECCV 2026] LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [antlobach/starbeam](https://github.com/antlobach/starbeam)
+
+### [matthewfl](https://github.com/matthewfl)
+- 🌟 👤 [matthewfl](https://github.com/matthewfl) Starred [elpapi42/pi-observational-memory](https://github.com/elpapi42/pi-observational-memory)
+  > Make Pi sessions feel endless
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark) to [mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
@@ -104,7 +122,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 22:16:50 UTC*
+*Last updated at 2026-08-01 23:16:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
