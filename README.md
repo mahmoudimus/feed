@@ -22,13 +22,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexzhang13/alexzhang13.github.io](https://github.com/alexzhang13/alexzhang13.github.io)
   > Personal website.
 
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [majd/ipatool](https://github.com/majd/ipatool)
+  > Command-line tool that allows searching and downloading app packages (known as ipa files) from the i...
+
 
 <!-- nav -->
 [← 2026-07-31](archive/2026/07/31.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 06:56:52 UTC*
+*Last updated at 2026-08-01 07:45:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
