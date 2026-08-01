@@ -23,6 +23,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [oso95/scroll-world](https://github.com/oso95/scroll-world) to [johndpope/scroll-world](https://github.com/johndpope/scroll-world)
   > A skill that turn any brand into a scrollable 3D world
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Eyeline-Labs/ID-V2V](https://github.com/Eyeline-Labs/ID-V2V)
+  > The official implementation of SIGGRAPH Asia 2026 paper "ID-V2V: Identity-preserving Video Restyliza...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark) to [mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
@@ -42,13 +44,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [majd/ipatool](https://github.com/majd/ipatool)
   > Command-line tool that allows searching and downloading app packages (known as ipa files) from the i...
 
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
+  > Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects sca...
+
 
 <!-- nav -->
 [← 2026-07-31](archive/2026/07/31.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 11:25:53 UTC*
+*Last updated at 2026-08-01 12:16:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
