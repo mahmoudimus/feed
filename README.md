@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Houfeng](https://github.com/Houfeng)
+- 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [11ty/buildawesome](https://github.com/11ty/buildawesome)
+  > A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [PostHog/posthog](https://github.com/PostHog/posthog) to [probelabs/posthog-proof](https://github.com/probelabs/posthog-proof)
   > :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools –...
@@ -46,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Lean certificates accompanying proofs in mathematics and theoretical computer science
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
   > Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jdx/jdx-flavored-github](https://github.com/jdx/jdx-flavored-github)
+  > Chrome extension to make GItHub better
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Dicklesworthstone/franken_nlp](https://github.com/Dicklesworthstone/franken_nlp)
+  > Pure-Rust CPU-hyper-optimized local NLP engine for Nanbeige4.2-3B (design review)
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [majd/ipatool](https://github.com/majd/ipatool)
@@ -65,7 +73,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 15:20:45 UTC*
+*Last updated at 2026-08-01 16:17:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
