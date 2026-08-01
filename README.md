@@ -66,6 +66,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [getzep/graphiti](https://github.com/getzep/graphiti)
   > Build Real-Time Knowledge Graphs for AI Agents
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+  > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [kristjanvalur/cabfile](https://github.com/kristjanvalur/cabfile)
@@ -181,7 +183,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-07-31 22:18:31 UTC*
+*Last updated at 2026-07-31 23:18:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
