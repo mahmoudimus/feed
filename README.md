@@ -55,13 +55,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)
   > Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects sca...
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [emproof-com/nyxstone](https://github.com/emproof-com/nyxstone)
+  > Nyxstone: assembly / disassembly library based on LLVM, implemented in C++ with Rust and Python bind...
+
 
 <!-- nav -->
 [← 2026-07-31](archive/2026/07/31.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 14:28:23 UTC*
+*Last updated at 2026-08-01 15:20:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
