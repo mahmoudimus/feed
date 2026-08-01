@@ -31,6 +31,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexzhang13/alexzhang13.github.io](https://github.com/alexzhang13/alexzhang13.github.io)
   > Personal website.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/DeepSeek-V4-Flash-DSpark-Abliterated-Uncensored-1M-57toks](https://github.com/drowzeys/DeepSeek-V4-Flash-DSpark-Abliterated-Uncensored-1M-57toks)
+  > DeepSeek-V4-Flash-DSpark abliterated (uncensored) · ~100% refusal bypass · C1 ~57 tok/s · 1M ctx · 2...
 
 ### [mrphrazer](https://github.com/mrphrazer)
 - 🌟 👤 [mrphrazer](https://github.com/mrphrazer) Starred [can1357/vibemon](https://github.com/can1357/vibemon)
@@ -42,6 +44,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Flash-GMM, a memory-efficient GPU kernel that unlocks GMM soft clustering at billion-scale
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [openai/ten-proofs](https://github.com/openai/ten-proofs)
   > Lean certificates accompanying proofs in mathematics and theoretical computer science
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
+  > Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [majd/ipatool](https://github.com/majd/ipatool)
@@ -57,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-01 13:28:22 UTC*
+*Last updated at 2026-08-01 14:28:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/07) directory.*
 <!-- /archive-link -->
