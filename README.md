@@ -10,7 +10,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [AlexsJones](https://github.com/AlexsJones)
 - 🚀 👤 [AlexsJones](https://github.com/AlexsJones) Made [sympozium-ai/celln](https://github.com/sympozium-ai/celln) public
-  > Run agents in hardware-isolated cells with attested, revocable tools
+  > Run agents in isolated cells that borrow verified tools instead of rebuilding Linux environments.
 - 🚀 👤 [AlexsJones](https://github.com/AlexsJones) Made [sympozium-ai/homebrew-tap](https://github.com/sympozium-ai/homebrew-tap) public
   > Private Homebrew tap for Sympozium AI tooling
 
@@ -97,6 +97,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Trait-based Runtime Polymorphism for C++26
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Jaysmito101/Xlux](https://github.com/Jaysmito101/Xlux)
   > A Multi Threaded Software Renderer
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [isndev/qb](https://github.com/isndev/qb)
+  > Modern C++17 actor-based framework for building high-performance concurrent and distributed systems....
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Stiffstream/sobjectizer](https://github.com/Stiffstream/sobjectizer)
+  > An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. Wit...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ex-actor/ex-actor](https://github.com/ex-actor/ex-actor)
+  > Modern C++ actor framework based on std::execution, only requires C++20.
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jimrandomh/g2flash](https://github.com/jimrandomh/g2flash)
@@ -133,7 +139,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 17:19:23 UTC*
+*Last updated at 2026-08-02 18:16:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
