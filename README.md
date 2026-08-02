@@ -38,6 +38,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [ejc3/t-claude](https://github.com/ejc3/t-claude)
   > tmux launcher for Claude Code — one window per project, persistent sessions, native mobile scrollbac...
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [Ngineer101/turbodiff](https://github.com/Ngineer101/turbodiff)
+  > Every diff, reviewed in seconds
 
 ### [anzz1](https://github.com/anzz1)
 - 🍴 👤 [anzz1](https://github.com/anzz1) Forked [rxi/lite-plugins](https://github.com/rxi/lite-plugins) to [anzz1/lite-plugins](https://github.com/anzz1/lite-plugins)
@@ -79,6 +81,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > P-GSVC: Layered Progressive 2D Gaussian Splatting for Scalable Image and Video
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [LonganWANG-cs/PGSVC](https://github.com/LonganWANG-cs/PGSVC) to [johndpope/PGSVC](https://github.com/johndpope/PGSVC)
   > P-GSVC: Layered Progressive 2D Gaussian Splatting for Scalable Image and Video
+
+### [juicycleff](https://github.com/juicycleff)
+- 🚀 👤 [juicycleff](https://github.com/juicycleff) Made [xraph/langserver](https://github.com/xraph/langserver) public
+  > A small, language-agnostic adapter for building language servers in Go — JSON-RPC framing, sessions,...
 
 ### [karpathy](https://github.com/karpathy)
 - 🌟 👤 [karpathy](https://github.com/karpathy) Starred [sqliteai/waste](https://github.com/sqliteai/waste)
@@ -138,6 +144,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [superp00t](https://github.com/superp00t)
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [vgmstream/vgmstream](https://github.com/vgmstream/vgmstream)
   > vgmstream - A library for playback of various streamed audio formats used in video games.
+- 🌟 👤 [superp00t](https://github.com/superp00t) Starred [snowsnowsnows/ManyTypes](https://github.com/snowsnowsnows/ManyTypes)
+  > x64dbg typeparsing plugin with Windows types
 
 ### [tommyettinger](https://github.com/tommyettinger)
 - 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [satchmogdx/satchmo-template](https://github.com/satchmogdx/satchmo-template) to [tommyettinger/satchmo-template](https://github.com/tommyettinger/satchmo-template)
@@ -157,7 +165,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 20:18:01 UTC*
+*Last updated at 2026-08-02 21:15:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
