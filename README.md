@@ -60,6 +60,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [SDWebImage/SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)
   > SwiftUI Image loading and Animation framework powered by SDWebImage
 
+### [jmcarp](https://github.com/jmcarp)
+- 🌟 👤 [jmcarp](https://github.com/jmcarp) Starred [open-telemetry/otel-arrow](https://github.com/open-telemetry/otel-arrow)
+  > Protocol and libraries for sending and receiving OpenTelemetry data using Apache Arrow
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [LonganWANG-cs/PGSVC](https://github.com/LonganWANG-cs/PGSVC)
   > P-GSVC: Layered Progressive 2D Gaussian Splatting for Scalable Image and Video
@@ -139,7 +143,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 18:16:56 UTC*
+*Last updated at 2026-08-02 19:24:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
