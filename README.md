@@ -127,6 +127,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Run agents in isolated cells that borrow verified tools instead of rebuilding Linux environments.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium)
   >  The Coordination Layer for Multi-Agent AI
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework)
+  > An Open Source Implementation of the Actor Model in C++
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jimrandomh/g2flash](https://github.com/jimrandomh/g2flash)
@@ -140,6 +142,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager)
   > Morphe app patcher for Android
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [0xferrous/promptus](https://github.com/0xferrous/promptus)
 
 ### [superp00t](https://github.com/superp00t)
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [vgmstream/vgmstream](https://github.com/vgmstream/vgmstream)
@@ -165,7 +168,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 21:15:21 UTC*
+*Last updated at 2026-08-02 22:16:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
