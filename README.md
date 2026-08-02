@@ -47,6 +47,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [SDWebImage/SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)
   > SwiftUI Image loading and Animation framework powered by SDWebImage
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [LonganWANG-cs/PGSVC](https://github.com/LonganWANG-cs/PGSVC)
+  > P-GSVC: Layered Progressive 2D Gaussian Splatting for Scalable Image and Video
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [LonganWANG-cs/PGSVC](https://github.com/LonganWANG-cs/PGSVC) to [johndpope/PGSVC](https://github.com/johndpope/PGSVC)
+  > P-GSVC: Layered Progressive 2D Gaussian Splatting for Scalable Image and Video
+
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
   > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -84,7 +90,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 11:25:44 UTC*
+*Last updated at 2026-08-02 12:18:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
