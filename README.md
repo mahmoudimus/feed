@@ -72,6 +72,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [SDWebImage/SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)
   > SwiftUI Image loading and Animation framework powered by SDWebImage
 
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [oleg-shilo/wixsharp](https://github.com/oleg-shilo/wixsharp)
+  > Framework for building a complete MSI or WiX source code by using script files written with C# synta...
+
 ### [jmcarp](https://github.com/jmcarp)
 - 🌟 👤 [jmcarp](https://github.com/jmcarp) Starred [open-telemetry/otel-arrow](https://github.com/open-telemetry/otel-arrow)
   > Protocol and libraries for sending and receiving OpenTelemetry data using Apache Arrow
@@ -81,6 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > P-GSVC: Layered Progressive 2D Gaussian Splatting for Scalable Image and Video
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [LonganWANG-cs/PGSVC](https://github.com/LonganWANG-cs/PGSVC) to [johndpope/PGSVC](https://github.com/johndpope/PGSVC)
   > P-GSVC: Layered Progressive 2D Gaussian Splatting for Scalable Image and Video
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [hliang2/SplatShot](https://github.com/hliang2/SplatShot)
 
 ### [juicycleff](https://github.com/juicycleff)
 - 🚀 👤 [juicycleff](https://github.com/juicycleff) Made [xraph/langserver](https://github.com/xraph/langserver) public
@@ -129,6 +134,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   >  The Coordination Layer for Multi-Agent AI
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework)
   > An Open Source Implementation of the Actor Model in C++
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [datafusion-contrib/StreamFusion](https://github.com/datafusion-contrib/StreamFusion)
+  > World's First OSS Flink Accelerator built on Apache DataFusion
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jimrandomh/g2flash](https://github.com/jimrandomh/g2flash)
@@ -168,7 +175,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 22:16:03 UTC*
+*Last updated at 2026-08-02 23:17:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
