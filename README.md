@@ -82,6 +82,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Experimental: benchmark CLIs and track performance over time. Do not use.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Dooez/trait-poly](https://github.com/Dooez/trait-poly)
   > Trait-based Runtime Polymorphism for C++26
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Jaysmito101/Xlux](https://github.com/Jaysmito101/Xlux)
+  > A Multi Threaded Software Renderer
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jimrandomh/g2flash](https://github.com/jimrandomh/g2flash)
@@ -114,7 +116,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 14:28:56 UTC*
+*Last updated at 2026-08-02 15:20:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
