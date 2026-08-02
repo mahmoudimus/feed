@@ -14,6 +14,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [AlexsJones](https://github.com/AlexsJones) Made [sympozium-ai/homebrew-tap](https://github.com/sympozium-ai/homebrew-tap) public
   > Private Homebrew tap for Sympozium AI tooling
 
+### [Gcenx](https://github.com/Gcenx)
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [athei/mtld3d](https://github.com/athei/mtld3d)
+  > Direct3D9 implementation on top of Metal.
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [zef334/kosmickrisp-dxvk](https://github.com/zef334/kosmickrisp-dxvk)
+  > Mesa KosmicKrisp fork: minimal patches to run DXVK under CrossOver on Apple Silicon
+- 🍴 👤 [Gcenx](https://github.com/Gcenx) Forked [zef334/kosmickrisp-dxvk](https://github.com/zef334/kosmickrisp-dxvk) to [Gcenx/kosmickrisp-dxvk](https://github.com/Gcenx/kosmickrisp-dxvk)
+  > Mesa KosmicKrisp fork: minimal patches to run DXVK under CrossOver on Apple Silicon
+- 🍴 👤 [Gcenx](https://github.com/Gcenx) Forked [shadexternals/mesa-kosmickrisp](https://github.com/shadexternals/mesa-kosmickrisp) to [Gcenx/mesa-kosmickrisp](https://github.com/Gcenx/mesa-kosmickrisp)
+  > Automated universal builds of the Mesa KosmicKrisp Vulkan driver.
+
 ### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
 - 🍴 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Forked [Galorhallen/govee-local-api](https://github.com/Galorhallen/govee-local-api) to [JoshuaKGoldberg/govee-local-api](https://github.com/JoshuaKGoldberg/govee-local-api)
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [Galorhallen/govee-local-api](https://github.com/Galorhallen/govee-local-api)
@@ -102,11 +112,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Jaysmito101/Xlux](https://github.com/Jaysmito101/Xlux)
   > A Multi Threaded Software Renderer
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [isndev/qb](https://github.com/isndev/qb)
-  > Modern C++17 actor-based framework for building high-performance concurrent and distributed systems....
+  > Modern C++ actor-based framework for building high-performance concurrent and distributed systems. F...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Stiffstream/sobjectizer](https://github.com/Stiffstream/sobjectizer)
   > An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. Wit...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ex-actor/ex-actor](https://github.com/ex-actor/ex-actor)
   > Modern C++ actor framework based on std::execution, only requires C++20.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [sympozium-ai/celln](https://github.com/sympozium-ai/celln)
+  > Run agents in isolated cells that borrow verified tools instead of rebuilding Linux environments.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium)
+  >  The Coordination Layer for Multi-Agent AI
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jimrandomh/g2flash](https://github.com/jimrandomh/g2flash)
@@ -143,7 +157,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 19:24:28 UTC*
+*Last updated at 2026-08-02 20:18:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
