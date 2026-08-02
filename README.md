@@ -21,13 +21,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [ejc3/t-claude](https://github.com/ejc3/t-claude)
   > tmux launcher for Claude Code — one window per project, persistent sessions, native mobile scrollbac...
 
+### [anzz1](https://github.com/anzz1)
+- 🍴 👤 [anzz1](https://github.com/anzz1) Forked [rxi/lite-plugins](https://github.com/rxi/lite-plugins) to [anzz1/lite-plugins](https://github.com/anzz1/lite-plugins)
+  > Plugins for the lite text editor
+
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🍴 👤 [davidfrickert](https://github.com/davidfrickert) Forked [deckerst/aves](https://github.com/deckerst/aves) to [davidfrickert/aves](https://github.com/davidfrickert/aves)
   > Aves is a gallery and metadata explorer app, built for Android with Flutter.
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [autonomous-ai/autonomous-computer](https://github.com/autonomous-ai/autonomous-computer)
+  > Build your Personal AI Computer. Own your intelligence.
+
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
   > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jdx/tak](https://github.com/jdx/tak)
+  > Experimental: benchmark CLIs and track performance over time. Do not use.
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jimrandomh/g2flash](https://github.com/jimrandomh/g2flash)
@@ -37,9 +49,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [adang1345/delvewheel](https://github.com/adang1345/delvewheel)
   > Self-contained Python wheels for Windows
 
+### [superp00t](https://github.com/superp00t)
+- 🌟 👤 [superp00t](https://github.com/superp00t) Starred [vgmstream/vgmstream](https://github.com/vgmstream/vgmstream)
+  > vgmstream - A library for playback of various streamed audio formats used in video games.
+
 ### [tommyettinger](https://github.com/tommyettinger)
 - 🍴 👤 [tommyettinger](https://github.com/tommyettinger) Forked [satchmogdx/satchmo-template](https://github.com/satchmogdx/satchmo-template) to [tommyettinger/satchmo-template](https://github.com/tommyettinger/satchmo-template)
   > Template for simplified forks of gdx-core
+
+### [wargio](https://github.com/wargio)
+- 🌟 👤 [wargio](https://github.com/wargio) Starred [degoog-org/degoog](https://github.com/degoog-org/degoog)
+  > Search engine aggregator with a comprehensive plugin/extension system
 
 
 <!-- nav -->
@@ -47,7 +67,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 08:44:18 UTC*
+*Last updated at 2026-08-02 09:37:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
