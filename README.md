@@ -35,6 +35,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [autonomous-ai/autonomous-computer](https://github.com/autonomous-ai/autonomous-computer)
   > Build your Personal AI Computer. Own your intelligence.
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [SpaceCell/lightstream](https://github.com/SpaceCell/lightstream)
+  > Fast data transport : Apache Arrow, Protobuf and Message Pack data on the one stream. Measured faste...
+
+### [hsiafan](https://github.com/hsiafan)
+- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [siteline/swiftui-introspect](https://github.com/siteline/swiftui-introspect)
+  > Introspect underlying UIKit/AppKit components from SwiftUI
+- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)
+  > An exhaustive expansion of the standard SwiftUI library.
+- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [SDWebImage/SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI)
+  > SwiftUI Image loading and Animation framework powered by SDWebImage
+
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
   > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -48,6 +60,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jimrandomh/g2flash](https://github.com/jimrandomh/g2flash)
   > Script for applying custom firmware to Even Realities G2 smart glasses
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [openai/tunnel-client](https://github.com/openai/tunnel-client)
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [adang1345/delvewheel](https://github.com/adang1345/delvewheel)
@@ -71,7 +84,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 10:30:05 UTC*
+*Last updated at 2026-08-02 11:25:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
