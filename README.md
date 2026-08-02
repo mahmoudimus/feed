@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AlexsJones](https://github.com/AlexsJones)
+- 🚀 👤 [AlexsJones](https://github.com/AlexsJones) Made [sympozium-ai/celln](https://github.com/sympozium-ai/celln) public
+  > Run agents in hardware-isolated cells with attested, revocable tools
+- 🚀 👤 [AlexsJones](https://github.com/AlexsJones) Made [sympozium-ai/homebrew-tap](https://github.com/sympozium-ai/homebrew-tap) public
+  > Private Homebrew tap for Sympozium AI tooling
+
 ### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
 - 🍴 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Forked [Galorhallen/govee-local-api](https://github.com/Galorhallen/govee-local-api) to [JoshuaKGoldberg/govee-local-api](https://github.com/JoshuaKGoldberg/govee-local-api)
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [Galorhallen/govee-local-api](https://github.com/Galorhallen/govee-local-api)
@@ -35,6 +41,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [autonomous-ai/autonomous-computer](https://github.com/autonomous-ai/autonomous-computer)
   > Build your Personal AI Computer. Own your intelligence.
 
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [mattpocock/mattpocock](https://github.com/mattpocock/mattpocock)
+
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [SpaceCell/lightstream](https://github.com/SpaceCell/lightstream)
   > Fast data transport : Apache Arrow, Protobuf and Message Pack data on the one stream. Measured faste...
@@ -56,6 +65,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > P-GSVC: Layered Progressive 2D Gaussian Splatting for Scalable Image and Video
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [LonganWANG-cs/PGSVC](https://github.com/LonganWANG-cs/PGSVC) to [johndpope/PGSVC](https://github.com/johndpope/PGSVC)
   > P-GSVC: Layered Progressive 2D Gaussian Splatting for Scalable Image and Video
+
+### [karpathy](https://github.com/karpathy)
+- 🌟 👤 [karpathy](https://github.com/karpathy) Starred [sqliteai/waste](https://github.com/sqliteai/waste)
+  > Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weigh...
 
 ### [kevaundray](https://github.com/kevaundray)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [powdr-labs/eip8200-challenges](https://github.com/powdr-labs/eip8200-challenges)
@@ -120,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 16:17:47 UTC*
+*Last updated at 2026-08-02 17:19:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
