@@ -16,6 +16,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli)
   > Hex-Rays CLI (HCLI)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [NyaMisty/docker-ida](https://github.com/NyaMisty/docker-ida)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)
+  > Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、...
 
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [ejc3/t-claude](https://github.com/ejc3/t-claude)
@@ -40,6 +42,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jdx/tak](https://github.com/jdx/tak)
   > Experimental: benchmark CLIs and track performance over time. Do not use.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Dooez/trait-poly](https://github.com/Dooez/trait-poly)
+  > Trait-based Runtime Polymorphism for C++26
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jimrandomh/g2flash](https://github.com/jimrandomh/g2flash)
@@ -67,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 09:37:33 UTC*
+*Last updated at 2026-08-02 10:30:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
