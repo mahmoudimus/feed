@@ -63,6 +63,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [powdr-labs/eip8200-challenges](https://github.com/powdr-labs/eip8200-challenges) to [kevaundray/eip8200-challenges](https://github.com/kevaundray/eip8200-challenges)
   > Verified EVM bytecode replacements for Ethereum precompiles (EIP-8200): proofs of equivalence to the...
 
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [microsoft/flint-chart](https://github.com/microsoft/flint-chart)
+  > 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking cha...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
   > Pi extension: rewrite rough prompts into precise technical prompts before send
@@ -88,6 +92,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [adang1345/delvewheel](https://github.com/adang1345/delvewheel)
   > Self-contained Python wheels for Windows
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager)
+  > Morphe app patcher for Android
+
 ### [superp00t](https://github.com/superp00t)
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [vgmstream/vgmstream](https://github.com/vgmstream/vgmstream)
   > vgmstream - A library for playback of various streamed audio formats used in video games.
@@ -106,7 +114,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-02 13:28:19 UTC*
+*Last updated at 2026-08-02 14:28:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
