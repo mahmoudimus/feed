@@ -97,6 +97,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [drmingdrmer/ezraft](https://github.com/drmingdrmer/ezraft)
   > A beginner-friendly Raft framework built on openraft: implement two traits, get a fault-tolerant rep...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [yuzhenmao/IceCache](https://github.com/yuzhenmao/IceCache)
+  > Implementation for IceCache: Memory-Efficient KV-cache Management for Long-Sequence LLMs (ICLR 2026)...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
@@ -120,9 +122,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [tmikov](https://github.com/tmikov) Forked [react/react-native](https://github.com/react/react-native) to [tmikov/react-native](https://github.com/tmikov/react-native)
   > A framework for building native applications using React
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [arimlabs/malware-bench](https://github.com/arimlabs/malware-bench)
+  > A static reverse-engineering benchmark. Each task gives an agent one malware sample and a shell, and...
+
 ### [wl4g](https://github.com/wl4g)
-- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/mcpbuilder](https://github.com/flowgent-labs/mcpbuilder)
-  > An Enhanced Enterprise-grade MCP server builder, compatible with OpenAPI 2.x, 3.x specification.
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [billboard101/mcpgen](https://github.com/billboard101/mcpgen)
+  > An Enhanced Enterprise-grade MCP server generator / builder, compatible with OpenAPI 2.x, 3.x specif...
+- 🍴 👤 [wl4g](https://github.com/wl4g) Forked [billboard101/mcpgen](https://github.com/billboard101/mcpgen) to [billboard101/mcpbuilder](https://github.com/billboard101/mcpbuilder)
+  > An Enhanced Enterprise-grade MCP server generator / builder, compatible with OpenAPI 2.x, 3.x specif...
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [billboard101/mcpbuilder](https://github.com/billboard101/mcpbuilder)
 
 ### [zacharywhitley](https://github.com/zacharywhitley)
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [geronimi73/inflect-tts](https://github.com/geronimi73/inflect-tts) to [tegmentum/inflect-tts](https://github.com/tegmentum/inflect-tts)
@@ -137,7 +146,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 15:54:33 UTC*
+*Last updated at 2026-08-03 16:46:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
