@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)
+  > 🫖 Status page with uptime monitoring & API monitoring as code   🫖
+
 ### [anzz1](https://github.com/anzz1)
 - 🍴 👤 [anzz1](https://github.com/anzz1) Forked [coop-deluxe/sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) to [anzz1/sm64coopdx](https://github.com/anzz1/sm64coopdx)
   > An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancemen...
@@ -145,10 +149,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [charmbracelet/ssh](https://github.com/charmbracelet/ssh)
   > Easy SSH servers in Golang
 
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [mgaitan/pytest-leak-finder](https://github.com/mgaitan/pytest-leak-finder)
-  > Find the test that's leaking before the one that fails
-
 ### [tmikov](https://github.com/tmikov)
 - 🌟 👤 [tmikov](https://github.com/tmikov) Starred [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)
   > A Call of Duty-quality FPS in Three.js, built from a single prompt.
@@ -220,7 +220,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 19:29:11 UTC*
+*Last updated at 2026-08-03 20:28:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
