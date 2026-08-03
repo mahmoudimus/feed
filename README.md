@@ -82,6 +82,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [SarthakKalla/GR00T-Unreal-Plugin](https://github.com/SarthakKalla/GR00T-Unreal-Plugin) to [johndpope/GR00T-Unreal-Plugin](https://github.com/johndpope/GR00T-Unreal-Plugin)
   > MotionBricks + GEAR-SONIC bridge for Unreal Engine 5.4-5.8
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [bagybagy/Unity6_motionbricks_test](https://github.com/bagybagy/Unity6_motionbricks_test) to [johndpope/Unity6_motionbricks_test](https://github.com/johndpope/Unity6_motionbricks_test)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [haoz19/RigMo](https://github.com/haoz19/RigMo)
+  > Training code for CVPR 2026 paper: RigMo: Unifying Rig and Motion Learning for Generative Animation
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [jetaime2/ComfyUI-LTX-2.3-ICLoRA-Depth-Pose](https://github.com/jetaime2/ComfyUI-LTX-2.3-ICLoRA-Depth-Pose)
+  > ComfyUI workflow for LTX-Video 2.3 IC-LoRA with first-frame, depth and pose guidance
 
 ### [keithduncan](https://github.com/keithduncan)
 - 🌟 👤 [keithduncan](https://github.com/keithduncan) Starred [apple/plugins-for-godot](https://github.com/apple/plugins-for-godot)
@@ -112,6 +116,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Public repository for MirrorCode
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge)
   > Bridge between agents and IDA Pro.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Inkling-Small-NVFP4-Dual-DGX-Sparks](https://github.com/MiaAI-Lab/Inkling-Small-NVFP4-Dual-DGX-Sparks)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [boldsoftware/meat](https://github.com/boldsoftware/meat)
+  > meat.dev
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [smg-project/smg](https://github.com/smg-project/smg)
@@ -149,6 +156,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A framework for building native applications using React
 - 🍴 👤 [tmikov](https://github.com/tmikov) Forked [react/react-native](https://github.com/react/react-native) to [tmikov/react-native](https://github.com/tmikov/react-native)
   > A framework for building native applications using React
+
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT)
+  > AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 19 tools. Works with Claude, GPT-...
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [arimlabs/malware-bench](https://github.com/arimlabs/malware-bench)
@@ -209,7 +220,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 18:31:06 UTC*
+*Last updated at 2026-08-03 19:29:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
