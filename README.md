@@ -69,6 +69,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mitsuhiko](https://github.com/mitsuhiko) Forked [serde-rs/json](https://github.com/serde-rs/json) to [mitsuhiko/json](https://github.com/mitsuhiko/json)
   > Strongly typed JSON library for Rust
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [smg-project/smg](https://github.com/smg-project/smg)
+  > Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM,...
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
@@ -96,7 +100,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 08:06:21 UTC*
+*Last updated at 2026-08-03 10:14:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
