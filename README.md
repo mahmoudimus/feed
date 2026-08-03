@@ -136,6 +136,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec)
   > The Network Execution Tool
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [NVIDIA-Omniverse/ovui](https://github.com/NVIDIA-Omniverse/ovui)
+  > The standalone distribution of NVIDIA Omniverse's omni.ui UI framework, extracted to run independent...
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
@@ -213,6 +217,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [soniox/soniox-python](https://github.com/soniox/soniox-python)
   > Python SDK for the Soniox API: realtime/async STT and TTS.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [project-oxi/oxicode](https://github.com/project-oxi/oxicode)
+  > A terminal-based AI coding assistant built in Rust. Multi-provider, streaming-first, extensible.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright)
+  > A curated list of awesome tools, utils and projects using Playwright
 
 
 <!-- nav -->
@@ -220,7 +228,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 21:21:52 UTC*
+*Last updated at 2026-08-03 22:19:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
