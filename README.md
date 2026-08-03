@@ -23,6 +23,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [coreos/go-systemd](https://github.com/coreos/go-systemd)
   > Go bindings to systemd socket activation, journal, D-Bus, and unit files
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [Velocidex/go-journalctl](https://github.com/Velocidex/go-journalctl)
+  > Parser for systemd journal files.
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -71,6 +73,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Official implementation of "VRGaussianAvatar: Integrating 3D Gaussian Avatars into VR"
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [qiisun/ani3dhuman](https://github.com/qiisun/ani3dhuman)
   > (CVPR 2026) Sampling Algorithm for paper "Ani3DHuman: Photorealistic 3D Human Animation with Self-gu...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [TaoLiveAIGC/AptAvatar](https://github.com/TaoLiveAIGC/AptAvatar)
+  > Official Implementation of AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Pro...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [TaoLiveAIGC/AptAvatar](https://github.com/TaoLiveAIGC/AptAvatar) to [johndpope/AptAvatar](https://github.com/johndpope/AptAvatar)
+  > Official Implementation of AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Pro...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Aero-Ex/Nvidia_MotionBricks](https://github.com/Aero-Ex/Nvidia_MotionBricks)
+  > MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [SarthakKalla/GR00T-Unreal-Plugin](https://github.com/SarthakKalla/GR00T-Unreal-Plugin) to [johndpope/GR00T-Unreal-Plugin](https://github.com/johndpope/GR00T-Unreal-Plugin)
+  > MotionBricks + GEAR-SONIC bridge for Unreal Engine 5.4-5.8
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [bagybagy/Unity6_motionbricks_test](https://github.com/bagybagy/Unity6_motionbricks_test) to [johndpope/Unity6_motionbricks_test](https://github.com/johndpope/Unity6_motionbricks_test)
 
 ### [keithduncan](https://github.com/keithduncan)
 - 🌟 👤 [keithduncan](https://github.com/keithduncan) Starred [apple/plugins-for-godot](https://github.com/apple/plugins-for-godot)
@@ -84,6 +95,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mattn](https://github.com/mattn) Forked [kazuho/jrf](https://github.com/kazuho/jrf) to [mattn/jrf](https://github.com/mattn/jrf)
   > JSON transformer with the power and speed of Ruby
 
+### [michelp](https://github.com/michelp)
+- 🚀 👤 [michelp](https://github.com/michelp) Made [michelp/vllm-mock-lite](https://github.com/michelp/vllm-mock-lite) public
+  > Mock server for the OpenAI-compatible HTTP API served by vLLM
+
 ### [mitsuhiko](https://github.com/mitsuhiko)
 - 🍴 👤 [mitsuhiko](https://github.com/mitsuhiko) Forked [serde-rs/json](https://github.com/serde-rs/json) to [mitsuhiko/json](https://github.com/mitsuhiko/json)
   > Strongly typed JSON library for Rust
@@ -93,6 +108,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sanohiro/casty](https://github.com/sanohiro/casty)
   > Run a real Chrome browser inside your terminal. Uses CDP screencast + Kitty graphics protocol.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [epoch-research/MirrorCode](https://github.com/epoch-research/MirrorCode)
+  > Public repository for MirrorCode
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge)
+  > Bridge between agents and IDA Pro.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [smg-project/smg](https://github.com/smg-project/smg)
@@ -103,10 +122,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A beginner-friendly Raft framework built on openraft: implement two traits, get a fault-tolerant rep...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [yuzhenmao/IceCache](https://github.com/yuzhenmao/IceCache)
   > Implementation for IceCache: Memory-Efficient KV-cache Management for Long-Sequence LLMs (ICLR 2026)...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Pennyw0rth/NetExec](https://github.com/Pennyw0rth/NetExec)
+  > The Network Execution Tool
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
+
+### [shadcn](https://github.com/shadcn)
+- 🍴 👤 [shadcn](https://github.com/shadcn) Forked [pingdotgg/t3code](https://github.com/pingdotgg/t3code) to [shadcn/t3code](https://github.com/shadcn/t3code)
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [Jon-Becker/prediction-market-analysis](https://github.com/Jon-Becker/prediction-market-analysis)
@@ -167,6 +191,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An Enhanced enterprise-grade MCP generator / builder — generates production-ready MCP servers from O...
 - 🌟 👤 [wl4g](https://github.com/wl4g) Starred [billboard101/openapi-to-mcpserver](https://github.com/billboard101/openapi-to-mcpserver)
   > An Enhanced enterprise-grade MCP generator / builder — generates production-ready MCP servers from O...
+- 🍴 👤 [wl4g](https://github.com/wl4g) Forked [binance/binance-api-swagger](https://github.com/binance/binance-api-swagger) to [sigbot-labs/binance-api-swagger](https://github.com/sigbot-labs/binance-api-swagger)
+  > Swagger for the Binance Public API
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/binance-mcp](https://github.com/flowgent-labs/binance-mcp)
+  > An Enhanced Enterprise-grade Binance MCP server.
 
 ### [zacharywhitley](https://github.com/zacharywhitley)
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [geronimi73/inflect-tts](https://github.com/geronimi73/inflect-tts) to [tegmentum/inflect-tts](https://github.com/tegmentum/inflect-tts)
@@ -181,7 +209,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 17:31:35 UTC*
+*Last updated at 2026-08-03 18:31:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
