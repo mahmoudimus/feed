@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [buger](https://github.com/buger) Forked [buger/jsonparser](https://github.com/buger/jsonparser) to [probelabs/jsonparser](https://github.com/probelabs/jsonparser)
   > THE fastest alternative JSON parser for Go that does not require schema
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [winterknife/PLATINUMPICK](https://github.com/winterknife/PLATINUMPICK) to [fengjixuchui/PLATINUMPICK](https://github.com/fengjixuchui/PLATINUMPICK)
   > Windows Kernel-Mode Shellcode Development Framework (WKMSDF)
@@ -42,6 +46,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [imrehg](https://github.com/imrehg)
 - 🍴 👤 [imrehg](https://github.com/imrehg) Forked [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) to [imrehg/cs249r_book](https://github.com/imrehg/cs249r_book)
   > Machine Learning Systems
+
+### [ingydotnet](https://github.com/ingydotnet)
+- 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [clojurestar/grenadine](https://github.com/clojurestar/grenadine)
 
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [go-appsec/toolbox-sidenuclei](https://github.com/go-appsec/toolbox-sidenuclei)
@@ -114,7 +121,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 13:49:54 UTC*
+*Last updated at 2026-08-03 14:57:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
