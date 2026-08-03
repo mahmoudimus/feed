@@ -64,6 +64,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [clojurestar/grenadine](https://github.com/clojurestar/grenadine)
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [angristan/MacThrottle](https://github.com/angristan/MacThrottle)
+  > Menu bar app to know when your Mac is thermal throttling
+
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [go-appsec/toolbox-sidenuclei](https://github.com/go-appsec/toolbox-sidenuclei)
   > Toolbox sidecar to enable automated scanning with Nuclei
@@ -106,10 +110,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [michelp](https://github.com/michelp)
 - 🚀 👤 [michelp](https://github.com/michelp) Made [michelp/vllm-mock-lite](https://github.com/michelp/vllm-mock-lite) public
   > Mock server for the OpenAI-compatible HTTP API served by vLLM
-
-### [mitsuhiko](https://github.com/mitsuhiko)
-- 🍴 👤 [mitsuhiko](https://github.com/mitsuhiko) Forked [serde-rs/json](https://github.com/serde-rs/json) to [mitsuhiko/json](https://github.com/mitsuhiko/json)
-  > Strongly typed JSON library for Rust
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)
@@ -220,7 +220,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 20:28:14 UTC*
+*Last updated at 2026-08-03 21:21:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
