@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [buger](https://github.com/buger)
+- 🍴 👤 [buger](https://github.com/buger) Forked [buger/jsonparser](https://github.com/buger/jsonparser) to [probelabs/jsonparser](https://github.com/probelabs/jsonparser)
+  > THE fastest alternative JSON parser for Go that does not require schema
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [winterknife/PLATINUMPICK](https://github.com/winterknife/PLATINUMPICK) to [fengjixuchui/PLATINUMPICK](https://github.com/fengjixuchui/PLATINUMPICK)
   > Windows Kernel-Mode Shellcode Development Framework (WKMSDF)
@@ -39,6 +43,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [go-appsec/toolbox-sidenuclei](https://github.com/go-appsec/toolbox-sidenuclei)
   > Toolbox sidecar to enable automated scanning with Nuclei
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Jeoyal/CharacterShot](https://github.com/Jeoyal/CharacterShot)
+  > Official implementation of CharacterShot: Controllable and Consistent 4D Character Animation
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [hailsong/VRGaussianAvatar](https://github.com/hailsong/VRGaussianAvatar)
+  > Official implementation of "VRGaussianAvatar: Integrating 3D Gaussian Avatars into VR"
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [hailsong/VRGaussianAvatar](https://github.com/hailsong/VRGaussianAvatar) to [johndpope/VRGaussianAvatar](https://github.com/johndpope/VRGaussianAvatar)
+  > Official implementation of "VRGaussianAvatar: Integrating 3D Gaussian Avatars into VR"
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [qiisun/ani3dhuman](https://github.com/qiisun/ani3dhuman)
+  > (CVPR 2026) Sampling Algorithm for paper "Ani3DHuman: Photorealistic 3D Human Animation with Self-gu...
+
+### [keithduncan](https://github.com/keithduncan)
+- 🌟 👤 [keithduncan](https://github.com/keithduncan) Starred [apple/plugins-for-godot](https://github.com/apple/plugins-for-godot)
+  > Plugins for the Godot game engine on Apple platforms
+
 ### [matthewfl](https://github.com/matthewfl)
 - 🍴 👤 [matthewfl](https://github.com/matthewfl) Forked [elpapi42/pi-observational-memory](https://github.com/elpapi42/pi-observational-memory) to [matthewfl/pi-observational-memory](https://github.com/matthewfl/pi-observational-memory)
   > Make Pi sessions feel endless
@@ -46,6 +64,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mattn](https://github.com/mattn)
 - 🍴 👤 [mattn](https://github.com/mattn) Forked [kazuho/jrf](https://github.com/kazuho/jrf) to [mattn/jrf](https://github.com/mattn/jrf)
   > JSON transformer with the power and speed of Ruby
+
+### [mitsuhiko](https://github.com/mitsuhiko)
+- 🍴 👤 [mitsuhiko](https://github.com/mitsuhiko) Forked [serde-rs/json](https://github.com/serde-rs/json) to [mitsuhiko/json](https://github.com/mitsuhiko/json)
+  > Strongly typed JSON library for Rust
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
@@ -74,7 +96,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 06:01:41 UTC*
+*Last updated at 2026-08-03 08:06:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
