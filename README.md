@@ -19,6 +19,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPho...
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [FeeiCN/security-engineering](https://github.com/FeeiCN/security-engineering) to [fengjixuchui/security-engineering](https://github.com/fengjixuchui/security-engineering)
   > 网络安全空间安全
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [shorthorn-project/One-Core-API-Source](https://github.com/shorthorn-project/One-Core-API-Source) to [fengjixuchui/One-Core-API-Source](https://github.com/fengjixuchui/One-Core-API-Source)
+  > A complete layer to get compatibility on XP/2003 for newer applications
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [NeverSight/NeverC](https://github.com/NeverSight/NeverC) to [fengjixuchui/NeverC](https://github.com/fengjixuchui/NeverC)
+  > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xusheng6/chessdb_mining](https://github.com/xusheng6/chessdb_mining) to [fengjixuchui/chessdb_mining](https://github.com/fengjixuchui/chessdb_mining)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [PN-Tester/DMAReaper](https://github.com/PN-Tester/DMAReaper) to [fengjixuchui/DMAReaper](https://github.com/fengjixuchui/DMAReaper)
+  > Disable Kernel DMA Protection on Windows 11 via pre-boot DMA attack
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [meowdiocre/devirtz-kernel](https://github.com/meowdiocre/devirtz-kernel) to [fengjixuchui/devirtz-kernel](https://github.com/fengjixuchui/devirtz-kernel)
+  > Stealth AMD SVM kernel patches for QEMU+KVM anti-VM detection
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [HullaBrian/ttd-capa](https://github.com/HullaBrian/ttd-capa) to [fengjixuchui/ttd-capa](https://github.com/fengjixuchui/ttd-capa)
+  > Capability extraction from Time Travel Debugging Traces
 
 ### [imrehg](https://github.com/imrehg)
 - 🍴 👤 [imrehg](https://github.com/imrehg) Forked [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) to [imrehg/cs249r_book](https://github.com/imrehg/cs249r_book)
@@ -31,6 +42,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [matthewfl](https://github.com/matthewfl)
 - 🍴 👤 [matthewfl](https://github.com/matthewfl) Forked [elpapi42/pi-observational-memory](https://github.com/elpapi42/pi-observational-memory) to [matthewfl/pi-observational-memory](https://github.com/matthewfl/pi-observational-memory)
   > Make Pi sessions feel endless
+
+### [mattn](https://github.com/mattn)
+- 🍴 👤 [mattn](https://github.com/mattn) Forked [kazuho/jrf](https://github.com/kazuho/jrf) to [mattn/jrf](https://github.com/mattn/jrf)
+  > JSON transformer with the power and speed of Ruby
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
@@ -59,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 04:18:28 UTC*
+*Last updated at 2026-08-03 06:01:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
