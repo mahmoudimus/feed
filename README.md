@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [anzz1](https://github.com/anzz1) Forked [coop-deluxe/sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) to [anzz1/sm64coopdx](https://github.com/anzz1/sm64coopdx)
   > An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancemen...
 
+### [aslushnikov](https://github.com/aslushnikov)
+- 🌟 👤 [aslushnikov](https://github.com/aslushnikov) Starred [flakiness/playwright](https://github.com/flakiness/playwright)
+  > Official Flakiness.io reporter for Playwright Test
+
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [buger/jsonparser](https://github.com/buger/jsonparser) to [probelabs/jsonparser](https://github.com/probelabs/jsonparser)
   > THE fastest alternative JSON parser for Go that does not require schema
@@ -89,6 +93,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [smg-project/smg](https://github.com/smg-project/smg)
   > Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM,...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Blaizzy/nativ](https://github.com/Blaizzy/nativ)
+  > Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [drmingdrmer/ezraft](https://github.com/drmingdrmer/ezraft)
+  > A beginner-friendly Raft framework built on openraft: implement two traits, get a fault-tolerant rep...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
@@ -107,6 +115,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [tmikov](https://github.com/tmikov)
 - 🌟 👤 [tmikov](https://github.com/tmikov) Starred [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty)
   > A Call of Duty-quality FPS in Three.js, built from a single prompt.
+- 🌟 👤 [tmikov](https://github.com/tmikov) Starred [react/react-native](https://github.com/react/react-native)
+  > A framework for building native applications using React
+- 🍴 👤 [tmikov](https://github.com/tmikov) Forked [react/react-native](https://github.com/react/react-native) to [tmikov/react-native](https://github.com/tmikov/react-native)
+  > A framework for building native applications using React
+
+### [wl4g](https://github.com/wl4g)
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [flowgent-labs/mcpbuilder](https://github.com/flowgent-labs/mcpbuilder)
+  > An Enhanced Enterprise-grade MCP server builder, compatible with OpenAPI 2.x, 3.x specification.
 
 ### [zacharywhitley](https://github.com/zacharywhitley)
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [geronimi73/inflect-tts](https://github.com/geronimi73/inflect-tts) to [tegmentum/inflect-tts](https://github.com/tegmentum/inflect-tts)
@@ -121,7 +137,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 14:57:57 UTC*
+*Last updated at 2026-08-03 15:54:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
