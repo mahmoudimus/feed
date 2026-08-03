@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [anzz1](https://github.com/anzz1)
+- 🍴 👤 [anzz1](https://github.com/anzz1) Forked [coop-deluxe/sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) to [anzz1/sm64coopdx](https://github.com/anzz1/sm64coopdx)
+  > An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancemen...
+
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [buger/jsonparser](https://github.com/buger/jsonparser) to [probelabs/jsonparser](https://github.com/probelabs/jsonparser)
   > THE fastest alternative JSON parser for Go that does not require schema
@@ -69,6 +73,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mitsuhiko](https://github.com/mitsuhiko) Forked [serde-rs/json](https://github.com/serde-rs/json) to [mitsuhiko/json](https://github.com/mitsuhiko/json)
   > Strongly typed JSON library for Rust
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)
+  > Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sanohiro/casty](https://github.com/sanohiro/casty)
+  > Run a real Chrome browser inside your terminal. Uses CDP screencast + Kitty graphics protocol.
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [smg-project/smg](https://github.com/smg-project/smg)
   > Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across vLLM, TRT-LLM,...
@@ -94,13 +104,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [zacharywhitley](https://github.com/zacharywhitley)
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [geronimi73/inflect-tts](https://github.com/geronimi73/inflect-tts) to [tegmentum/inflect-tts](https://github.com/tegmentum/inflect-tts)
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [soniox/soniox-python](https://github.com/soniox/soniox-python)
+  > Python SDK for the Soniox API: realtime/async STT and TTS.
+
 
 <!-- nav -->
 [← 2026-08-02](archive/2026/08/02.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 10:14:30 UTC*
+*Last updated at 2026-08-03 12:03:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
