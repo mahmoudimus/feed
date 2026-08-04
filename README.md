@@ -104,10 +104,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)
+  > An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mayfer/db-here](https://github.com/mayfer/db-here)
   > Local database installations for isolated, per-project databases. Postgres, MySQL, Redis, Memcached,...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [aretta-ai/aristo](https://github.com/aretta-ai/aristo)
+  > An SDK for verifiable intent, inline with code: one-line claims above your functions, verified at th...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [aerospike/aerospike-server](https://github.com/aerospike/aerospike-server)
+  > Aerospike Database Server – flash-optimized, in-memory, nosql database
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
@@ -171,7 +177,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 17:30:46 UTC*
+*Last updated at 2026-08-04 18:28:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
