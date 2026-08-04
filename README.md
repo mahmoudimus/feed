@@ -29,6 +29,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
   > A library for mechanistic interpretability of GPT-style language models
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [wevm/frog](https://github.com/wevm/frog)
+  > Automated friction logging for agents.
+
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [SyNSec-den/Loris](https://github.com/SyNSec-den/Loris)
 
@@ -85,10 +89,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mjpieters](https://github.com/mjpieters) Starred [j178/prek](https://github.com/j178/prek)
   > ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagin...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wevm/frog](https://github.com/wevm/frog)
-  > Automated friction logging for agents.
-
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mayfer/db-here](https://github.com/mayfer/db-here)
   > Local database installations for isolated, per-project databases. Postgres, MySQL, Redis, Memcached,...
@@ -108,6 +108,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [trieu](https://github.com/trieu)
 - 🍴 👤 [trieu](https://github.com/trieu) Forked [sn-code-inside/marketing-analytics-and-data-science](https://github.com/sn-code-inside/marketing-analytics-and-data-science) to [trieu/marketing-analytics-and-data-science](https://github.com/trieu/marketing-analytics-and-data-science)
   > Extra material accompanying the book "Marketing Analytics and Data Science: Tools and Models"
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [dlang/dlang.org](https://github.com/dlang/dlang.org)
+  > Pages for the dlang.org website, home of the D Programming Language
 
 ### [yajo](https://github.com/yajo)
 - 🍴 👤 [yajo](https://github.com/yajo) Forked [esyon/odoo-attendance-gnome](https://github.com/esyon/odoo-attendance-gnome) to [moduon/odoo-attendance-gnome](https://github.com/moduon/odoo-attendance-gnome)
@@ -135,7 +139,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 12:32:42 UTC*
+*Last updated at 2026-08-04 13:31:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
