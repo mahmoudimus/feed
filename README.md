@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [Velocidex/go-journalctl](https://github.com/Velocidex/go-journalctl)
   > Parser for systemd journal files.
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [mozilla/sccache](https://github.com/mozilla/sccache)
+  > Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible...
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -228,7 +230,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-03 22:19:51 UTC*
+*Last updated at 2026-08-03 23:20:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
