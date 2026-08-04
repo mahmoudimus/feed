@@ -73,6 +73,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mekanix](https://github.com/mekanix) Forked [tracel-ai/models](https://github.com/tracel-ai/models) to [maolan/llama-burn](https://github.com/maolan/llama-burn)
   > Models and examples built with Burn
 
+### [mjpieters](https://github.com/mjpieters)
+- 🌟 👤 [mjpieters](https://github.com/mjpieters) Starred [j178/prek](https://github.com/j178/prek)
+  > ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagin...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wevm/frog](https://github.com/wevm/frog)
+  > Automated friction logging for agents.
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [sonoro1234/ImNodes-1](https://github.com/sonoro1234/ImNodes-1)
+  > Node graph implementation for Dear ImGui. Used in https://github.com/rokups/rbfx
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
@@ -111,7 +127,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 07:49:44 UTC*
+*Last updated at 2026-08-04 08:53:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
