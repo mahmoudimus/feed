@@ -113,6 +113,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
 
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [Kludex/zuvloop](https://github.com/Kludex/zuvloop)
+  > A libuv event loop for asyncio, written in Zig.
+
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [identitymonk/openid-wise](https://github.com/identitymonk/openid-wise)
   > Profiling of OpenID SET for Workload Identity Events
@@ -163,7 +167,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 15:45:16 UTC*
+*Last updated at 2026-08-04 16:34:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
