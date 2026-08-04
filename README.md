@@ -32,6 +32,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [SyNSec-den/Loris](https://github.com/SyNSec-den/Loris)
 
+### [davidfrickert](https://github.com/davidfrickert)
+- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [k3s-io/kine](https://github.com/k3s-io/kine)
+  > Run Kubernetes on MySQL, Postgres, sqlite, not etcd.
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [meowdiocre/HvD](https://github.com/meowdiocre/HvD) to [fengjixuchui/HvD](https://github.com/fengjixuchui/HvD)
   > HV detection in both Kernel and Usermode
@@ -65,6 +69,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [hermanbanken](https://github.com/hermanbanken)
 - 🌟 👤 [hermanbanken](https://github.com/hermanbanken) Starred [mrserzhan/ah-mcp](https://github.com/mrserzhan/ah-mcp)
   > Albert Heijn MCP server for AI assistants
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [yc-software/qm](https://github.com/yc-software/qm)
+  > Multiplayer agent harness for work
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet)
@@ -127,7 +135,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 08:53:17 UTC*
+*Last updated at 2026-08-04 09:51:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
