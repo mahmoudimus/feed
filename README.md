@@ -32,6 +32,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [wevm/frog](https://github.com/wevm/frog)
   > Automated friction logging for agents.
+- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [github/copilot-cli](https://github.com/github/copilot-cli) to [Stanzilla/copilot-cli](https://github.com/Stanzilla/copilot-cli)
+  > GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
+- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [chalk/wrap-ansi](https://github.com/chalk/wrap-ansi) to [Stanzilla/wrap-ansi](https://github.com/Stanzilla/wrap-ansi)
+  > Wordwrap a string with ANSI escape codes
+
+### [boyney123](https://github.com/boyney123)
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [withastro/triagebot-action](https://github.com/withastro/triagebot-action)
+  > A GitHub Action for issue triage
 
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [SyNSec-den/Loris](https://github.com/SyNSec-den/Loris)
@@ -89,6 +97,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mjpieters](https://github.com/mjpieters) Starred [j178/prek](https://github.com/j178/prek)
   > ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagin...
 
+### [moriyoshi](https://github.com/moriyoshi)
+- 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm)
+  > WebAssembly (Wasm) arch support for the Linux kernel
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mayfer/db-here](https://github.com/mayfer/db-here)
   > Local database installations for isolated, per-project databases. Postgres, MySQL, Redis, Memcached,...
@@ -123,11 +135,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [nanovms/nanos](https://github.com/nanovms/nanos) to [tegmentum/nanos](https://github.com/tegmentum/nanos)
   > A kernel designed to run one and only one application in a virtualized environment
 
+### [zakkak](https://github.com/zakkak)
+- 🌟 👤 [zakkak](https://github.com/zakkak) Starred [HebiRobotics/reachability-annotations](https://github.com/HebiRobotics/reachability-annotations)
+  > Utilities for generating GraalVM configuration files
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [ratatui/ratatui-labs](https://github.com/ratatui/ratatui-labs)
   > Experimental Ratatui crates and prototypes
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [ratatui/ratatui-table](https://github.com/ratatui/ratatui-table)
   > An experimental evolution of Ratatui’s built-in Table widget
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [stdlib-js/napi](https://github.com/stdlib-js/napi)
+  > C APIs for creating Node-API native add-ons.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs)
+  > A framework for building compiled Node.js add-ons in Rust via Node-API
 
 ### [zuowang](https://github.com/zuowang)
 - 🌟 👤 [zuowang](https://github.com/zuowang) Starred [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
@@ -139,7 +159,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 13:31:42 UTC*
+*Last updated at 2026-08-04 14:47:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
