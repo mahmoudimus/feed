@@ -37,6 +37,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [chalk/wrap-ansi](https://github.com/chalk/wrap-ansi) to [Stanzilla/wrap-ansi](https://github.com/Stanzilla/wrap-ansi)
   > Wordwrap a string with ANSI escape codes
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [withastro/triagebot-action](https://github.com/withastro/triagebot-action)
   > A GitHub Action for issue triage
@@ -110,6 +114,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)
   > An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ximinng/HiVG](https://github.com/ximinng/HiVG)
+  > Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modelin...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mayfer/db-here](https://github.com/mayfer/db-here)
@@ -120,6 +126,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Aerospike Database Server – flash-optimized, in-memory, nosql database
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [dtolnay/chapter-tgz](https://github.com/dtolnay/chapter-tgz)
   > Specially crafted .tar.gz with embedded chapter boundary information
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam)
+  > Animated border beam effect for React
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cristicretu/diri](https://github.com/cristicretu/diri)
+  > Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in p...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
@@ -140,6 +150,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [identitymonk/openid-wise](https://github.com/identitymonk/openid-wise)
   > Profiling of OpenID SET for Workload Identity Events
+
+### [tomrus88](https://github.com/tomrus88)
+- 🌟 👤 [tomrus88](https://github.com/tomrus88) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
+  > rax is a CPU emulator that checks its own work.
 
 ### [trieu](https://github.com/trieu)
 - 🍴 👤 [trieu](https://github.com/trieu) Forked [sn-code-inside/marketing-analytics-and-data-science](https://github.com/sn-code-inside/marketing-analytics-and-data-science) to [trieu/marketing-analytics-and-data-science](https://github.com/trieu/marketing-analytics-and-data-science)
@@ -176,6 +190,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > General plug-and-play inference library for Recursive Language Models (RLMs), supporting various san...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [state-spaces/mamba](https://github.com/state-spaces/mamba)
   > Mamba SSM architecture
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [saghen/blink.lib](https://github.com/saghen/blink.lib)
+  > Shared library for blink.* neovim plugins
 
 ### [zuowang](https://github.com/zuowang)
 - 🌟 👤 [zuowang](https://github.com/zuowang) Starred [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
@@ -187,7 +203,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 20:28:24 UTC*
+*Last updated at 2026-08-04 22:02:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
