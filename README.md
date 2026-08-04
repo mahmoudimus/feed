@@ -8,14 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
+  > Build and query a graph database representation of source code
+
 
 <!-- nav -->
 [← 2026-08-03](archive/2026/08/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 00:20:08 UTC*
+*Last updated at 2026-08-04 01:31:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
