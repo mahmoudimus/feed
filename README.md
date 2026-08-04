@@ -8,6 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Gcenx](https://github.com/Gcenx)
+- 🍴 👤 [Gcenx](https://github.com/Gcenx) Forked [doitsujin/dxvk](https://github.com/doitsujin/dxvk) to [Sikarugir-App/dxvk](https://github.com/Sikarugir-App/dxvk)
+  > Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
+
+### [NormXU](https://github.com/NormXU)
+- 🌟 👤 [NormXU](https://github.com/NormXU) Starred [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
+  > A library for mechanistic interpretability of GPT-style language models
+
+### [cra0](https://github.com/cra0)
+- 🌟 👤 [cra0](https://github.com/cra0) Starred [SyNSec-den/Loris](https://github.com/SyNSec-den/Loris)
+
 ### [mekanix](https://github.com/mekanix)
 - 🍴 👤 [mekanix](https://github.com/mekanix) Forked [tracel-ai/models](https://github.com/tracel-ai/models) to [maolan/llama-burn](https://github.com/maolan/llama-burn)
   > Models and examples built with Burn
@@ -30,7 +41,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 04:06:10 UTC*
+*Last updated at 2026-08-04 05:56:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
