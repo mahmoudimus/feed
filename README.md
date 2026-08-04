@@ -101,6 +101,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm)
   > WebAssembly (Wasm) arch support for the Linux kernel
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mayfer/db-here](https://github.com/mayfer/db-here)
   > Local database installations for isolated, per-project databases. Postgres, MySQL, Redis, Memcached,...
@@ -167,7 +171,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 16:34:24 UTC*
+*Last updated at 2026-08-04 17:30:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
