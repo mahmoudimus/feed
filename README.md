@@ -66,6 +66,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hermanbanken](https://github.com/hermanbanken) Starred [mrserzhan/ah-mcp](https://github.com/mrserzhan/ah-mcp)
   > Albert Heijn MCP server for AI assistants
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet)
+
 ### [mekanix](https://github.com/mekanix)
 - 🍴 👤 [mekanix](https://github.com/mekanix) Forked [tracel-ai/models](https://github.com/tracel-ai/models) to [maolan/llama-burn](https://github.com/maolan/llama-burn)
   > Models and examples built with Burn
@@ -77,6 +80,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [identitymonk/openid-wise](https://github.com/identitymonk/openid-wise)
   > Profiling of OpenID SET for Workload Identity Events
+
+### [trieu](https://github.com/trieu)
+- 🍴 👤 [trieu](https://github.com/trieu) Forked [sn-code-inside/marketing-analytics-and-data-science](https://github.com/sn-code-inside/marketing-analytics-and-data-science) to [trieu/marketing-analytics-and-data-science](https://github.com/trieu/marketing-analytics-and-data-science)
+  > Extra material accompanying the book "Marketing Analytics and Data Science: Tools and Models"
 
 ### [yajo](https://github.com/yajo)
 - 🍴 👤 [yajo](https://github.com/yajo) Forked [esyon/odoo-attendance-gnome](https://github.com/esyon/odoo-attendance-gnome) to [moduon/odoo-attendance-gnome](https://github.com/moduon/odoo-attendance-gnome)
@@ -104,7 +111,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 06:50:11 UTC*
+*Last updated at 2026-08-04 07:49:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
