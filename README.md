@@ -20,13 +20,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [nanovms/nanos](https://github.com/nanovms/nanos) to [tegmentum/nanos](https://github.com/tegmentum/nanos)
   > A kernel designed to run one and only one application in a virtualized environment
 
+### [zuowang](https://github.com/zuowang)
+- 🌟 👤 [zuowang](https://github.com/zuowang) Starred [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
+  > Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic acros...
+
 
 <!-- nav -->
 [← 2026-08-03](archive/2026/08/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 02:58:43 UTC*
+*Last updated at 2026-08-04 04:06:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
