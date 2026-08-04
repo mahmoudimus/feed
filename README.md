@@ -89,9 +89,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wevm/frog](https://github.com/wevm/frog)
   > Automated friction logging for agents.
 
-### [ocornut](https://github.com/ocornut)
-- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [sonoro1234/ImNodes-1](https://github.com/sonoro1234/ImNodes-1)
-  > Node graph implementation for Dear ImGui. Used in https://github.com/rokups/rbfx
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mayfer/db-here](https://github.com/mayfer/db-here)
+  > Local database installations for isolated, per-project databases. Postgres, MySQL, Redis, Memcached,...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
@@ -135,7 +135,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 11:41:56 UTC*
+*Last updated at 2026-08-04 12:32:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
