@@ -86,6 +86,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [yc-software/qm](https://github.com/yc-software/qm)
   > Multiplayer agent harness for work
 
+### [kenichi-shibata](https://github.com/kenichi-shibata)
+- 🍴 👤 [kenichi-shibata](https://github.com/kenichi-shibata) Forked [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) to [kenichi-shibata/mnemosyne](https://github.com/kenichi-shibata/mnemosyne)
+  > Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python dependency.
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet)
 
@@ -114,6 +118,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An SDK for verifiable intent, inline with code: one-line claims above your functions, verified at th...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [aerospike/aerospike-server](https://github.com/aerospike/aerospike-server)
   > Aerospike Database Server – flash-optimized, in-memory, nosql database
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [dtolnay/chapter-tgz](https://github.com/dtolnay/chapter-tgz)
+  > Specially crafted .tar.gz with embedded chapter boundary information
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
@@ -126,6 +132,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [samuelcolvin](https://github.com/samuelcolvin)
 - 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [Kludex/zuvloop](https://github.com/Kludex/zuvloop)
   > A libuv event loop for asyncio, written in Zig.
+
+### [sellout](https://github.com/sellout)
+- 🍴 👤 [sellout](https://github.com/sellout) Forked [nuttycom/dagny-plugin](https://github.com/nuttycom/dagny-plugin) to [sellout/dagny-plugin](https://github.com/sellout/dagny-plugin)
+  > Claude Code plugin for the Dagny DAG-oriented task tracker
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [identitymonk/openid-wise](https://github.com/identitymonk/openid-wise)
@@ -177,7 +187,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 18:28:57 UTC*
+*Last updated at 2026-08-04 19:29:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
