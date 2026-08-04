@@ -148,6 +148,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > C APIs for creating Node-API native add-ons.
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs)
   > A framework for building compiled Node.js add-ons in Rust via Node-API
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [alexzhang13/rlm](https://github.com/alexzhang13/rlm)
+  > General plug-and-play inference library for Recursive Language Models (RLMs), supporting various san...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [state-spaces/mamba](https://github.com/state-spaces/mamba)
+  > Mamba SSM architecture
 
 ### [zuowang](https://github.com/zuowang)
 - 🌟 👤 [zuowang](https://github.com/zuowang) Starred [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
@@ -159,7 +163,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 14:47:12 UTC*
+*Last updated at 2026-08-04 15:45:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
