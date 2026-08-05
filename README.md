@@ -12,6 +12,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [AXDOOMER](https://github.com/AXDOOMER) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [wangyu-ovo/CREBench](https://github.com/wangyu-ovo/CREBench)
+
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [Digitelektro/BackfireHelix](https://github.com/Digitelektro/BackfireHelix)
   > Backfire helix 3D scaffolds for weather satellites reception
@@ -55,9 +58,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [javaevolved/javaevolved.github.io](https://github.com/javaevolved/javaevolved.github.io)
   > Java Evolved. Your Code Can Evolve Too!
 
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [federico-zanca/diffIDA](https://github.com/federico-zanca/diffIDA)
-
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [ramosbugs/oauth2-rs](https://github.com/ramosbugs/oauth2-rs)
   > Extensible, strongly-typed Rust OAuth2 client library
@@ -65,6 +65,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Collection of cryptographic hash functions written in pure Rust
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64)
   > base64, in rust
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [pipecat-ai/stt-benchmark](https://github.com/pipecat-ai/stt-benchmark)
+  > Benchmarking STT service TTFB and semantic WER for real-time AI applications
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Picovoice/text-to-speech-benchmark](https://github.com/Picovoice/text-to-speech-benchmark)
+  > Text-to-Speech Benchmark
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [jitsi/jiwer](https://github.com/jitsi/jiwer)
+  > Evaluate your speech-to-text system with similarity measures such as word error rate (WER)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz)
+  > Rapid fuzzy string matching in Python using various string metrics
 
 
 <!-- nav -->
@@ -72,7 +80,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-05 07:29:47 UTC*
+*Last updated at 2026-08-05 10:20:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
