@@ -117,6 +117,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [michaelkremenetsky/valkey-wasm](https://github.com/michaelkremenetsky/valkey-wasm)
   > Real Valkey (BSD Redis fork) compiled to WASM, networking bridged to node:net — an in-process, Redis...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [i-snyder/pi-windows-nul-fix](https://github.com/i-snyder/pi-windows-nul-fix)
+
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
   > Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agent...
@@ -157,6 +160,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-SnowflakeEnablement](https://github.com/tspannhw/SNACKAI-CoCo-SnowflakeEnablement)
   > Enablement Materials
 
+### [wincent](https://github.com/wincent)
+- 🌟 👤 [wincent](https://github.com/wincent) Starred [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain)
+  > Securely synchronize files with your devices on iOS using Syncthing
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [vmaxer/pipro](https://github.com/vmaxer/pipro)
   > Simple platform game in Go that uses PixelProtocol
@@ -178,6 +185,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Evaluate your speech-to-text system with similarity measures such as word error rate (WER)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz)
   > Rapid fuzzy string matching in Python using various string metrics
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [lmmlzn/Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)
+  > Summarize existing representative LLMs text datasets.
 
 
 <!-- nav -->
@@ -185,7 +194,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-05 19:09:09 UTC*
+*Last updated at 2026-08-05 20:53:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
