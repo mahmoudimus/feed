@@ -37,6 +37,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [chalk/wrap-ansi](https://github.com/chalk/wrap-ansi) to [Stanzilla/wrap-ansi](https://github.com/Stanzilla/wrap-ansi)
   > Wordwrap a string with ANSI escape codes
 
+### [aanari](https://github.com/aanari)
+- 🌟 👤 [aanari](https://github.com/aanari) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
+  > the runtime your coding agents live on
+
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
@@ -51,6 +55,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [k3s-io/kine](https://github.com/k3s-io/kine)
   > Run Kubernetes on MySQL, Postgres, sqlite, not etcd.
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [HiXray-author/HiXray](https://github.com/HiXray-author/HiXray)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [lutao2021/PIDray](https://github.com/lutao2021/PIDray)
+  > PIDray: A Large-scale X-ray Benchmark for Real-World Prohibited Item Detection
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [MeioJane/SIXray](https://github.com/MeioJane/SIXray)
+  > The SIXray dataset
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [sbunian/VINS](https://github.com/sbunian/VINS)
+  > VINS: Visual Search for Mobile User Interface Design
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [chongweiliu/DUO](https://github.com/chongweiliu/DUO)
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [meowdiocre/HvD](https://github.com/meowdiocre/HvD) to [fengjixuchui/HvD](https://github.com/fengjixuchui/HvD)
@@ -85,10 +99,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [hermanbanken](https://github.com/hermanbanken)
 - 🌟 👤 [hermanbanken](https://github.com/hermanbanken) Starred [mrserzhan/ah-mcp](https://github.com/mrserzhan/ah-mcp)
   > Albert Heijn MCP server for AI assistants
+- 🌟 👤 [hermanbanken](https://github.com/hermanbanken) Starred [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine)
+  > Home Assistant Time Machine is a web-based tool that acts as a "Time Machine" for your Home Assistan...
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [yc-software/qm](https://github.com/yc-software/qm)
   > Multiplayer agent harness for work
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Ringo-Star/FastdLLM_plusplus](https://github.com/Ringo-Star/FastdLLM_plusplus)
+  > Training-free, pulg-in acceleration on diffusion LLMs - using full confidence profile and faster.
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Ringo-Star/FastdLLM_plusplus](https://github.com/Ringo-Star/FastdLLM_plusplus) to [johndpope/FastdLLM_plusplus](https://github.com/johndpope/FastdLLM_plusplus)
+  > Training-free, pulg-in acceleration on diffusion LLMs - using full confidence profile and faster.
 
 ### [kenichi-shibata](https://github.com/kenichi-shibata)
 - 🍴 👤 [kenichi-shibata](https://github.com/kenichi-shibata) Forked [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) to [kenichi-shibata/mnemosyne](https://github.com/kenichi-shibata/mnemosyne)
@@ -96,6 +118,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet)
+
+### [marbemac](https://github.com/marbemac)
+- 🌟 👤 [marbemac](https://github.com/marbemac) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
 
 ### [mekanix](https://github.com/mekanix)
 - 🍴 👤 [mekanix](https://github.com/mekanix) Forked [tracel-ai/models](https://github.com/tracel-ai/models) to [maolan/llama-burn](https://github.com/maolan/llama-burn)
@@ -131,6 +157,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cristicretu/diri](https://github.com/cristicretu/diri)
   > Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in p...
 
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [InboraStudio/Subtitle-Generator-AI](https://github.com/InboraStudio/Subtitle-Generator-AI)
+  > Open AI Video Subtitle Generator Agent Generate .srt subtitle files for any video no length limit, 1...
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Linwei-Chen/AutoSubtitle](https://github.com/Linwei-Chen/AutoSubtitle)
+  > AI-powered video subtitle generator with Whisper + LLM translation
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
@@ -146,6 +178,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [sellout](https://github.com/sellout)
 - 🍴 👤 [sellout](https://github.com/sellout) Forked [nuttycom/dagny-plugin](https://github.com/nuttycom/dagny-plugin) to [sellout/dagny-plugin](https://github.com/sellout/dagny-plugin)
   > Claude Code plugin for the Dagny DAG-oriented task tracker
+
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [StevanFreeborn/termato](https://github.com/StevanFreeborn/termato)
+  > A minimal and unintrusive Pomodoro timer written in Rust for the terminal.
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [identitymonk/openid-wise](https://github.com/identitymonk/openid-wise)
@@ -192,6 +228,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Mamba SSM architecture
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [saghen/blink.lib](https://github.com/saghen/blink.lib)
   > Shared library for blink.* neovim plugins
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [simonw/mcp-explorer](https://github.com/simonw/mcp-explorer)
+  > CLI tool for exploring an MCP server
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ephraimduncan/opencode-cursor](https://github.com/ephraimduncan/opencode-cursor)
+  > Use your cursor subscription in opencode
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [angristan/opencode-wakatime](https://github.com/angristan/opencode-wakatime)
+  > Track Opencode usage with Wakatime
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [angristan/codex-wakatime](https://github.com/angristan/codex-wakatime)
+  > Codex plugin for Wakatime
 
 ### [zuowang](https://github.com/zuowang)
 - 🌟 👤 [zuowang](https://github.com/zuowang) Starred [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
@@ -203,7 +247,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-04 22:02:43 UTC*
+*Last updated at 2026-08-04 23:51:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
