@@ -42,6 +42,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/fake_winreg](https://github.com/bitranox/fake_winreg)
   > fake winreg, in order to test registry related functions on linux and windows
 
+### [boyney123](https://github.com/boyney123)
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+  > Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agent...
+
 ### [droe](https://github.com/droe)
 - 🌟 👤 [droe](https://github.com/droe) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 - 🌟 👤 [droe](https://github.com/droe) Starred [matteyeux/binja-diff](https://github.com/matteyeux/binja-diff)
@@ -138,6 +142,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > JSON Schema Type Builder with Static Type Resolution for TypeScript
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [wevm/frog](https://github.com/wevm/frog)
   > Automated friction logging for agents.
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [Verified-zkEVM/clean](https://github.com/Verified-zkEVM/clean)
+  > Lean circuit DSL
+
+### [svc64](https://github.com/svc64)
+- 🍴 👤 [svc64](https://github.com/svc64) Forked [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) to [svc64/autorestic](https://github.com/svc64/autorestic)
+  > Config driven, easy backup cli for restic.
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [javaevolved/javaevolved.github.io](https://github.com/javaevolved/javaevolved.github.io)
@@ -175,7 +185,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-05 17:15:59 UTC*
+*Last updated at 2026-08-05 19:09:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
