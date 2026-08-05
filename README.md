@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [AXDOOMER](https://github.com/AXDOOMER) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [MatteoGabriele/agentscan](https://github.com/MatteoGabriele/agentscan)
+  > An open experiment in detecting automation patterns on GitHub
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [wangyu-ovo/CREBench](https://github.com/wangyu-ovo/CREBench)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit)
@@ -20,6 +24,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Wenzel](https://github.com/Wenzel)
 - 🍴 👤 [Wenzel](https://github.com/Wenzel) Forked [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux) to [Wenzel/kafl.linux](https://github.com/Wenzel/kafl.linux)
   > Linux kernel branches for confidential compute research
+
+### [Xe](https://github.com/Xe)
+- 🍴 👤 [Xe](https://github.com/Xe) Forked [tigrisdata/storage](https://github.com/tigrisdata/storage) to [Xe/tigris-storage-monorepo](https://github.com/Xe/tigris-storage-monorepo)
+  > Tigris is a globally distributed S3-compatible object storage service that provides low latency anyw...
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [tigrisdata/storage](https://github.com/tigrisdata/storage)
+  > Tigris is a globally distributed S3-compatible object storage service that provides low latency anyw...
 
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [Digitelektro/BackfireHelix](https://github.com/Digitelektro/BackfireHelix)
@@ -31,6 +41,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [bitranox](https://github.com/bitranox)
 - 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/fake_winreg](https://github.com/bitranox/fake_winreg)
   > fake winreg, in order to test registry related functions on linux and windows
+
+### [droe](https://github.com/droe)
+- 🌟 👤 [droe](https://github.com/droe) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+- 🌟 👤 [droe](https://github.com/droe) Starred [matteyeux/binja-diff](https://github.com/matteyeux/binja-diff)
+  > Binary Ninja diffing tool
 
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [cloudflare/workerd](https://github.com/cloudflare/workerd)
@@ -44,9 +59,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fnuecke](https://github.com/fnuecke) Forked [bevyengine/bevy](https://github.com/bevyengine/bevy) to [fnuecke/bevy](https://github.com/fnuecke/bevy)
   > A refreshingly simple data-driven game engine built in Rust
 
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [facebookincubator/scrut](https://github.com/facebookincubator/scrut)
+  > Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss...
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [ubolonton/denopy](https://github.com/ubolonton/denopy)
+  > Deno binding for Python
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [cessen/ropey](https://github.com/cessen/ropey)
+  > A utf8 text rope for manipulating and editing large texts.
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
   > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
+
+### [guilsa](https://github.com/guilsa)
+- 🌟 👤 [guilsa](https://github.com/guilsa) Starred [kepano/defuddle](https://github.com/kepano/defuddle)
+  > Get the main content of any page as Markdown.
 
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [LukeZGD/EverPwnage](https://github.com/LukeZGD/EverPwnage)
@@ -78,9 +105,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [zju3dv/InfiniSplat](https://github.com/zju3dv/InfiniSplat) to [johndpope/InfiniSplat](https://github.com/johndpope/InfiniSplat)
   > [SIGGRAPH Asia 2026 Journal Track] InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocu...
 
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [cloudflare/capnweb](https://github.com/cloudflare/capnweb)
+  > JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [michaelkremenetsky/valkey-wasm](https://github.com/michaelkremenetsky/valkey-wasm)
   > Real Valkey (BSD Redis fork) compiled to WASM, networking bridged to node:net — an in-process, Redis...
+
+### [myusuf3](https://github.com/myusuf3)
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+  > Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agent...
 
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)
@@ -91,6 +126,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A multi-hypervisor VM runtime for OCI images, supporting Cloud Hypervisor, Firecracker, QEMU, and Ap...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
   > Free and open-source macOS menu bar toolkit.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [denoland/celld](https://github.com/denoland/celld)
+  > self-hosted, distributed Durable Objects
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
@@ -138,7 +175,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-05 15:05:20 UTC*
+*Last updated at 2026-08-05 17:15:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
