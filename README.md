@@ -148,6 +148,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [Verified-zkEVM/clean](https://github.com/Verified-zkEVM/clean)
   > Lean circuit DSL
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec)
+  > Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No c...
+
 ### [svc64](https://github.com/svc64)
 - 🍴 👤 [svc64](https://github.com/svc64) Forked [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) to [svc64/autorestic](https://github.com/svc64/autorestic)
   > Config driven, easy backup cli for restic.
@@ -194,7 +198,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-05 20:53:51 UTC*
+*Last updated at 2026-08-05 22:03:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
