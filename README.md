@@ -22,6 +22,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [alexazhou](https://github.com/alexazhou)
 - 🌟 👤 [alexazhou](https://github.com/alexazhou) Starred [jeffqiu1989/IcontainU](https://github.com/jeffqiu1989/IcontainU)
 
+### [bitranox](https://github.com/bitranox)
+- 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/fake_winreg](https://github.com/bitranox/fake_winreg)
+  > fake winreg, in order to test registry related functions on linux and windows
+
+### [firmai](https://github.com/firmai)
+- 🌟 👤 [firmai](https://github.com/firmai) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+
+### [fnuecke](https://github.com/fnuecke)
+- 🍴 👤 [fnuecke](https://github.com/fnuecke) Forked [bevyengine/bevy](https://github.com/bevyengine/bevy) to [fnuecke/bevy](https://github.com/fnuecke/bevy)
+  > A refreshingly simple data-driven game engine built in Rust
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
   > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
@@ -39,16 +51,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [ICLR-26, ECCV-26, NeurIPS-25] Lumos-Custom Project: research for customized video generation in the...
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [alibaba-damo-academy/Lumos-Custom](https://github.com/alibaba-damo-academy/Lumos-Custom) to [johndpope/Lumos-Custom](https://github.com/johndpope/Lumos-Custom)
   > [ICLR-26, ECCV-26, NeurIPS-25] Lumos-Custom Project: research for customized video generation in the...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [zju3dv/InfiniSplat](https://github.com/zju3dv/InfiniSplat)
+  > [SIGGRAPH Asia 2026 Journal Track] InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocu...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [zju3dv/InfiniSplat](https://github.com/zju3dv/InfiniSplat) to [johndpope/InfiniSplat](https://github.com/johndpope/InfiniSplat)
+  > [SIGGRAPH Asia 2026 Journal Track] InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocu...
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [michaelkremenetsky/valkey-wasm](https://github.com/michaelkremenetsky/valkey-wasm)
   > Real Valkey (BSD Redis fork) compiled to WASM, networking bridged to node:net — an in-process, Redis...
+
+### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa)
+  > Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [kernel/hypeman](https://github.com/kernel/hypeman)
   > A multi-hypervisor VM runtime for OCI images, supporting Cloud Hypervisor, Firecracker, QEMU, and Ap...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
   > Free and open-source macOS menu bar toolkit.
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox)
@@ -80,7 +104,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-05 10:20:50 UTC*
+*Last updated at 2026-08-05 12:30:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
