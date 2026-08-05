@@ -14,6 +14,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [wangyu-ovo/CREBench](https://github.com/wangyu-ovo/CREBench)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit)
+  > [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
+
+### [Wenzel](https://github.com/Wenzel)
+- 🍴 👤 [Wenzel](https://github.com/Wenzel) Forked [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux) to [Wenzel/kafl.linux](https://github.com/Wenzel/kafl.linux)
+  > Linux kernel branches for confidential compute research
 
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [Digitelektro/BackfireHelix](https://github.com/Digitelektro/BackfireHelix)
@@ -25,6 +31,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [bitranox](https://github.com/bitranox)
 - 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/fake_winreg](https://github.com/bitranox/fake_winreg)
   > fake winreg, in order to test registry related functions on linux and windows
+
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [cloudflare/workerd](https://github.com/cloudflare/workerd)
+  > The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 ### [firmai](https://github.com/firmai)
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
@@ -38,13 +48,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
   > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
 
+### [h3xstream](https://github.com/h3xstream)
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [LukeZGD/EverPwnage](https://github.com/LukeZGD/EverPwnage)
+  > iOS 7.0-9.3.6 Untethered Jailbreak for 32-bit Devices
+
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)
   > A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a s...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+  > Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agent...
+
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [deflating/tau](https://github.com/deflating/tau)
   > Web UI that mirrors your Pi terminal session in the browser
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [simonw/raccoon-heist](https://github.com/simonw/raccoon-heist)
+  > Seeing if Fable 5 can one-shot this game
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [alibaba-damo-academy/Lumos-Custom](https://github.com/alibaba-damo-academy/Lumos-Custom)
@@ -77,10 +99,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox)
   > JSON Schema Type Builder with Static Type Resolution for TypeScript
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [wevm/frog](https://github.com/wevm/frog)
+  > Automated friction logging for agents.
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [javaevolved/javaevolved.github.io](https://github.com/javaevolved/javaevolved.github.io)
   > Java Evolved. Your Code Can Evolve Too!
+
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [tspannhw/SNACKAI-CoCo-SnowflakeEnablement](https://github.com/tspannhw/SNACKAI-CoCo-SnowflakeEnablement)
+  > Enablement Materials
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [vmaxer/pipro](https://github.com/vmaxer/pipro)
+  > Simple platform game in Go that uses PixelProtocol
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [xyproto/pixelprotocol](https://github.com/xyproto/pixelprotocol)
+  > Experimental protocol for streaming games
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [ramosbugs/oauth2-rs](https://github.com/ramosbugs/oauth2-rs)
@@ -104,7 +138,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-05 12:30:20 UTC*
+*Last updated at 2026-08-05 15:05:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
