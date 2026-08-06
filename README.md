@@ -34,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [droe](https://github.com/droe) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
   > The binary you run is not the program you wrote.
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [ultralytics/lite](https://github.com/ultralytics/lite)
+  > A fast, local workspace for Claude Code, Codex, and your shell.
+
 ### [idavehuwei](https://github.com/idavehuwei)
 - 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [wiringai/mod_earshot](https://github.com/wiringai/mod_earshot) to [idavehuwei/mod_earshot](https://github.com/idavehuwei/mod_earshot)
   > FreeSWITCH module that streams live call audio to AI voice agents over WebSocket and plays their voi...
@@ -51,6 +55,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > PIXLRelight: Controllable Relighting via Intrinsic Conditioning
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [NVIDIA-Maxine/nvidia-vfx-python-samples](https://github.com/NVIDIA-Maxine/nvidia-vfx-python-samples)
   > Sample apps demonstrating the usage of python bindings for the NVIDIA Video Effects SDK
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [awakecoding/windbg-tool](https://github.com/awakecoding/windbg-tool)
+  > WinDBG tool for AI agents
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aviggiano/web3-vulnerability-database](https://github.com/aviggiano/web3-vulnerability-database)
+  > Web3 Vulnerability Database
+
+### [myusuf3](https://github.com/myusuf3)
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [jenkinsci/pipeline-groovy-lib-plugin](https://github.com/jenkinsci/pipeline-groovy-lib-plugin)
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mikker/fut](https://github.com/mikker/fut)
+  > fear, uncertainty and ... terminals
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [moonbitlang/editor](https://github.com/moonbitlang/editor)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mwrshah/flitterbot](https://github.com/mwrshah/flitterbot)
+  > Pi-based orchestration agent with gooey UX for coding work. Optionally orchestrate and supervise Cla...
 
 ### [qis](https://github.com/qis)
 - 🌟 👤 [qis](https://github.com/qis) Starred [gubnik/co_usb](https://github.com/gubnik/co_usb)
@@ -71,6 +91,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Fast 0-deps bash parser written in TypeScript
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [un-ts/sh-syntax](https://github.com/un-ts/sh-syntax)
   > A WASM shell parser and formatter with bash support, based on `mvdan/sh`
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
 
 
 <!-- nav -->
@@ -78,7 +99,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-06 10:23:00 UTC*
+*Last updated at 2026-08-06 12:48:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
