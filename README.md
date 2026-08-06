@@ -55,6 +55,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [cloudflare/workerd](https://github.com/cloudflare/workerd)
   > The JavaScript / Wasm runtime that powers Cloudflare Workers
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [YongchengYAO/MedVision](https://github.com/YongchengYAO/MedVision)
+  > The official codebase of "MedVision: Benchmarking Quantitative Medical Image Analysis"
+
 ### [firmai](https://github.com/firmai)
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
@@ -117,6 +121,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [michaelkremenetsky/valkey-wasm](https://github.com/michaelkremenetsky/valkey-wasm)
   > Real Valkey (BSD Redis fork) compiled to WASM, networking bridged to node:net — an in-process, Redis...
 
+### [moriyoshi](https://github.com/moriyoshi)
+- 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [shakenfist/ryll](https://github.com/shakenfist/ryll)
+  > A surprisingly functional SPICE client written in rust.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [i-snyder/pi-windows-nul-fix](https://github.com/i-snyder/pi-windows-nul-fix)
 
@@ -174,6 +182,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [xyproto/pixelprotocol](https://github.com/xyproto/pixelprotocol)
   > Experimental protocol for streaming games
 
+### [zacharywhitley](https://github.com/zacharywhitley)
+- 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [yanghaku/tvm-rt-wasm](https://github.com/yanghaku/tvm-rt-wasm) to [tegmentum/tvm-rt-wasm](https://github.com/tegmentum/tvm-rt-wasm)
+  > A High performance and tiny TVM graph executor library written in C which can compile to WebAssembly...
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [ramosbugs/oauth2-rs](https://github.com/ramosbugs/oauth2-rs)
   > Extensible, strongly-typed Rust OAuth2 client library
@@ -198,7 +210,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-05 22:03:24 UTC*
+*Last updated at 2026-08-05 23:44:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
