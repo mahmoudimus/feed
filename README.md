@@ -22,10 +22,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [evilrabbit/lifeline](https://github.com/evilrabbit/lifeline)
   > A timeline component for the stories that unfold over time. Ships as a shadcn registry.
 
-### [TomasVotruba](https://github.com/TomasVotruba)
-- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [jasonmccreary/phpunit-tia](https://github.com/jasonmccreary/phpunit-tia)
-  > A TIA plugin for PHPUnit
-
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [jagreehal/eventcatalog-generator-zod](https://github.com/jagreehal/eventcatalog-generator-zod)
   > Zod generator for EventCatalog. Scans your codebase for Zod event schemas and documents them in Even...
@@ -56,6 +52,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [NVIDIA-Maxine/nvidia-vfx-python-samples](https://github.com/NVIDIA-Maxine/nvidia-vfx-python-samples)
   > Sample apps demonstrating the usage of python bindings for the NVIDIA Video Effects SDK
 
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [R44VC0RP/hark](https://github.com/R44VC0RP/hark)
+  > A simple, beautiful webhook to notification platform. 
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [awakecoding/windbg-tool](https://github.com/awakecoding/windbg-tool)
   > WinDBG tool for AI agents
@@ -84,6 +84,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [ihmeuw/ScrollyTeller](https://github.com/ihmeuw/ScrollyTeller)
   > A JavaScript library to build scrollytelling visualizations from tabular data
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [captainkie/ai-usage-esp32](https://github.com/captainkie/ai-usage-esp32)
+  > Your Claude Code usage limits on a Waveshare ESP32-S3-Touch-LCD-3.49 (640×172), with a pixel compani...
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme)
   > High-performance automatic differentiation of LLVM and MLIR.
@@ -99,7 +103,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-06 12:48:13 UTC*
+*Last updated at 2026-08-06 15:03:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
