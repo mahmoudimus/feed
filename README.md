@@ -24,6 +24,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval)
   > An OBS plugin for removing background in portrait images (video), making it easy to replace the back...
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [pq-yang/MatAnyone2](https://github.com/pq-yang/MatAnyone2)
+  > [CVPR 2026 Highlight] MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [ultralytics/lite](https://github.com/ultralytics/lite) to [fcakyon/ultralytics-lite](https://github.com/fcakyon/ultralytics-lite)
@@ -49,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [dahlia/logtape](https://github.com/dahlia/logtape)
   > Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functi...
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [KyleAMathews/field-lab](https://github.com/KyleAMathews/field-lab)
+  > A field lab for thinking with AI
+
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [facebook/pyrefly](https://github.com/facebook/pyrefly)
   > A fast type checker and language server for Python
@@ -59,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 08:03:32 UTC*
+*Last updated at 2026-08-07 09:47:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
