@@ -67,6 +67,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
 
+### [hermanbanken](https://github.com/hermanbanken)
+- 🌟 👤 [hermanbanken](https://github.com/hermanbanken) Starred [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS)
+  > ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both L...
+
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw)
   > Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols an...
@@ -80,6 +84,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [NeurIPS 2025] InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [inlineresearch/Inline-Studio](https://github.com/inlineresearch/Inline-Studio)
   > AI filmmaking on a node canvas. Generate locally on your own GPU with the Inline Core engine (Z-Imag...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [d-liya/capybara_2d_engine](https://github.com/d-liya/capybara_2d_engine) to [johndpope/capybara_2d_engine](https://github.com/johndpope/capybara_2d_engine)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [LcsDeveloper/Imagine-Capybaras-Engine](https://github.com/LcsDeveloper/Imagine-Capybaras-Engine)
+  > Game engine 2D made with OpenGL
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [d-liya/capybara_2d_engine](https://github.com/d-liya/capybara_2d_engine)
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
@@ -108,10 +116,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [professorpalmer/Puppetmaster](https://github.com/professorpalmer/Puppetmaster)
   > Provider-neutral control plane for durable-state agent swarms: subprocess workers, leases, artifacts...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Snowflake-Labs/data-eng-bench](https://github.com/Snowflake-Labs/data-eng-bench)
+  > Data-engineering benchmark for coding agents (DuckDB + Snowflake dbt tasks). 
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [GitBruno/ImMidiMapper](https://github.com/GitBruno/ImMidiMapper)
   > Map any Dear ImGui control to a MIDI CC
+
+### [ovidiuch](https://github.com/ovidiuch)
+- 🌟 👤 [ovidiuch](https://github.com/ovidiuch) Starred [th0br0/z2m_ubisys_ld6](https://github.com/th0br0/z2m_ubisys_ld6)
 
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz)
@@ -130,6 +143,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A terminal interface for Nanocodex
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [undont/differ.nvim](https://github.com/undont/differ.nvim)
   > unified diff viewing experience in Neovim; local diffs, merge conflicts, GitHub PR review
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [polyphilz/glance](https://github.com/polyphilz/glance)
+  > Review git diffs ~aesthetically~. A standalone TUI that serves as a drop-in replacement for VS Code/...
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [fzakaria/nes-nix](https://github.com/fzakaria/nes-nix)
@@ -152,7 +167,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 18:35:57 UTC*
+*Last updated at 2026-08-07 20:26:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
