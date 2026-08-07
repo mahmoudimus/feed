@@ -38,6 +38,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [dgunning/edgartools](https://github.com/dgunning/edgartools)
   > Read and analyze SEC EDGAR filings in Python. 10-K, 8-K, XBRL financials, Form 3/4/5, 13F, ADV — cle...
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp)
+  > A SEC EDGAR MCP (Model Context Protocol) Server
 
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw)
@@ -60,6 +62,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A field lab for thinking with AI
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
   > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+  > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [facebook/pyrefly](https://github.com/facebook/pyrefly)
@@ -75,7 +79,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 11:35:59 UTC*
+*Last updated at 2026-08-07 12:34:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
