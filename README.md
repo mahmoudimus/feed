@@ -1,185 +1,32 @@
-# Daily GitHub Activity (2026-08-06)
+# Daily GitHub Activity (2026-08-07)
 
 <!-- nav -->
-[← 2026-08-05](archive/2026/08/05.md)
+[← 2026-08-06](archive/2026/08/06.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Midi12](https://github.com/Midi12)
-- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [anthropics/k12-teacher-skills](https://github.com/anthropics/k12-teacher-skills)
-  > Skills and eval rubrics for K-12 teachers, co-developed with Learning Commons
-
-### [P4nda0s](https://github.com/P4nda0s)
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
-  > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
-  > A Codex jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex 破甲提示词与测试包。
-
-### [Stanzilla](https://github.com/Stanzilla)
-- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [evilrabbit/lifeline](https://github.com/evilrabbit/lifeline)
-  > A timeline component for the stories that unfold over time. Ships as a shadcn registry.
-
-### [boyney123](https://github.com/boyney123)
-- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [jagreehal/eventcatalog-generator-zod](https://github.com/jagreehal/eventcatalog-generator-zod)
-  > Zod generator for EventCatalog. Scans your codebase for Zod event schemas and documents them in Even...
-
-### [buger](https://github.com/buger)
-- 🍴 👤 [buger](https://github.com/buger) Forked [xerj-org/xerj](https://github.com/xerj-org/xerj) to [buger/xerj](https://github.com/buger/xerj)
-  > XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your da...
-
-### [donvito](https://github.com/donvito)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [MiaAI-Lab/sparkDash](https://github.com/MiaAI-Lab/sparkDash)
-  > sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [wildminder/awesome-minimax-H3](https://github.com/wildminder/awesome-minimax-H3)
-  > Awesome MiniMax-H3
-
-### [droe](https://github.com/droe)
-- 🌟 👤 [droe](https://github.com/droe) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
-  > The binary you run is not the program you wrote.
-
-### [eybisi](https://github.com/eybisi)
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
-  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
-
-### [fangpenlin](https://github.com/fangpenlin)
-- 🍴 👤 [fangpenlin](https://github.com/fangpenlin) Forked [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) to [sunday-robotics/serverless-registry](https://github.com/sunday-robotics/serverless-registry)
-  > A container registry backed by Workers and R2.
-
 ### [fcakyon](https://github.com/fcakyon)
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [ultralytics/lite](https://github.com/ultralytics/lite)
+- 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [ultralytics/lite](https://github.com/ultralytics/lite) to [fcakyon/ultralytics-lite](https://github.com/fcakyon/ultralytics-lite)
   > A fast, local workspace for Claude Code, Codex, Kimi Code, DeepSeek, and your shell.
 
-### [h2non](https://github.com/h2non)
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw)
-  > Security Governance for Agentic AI
-
-### [idavehuwei](https://github.com/idavehuwei)
-- 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [wiringai/mod_earshot](https://github.com/wiringai/mod_earshot) to [idavehuwei/mod_earshot](https://github.com/idavehuwei/mod_earshot)
-  > FreeSWITCH module that streams live call audio to AI voice agents over WebSocket and plays their voi...
-
-### [illnyang](https://github.com/illnyang)
-- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
-  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec)
-  > Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distribu...
-
-### [joekoolade](https://github.com/joekoolade)
-- 🌟 👤 [joekoolade](https://github.com/joekoolade) Starred [joekoolade/joe-ng](https://github.com/joekoolade/joe-ng)
-  > A metacircular Java VM: an all-Java boot-image writer and baseline compiler that turn Java classes i...
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [IGLICT/NeRFFaceLighting](https://github.com/IGLICT/NeRFFaceLighting)
-  > [TOG'23] NeRFFaceLighting: Implicit and Disentangled Face Lighting Representation Leveraging Generat...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [zju3dv/RelightableAvatar](https://github.com/zju3dv/RelightableAvatar)
-  > [CVPR 2024 (Highlight)] Relightable and Animatable Neural Avatar from Sparse-View Video
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [gogoneural/SketchFaceGS_jittor](https://github.com/gogoneural/SketchFaceGS_jittor)
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [gogoneural/SketchFaceGS_jittor](https://github.com/gogoneural/SketchFaceGS_jittor) to [johndpope/SketchFaceGS_jittor](https://github.com/johndpope/SketchFaceGS_jittor)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Foruck/Awesome-Human-Motion](https://github.com/Foruck/Awesome-Human-Motion)
-  > An aggregation of human motion understanding research. 
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mlfarinha/pixlrelight](https://github.com/mlfarinha/pixlrelight)
-  > PIXLRelight: Controllable Relighting via Intrinsic Conditioning
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [NVIDIA-Maxine/nvidia-vfx-python-samples](https://github.com/NVIDIA-Maxine/nvidia-vfx-python-samples)
-  > Sample apps demonstrating the usage of python bindings for the NVIDIA Video Effects SDK
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [kvfrans/shortcut-models](https://github.com/kvfrans/shortcut-models)
-
-### [johnmccabe](https://github.com/johnmccabe)
-- 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [palamim/starboard](https://github.com/palamim/starboard)
-  > A terminal that's always beside your Dock — not a Quake-style hotkey overlay, a permanent fixture
-
-### [kovyrin](https://github.com/kovyrin)
-- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [R44VC0RP/hark](https://github.com/R44VC0RP/hark)
-  > A simple, beautiful webhook to notification platform. 
-
-### [lgastako](https://github.com/lgastako)
-- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [immannino/sql.garden](https://github.com/immannino/sql.garden)
-  > An infinite canvas for your data
-
-### [lovasoa](https://github.com/lovasoa)
-- 🍴 👤 [lovasoa](https://github.com/lovasoa) Forked [S-poony/Animage](https://github.com/S-poony/Animage) to [lovasoa/Animage](https://github.com/lovasoa/Animage)
-  > A free and opensource animation software
-
-### [marbemac](https://github.com/marbemac)
-- 🌟 👤 [marbemac](https://github.com/marbemac) Starred [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)
-  > Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [awakecoding/windbg-tool](https://github.com/awakecoding/windbg-tool)
-  > WinDBG tool for AI agents
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aviggiano/web3-vulnerability-database](https://github.com/aviggiano/web3-vulnerability-database)
-  > Web3 Vulnerability Database
-
 ### [myusuf3](https://github.com/myusuf3)
-- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [jenkinsci/pipeline-groovy-lib-plugin](https://github.com/jenkinsci/pipeline-groovy-lib-plugin)
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [dahlia/logtape](https://github.com/dahlia/logtape)
+  > Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functi...
 
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mikker/fut](https://github.com/mikker/fut)
-  > fear, uncertainty and ... terminals
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [moonbitlang/editor](https://github.com/moonbitlang/editor)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mwrshah/flitterbot](https://github.com/mwrshah/flitterbot)
-  > Pi-based orchestration agent with gooey UX for coding work. Optionally orchestrate and supervise Cla...
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ArchAstro/aster](https://github.com/ArchAstro/aster)
-  > A simple mono-repo build tool.
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ArchAstro/scopey](https://github.com/ArchAstro/scopey)
-  > Keep Claude/Codex/Grok/Pi/OpenCode sessions on scope
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [YuanchenBei/Awesome-Graphs-Meet-Agents](https://github.com/YuanchenBei/Awesome-Graphs-Meet-Agents)
-  > [Up-to-date] A curated list of resources on graph-empowered agents and agent-facilitated graph learn...
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [quarqlabs/argus](https://github.com/quarqlabs/argus)
-  > A recursive evidence-gated cognitive runtime for memory-native AI agents, combining hybrid retrieval...
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lbx154/Argus](https://github.com/lbx154/Argus)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [LFDT-Nightstream/Starstream](https://github.com/LFDT-Nightstream/Starstream)
-  > Implementation experiments as part of the design process of Starstream VM
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [LFDT-Nightstream/Nightstream](https://github.com/LFDT-Nightstream/Nightstream)
-  > Lattice zkVM (post-quantum zkVM)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [get-bb/bb](https://github.com/get-bb/bb)
-  > The agent IDE that builds itself
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
-  > Agent Substrate: the core system
-
-### [qis](https://github.com/qis)
-- 🌟 👤 [qis](https://github.com/qis) Starred [gubnik/co_usb](https://github.com/gubnik/co_usb)
-  > Asynchronous USB library for modern C++
-
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
-  > Agent Substrate: the core system
-
-### [tommyettinger](https://github.com/tommyettinger)
-- 🌟 👤 [tommyettinger](https://github.com/tommyettinger) Starred [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi)
-  > free and open source voxel art tools - editor, thumbnailer and format converter
-
-### [trieu](https://github.com/trieu)
-- 🌟 👤 [trieu](https://github.com/trieu) Starred [ihmeuw/ScrollyTeller](https://github.com/ihmeuw/ScrollyTeller)
-  > A JavaScript library to build scrollytelling visualizations from tabular data
-
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [captainkie/ai-usage-esp32](https://github.com/captainkie/ai-usage-esp32)
-  > Your Claude Code usage limits on a Waveshare ESP32-S3-Touch-LCD-3.49 (640×172), with a pixel compani...
-
-### [willshiao](https://github.com/willshiao)
-- 🌟 👤 [willshiao](https://github.com/willshiao) Starred [drandyhaas/KiCadRoutingTools](https://github.com/drandyhaas/KiCadRoutingTools)
-  > A set of Python/Rust tools to aid routing in KiCad
-
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme)
-  > High-performance automatic differentiation of LLVM and MLIR.
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [webpro-nl/unbash](https://github.com/webpro-nl/unbash)
-  > Fast 0-deps bash parser written in TypeScript
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [un-ts/sh-syntax](https://github.com/un-ts/sh-syntax)
-  > A WASM shell parser and formatter with bash support, based on `mvdan/sh`
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
+### [yangdanny97](https://github.com/yangdanny97)
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [facebook/pyrefly](https://github.com/facebook/pyrefly)
+  > A fast type checker and language server for Python
 
 
 <!-- nav -->
-[← 2026-08-05](archive/2026/08/05.md)
+[← 2026-08-06](archive/2026/08/06.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-06 23:46:16 UTC*
+*Last updated at 2026-08-07 01:58:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
