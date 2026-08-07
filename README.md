@@ -28,6 +28,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [Penqle/tortoise-wow](https://github.com/Penqle/tortoise-wow)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [mserajnik/tortoise-deploy](https://github.com/mserajnik/tortoise-deploy)
+  > A Docker setup for Tortoise-WoW with prebuilt images
 
 ### [artem](https://github.com/artem)
 - 🌟 👤 [artem](https://github.com/artem) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
@@ -82,6 +84,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
   > Nano vLLM
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [Wyzer-Lang/wyzer](https://github.com/Wyzer-Lang/wyzer)
+  > The Wyzer Programming Language
 
 ### [llimllib](https://github.com/llimllib)
 - 🍴 👤 [llimllib](https://github.com/llimllib) Forked [Latias94/merman](https://github.com/Latias94/merman) to [llimllib/merman](https://github.com/llimllib/merman)
@@ -124,6 +128,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [clabby/tact](https://github.com/clabby/tact)
   > A terminal interface for Nanocodex
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [undont/differ.nvim](https://github.com/undont/differ.nvim)
+  > unified diff viewing experience in Neovim; local diffs, merge conflicts, GitHub PR review
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [fzakaria/nes-nix](https://github.com/fzakaria/nes-nix)
@@ -146,7 +152,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 17:37:46 UTC*
+*Last updated at 2026-08-07 18:35:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
