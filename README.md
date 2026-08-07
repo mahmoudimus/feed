@@ -12,11 +12,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
+### [NikolajSchlej](https://github.com/NikolajSchlej)
+- 🌟 👤 [NikolajSchlej](https://github.com/NikolajSchlej) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
   > Secure and fast microVMs for serverless computing.
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)
   > Kata Containers is an open source project and community working to build a standard implementation o...
+
+### [Trollicus](https://github.com/Trollicus)
+- 🌟 👤 [Trollicus](https://github.com/Trollicus) Starred [Washi1337/cilfi](https://github.com/Washi1337/cilfi)
+  > Automated Function Identification in .NET binaries
 
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [Penqle/tortoise-wow](https://github.com/Penqle/tortoise-wow)
@@ -71,6 +79,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [inlineresearch/Inline-Studio](https://github.com/inlineresearch/Inline-Studio)
   > AI filmmaking on a node canvas. Generate locally on your own GPU with the Inline Core engine (Z-Imag...
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+  > Nano vLLM
+
 ### [llimllib](https://github.com/llimllib)
 - 🍴 👤 [llimllib](https://github.com/llimllib) Forked [Latias94/merman](https://github.com/Latias94/merman) to [llimllib/merman](https://github.com/llimllib/merman)
   > Mermaid.js, but headless, in Rust.
@@ -109,6 +121,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [sdras](https://github.com/sdras) Made [sdras/webmcp-server-interaction-demo](https://github.com/sdras/webmcp-server-interaction-demo) public
   > Just a small example of WebMCP and MCP to kick tires, nothing special
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [clabby/tact](https://github.com/clabby/tact)
+  > A terminal interface for Nanocodex
+
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [fzakaria/nes-nix](https://github.com/fzakaria/nes-nix)
 
@@ -130,7 +146,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 16:38:44 UTC*
+*Last updated at 2026-08-07 17:37:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
