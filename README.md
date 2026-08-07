@@ -50,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A SEC EDGAR MCP (Model Context Protocol) Server
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control)
   > Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenC...
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
+  > Specification and documentation for Agent Skills
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .agents directory.
 
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw)
@@ -87,6 +91,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [pims](https://github.com/pims) Starred [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz)
   > A radically modular HTML/CSS rendering engine
 
+### [sdras](https://github.com/sdras)
+- 🚀 👤 [sdras](https://github.com/sdras) Made [sdras/webmcp-server-interaction-demo](https://github.com/sdras/webmcp-server-interaction-demo) public
+  > Just a small example of WebMCP and MCP to kick tires, nothing special
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+  > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [facebook/pyrefly](https://github.com/facebook/pyrefly)
   > A fast type checker and language server for Python
@@ -101,7 +113,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 14:03:13 UTC*
+*Last updated at 2026-08-07 15:41:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
