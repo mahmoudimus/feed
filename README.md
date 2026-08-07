@@ -26,6 +26,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An OBS plugin for removing background in portrait images (video), making it easy to replace the back...
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [pq-yang/MatAnyone2](https://github.com/pq-yang/MatAnyone2)
   > [CVPR 2026 Highlight] MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)
+  > Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [ultralytics/lite](https://github.com/ultralytics/lite) to [fcakyon/ultralytics-lite](https://github.com/fcakyon/ultralytics-lite)
@@ -34,6 +36,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [dgunning/edgartools](https://github.com/dgunning/edgartools)
+  > Read and analyze SEC EDGAR filings in Python. 10-K, 8-K, XBRL financials, Form 3/4/5, 13F, ADV — cle...
 
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw)
@@ -61,13 +65,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [facebook/pyrefly](https://github.com/facebook/pyrefly)
   > A fast type checker and language server for Python
 
+### [yegor256](https://github.com/yegor256)
+- 🌟 👤 [yegor256](https://github.com/yegor256) Starred [newink/ephpo](https://github.com/newink/ephpo)
+  > Ephemeral TCP ports for JUnit 5 tests, guaranteed not to collide across processes
+
 
 <!-- nav -->
 [← 2026-08-06](archive/2026/08/06.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 10:39:56 UTC*
+*Last updated at 2026-08-07 11:35:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
