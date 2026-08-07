@@ -40,6 +40,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fcakyon](https://github.com/fcakyon)
 - 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [ultralytics/lite](https://github.com/ultralytics/lite) to [fcakyon/ultralytics-lite](https://github.com/fcakyon/ultralytics-lite)
   > A fast, local workspace for Claude Code, Codex, Kimi Code, DeepSeek, and your shell.
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+  > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you ...
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
@@ -69,6 +71,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [inlineresearch/Inline-Studio](https://github.com/inlineresearch/Inline-Studio)
   > AI filmmaking on a node canvas. Generate locally on your own GPU with the Inline Core engine (Z-Imag...
 
+### [llimllib](https://github.com/llimllib)
+- 🍴 👤 [llimllib](https://github.com/llimllib) Forked [Latias94/merman](https://github.com/Latias94/merman) to [llimllib/merman](https://github.com/llimllib/merman)
+  > Mermaid.js, but headless, in Rust.
+
 ### [lovasoa](https://github.com/lovasoa)
 - 🌟 👤 [lovasoa](https://github.com/lovasoa) Starred [Wyzer-Lang/wyzer](https://github.com/Wyzer-Lang/wyzer)
   > The Wyzer Programming Language
@@ -87,13 +93,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [professorpalmer/Puppetmaster](https://github.com/professorpalmer/Puppetmaster)
   > Provider-neutral control plane for durable-state agent swarms: subprocess workers, leases, artifacts...
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [GitBruno/ImMidiMapper](https://github.com/GitBruno/ImMidiMapper)
+  > Map any Dear ImGui control to a MIDI CC
+
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz)
   > A radically modular HTML/CSS rendering engine
 
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [tttuuu888/janet-botan](https://github.com/tttuuu888/janet-botan)
+  > Janet bindings to Botan
+
 ### [sdras](https://github.com/sdras)
 - 🚀 👤 [sdras](https://github.com/sdras) Made [sdras/webmcp-server-interaction-demo](https://github.com/sdras/webmcp-server-interaction-demo) public
   > Just a small example of WebMCP and MCP to kick tires, nothing special
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [fzakaria/nes-nix](https://github.com/fzakaria/nes-nix)
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
@@ -113,7 +130,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 15:41:25 UTC*
+*Last updated at 2026-08-07 16:38:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
