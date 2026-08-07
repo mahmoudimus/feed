@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
   > Secure and fast microVMs for serverless computing.
@@ -16,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [Penqle/tortoise-wow](https://github.com/Penqle/tortoise-wow)
+
+### [artem](https://github.com/artem)
+- 🌟 👤 [artem](https://github.com/artem) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [itara-project/itara](https://github.com/itara-project/itara)
@@ -40,6 +48,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Read and analyze SEC EDGAR filings in Python. 10-K, 8-K, XBRL financials, Form 3/4/5, 13F, ADV — cle...
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp)
   > A SEC EDGAR MCP (Model Context Protocol) Server
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control)
+  > Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenC...
 
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw)
@@ -52,6 +62,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [dhmbb2/InstaInpaint](https://github.com/dhmbb2/InstaInpaint)
   > [NeurIPS 2025] InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [inlineresearch/Inline-Studio](https://github.com/inlineresearch/Inline-Studio)
+  > AI filmmaking on a node canvas. Generate locally on your own GPU with the Inline Core engine (Z-Imag...
+
+### [lovasoa](https://github.com/lovasoa)
+- 🌟 👤 [lovasoa](https://github.com/lovasoa) Starred [Wyzer-Lang/wyzer](https://github.com/Wyzer-Lang/wyzer)
+  > The Wyzer Programming Language
 
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [dahlia/logtape](https://github.com/dahlia/logtape)
@@ -64,6 +80,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [professorpalmer/Puppetmaster](https://github.com/professorpalmer/Puppetmaster)
+  > Provider-neutral control plane for durable-state agent swarms: subprocess workers, leases, artifacts...
+
+### [pims](https://github.com/pims)
+- 🌟 👤 [pims](https://github.com/pims) Starred [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz)
+  > A radically modular HTML/CSS rendering engine
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [facebook/pyrefly](https://github.com/facebook/pyrefly)
@@ -79,7 +101,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 12:34:59 UTC*
+*Last updated at 2026-08-07 14:03:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
