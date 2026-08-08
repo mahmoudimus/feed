@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
   > The world's first Xbox One compatibility layer for Windows.
 
+### [TomasVotruba](https://github.com/TomasVotruba)
+- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
+  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
+
 ### [duk-37](https://github.com/duk-37)
 - 🌟 👤 [duk-37](https://github.com/duk-37) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
@@ -48,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 04:01:26 UTC*
+*Last updated at 2026-08-08 05:33:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
