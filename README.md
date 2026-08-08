@@ -73,6 +73,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [imrehg](https://github.com/imrehg) Forked [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) to [imrehg/qwen-code](https://github.com/imrehg/qwen-code)
   > An open-source AI coding agent that lives in your terminal.
 
+### [interference-security](https://github.com/interference-security)
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [ben-z/findphone](https://github.com/ben-z/findphone)
+  > Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My ...
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [gojasper/LBM](https://github.com/gojasper/LBM)
   > Latent Bridge Matching for Fast Image-to-Image Translation (ICCV 2025 Highlight)
@@ -136,7 +140,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 16:17:04 UTC*
+*Last updated at 2026-08-08 17:18:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
