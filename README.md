@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)
   > Kata Containers is an open source project and community working to build a standard implementation o...
 
+### [TomasVotruba](https://github.com/TomasVotruba)
+- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [vrana/adminer](https://github.com/vrana/adminer)
+  > Database management in a single PHP file
+
 ### [Trollicus](https://github.com/Trollicus)
 - 🌟 👤 [Trollicus](https://github.com/Trollicus) Starred [Washi1337/cilfi](https://github.com/Washi1337/cilfi)
   > Automated Function Identification in .NET binaries
@@ -30,6 +34,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [Penqle/tortoise-wow](https://github.com/Penqle/tortoise-wow)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [mserajnik/tortoise-deploy](https://github.com/mserajnik/tortoise-deploy)
   > A Docker setup for Tortoise-WoW with prebuilt images
+
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
 
 ### [artem](https://github.com/artem)
 - 🌟 👤 [artem](https://github.com/artem) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
@@ -79,6 +89,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [SVGKit/SVGKit](https://github.com/SVGKit/SVGKit)
   > Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)
 
+### [interference-security](https://github.com/interference-security)
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [cc158999/EnSign](https://github.com/cc158999/EnSign)
+  > 易能签 EnSIgn —— iPhone/iPad 上的一体化签名工具，支持一键自动更新、插件注入、软件源与文件管理，无需电脑与越狱 | All-in-one on-device iOS signin...
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [dhmbb2/InstaInpaint](https://github.com/dhmbb2/InstaInpaint)
   > [NeurIPS 2025] InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model
@@ -125,6 +139,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [ovidiuch](https://github.com/ovidiuch)
 - 🌟 👤 [ovidiuch](https://github.com/ovidiuch) Starred [th0br0/z2m_ubisys_ld6](https://github.com/th0br0/z2m_ubisys_ld6)
+- 🍴 👤 [ovidiuch](https://github.com/ovidiuch) Forked [th0br0/z2m_ubisys_ld6](https://github.com/th0br0/z2m_ubisys_ld6) to [ovidiuch/z2m_ubisys_ld6](https://github.com/ovidiuch/z2m_ubisys_ld6)
+- 🍴 👤 [ovidiuch](https://github.com/ovidiuch) Forked [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) to [ovidiuch/zigbee-herdsman-converters](https://github.com/ovidiuch/zigbee-herdsman-converters)
+  > Collection of device converters to be used with zigbee-herdsman
 
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz)
@@ -152,6 +169,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/struct-gap-helper](https://github.com/milankovo/struct-gap-helper)
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [facebook/pyrefly](https://github.com/facebook/pyrefly)
@@ -167,7 +185,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 20:26:33 UTC*
+*Last updated at 2026-08-07 23:22:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
