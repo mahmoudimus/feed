@@ -31,6 +31,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [aaif-goose/goose](https://github.com/aaif-goose/goose)
   > an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and ...
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook)
+  > Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP ...
+- 🍴 👤 [donvito](https://github.com/donvito) Forked [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) to [donvito/liquid4all-cookbook](https://github.com/donvito/liquid4all-cookbook)
+  > Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP ...
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [Liquid4All/leap-finetune](https://github.com/Liquid4All/leap-finetune)
+  > A full model customization repo for Liquid Foundation Models
+- 🍴 👤 [donvito](https://github.com/donvito) Forked [Liquid4All/leap-finetune](https://github.com/Liquid4All/leap-finetune) to [donvito/liquid4all-leap-finetune](https://github.com/donvito/liquid4all-leap-finetune)
+  > A full model customization repo for Liquid Foundation Models
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [Liquid4All/leap-sdk](https://github.com/Liquid4All/leap-sdk)
+  > LEAP Multiplatform SDK
+- 🍴 👤 [donvito](https://github.com/donvito) Forked [Liquid4All/leap-sdk](https://github.com/Liquid4All/leap-sdk) to [donvito/liquid4all-leap-sdk](https://github.com/donvito/liquid4all-leap-sdk)
+  > LEAP Multiplatform SDK
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [Liquid4All/LeapSDK-Examples](https://github.com/Liquid4All/LeapSDK-Examples)
+  > Example apps for LeapSDK
+- 🍴 👤 [donvito](https://github.com/donvito) Forked [Liquid4All/LeapSDK-Examples](https://github.com/Liquid4All/LeapSDK-Examples) to [donvito/liquid4all-LeapSDK-Examples](https://github.com/donvito/liquid4all-LeapSDK-Examples)
+  > Example apps for LeapSDK
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [Liquid4All/docs](https://github.com/Liquid4All/docs)
+  > Liquid documentation
+- 🍴 👤 [donvito](https://github.com/donvito) Forked [Liquid4All/docs](https://github.com/Liquid4All/docs) to [donvito/liquid4all-docs](https://github.com/donvito/liquid4all-docs)
+  > Liquid documentation
+
 ### [duk-37](https://github.com/duk-37)
 - 🌟 👤 [duk-37](https://github.com/duk-37) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
@@ -110,7 +132,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 13:36:22 UTC*
+*Last updated at 2026-08-08 14:20:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
