@@ -105,6 +105,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [Goldziher/scythe](https://github.com/Goldziher/scythe)
   > SQL as a first-class language: formatting, linting, security auditing and pre-commit hooks for your ...
 
+### [matthewfl](https://github.com/matthewfl)
+- 🌟 👤 [matthewfl](https://github.com/matthewfl) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
 ### [moriyoshi](https://github.com/moriyoshi)
 - 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [xgo-dev/llgo](https://github.com/xgo-dev/llgo)
   > A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python an...
@@ -130,9 +134,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [rand-tech](https://github.com/rand-tech) Forked [M1sT3R-K1Lr0Y/converged-infrastructure-forensics-model](https://github.com/M1sT3R-K1Lr0Y/converged-infrastructure-forensics-model) to [rand-tech/converged-infrastructure-forensics-model](https://github.com/rand-tech/converged-infrastructure-forensics-model)
   > The Converged Infrastructure Forensics Model (CIFM) is an investigative framework for reconstructing...
 
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [Verilean/hesper](https://github.com/Verilean/hesper)
+  > Verified GPU programming framework for Lean 4. Write type-safe WebGPU shaders with formal verificati...
+
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [nick-maderight/docx-view](https://github.com/nick-maderight/docx-view)
   > View .docx tracked changes and comments in Emacs, rendered as org-mode
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
 
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)
@@ -148,7 +160,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 18:19:11 UTC*
+*Last updated at 2026-08-08 19:19:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
