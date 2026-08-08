@@ -1,191 +1,35 @@
-# Daily GitHub Activity (2026-08-07)
+# Daily GitHub Activity (2026-08-08)
 
 <!-- nav -->
-[← 2026-08-06](archive/2026/08/06.md)
+[← 2026-08-07](archive/2026/08/07.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Clivern](https://github.com/Clivern)
-- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
-  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-
-### [NikolajSchlej](https://github.com/NikolajSchlej)
-- 🌟 👤 [NikolajSchlej](https://github.com/NikolajSchlej) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
-  > A very very very very very very very long interrupt
-
-### [P4nda0s](https://github.com/P4nda0s)
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
-  > Secure and fast microVMs for serverless computing.
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)
-  > Kata Containers is an open source project and community working to build a standard implementation o...
-
-### [TomasVotruba](https://github.com/TomasVotruba)
-- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [vrana/adminer](https://github.com/vrana/adminer)
-  > Database management in a single PHP file
-
-### [Trollicus](https://github.com/Trollicus)
-- 🌟 👤 [Trollicus](https://github.com/Trollicus) Starred [Washi1337/cilfi](https://github.com/Washi1337/cilfi)
-  > Automated Function Identification in .NET binaries
-
-### [Xe](https://github.com/Xe)
-- 🌟 👤 [Xe](https://github.com/Xe) Starred [Penqle/tortoise-wow](https://github.com/Penqle/tortoise-wow)
-- 🌟 👤 [Xe](https://github.com/Xe) Starred [mserajnik/tortoise-deploy](https://github.com/mserajnik/tortoise-deploy)
-  > A Docker setup for Tortoise-WoW with prebuilt images
-
-### [archercreat](https://github.com/archercreat)
-- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
-  > Racing to the bottom of CPU performance
-- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
-  > A very very very very very very very long interrupt
-
-### [artem](https://github.com/artem)
-- 🌟 👤 [artem](https://github.com/artem) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-  > A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-
-### [boyney123](https://github.com/boyney123)
-- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [itara-project/itara](https://github.com/itara-project/itara)
-  > Distributed system topology as a declared, verifiable, executable layer — change how your components...
-
-### [donvito](https://github.com/donvito)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval)
-  > An OBS plugin for removing background in portrait images (video), making it easy to replace the back...
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [pq-yang/MatAnyone2](https://github.com/pq-yang/MatAnyone2)
-  > [CVPR 2026 Highlight] MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)
-  > Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
-
-### [fcakyon](https://github.com/fcakyon)
-- 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [ultralytics/lite](https://github.com/ultralytics/lite) to [fcakyon/ultralytics-lite](https://github.com/fcakyon/ultralytics-lite)
-  > A fast, local workspace for Claude Code, Codex, Kimi Code, DeepSeek, and your shell.
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
-  > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you ...
-
-### [h2non](https://github.com/h2non)
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
-  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [dgunning/edgartools](https://github.com/dgunning/edgartools)
-  > Read and analyze SEC EDGAR filings in Python. 10-K, 8-K, XBRL financials, Form 3/4/5, 13F, ADV — cle...
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp)
-  > A SEC EDGAR MCP (Model Context Protocol) Server
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control)
-  > Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenC...
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
-  > Specification and documentation for Agent Skills
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-  > Skills for Real Engineers. Straight from my .agents directory.
-
-### [hermanbanken](https://github.com/hermanbanken)
-- 🌟 👤 [hermanbanken](https://github.com/hermanbanken) Starred [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS)
-  > ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both L...
-
-### [hsiafan](https://github.com/hsiafan)
-- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [swhitty/SwiftDraw](https://github.com/swhitty/SwiftDraw)
-  > Native SVG parser and renderer for SwiftUI, UIKit and AppKit, with tools for PNG, PDF, SF Symbols an...
-- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [inkscape/inkscape](https://github.com/inkscape/inkscape)
-  > Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw...
-- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [SVGKit/SVGKit](https://github.com/SVGKit/SVGKit)
-  > Display and interact with SVG Images on iOS / OS X, using native rendering (CoreAnimation)
-
-### [interference-security](https://github.com/interference-security)
-- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [cc158999/EnSign](https://github.com/cc158999/EnSign)
-  > 易能签 EnSIgn —— iPhone/iPad 上的一体化签名工具，支持一键自动更新、插件注入、软件源与文件管理，无需电脑与越狱 | All-in-one on-device iOS signin...
-
 ### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [dhmbb2/InstaInpaint](https://github.com/dhmbb2/InstaInpaint)
-  > [NeurIPS 2025] InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [inlineresearch/Inline-Studio](https://github.com/inlineresearch/Inline-Studio)
-  > AI filmmaking on a node canvas. Generate locally on your own GPU with the Inline Core engine (Z-Imag...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [d-liya/capybara_2d_engine](https://github.com/d-liya/capybara_2d_engine) to [johndpope/capybara_2d_engine](https://github.com/johndpope/capybara_2d_engine)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [LcsDeveloper/Imagine-Capybaras-Engine](https://github.com/LcsDeveloper/Imagine-Capybaras-Engine)
-  > Game engine 2D made with OpenGL
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [d-liya/capybara_2d_engine](https://github.com/d-liya/capybara_2d_engine)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [gojasper/LBM](https://github.com/gojasper/LBM)
+  > Latent Bridge Matching for Fast Image-to-Image Translation (ICCV 2025 Highlight)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Rex0191/POLARNet](https://github.com/Rex0191/POLARNet)
+  > Official repository for "POLAR: A Portrait OLAT Dataset and Generative Framework for Illumination-Aw...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Rex0191/POLARNet](https://github.com/Rex0191/POLARNet) to [johndpope/POLARNet](https://github.com/johndpope/POLARNet)
+  > Official repository for "POLAR: A Portrait OLAT Dataset and Generative Framework for Illumination-Aw...
 
-### [lgastako](https://github.com/lgastako)
-- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
-  > Nano vLLM
-- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [Wyzer-Lang/wyzer](https://github.com/Wyzer-Lang/wyzer)
-  > The Wyzer Programming Language
+### [justaugustus](https://github.com/justaugustus)
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra)
 
-### [llimllib](https://github.com/llimllib)
-- 🍴 👤 [llimllib](https://github.com/llimllib) Forked [Latias94/merman](https://github.com/Latias94/merman) to [llimllib/merman](https://github.com/llimllib/merman)
-  > Mermaid.js, but headless, in Rust.
-
-### [lovasoa](https://github.com/lovasoa)
-- 🌟 👤 [lovasoa](https://github.com/lovasoa) Starred [Wyzer-Lang/wyzer](https://github.com/Wyzer-Lang/wyzer)
-  > The Wyzer Programming Language
-
-### [myusuf3](https://github.com/myusuf3)
-- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [dahlia/logtape](https://github.com/dahlia/logtape)
-  > Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functi...
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [KyleAMathews/field-lab](https://github.com/KyleAMathews/field-lab)
-  > A field lab for thinking with AI
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
-  > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
-  > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [professorpalmer/Puppetmaster](https://github.com/professorpalmer/Puppetmaster)
-  > Provider-neutral control plane for durable-state agent swarms: subprocess workers, leases, artifacts...
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Snowflake-Labs/data-eng-bench](https://github.com/Snowflake-Labs/data-eng-bench)
-  > Data-engineering benchmark for coding agents (DuckDB + Snowflake dbt tasks). 
-
-### [ocornut](https://github.com/ocornut)
-- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [GitBruno/ImMidiMapper](https://github.com/GitBruno/ImMidiMapper)
-  > Map any Dear ImGui control to a MIDI CC
-
-### [ovidiuch](https://github.com/ovidiuch)
-- 🌟 👤 [ovidiuch](https://github.com/ovidiuch) Starred [th0br0/z2m_ubisys_ld6](https://github.com/th0br0/z2m_ubisys_ld6)
-- 🍴 👤 [ovidiuch](https://github.com/ovidiuch) Forked [th0br0/z2m_ubisys_ld6](https://github.com/th0br0/z2m_ubisys_ld6) to [ovidiuch/z2m_ubisys_ld6](https://github.com/ovidiuch/z2m_ubisys_ld6)
-- 🍴 👤 [ovidiuch](https://github.com/ovidiuch) Forked [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) to [ovidiuch/zigbee-herdsman-converters](https://github.com/ovidiuch/zigbee-herdsman-converters)
-  > Collection of device converters to be used with zigbee-herdsman
-
-### [pims](https://github.com/pims)
-- 🌟 👤 [pims](https://github.com/pims) Starred [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz)
-  > A radically modular HTML/CSS rendering engine
-
-### [randombit](https://github.com/randombit)
-- 🌟 👤 [randombit](https://github.com/randombit) Starred [tttuuu888/janet-botan](https://github.com/tttuuu888/janet-botan)
-  > Janet bindings to Botan
-
-### [sdras](https://github.com/sdras)
-- 🚀 👤 [sdras](https://github.com/sdras) Made [sdras/webmcp-server-interaction-demo](https://github.com/sdras/webmcp-server-interaction-demo) public
-  > Just a small example of WebMCP and MCP to kick tires, nothing special
-
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [clabby/tact](https://github.com/clabby/tact)
-  > A terminal interface for Nanocodex
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [undont/differ.nvim](https://github.com/undont/differ.nvim)
-  > unified diff viewing experience in Neovim; local diffs, merge conflicts, GitHub PR review
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [polyphilz/glance](https://github.com/polyphilz/glance)
-  > Review git diffs ~aesthetically~. A standalone TUI that serves as a drop-in replacement for VS Code/...
-
-### [spotlightishere](https://github.com/spotlightishere)
-- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [fzakaria/nes-nix](https://github.com/fzakaria/nes-nix)
-
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
-  > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/struct-gap-helper](https://github.com/milankovo/struct-gap-helper)
-
-### [yangdanny97](https://github.com/yangdanny97)
-- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [facebook/pyrefly](https://github.com/facebook/pyrefly)
-  > A fast type checker and language server for Python
-
-### [yegor256](https://github.com/yegor256)
-- 🌟 👤 [yegor256](https://github.com/yegor256) Starred [newink/ephpo](https://github.com/newink/ephpo)
-  > Ephemeral TCP ports for JUnit 5 tests, guaranteed not to collide across processes
+### [laurci](https://github.com/laurci)
+- 🌟 👤 [laurci](https://github.com/laurci) Starred [TedDriggs/darling](https://github.com/TedDriggs/darling)
+  > A Rust proc-macro attribute parser
 
 
 <!-- nav -->
-[← 2026-08-06](archive/2026/08/06.md)
+[← 2026-08-07](archive/2026/08/07.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-07 23:22:35 UTC*
+*Last updated at 2026-08-08 00:41:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
