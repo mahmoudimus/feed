@@ -71,6 +71,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > PON-BEAM is a complete re-architecture of the Erlang/OTP Virtual Machine (ERTS — Erlang Run-Time Sys...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tanishqkancharla/calldiff](https://github.com/tanishqkancharla/calldiff)
+  > Diff TypeScript call stacks across git commits
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nicobailon/pi-intercom](https://github.com/nicobailon/pi-intercom)
+  > Inter-session communication extension for pi coding agent
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [chddaniel/chatpack](https://github.com/chddaniel/chatpack)
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [nick-maderight/docx-view](https://github.com/nick-maderight/docx-view)
@@ -86,7 +91,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 10:18:40 UTC*
+*Last updated at 2026-08-08 11:17:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
