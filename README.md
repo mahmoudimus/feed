@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
   > The world's first Xbox One compatibility layer for Windows.
 
+### [John-K](https://github.com/John-K)
+- 🌟 👤 [John-K](https://github.com/John-K) Starred [tjameswilliams/ai-video-editor](https://github.com/tjameswilliams/ai-video-editor)
+  > An AI-powered non-linear video editor with multi-track timeline, intelligent editing assistant, and ...
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
 
@@ -64,6 +68,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [duk-37](https://github.com/duk-37)
 - 🌟 👤 [duk-37](https://github.com/duk-37) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
+
+### [evilsocket](https://github.com/evilsocket)
+- 🌟 👤 [evilsocket](https://github.com/evilsocket) Starred [gpwn-org/gpwn-toolkit](https://github.com/gpwn-org/gpwn-toolkit)
+  > A collection of libraries and a TUI to test fiber GPON deployments.
+- 🍴 👤 [evilsocket](https://github.com/evilsocket) Forked [gpwn-org/gpwn-toolkit](https://github.com/gpwn-org/gpwn-toolkit) to [evilsocket/gpwn-toolkit](https://github.com/evilsocket/gpwn-toolkit)
+  > A collection of libraries and a TUI to test fiber GPON deployments.
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [0xdeadbeefnetwork/freebsd-syzkaller-enhanced](https://github.com/0xdeadbeefnetwork/freebsd-syzkaller-enhanced) to [fengjixuchui/freebsd-syzkaller-enhanced](https://github.com/fengjixuchui/freebsd-syzkaller-enhanced)
@@ -153,6 +163,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [jorenham/pyryte](https://github.com/jorenham/pyryte)
   > 100% conformant type checker in 15 lines of code
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [JelleZijlstra/ultrafast](https://github.com/JelleZijlstra/ultrafast)
+  > An extremely fast Python type checker, written in Python. Maybe.
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [AlexWaygood/ultrafaster](https://github.com/AlexWaygood/ultrafaster)
+  > The world's fastest Python type checker, implemented in raw ARM64 assembly.
 
 
 <!-- nav -->
@@ -160,7 +174,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 20:14:32 UTC*
+*Last updated at 2026-08-08 21:17:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
