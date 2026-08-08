@@ -52,6 +52,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Liquid documentation
 - 🍴 👤 [donvito](https://github.com/donvito) Forked [Liquid4All/docs](https://github.com/Liquid4All/docs) to [donvito/liquid4all-docs](https://github.com/donvito/liquid4all-docs)
   > Liquid documentation
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [Liquid4All/encoder_eval](https://github.com/Liquid4All/encoder_eval)
+  > Reproducible encoder downstream fine-tune eval harness
+- 🍴 👤 [donvito](https://github.com/donvito) Forked [Liquid4All/encoder_eval](https://github.com/Liquid4All/encoder_eval) to [donvito/liquid4all-encoder_eval](https://github.com/donvito/liquid4all-encoder_eval)
+  > Reproducible encoder downstream fine-tune eval harness
 
 ### [duk-37](https://github.com/duk-37)
 - 🌟 👤 [duk-37](https://github.com/duk-37) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
@@ -132,7 +136,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 14:20:40 UTC*
+*Last updated at 2026-08-08 15:16:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
