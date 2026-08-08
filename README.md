@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Gcenx](https://github.com/Gcenx)
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
+  > The world's first Xbox One compatibility layer for Windows.
+
 ### [duk-37](https://github.com/duk-37)
 - 🌟 👤 [duk-37](https://github.com/duk-37) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
@@ -15,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [0xdeadbeefnetwork/freebsd-syzkaller-enhanced](https://github.com/0xdeadbeefnetwork/freebsd-syzkaller-enhanced) to [fengjixuchui/freebsd-syzkaller-enhanced](https://github.com/fengjixuchui/freebsd-syzkaller-enhanced)
   > Enhanced syzkaller descriptions for FreeBSD kernel fuzzing - PCI, CPU MSR, disk zones. +20 syscalls ...
+
+### [imrehg](https://github.com/imrehg)
+- 🍴 👤 [imrehg](https://github.com/imrehg) Forked [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) to [imrehg/qwen-code](https://github.com/imrehg/qwen-code)
+  > An open-source AI coding agent that lives in your terminal.
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [gojasper/LBM](https://github.com/gojasper/LBM)
@@ -40,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 02:47:16 UTC*
+*Last updated at 2026-08-08 04:01:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
