@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
   > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
 
+### [cra0](https://github.com/cra0)
+- 🌟 👤 [cra0](https://github.com/cra0) Starred [cra0/osmo-nidc-bladerf-xa4](https://github.com/cra0/osmo-nidc-bladerf-xa4)
+  > Working osmocom network in docker with BladeRF 2.0 micro XA4
+
 ### [duk-37](https://github.com/duk-37)
 - 🌟 👤 [duk-37](https://github.com/duk-37) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
@@ -50,13 +54,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [xgo-dev/llgo](https://github.com/xgo-dev/llgo)
   > A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python an...
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [moonbit-community/pty](https://github.com/moonbit-community/pty)
+  > Pseudo Terminal
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [matheuscamarques/pon_beam](https://github.com/matheuscamarques/pon_beam)
+  > PON-BEAM is a complete re-architecture of the Erlang/OTP Virtual Machine (ERTS — Erlang Run-Time Sys...
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)
+  > Feature rich application Launcher for Linux
+
 
 <!-- nav -->
 [← 2026-08-07](archive/2026/08/07.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 06:29:30 UTC*
+*Last updated at 2026-08-08 07:38:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
