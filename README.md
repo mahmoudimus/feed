@@ -8,6 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt)
+- 🍴 👤 [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt) Forked [charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark) to [Franck-Dernoncourt/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark](https://github.com/Franck-Dernoncourt/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)
+
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
   > The world's first Xbox One compatibility layer for Windows.
@@ -122,6 +125,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [moriyoshi](https://github.com/moriyoshi)
 - 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [xgo-dev/llgo](https://github.com/xgo-dev/llgo)
   > A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python an...
+- 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [jprendes/zygote](https://github.com/jprendes/zygote)
+  > A rust library to create zygote processes
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [moonbit-community/pty](https://github.com/moonbit-community/pty)
@@ -174,7 +179,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 21:17:10 UTC*
+*Last updated at 2026-08-08 22:14:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
