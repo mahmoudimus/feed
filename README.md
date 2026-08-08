@@ -46,13 +46,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [TedDriggs/darling](https://github.com/TedDriggs/darling)
   > A Rust proc-macro attribute parser
 
+### [moriyoshi](https://github.com/moriyoshi)
+- 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [xgo-dev/llgo](https://github.com/xgo-dev/llgo)
+  > A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python an...
+
 
 <!-- nav -->
 [← 2026-08-07](archive/2026/08/07.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 05:33:23 UTC*
+*Last updated at 2026-08-08 06:29:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
