@@ -23,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [alex](https://github.com/alex) Forked [zip-rs/zip2](https://github.com/zip-rs/zip2) to [alex/zip2](https://github.com/alex/zip2)
   > Zip implementation in Rust
 
+### [andyleejordan](https://github.com/andyleejordan)
+- 🌟 👤 [andyleejordan](https://github.com/andyleejordan) Starred [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
+  > DNS-Blocklists: For a better internet - keep the internet clean!
+
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [cra0/osmo-nidc-bladerf-xa4](https://github.com/cra0/osmo-nidc-bladerf-xa4)
   > Working osmocom network in docker with BladeRF 2.0 micro XA4
@@ -122,6 +126,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [travisgoodspeed/maskromtool](https://github.com/travisgoodspeed/maskromtool)
   > A CAD tool for extracting bits from Mask ROM photographs.
 
+### [rand-tech](https://github.com/rand-tech)
+- 🍴 👤 [rand-tech](https://github.com/rand-tech) Forked [M1sT3R-K1Lr0Y/converged-infrastructure-forensics-model](https://github.com/M1sT3R-K1Lr0Y/converged-infrastructure-forensics-model) to [rand-tech/converged-infrastructure-forensics-model](https://github.com/rand-tech/converged-infrastructure-forensics-model)
+  > The Converged Infrastructure Forensics Model (CIFM) is an investigative framework for reconstructing...
+
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [nick-maderight/docx-view](https://github.com/nick-maderight/docx-view)
   > View .docx tracked changes and comments in Emacs, rendered as org-mode
@@ -140,7 +148,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 17:18:46 UTC*
+*Last updated at 2026-08-08 18:19:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
