@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [duk-37](https://github.com/duk-37)
+- 🌟 👤 [duk-37](https://github.com/duk-37) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [0xdeadbeefnetwork/freebsd-syzkaller-enhanced](https://github.com/0xdeadbeefnetwork/freebsd-syzkaller-enhanced) to [fengjixuchui/freebsd-syzkaller-enhanced](https://github.com/fengjixuchui/freebsd-syzkaller-enhanced)
+  > Enhanced syzkaller descriptions for FreeBSD kernel fuzzing - PCI, CPU MSR, disk zones. +20 syscalls ...
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [gojasper/LBM](https://github.com/gojasper/LBM)
   > Latent Bridge Matching for Fast Image-to-Image Translation (ICCV 2025 Highlight)
@@ -15,9 +23,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Official repository for "POLAR: A Portrait OLAT Dataset and Generative Framework for Illumination-Aw...
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Rex0191/POLARNet](https://github.com/Rex0191/POLARNet) to [johndpope/POLARNet](https://github.com/johndpope/POLARNet)
   > Official repository for "POLAR: A Portrait OLAT Dataset and Generative Framework for Illumination-Aw...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [tonyd2wild/minimax-h3-local](https://github.com/tonyd2wild/minimax-h3-local)
+  > Run MiniMax H3 locally: a full 15s clip with audio on a single RTX 3090. The fix is one flag.
 
 ### [justaugustus](https://github.com/justaugustus)
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra)
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions)
 
 ### [laurci](https://github.com/laurci)
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [TedDriggs/darling](https://github.com/TedDriggs/darling)
@@ -29,7 +40,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 00:41:05 UTC*
+*Last updated at 2026-08-08 02:47:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
