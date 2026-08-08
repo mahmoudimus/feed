@@ -12,9 +12,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
   > The world's first Xbox One compatibility layer for Windows.
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
+
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
   > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
+
+### [alex](https://github.com/alex)
+- 🍴 👤 [alex](https://github.com/alex) Forked [zip-rs/zip2](https://github.com/zip-rs/zip2) to [alex/zip2](https://github.com/alex/zip2)
+  > Zip implementation in Rust
 
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [cra0/osmo-nidc-bladerf-xa4](https://github.com/cra0/osmo-nidc-bladerf-xa4)
@@ -82,6 +89,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [chddaniel/chatpack](https://github.com/chddaniel/chatpack)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
   > Pi extension for async subagent delegation with truncation, artifacts, and session sharing
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [travisgoodspeed/maskromtool](https://github.com/travisgoodspeed/maskromtool)
+  > A CAD tool for extracting bits from Mask ROM photographs.
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [nick-maderight/docx-view](https://github.com/nick-maderight/docx-view)
@@ -101,7 +110,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 12:20:50 UTC*
+*Last updated at 2026-08-08 13:36:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
