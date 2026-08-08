@@ -50,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [TedDriggs/darling](https://github.com/TedDriggs/darling)
   > A Rust proc-macro attribute parser
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [Goldziher/scythe](https://github.com/Goldziher/scythe)
+  > SQL as a first-class language: formatting, linting, security auditing and pre-commit hooks for your ...
+
 ### [moriyoshi](https://github.com/moriyoshi)
 - 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [xgo-dev/llgo](https://github.com/xgo-dev/llgo)
   > A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python an...
@@ -59,6 +63,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Pseudo Terminal
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [matheuscamarques/pon_beam](https://github.com/matheuscamarques/pon_beam)
   > PON-BEAM is a complete re-architecture of the Erlang/OTP Virtual Machine (ERTS — Erlang Run-Time Sys...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
 
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)
@@ -70,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 07:38:28 UTC*
+*Last updated at 2026-08-08 08:24:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
