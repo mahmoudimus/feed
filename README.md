@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [0xdeadbeefnetwork/freebsd-syzkaller-enhanced](https://github.com/0xdeadbeefnetwork/freebsd-syzkaller-enhanced) to [fengjixuchui/freebsd-syzkaller-enhanced](https://github.com/fengjixuchui/freebsd-syzkaller-enhanced)
   > Enhanced syzkaller descriptions for FreeBSD kernel fuzzing - PCI, CPU MSR, disk zones. +20 syscalls ...
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [vercel/eve](https://github.com/vercel/eve)
+  > The Open Framework for Building Agents
+
 ### [imrehg](https://github.com/imrehg)
 - 🍴 👤 [imrehg](https://github.com/imrehg) Forked [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) to [imrehg/qwen-code](https://github.com/imrehg/qwen-code)
   > An open-source AI coding agent that lives in your terminal.
@@ -41,6 +45,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Official repository for "POLAR: A Portrait OLAT Dataset and Generative Framework for Illumination-Aw...
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [tonyd2wild/minimax-h3-local](https://github.com/tonyd2wild/minimax-h3-local)
   > Run MiniMax H3 locally: a full 15s clip with audio on a single RTX 3090. The fix is one flag.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [shootthesound/Fizgig](https://github.com/shootthesound/Fizgig)
+  > Krea 2 & Klein 9B LoRA - LoKR Studio — train, profile, repair, and extract Krea 2 & Flux 2 Klein 9B ...
 
 ### [justaugustus](https://github.com/justaugustus)
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra)
@@ -66,6 +72,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
 
+### [rougier](https://github.com/rougier)
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [nick-maderight/docx-view](https://github.com/nick-maderight/docx-view)
+  > View .docx tracked changes and comments in Emacs, rendered as org-mode
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)
   > Feature rich application Launcher for Linux
@@ -76,7 +86,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-08 09:24:48 UTC*
+*Last updated at 2026-08-08 10:18:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
