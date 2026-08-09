@@ -60,6 +60,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [squint-cljs/choq](https://github.com/squint-cljs/choq)
   > Choq: Cherry on QuickJS
 
+### [kevaundray](https://github.com/kevaundray)
+- 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [frisitano/evm-sail](https://github.com/frisitano/evm-sail)
+  > A formal, executable specification of the Ethereum Virtual Machine, written in Sail.
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [nsrht/time-travel-sqlite-debugger](https://github.com/nsrht/time-travel-sqlite-debugger)
   > ⏱️ A zero-dependency, ultra-lightweight database time machine for SQLite. Monitors changes in real-t...
@@ -105,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 17:19:35 UTC*
+*Last updated at 2026-08-09 18:20:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
