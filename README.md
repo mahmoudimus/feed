@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt)
+- 🌟 👤 [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+  > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+
 ### [anzz1](https://github.com/anzz1)
 - 🍴 👤 [anzz1](https://github.com/anzz1) Forked [Kristall-epic/mapi-level-template](https://github.com/Kristall-epic/mapi-level-template) to [anzz1/mapi-level-template](https://github.com/anzz1/mapi-level-template)
   > Template mod for MAPi, CoopDX hangout mod API
@@ -48,13 +52,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mimoo](https://github.com/mimoo)
 - 🍴 👤 [mimoo](https://github.com/mimoo) Forked [pashov/ai-web3-security](https://github.com/pashov/ai-web3-security) to [mimoo/ai-web3-security](https://github.com/mimoo/ai-web3-security)
 
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) to [mrexodia/ida_buddy](https://github.com/mrexodia/ida_buddy)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [mrexodia/oh-my-pi](https://github.com/mrexodia/oh-my-pi)
-  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llnl/OGhidra](https://github.com/llnl/OGhidra)
-  > OGhidra bridges Large Language Models (LLMs) via Ollama with the Ghidra reverse engineering platform...
-
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel)
   > SWI-Prolog Main development repository
@@ -75,7 +72,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 13:39:32 UTC*
+*Last updated at 2026-08-09 14:22:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
