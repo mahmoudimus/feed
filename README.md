@@ -30,13 +30,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [mirror/make](https://github.com/mirror/make)
   > git://git.savannah.gnu.org/make
 
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [cloudflare/boring](https://github.com/cloudflare/boring)
+  > BoringSSL bindings for the Rust programming language.
+
 
 <!-- nav -->
 [← 2026-08-08](archive/2026/08/08.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 05:38:52 UTC*
+*Last updated at 2026-08-09 06:34:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
