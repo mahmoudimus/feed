@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [anzz1](https://github.com/anzz1) Forked [Kristall-epic/mapi-level-template](https://github.com/Kristall-epic/mapi-level-template) to [anzz1/mapi-level-template](https://github.com/anzz1/mapi-level-template)
   > Template mod for MAPi, CoopDX hangout mod API
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [SamuelTulach/HookGuard](https://github.com/SamuelTulach/HookGuard)
+  > Hooking Windows' exception dispatcher to protect process's PML4
+
 ### [colby57](https://github.com/colby57)
 - 🌟 👤 [colby57](https://github.com/colby57) Starred [eversinc33/1.6-C2](https://github.com/eversinc33/1.6-C2)
   > Using the Counter Strike 1.6 RCON protocol as a C2 Channel. 
@@ -38,9 +42,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm)
   > muvm - run programs from your system in a microVM
 
+### [ericflo](https://github.com/ericflo)
+- 🚀 👤 [ericflo](https://github.com/ericflo) Made [ericflo/openstreamalert](https://github.com/ericflo/openstreamalert) public
+  > Beautiful, private Twitch chat overlays for OBS — open source and self-hostable.
+
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [bxuserx/skua](https://github.com/bxuserx/skua)
   > Agentic Development Environment - local - in browser
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox)
+  > Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly ju...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
+  > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
 
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [Mihonarium/StreamToSpeaker](https://github.com/Mihonarium/StreamToSpeaker)
@@ -121,6 +135,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mark-watson/racket-coding-agent](https://github.com/mark-watson/racket-coding-agent)
   >  racket-coding-agent — AI pair programmer in your terminal, written in Racket — a multi-turn agentic...
 
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [15r10nk/matchify](https://github.com/15r10nk/matchify)
+  > converts if-else code to match statements
+
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [cloudflare/boring](https://github.com/cloudflare/boring)
   > BoringSSL bindings for the Rust programming language.
@@ -141,13 +159,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
   > A Patch for GIMP 3+ for Photoshop Users
 
+### [yangdanny97](https://github.com/yangdanny97)
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [emmatyping/python-typecheckers](https://github.com/emmatyping/python-typecheckers)
+  > A list of Python type checkers (PEP 484 compliant and not, static and runtime/dynamic)
+
 
 <!-- nav -->
 [← 2026-08-08](archive/2026/08/08.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 21:19:20 UTC*
+*Last updated at 2026-08-09 22:16:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
