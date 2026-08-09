@@ -72,9 +72,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [squint-cljs/choq](https://github.com/squint-cljs/choq)
   > Choq: Cherry on QuickJS
 
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [digitable-lol/chat](https://github.com/digitable-lol/chat)
+  > Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [ChristopherConnock/Sphere-Light-Render-Sundial-ComfyUI](https://github.com/ChristopherConnock/Sphere-Light-Render-Sundial-ComfyUI)
   > Widget to tell Flux 2 Klein 9B where the sun light comes from. To be used with Sun_direction_Lora fo...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [inlineresearch/Inline-Studio](https://github.com/inlineresearch/Inline-Studio) to [johndpope/Inline-Studio](https://github.com/johndpope/Inline-Studio)
+  > AI filmmaking on a node canvas. Generate locally on your own GPU with the Inline Core engine (Z-Imag...
 
 ### [kevaundray](https://github.com/kevaundray)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [frisitano/evm-sail](https://github.com/frisitano/evm-sail)
@@ -112,6 +118,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Next Generation Spectral Path Tracing Engine
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff)
   > Local CI. Sign off on your own work.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mark-watson/racket-coding-agent](https://github.com/mark-watson/racket-coding-agent)
+  >  racket-coding-agent — AI pair programmer in your terminal, written in Racket — a multi-turn agentic...
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [cloudflare/boring](https://github.com/cloudflare/boring)
@@ -139,7 +147,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 20:17:20 UTC*
+*Last updated at 2026-08-09 21:19:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
