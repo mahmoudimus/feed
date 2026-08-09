@@ -16,9 +16,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [bxuserx/skua](https://github.com/bxuserx/skua)
   > Agentic Development Environment - local - in browser
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [Mihonarium/StreamToSpeaker](https://github.com/Mihonarium/StreamToSpeaker)
+  > Virtual audio output for Windows that streams your PC's sound to AirPlay, Sonos, and UPnP speakers.
+
 ### [idavehuwei](https://github.com/idavehuwei)
 - 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [htdt/godogen](https://github.com/htdt/godogen) to [idavehuwei/godogen](https://github.com/idavehuwei/godogen)
   > Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex
+
+### [macroing](https://github.com/macroing)
+- 🌟 👤 [macroing](https://github.com/macroing) Starred [macroing/Ophixor](https://github.com/macroing/Ophixor)
+  > A Next.js-platform to create dynamic web applications visually
 
 ### [mahmoud](https://github.com/mahmoud)
 - 🍴 👤 [mahmoud](https://github.com/mahmoud) Forked [kurtbrose/objex](https://github.com/kurtbrose/objex) to [mahmoud/objex](https://github.com/mahmoud/objex)
@@ -51,7 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 09:26:24 UTC*
+*Last updated at 2026-08-09 10:20:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
