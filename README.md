@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
   > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
+### [JaMe76](https://github.com/JaMe76)
+- 🌟 👤 [JaMe76](https://github.com/JaMe76) Starred [temporal-community/temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent)
+  > This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
+
 ### [John-K](https://github.com/John-K)
 - 🌟 👤 [John-K](https://github.com/John-K) Starred [seesee75-commits/ComfyUI-MiniMaxH3-Director](https://github.com/seesee75-commits/ComfyUI-MiniMaxH3-Director)
   > A timeline editor for MiniMax H3 inside ComfyUI - storyboard prompts, first/last keyframes, image/vi...
@@ -60,9 +64,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [htdt/godogen](https://github.com/htdt/godogen) to [idavehuwei/godogen](https://github.com/idavehuwei/godogen)
   > Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex
 
+### [inconshreveable](https://github.com/inconshreveable)
+- 🌟 👤 [inconshreveable](https://github.com/inconshreveable) Starred [ngrok/mantle](https://github.com/ngrok/mantle)
+  > @ngrok/mantle ui component library
+
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [squint-cljs/choq](https://github.com/squint-cljs/choq)
   > Choq: Cherry on QuickJS
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [ChristopherConnock/Sphere-Light-Render-Sundial-ComfyUI](https://github.com/ChristopherConnock/Sphere-Light-Render-Sundial-ComfyUI)
+  > Widget to tell Flux 2 Klein 9B where the sun light comes from. To be used with Sun_direction_Lora fo...
 
 ### [kevaundray](https://github.com/kevaundray)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [frisitano/evm-sail](https://github.com/frisitano/evm-sail)
@@ -98,6 +110,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > High Performance Multithreading API
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [devsw-prayas/SpectraRenderer](https://github.com/devsw-prayas/SpectraRenderer)
   > Next Generation Spectral Path Tracing Engine
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff)
+  > Local CI. Sign off on your own work.
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [cloudflare/boring](https://github.com/cloudflare/boring)
@@ -125,7 +139,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 19:22:56 UTC*
+*Last updated at 2026-08-09 20:17:20 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
