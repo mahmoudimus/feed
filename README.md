@@ -27,6 +27,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [Mihonarium/StreamToSpeaker](https://github.com/Mihonarium/StreamToSpeaker)
   > Virtual audio output for Windows that streams your PC's sound to AirPlay, Sonos, and UPnP speakers.
+- 🌟 👤 [frol](https://github.com/frol) Starred [usetrmnl/trmnl-nook-simple-touch](https://github.com/usetrmnl/trmnl-nook-simple-touch)
+  > TRMNL Client for Nook Simple Touch
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [woodward/color_palette](https://github.com/woodward/color_palette)
@@ -37,6 +39,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [idavehuwei](https://github.com/idavehuwei)
 - 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [htdt/godogen](https://github.com/htdt/godogen) to [idavehuwei/godogen](https://github.com/idavehuwei/godogen)
   > Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex
+
+### [ingydotnet](https://github.com/ingydotnet)
+- 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [squint-cljs/choq](https://github.com/squint-cljs/choq)
+  > Choq: Cherry on QuickJS
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [nsrht/time-travel-sqlite-debugger](https://github.com/nsrht/time-travel-sqlite-debugger)
@@ -61,6 +67,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > SWI-Prolog Main development repository
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [seL4/isabelle](https://github.com/seL4/isabelle)
   > git mirror of the Munich isabelle hg repository 
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [moonbitlang/kimicc](https://github.com/moonbitlang/kimicc)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [redis/agent-filesystem](https://github.com/redis/agent-filesystem)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [google/tpu-raiden](https://github.com/google/tpu-raiden)
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [cloudflare/boring](https://github.com/cloudflare/boring)
@@ -76,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 15:18:41 UTC*
+*Last updated at 2026-08-09 16:19:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
