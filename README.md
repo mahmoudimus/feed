@@ -52,6 +52,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mimoo](https://github.com/mimoo)
 - 🍴 👤 [mimoo](https://github.com/mimoo) Forked [pashov/ai-web3-security](https://github.com/pashov/ai-web3-security) to [mimoo/ai-web3-security](https://github.com/mimoo/ai-web3-security)
 
+### [mzpqnxow](https://github.com/mzpqnxow)
+- 🌟 👤 [mzpqnxow](https://github.com/mzpqnxow) Starred [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+  > A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable teleme...
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel)
   > SWI-Prolog Main development repository
@@ -72,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 14:22:30 UTC*
+*Last updated at 2026-08-09 15:18:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
