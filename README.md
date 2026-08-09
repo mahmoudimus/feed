@@ -19,6 +19,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mahmoud](https://github.com/mahmoud)
 - 🍴 👤 [mahmoud](https://github.com/mahmoud) Forked [kurtbrose/objex](https://github.com/kurtbrose/objex) to [mahmoud/objex](https://github.com/mahmoud/objex)
 
+### [mimoo](https://github.com/mimoo)
+- 🍴 👤 [mimoo](https://github.com/mimoo) Forked [pashov/ai-web3-security](https://github.com/pashov/ai-web3-security) to [mimoo/ai-web3-security](https://github.com/mimoo/ai-web3-security)
+
 ### [samuelcolvin](https://github.com/samuelcolvin)
 - 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [mirror/make](https://github.com/mirror/make)
   > git://git.savannah.gnu.org/make
@@ -29,7 +32,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 02:54:44 UTC*
+*Last updated at 2026-08-09 04:07:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
