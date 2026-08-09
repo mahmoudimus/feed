@@ -24,6 +24,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [frol](https://github.com/frol) Starred [Mihonarium/StreamToSpeaker](https://github.com/Mihonarium/StreamToSpeaker)
   > Virtual audio output for Windows that streams your PC's sound to AirPlay, Sonos, and UPnP speakers.
 
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [woodward/color_palette](https://github.com/woodward/color_palette)
+  > Named colors for the ANSI color code sequences in Elixir
+- 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [woodward/color_palette](https://github.com/woodward/color_palette) to [gabrielfalcao/color_palette](https://github.com/gabrielfalcao/color_palette)
+  > Named colors for the ANSI color code sequences in Elixir
+
 ### [idavehuwei](https://github.com/idavehuwei)
 - 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [htdt/godogen](https://github.com/htdt/godogen) to [idavehuwei/godogen](https://github.com/idavehuwei/godogen)
   > Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex
@@ -44,16 +50,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) to [mrexodia/ida_buddy](https://github.com/mrexodia/ida_buddy)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [mrexodia/oh-my-pi](https://github.com/mrexodia/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel)
   > SWI-Prolog Main development repository
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [seL4/isabelle](https://github.com/seL4/isabelle)
   > git mirror of the Munich isabelle hg repository 
-
-### [samuelcolvin](https://github.com/samuelcolvin)
-- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [mirror/make](https://github.com/mirror/make)
-  > git://git.savannah.gnu.org/make
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [cloudflare/boring](https://github.com/cloudflare/boring)
@@ -69,7 +73,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 11:18:13 UTC*
+*Last updated at 2026-08-09 12:22:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
