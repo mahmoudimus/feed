@@ -74,9 +74,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [guilsa](https://github.com/guilsa) Starred [epheterson/Zimi](https://github.com/epheterson/Zimi)
   > The offline internet — searchable, browsable, and self-updating. A modern server for ZIM files with ...
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+  > Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source ...
+
 ### [idavehuwei](https://github.com/idavehuwei)
 - 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [htdt/godogen](https://github.com/htdt/godogen) to [idavehuwei/godogen](https://github.com/idavehuwei/godogen)
   > Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex
+
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
 
 ### [inconshreveable](https://github.com/inconshreveable)
 - 🌟 👤 [inconshreveable](https://github.com/inconshreveable) Starred [ngrok/mantle](https://github.com/ngrok/mantle)
@@ -169,7 +177,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 22:16:38 UTC*
+*Last updated at 2026-08-09 23:17:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
