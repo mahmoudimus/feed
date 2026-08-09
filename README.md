@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [anzz1](https://github.com/anzz1) Forked [Kristall-epic/mapi-level-template](https://github.com/Kristall-epic/mapi-level-template) to [anzz1/mapi-level-template](https://github.com/anzz1/mapi-level-template)
   > Template mod for MAPi, CoopDX hangout mod API
 
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
+  > LLM Frontend for Power Users.
+
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [bxuserx/skua](https://github.com/bxuserx/skua)
   > Agentic Development Environment - local - in browser
@@ -23,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [idavehuwei](https://github.com/idavehuwei)
 - 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [htdt/godogen](https://github.com/htdt/godogen) to [idavehuwei/godogen](https://github.com/idavehuwei/godogen)
   > Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [nsrht/time-travel-sqlite-debugger](https://github.com/nsrht/time-travel-sqlite-debugger)
+  > ⏱️ A zero-dependency, ultra-lightweight database time machine for SQLite. Monitors changes in real-t...
 
 ### [macroing](https://github.com/macroing)
 - 🌟 👤 [macroing](https://github.com/macroing) Starred [macroing/Ophixor](https://github.com/macroing/Ophixor)
@@ -40,6 +48,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel)
   > SWI-Prolog Main development repository
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [seL4/isabelle](https://github.com/seL4/isabelle)
+  > git mirror of the Munich isabelle hg repository 
 
 ### [samuelcolvin](https://github.com/samuelcolvin)
 - 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [mirror/make](https://github.com/mirror/make)
@@ -59,7 +69,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 10:20:20 UTC*
+*Last updated at 2026-08-09 11:18:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
