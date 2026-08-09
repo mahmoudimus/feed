@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [anzz1](https://github.com/anzz1) Forked [Kristall-epic/mapi-level-template](https://github.com/Kristall-epic/mapi-level-template) to [anzz1/mapi-level-template](https://github.com/anzz1/mapi-level-template)
   > Template mod for MAPi, CoopDX hangout mod API
 
+### [colby57](https://github.com/colby57)
+- 🌟 👤 [colby57](https://github.com/colby57) Starred [eversinc33/1.6-C2](https://github.com/eversinc33/1.6-C2)
+  > Using the Counter Strike 1.6 RCON protocol as a C2 Channel. 
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)
   > LLM Frontend for Power Users.
@@ -90,10 +94,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [moonbitlang/kimicc](https://github.com/moonbitlang/kimicc)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [redis/agent-filesystem](https://github.com/redis/agent-filesystem)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [google/tpu-raiden](https://github.com/google/tpu-raiden)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [devsw-prayas/Corium](https://github.com/devsw-prayas/Corium)
+  > High Performance Multithreading API
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [devsw-prayas/SpectraRenderer](https://github.com/devsw-prayas/SpectraRenderer)
+  > Next Generation Spectral Path Tracing Engine
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [cloudflare/boring](https://github.com/cloudflare/boring)
   > BoringSSL bindings for the Rust programming language.
+
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [JanluOfficial/j-osk](https://github.com/JanluOfficial/j-osk)
+  > A fancier on-screen keyboard for Wayland Compositors using C++, GTK4 and Gtk4LayerShell
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [OpenEMS/openems](https://github.com/OpenEMS/openems)
@@ -102,6 +114,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
   > Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [psyclyx/fix](https://github.com/psyclyx/fix)
+  > Fast nIX language evaluator
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+  > A Patch for GIMP 3+ for Photoshop Users
 
 
 <!-- nav -->
@@ -109,7 +125,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-09 18:20:58 UTC*
+*Last updated at 2026-08-09 19:22:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
