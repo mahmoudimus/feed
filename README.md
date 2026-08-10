@@ -42,6 +42,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [shootthesound/Fizgig](https://github.com/shootthesound/Fizgig) to [johndpope/Fizgig](https://github.com/johndpope/Fizgig)
   > Krea 2 & Klein 9B LoRA - LoKR Studio — train, profile, repair, and extract Krea 2 & Flux 2 Klein 9B ...
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [Embedded-Focus/agent-circus](https://github.com/Embedded-Focus/agent-circus)
+  > Run AI coding agents in sandboxed containers communicate via ACP
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [Gerharddc/Litterbox](https://github.com/Gerharddc/Litterbox)
+  > Somewhat Isolated Development Environments
+
 ### [mbrt](https://github.com/mbrt)
 - 🌟 👤 [mbrt](https://github.com/mbrt) Starred [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2)
   > An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the cha...
@@ -63,6 +69,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse 
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [flox/flox-skills](https://github.com/flox/flox-skills)
   > Agentic Flox Skills
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tsoding/nob.h](https://github.com/tsoding/nob.h)
+  > Header only library for writing build recipes in C. 
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [DZakh/sury](https://github.com/DZakh/sury)
+  > 🧬 The fastest schema with next-gen DX
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [KriyosArcane/TrustMeBro](https://github.com/KriyosArcane/TrustMeBro)
@@ -88,7 +98,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 11:39:40 UTC*
+*Last updated at 2026-08-10 12:38:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
