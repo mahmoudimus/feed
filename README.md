@@ -15,9 +15,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [TomasVotruba](https://github.com/TomasVotruba) Forked [palantirnet/drupal-rector](https://github.com/palantirnet/drupal-rector) to [TomasVotruba/drupal-rector](https://github.com/TomasVotruba/drupal-rector)
   > A developer utility for automatically upgrading deprecated code for Drupal 9
 
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [OpenEMS/openems](https://github.com/OpenEMS/openems)
+  > OpenEMS - Open Source Energy Management System
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) to [fengjixuchui/asm-hall-of-shame](https://github.com/fengjixuchui/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
+
+### [ftomassetti](https://github.com/ftomassetti)
+- 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [ftomassetti/worldengine-rust](https://github.com/ftomassetti/worldengine-rust)
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete)
@@ -55,6 +62,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge) to [mrexodia/ida-bridge](https://github.com/mrexodia/ida-bridge)
+  > Bridge between agents and IDA Pro.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [trueagi-io/PeTTa](https://github.com/trueagi-io/PeTTa)
@@ -77,6 +86,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [KriyosArcane/TrustMeBro](https://github.com/KriyosArcane/TrustMeBro)
   > Authenticode signature manipulation toolkit for Red Team operations and security research. Covers si...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [martinus/unordered_dense](https://github.com/martinus/unordered_dense)
+  > A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
@@ -98,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 12:38:50 UTC*
+*Last updated at 2026-08-10 14:09:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
