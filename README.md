@@ -56,6 +56,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Parser for Attempto Controlled English (ACE)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [chdb-io/chdb](https://github.com/chdb-io/chdb)
   > chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse 
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [chdb-io/chdb-core](https://github.com/chdb-io/chdb-core)
+  > chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse 
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [KriyosArcane/TrustMeBro](https://github.com/KriyosArcane/TrustMeBro)
@@ -81,7 +83,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 09:04:00 UTC*
+*Last updated at 2026-08-10 10:54:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
