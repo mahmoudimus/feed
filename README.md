@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) to [fengjixuchui/asm-hall-of-shame](https://github.com/fengjixuchui/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [thomasxm/BOAZ_beta](https://github.com/thomasxm/BOAZ_beta) to [fengjixuchui/BOAZ_beta](https://github.com/fengjixuchui/BOAZ_beta)
+  > Multilayered AV/EDR Evasion Framework (no longer actively maintained)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [DosX-dev/obfus.h](https://github.com/DosX-dev/obfus.h) to [fengjixuchui/obfus.h](https://github.com/fengjixuchui/obfus.h)
+  > Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 
 ### [ftomassetti](https://github.com/ftomassetti)
 - 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [ftomassetti/worldengine-rust](https://github.com/ftomassetti/worldengine-rust)
@@ -83,11 +87,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [DZakh/sury](https://github.com/DZakh/sury)
   > 🧬 The fastest schema with next-gen DX
 
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [sourabh-khot65/roamr](https://github.com/sourabh-khot65/roamr)
+  > Find the best WiFi network for where you are — scores every saved network for real-world quality, no...
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [debridmediamanager/zurg-public](https://github.com/debridmediamanager/zurg-public)
+  > A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount y...
+
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [KriyosArcane/TrustMeBro](https://github.com/KriyosArcane/TrustMeBro)
   > Authenticode signature manipulation toolkit for Red Team operations and security research. Covers si...
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [martinus/unordered_dense](https://github.com/martinus/unordered_dense)
   > A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [e-fin/PyPsPipeJack](https://github.com/e-fin/PyPsPipeJack)
+  > Python implementation of OpenPsPipeJack
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen)
+  > Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia...
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
@@ -95,9 +111,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse)
   > Sandbox your local AI agents so they can read/write only what they need
 
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [xusheng6/ucpd_analysis](https://github.com/xusheng6/ucpd_analysis)
+  > My research into the Windows UCPD
+
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [RohanAdwankar/ws-term](https://github.com/RohanAdwankar/ws-term)
   > Terminal access for VMs with network protections on outbound connections
+
+### [tiran](https://github.com/tiran)
+- 🍴 👤 [tiran](https://github.com/tiran) Forked [run-ai/runai-model-streamer](https://github.com/run-ai/runai-model-streamer) to [tiran/runai-model-streamer](https://github.com/tiran/runai-model-streamer)
+
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/fswatch-feedstock](https://github.com/conda-forge/fswatch-feedstock) to [xhochy/fswatch-feedstock](https://github.com/xhochy/fswatch-feedstock)
+  > A conda-smithy repository for fswatch.
 
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Sheikh566/magister](https://github.com/Sheikh566/magister)
@@ -109,7 +136,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 14:09:59 UTC*
+*Last updated at 2026-08-10 15:45:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
