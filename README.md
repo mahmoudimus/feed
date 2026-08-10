@@ -15,13 +15,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [TomasVotruba](https://github.com/TomasVotruba) Forked [palantirnet/drupal-rector](https://github.com/palantirnet/drupal-rector) to [TomasVotruba/drupal-rector](https://github.com/TomasVotruba/drupal-rector)
   > A developer utility for automatically upgrading deprecated code for Drupal 9
 
+### [Trollicus](https://github.com/Trollicus)
+- 🌟 👤 [Trollicus](https://github.com/Trollicus) Starred [dawwinci/agile-net-devirtualizer](https://github.com/dawwinci/agile-net-devirtualizer)
+  > Generic devirtualizer for Agile.NET (SecureTeam/CodeVeil) VM-based method protection — reconstructs ...
+
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [OpenEMS/openems](https://github.com/OpenEMS/openems)
   > OpenEMS - Open Source Energy Management System
 
-### [andyleejordan](https://github.com/andyleejordan)
-- 🌟 👤 [andyleejordan](https://github.com/andyleejordan) Starred [yokoffing/Control-D-Config](https://github.com/yokoffing/Control-D-Config)
-  > Setup guide for Control D, a managed DNS service with superpowers.
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [kitlangton/Hex](https://github.com/kitlangton/Hex)
+  > VOICE → WORDS
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) to [fengjixuchui/asm-hall-of-shame](https://github.com/fengjixuchui/asm-hall-of-shame)
@@ -38,9 +42,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete)
   > Remove unused Rust dependencies with this one weird trick!
 
+### [jcs090218](https://github.com/jcs090218)
+- 🌟 👤 [jcs090218](https://github.com/jcs090218) Starred [jcs090218/JCSUnity](https://github.com/jcs090218/JCSUnity)
+  > Rapidly build your game with multiple or various components and preset default settings
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [antirez/h3.c](https://github.com/antirez/h3.c)
   > MiniMax H3 inference engine for Mac computers
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [tigrisdata/storage](https://github.com/tigrisdata/storage)
+  > Tigris is a globally distributed S3-compatible object storage service that provides low latency anyw...
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [jimpi-dev/WorkflowUI](https://github.com/jimpi-dev/WorkflowUI)
@@ -103,6 +115,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [anthropics/zeta-23-lean](https://github.com/anthropics/zeta-23-lean)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [macro-inc/macro](https://github.com/macro-inc/macro)
   > Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked ...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [qualcomm/fastrpc](https://github.com/qualcomm/fastrpc)
+  > FastRPC is Qualcomm's userspace library that facilitates efficient remote procedure calls between th...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+  > Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agent...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [crabbuild/prolly](https://github.com/crabbuild/prolly)
+  > Prolly is a content-addressed ordered map built on prolly trees. It gives applications immutable sna...
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [sourabh-khot65/roamr](https://github.com/sourabh-khot65/roamr)
@@ -155,6 +173,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/fswatch-feedstock](https://github.com/conda-forge/fswatch-feedstock) to [xhochy/fswatch-feedstock](https://github.com/xhochy/fswatch-feedstock)
   > A conda-smithy repository for fswatch.
 
+### [xrash](https://github.com/xrash)
+- 🌟 👤 [xrash](https://github.com/xrash) Starred [purcell/emacs-reformatter](https://github.com/purcell/emacs-reformatter)
+  > Define commands which run reformatters on the current Emacs buffer
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Sheikh566/magister](https://github.com/Sheikh566/magister)
   > Magister is a local, implementation-driven learning environment for building systems.
@@ -165,7 +187,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 18:39:06 UTC*
+*Last updated at 2026-08-10 20:28:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
