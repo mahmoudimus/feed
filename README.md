@@ -11,6 +11,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [NormXU](https://github.com/NormXU)
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [tanishqkancharla/calldiff](https://github.com/tanishqkancharla/calldiff)
+  > Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tr...
+
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🍴 👤 [TomasVotruba](https://github.com/TomasVotruba) Forked [palantirnet/drupal-rector](https://github.com/palantirnet/drupal-rector) to [TomasVotruba/drupal-rector](https://github.com/TomasVotruba/drupal-rector)
   > A developer utility for automatically upgrading deprecated code for Drupal 9
@@ -26,6 +30,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [kitlangton/Hex](https://github.com/kitlangton/Hex)
   > VOICE → WORDS
+
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial)
+  > Apple TV Aerial Screensaver for Mac
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) to [fengjixuchui/asm-hall-of-shame](https://github.com/fengjixuchui/asm-hall-of-shame)
@@ -137,6 +145,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Python implementation of OpenPsPipeJack
 - 🍴 👤 [realoriginal](https://github.com/realoriginal) Forked [ufrisk/pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) to [realoriginal/pcileech-fpga](https://github.com/realoriginal/pcileech-fpga)
   > FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh)
+  > An OOB interaction gathering server and client library
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge)
+  > Bridge between agents and IDA Pro.
 
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [wavelog/wavelog](https://github.com/wavelog/wavelog)
@@ -144,7 +156,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen)
-  > Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia...
+  > Record your screen, ship a demo. Free and open-source, GPU-accelerated, no watermarks, no subscripti...
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
@@ -187,7 +199,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 20:28:42 UTC*
+*Last updated at 2026-08-10 22:24:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
