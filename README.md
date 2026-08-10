@@ -34,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete)
   > Remove unused Rust dependencies with this one weird trick!
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [antirez/h3.c](https://github.com/antirez/h3.c)
+  > MiniMax H3 inference engine for Mac computers
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [jimpi-dev/WorkflowUI](https://github.com/jimpi-dev/WorkflowUI)
   > Turn ComfyUI workflows into web apps.
@@ -86,6 +90,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Header only library for writing build recipes in C. 
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [DZakh/sury](https://github.com/DZakh/sury)
   > 🧬 The fastest schema with next-gen DX
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [antirez/h3.c](https://github.com/antirez/h3.c)
+  > MiniMax H3 inference engine for Mac computers
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NeverSight/NeverD](https://github.com/NeverSight/NeverD)
+  > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NeverSight/NeverC](https://github.com/NeverSight/NeverC)
+  > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [sourabh-khot65/roamr](https://github.com/sourabh-khot65/roamr)
@@ -100,6 +110,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [e-fin/PyPsPipeJack](https://github.com/e-fin/PyPsPipeJack)
   > Python implementation of OpenPsPipeJack
+- 🍴 👤 [realoriginal](https://github.com/realoriginal) Forked [ufrisk/pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) to [realoriginal/pcileech-fpga](https://github.com/realoriginal/pcileech-fpga)
+  > FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen)
@@ -114,6 +126,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [xusheng6/ucpd_analysis](https://github.com/xusheng6/ucpd_analysis)
   > My research into the Windows UCPD
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton)
+  > JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [RohanAdwankar/ws-term](https://github.com/RohanAdwankar/ws-term)
@@ -136,7 +150,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 15:45:59 UTC*
+*Last updated at 2026-08-10 16:39:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
