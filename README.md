@@ -35,10 +35,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [yesiltepe-hidir/VideoMLA](https://github.com/yesiltepe-hidir/VideoMLA) to [johndpope/VideoMLA](https://github.com/johndpope/VideoMLA)
   > Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [kijai/ComfyUI-SolAttn_triton](https://github.com/kijai/ComfyUI-SolAttn_triton)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [shootthesound/Fizgig](https://github.com/shootthesound/Fizgig) to [johndpope/Fizgig](https://github.com/johndpope/Fizgig)
+  > Krea 2 & Klein 9B LoRA - LoKR Studio — train, profile, repair, and extract Krea 2 & Flux 2 Klein 9B ...
 
 ### [mbrt](https://github.com/mbrt)
 - 🌟 👤 [mbrt](https://github.com/mbrt) Starred [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2)
   > An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the cha...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+  > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [trueagi-io/PeTTa](https://github.com/trueagi-io/PeTTa)
@@ -74,7 +81,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 07:04:05 UTC*
+*Last updated at 2026-08-10 09:04:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
