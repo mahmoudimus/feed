@@ -8,6 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [NormXU](https://github.com/NormXU)
+- 🌟 👤 [NormXU](https://github.com/NormXU) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
+
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🍴 👤 [TomasVotruba](https://github.com/TomasVotruba) Forked [palantirnet/drupal-rector](https://github.com/palantirnet/drupal-rector) to [TomasVotruba/drupal-rector](https://github.com/TomasVotruba/drupal-rector)
   > A developer utility for automatically upgrading deprecated code for Drupal 9
@@ -58,6 +61,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse 
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [chdb-io/chdb-core](https://github.com/chdb-io/chdb-core)
   > chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse 
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [flox/flox-skills](https://github.com/flox/flox-skills)
+  > Agentic Flox Skills
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [KriyosArcane/TrustMeBro](https://github.com/KriyosArcane/TrustMeBro)
@@ -83,7 +88,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 10:54:42 UTC*
+*Last updated at 2026-08-10 11:39:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
