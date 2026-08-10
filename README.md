@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [OpenEMS/openems](https://github.com/OpenEMS/openems)
   > OpenEMS - Open Source Energy Management System
 
+### [andyleejordan](https://github.com/andyleejordan)
+- 🌟 👤 [andyleejordan](https://github.com/andyleejordan) Starred [yokoffing/Control-D-Config](https://github.com/yokoffing/Control-D-Config)
+  > Setup guide for Control D, a managed DNS service with superpowers.
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) to [fengjixuchui/asm-hall-of-shame](https://github.com/fengjixuchui/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
@@ -150,7 +154,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 16:39:53 UTC*
+*Last updated at 2026-08-10 17:41:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
