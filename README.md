@@ -100,6 +100,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NeverSight/NeverC](https://github.com/NeverSight/NeverC)
   > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [anthropics/zeta-23-lean](https://github.com/anthropics/zeta-23-lean)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [macro-inc/macro](https://github.com/macro-inc/macro)
+  > Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked ...
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [sourabh-khot65/roamr](https://github.com/sourabh-khot65/roamr)
@@ -117,6 +120,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [realoriginal](https://github.com/realoriginal) Forked [ufrisk/pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) to [realoriginal/pcileech-fpga](https://github.com/realoriginal/pcileech-fpga)
   > FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software
 
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [wavelog/wavelog](https://github.com/wavelog/wavelog)
+  > Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen)
   > Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia...
@@ -132,6 +139,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > My research into the Windows UCPD
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton)
   > JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS
+
+### [superp00t](https://github.com/superp00t)
+- 🌟 👤 [superp00t](https://github.com/superp00t) Starred [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
+  > Browse media content with your own rules on Android TV
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [RohanAdwankar/ws-term](https://github.com/RohanAdwankar/ws-term)
@@ -154,7 +165,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 17:41:13 UTC*
+*Last updated at 2026-08-10 18:39:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
