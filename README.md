@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
+  > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+
 ### [chrislusf](https://github.com/chrislusf)
 - 🍴 👤 [chrislusf](https://github.com/chrislusf) Forked [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) to [chrislusf/ClickHouse](https://github.com/chrislusf/ClickHouse)
   > ClickHouse® is a real-time analytics database management system
@@ -21,6 +25,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Official repository of Trino, the distributed SQL query engine for big data, formerly known as Prest...
 - 🍴 👤 [chrislusf](https://github.com/chrislusf) Forked [StarRocks/starrocks](https://github.com/StarRocks/starrocks) to [chrislusf/starrocks](https://github.com/chrislusf/starrocks)
   > The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. W...
+
+### [davidfrickert](https://github.com/davidfrickert)
+- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)
+  > Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from communi...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [souffle-lang/souffle](https://github.com/souffle-lang/souffle)
@@ -36,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 02:57:21 UTC*
+*Last updated at 2026-08-11 04:13:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
