@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [DutchDiederik/AmberConsole](https://github.com/DutchDiederik/AmberConsole)
+  > A UI design system inspired by the 1970s
+
 ### [NormXU](https://github.com/NormXU)
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
   > Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
@@ -42,6 +46,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)
   > Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from communi...
 
+### [droe](https://github.com/droe)
+- 🌟 👤 [droe](https://github.com/droe) Starred [mdaiter/ane](https://github.com/mdaiter/ane)
+  > Reverse engineered the Apple Neural Engine, with working Python and Objective C samples
+- 🌟 👤 [droe](https://github.com/droe) Starred [ChiChou/dyld-playground](https://github.com/ChiChou/dyld-playground)
+
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [rustledger/rustledger](https://github.com/rustledger/rustledger)
   > Modern plain text accounting. Beancount compatible.
@@ -51,6 +60,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Generate parsers directly from AST node types
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [H2CO3/pfx](https://github.com/H2CO3/pfx)
   > Prefix tree (ordered map and set) data structure using 100% safe Rust
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [AntigmaLabs/ante](https://github.com/AntigmaLabs/ante)
+  > Ghost in your shell. Ante is a self-contained agent harness with a highly optimized core. It works l...
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [dmellok/tesserae](https://github.com/dmellok/tesserae)
+  > E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink pa...
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [eset/ipyida](https://github.com/eset/ipyida) to [mrexodia/ipyida](https://github.com/mrexodia/ipyida)
+  > IPython console integration for IDA Pro
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [crabbuild/compass](https://github.com/crabbuild/compass)
@@ -88,6 +108,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/types-awscrt-feedstock](https://github.com/conda-forge/types-awscrt-feedstock) to [xhochy/types-awscrt-feedstock](https://github.com/xhochy/types-awscrt-feedstock)
   > A conda-smithy repository for types-awscrt.
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Kuberwastaken/cookie](https://github.com/Kuberwastaken/cookie)
+  > Modern Browsers Don't Really Need The Cookie to Track You Anymore
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [hukkin/mdformat](https://github.com/hukkin/mdformat)
   > CommonMark compliant Markdown formatter
@@ -98,7 +122,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 11:35:26 UTC*
+*Last updated at 2026-08-11 12:35:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
