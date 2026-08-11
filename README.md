@@ -24,12 +24,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [shadcn-ui/chatbot-template](https://github.com/shadcn-ui/chatbot-template)
   > A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It r...
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [tdi/herdr-worktree-setup](https://github.com/tdi/herdr-worktree-setup)
+  > herdr plugin: run per-project setup steps when a worktree is created (copy .env from main, mise trus...
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [iurysza/herdr-tab-smart-rename](https://github.com/iurysza/herdr-tab-smart-rename)
+  > Generates context-aware workspace and tab names for Herdr.
 
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
   > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [jmarshall23/msword](https://github.com/jmarshall23/msword)
   > Port of Microsoft Word 1.1a to x64 with extra features for research purposes.
+
+### [antifuchs](https://github.com/antifuchs)
+- 🍴 👤 [antifuchs](https://github.com/antifuchs) Forked [progval/matrix2051](https://github.com/progval/matrix2051) to [antifuchs/matrix2051](https://github.com/antifuchs/matrix2051)
+  > A Matrix gateway for IRC: connect to Matrix from your favorite IRC client.
 
 ### [buger](https://github.com/buger)
 - 🌟 👤 [buger](https://github.com/buger) Starred [tsouza/cerberus](https://github.com/tsouza/cerberus)
@@ -140,7 +148,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 17:45:34 UTC*
+*Last updated at 2026-08-11 18:42:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
