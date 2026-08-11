@@ -19,6 +19,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sailab-vienna/privesc-llm](https://github.com/sailab-vienna/privesc-llm)
   > Post-training local LLM agents for Linux privilege escalation using SFT and RL with verifiable rewar...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [66-demon/logagent](https://github.com/66-demon/logagent)
+
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [shadcn-ui/chatbot-template](https://github.com/shadcn-ui/chatbot-template)
+  > A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It r...
 
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
@@ -91,10 +96,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [lem0nSec/SgrmFault](https://github.com/lem0nSec/SgrmFault)
   > Process Impairment Exploit Chain.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [NHCM-dev/JVMRTDP](https://github.com/NHCM-dev/JVMRTDP)
+  > A Java debugger & library which allows user and programmer to control remote JavaVMs
 
 ### [redstar](https://github.com/redstar)
 - 🌟 👤 [redstar](https://github.com/redstar) Starred [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)
   > Open-source, community-driven agent harness
+
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [wavelog/WaveLogGate](https://github.com/wavelog/WaveLogGate)
+  > WLGate, the CAT-Bridge for WSJT-* and FLRig to Wavelog
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [int2001/waverover](https://github.com/int2001/waverover)
+  > Wavelog: Importhelper for Rovers
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [tw93/Mole](https://github.com/tw93/Mole)
@@ -122,7 +135,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 12:35:59 UTC*
+*Last updated at 2026-08-11 14:09:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
