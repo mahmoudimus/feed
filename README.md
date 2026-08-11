@@ -59,6 +59,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Trail is a local-first, prolly tree backed operation database for code and text worktrees. Git recor...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [landaire/xct2cli](https://github.com/landaire/xct2cli)
   > Make Xcode traces viewable on the CLI
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mattgodbolt/seasocks](https://github.com/mattgodbolt/seasocks)
+  > Simple, small, C++ embeddable webserver with WebSockets support
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jdx/demand](https://github.com/jdx/demand)
+  > prompt library for rust
 
 ### [phonowell](https://github.com/phonowell)
 - 🌟 👤 [phonowell](https://github.com/phonowell) Starred [metasequoiaime/MetasequoiaImeTsf](https://github.com/metasequoiaime/MetasequoiaImeTsf)
@@ -80,6 +84,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [tintinweb/vscode-code-review-marker](https://github.com/tintinweb/vscode-code-review-marker)
   > ✅⚠️❗- VS Code extension for multi-file code review: mark files clean/unsure/suspicious, grey out wha...
 
+### [xhochy](https://github.com/xhochy)
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/types-awscrt-feedstock](https://github.com/conda-forge/types-awscrt-feedstock) to [xhochy/types-awscrt-feedstock](https://github.com/xhochy/types-awscrt-feedstock)
+  > A conda-smithy repository for types-awscrt.
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [hukkin/mdformat](https://github.com/hukkin/mdformat)
   > CommonMark compliant Markdown formatter
@@ -90,7 +98,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 10:39:39 UTC*
+*Last updated at 2026-08-11 11:35:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
