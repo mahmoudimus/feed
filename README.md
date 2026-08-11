@@ -75,6 +75,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [payamnaghdy/semgrep-offline](https://github.com/payamnaghdy/semgrep-offline)
 
+### [kevaundray](https://github.com/kevaundray)
+- 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [ethpandaops/eth-beacon-genesis](https://github.com/ethpandaops/eth-beacon-genesis) to [kevaundray/eth-beacon-genesis](https://github.com/kevaundray/eth-beacon-genesis)
+  > Genesis state generator for ethereum beacon chains
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 
@@ -118,10 +122,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
-### [tintinweb](https://github.com/tintinweb)
-- 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [tintinweb/vscode-code-review-marker](https://github.com/tintinweb/vscode-code-review-marker)
-  > ✅⚠️❗- VS Code extension for multi-file code review: mark files clean/unsure/suspicious, grey out wha...
-
 ### [xhochy](https://github.com/xhochy)
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/types-awscrt-feedstock](https://github.com/conda-forge/types-awscrt-feedstock) to [xhochy/types-awscrt-feedstock](https://github.com/xhochy/types-awscrt-feedstock)
   > A conda-smithy repository for types-awscrt.
@@ -140,7 +140,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 16:43:28 UTC*
+*Last updated at 2026-08-11 17:45:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
