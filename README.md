@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
   > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 
+### [buger](https://github.com/buger)
+- 🌟 👤 [buger](https://github.com/buger) Starred [tsouza/cerberus](https://github.com/tsouza/cerberus)
+  > Drop-in Prometheus / Loki / Tempo HTTP gateway for ClickHouse. Translate PromQL, LogQL, and TraceQL ...
+
 ### [chrislusf](https://github.com/chrislusf)
 - 🍴 👤 [chrislusf](https://github.com/chrislusf) Forked [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) to [chrislusf/ClickHouse](https://github.com/chrislusf/ClickHouse)
   > ClickHouse® is a real-time analytics database management system
@@ -47,10 +51,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Generate parsers directly from AST node types
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [H2CO3/pfx](https://github.com/H2CO3/pfx)
   > Prefix tree (ordered map and set) data structure using 100% safe Rust
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [souffle-lang/souffle](https://github.com/souffle-lang/souffle)
-  > Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthe...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [crabbuild/compass](https://github.com/crabbuild/compass)
@@ -84,7 +84,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 08:00:38 UTC*
+*Last updated at 2026-08-11 09:46:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
