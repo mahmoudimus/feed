@@ -34,6 +34,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [souffle-lang/souffle](https://github.com/souffle-lang/souffle)
   > Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthe...
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [crabbuild/compass](https://github.com/crabbuild/compass)
+  > Native, local-first knowledge graph engine for code and project artifacts—inspired by Graphify, buil...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [crabbuild/trail](https://github.com/crabbuild/trail)
+  > Trail is a local-first, prolly tree backed operation database for code and text worktrees. Git recor...
+
 ### [redstar](https://github.com/redstar)
 - 🌟 👤 [redstar](https://github.com/redstar) Starred [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)
   > Open-source, community-driven agent harness
@@ -44,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 04:13:38 UTC*
+*Last updated at 2026-08-11 05:44:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
