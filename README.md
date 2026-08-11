@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [NormXU](https://github.com/NormXU)
+- 🌟 👤 [NormXU](https://github.com/NormXU) Starred [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+  > Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
   > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
@@ -30,6 +34,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)
   > Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from communi...
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [rustledger/rustledger](https://github.com/rustledger/rustledger)
+  > Modern plain text accounting. Beancount compatible.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [souffle-lang/souffle](https://github.com/souffle-lang/souffle)
   > Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthe...
@@ -40,9 +48,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [crabbuild/trail](https://github.com/crabbuild/trail)
   > Trail is a local-first, prolly tree backed operation database for code and text worktrees. Git recor...
 
+### [phonowell](https://github.com/phonowell)
+- 🌟 👤 [phonowell](https://github.com/phonowell) Starred [metasequoiaime/MetasequoiaImeTsf](https://github.com/metasequoiaime/MetasequoiaImeTsf)
+  > 水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [lem0nSec/SgrmFault](https://github.com/lem0nSec/SgrmFault)
+  > Process Impairment Exploit Chain.
+
 ### [redstar](https://github.com/redstar)
 - 🌟 👤 [redstar](https://github.com/redstar) Starred [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)
   > Open-source, community-driven agent harness
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [hukkin/mdformat](https://github.com/hukkin/mdformat)
+  > CommonMark compliant Markdown formatter
 
 
 <!-- nav -->
@@ -50,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 05:44:45 UTC*
+*Last updated at 2026-08-11 06:42:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
