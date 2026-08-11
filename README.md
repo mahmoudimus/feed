@@ -72,6 +72,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [dmellok/tesserae](https://github.com/dmellok/tesserae)
   > E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink pa...
 
+### [h3xstream](https://github.com/h3xstream)
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [payamnaghdy/semgrep-offline](https://github.com/payamnaghdy/semgrep-offline)
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 
@@ -137,7 +140,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 15:45:53 UTC*
+*Last updated at 2026-08-11 16:43:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
