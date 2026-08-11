@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
   > Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sailab-vienna/privesc-llm](https://github.com/sailab-vienna/privesc-llm)
+  > Post-training local LLM agents for Linux privilege escalation using SFT and RL with verifiable rewar...
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
   > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
@@ -38,6 +42,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [rustledger/rustledger](https://github.com/rustledger/rustledger)
   > Modern plain text accounting. Beancount compatible.
 
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [H2CO3/parsel](https://github.com/H2CO3/parsel)
+  > Generate parsers directly from AST node types
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [H2CO3/pfx](https://github.com/H2CO3/pfx)
+  > Prefix tree (ordered map and set) data structure using 100% safe Rust
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [souffle-lang/souffle](https://github.com/souffle-lang/souffle)
   > Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthe...
@@ -60,6 +70,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [redstar](https://github.com/redstar) Starred [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)
   > Open-source, community-driven agent harness
 
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [hukkin/mdformat](https://github.com/hukkin/mdformat)
   > CommonMark compliant Markdown formatter
@@ -70,7 +84,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 06:42:42 UTC*
+*Last updated at 2026-08-11 08:00:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
