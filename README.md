@@ -28,6 +28,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
   > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [jmarshall23/msword](https://github.com/jmarshall23/msword)
+  > Port of Microsoft Word 1.1a to x64 with extra features for research purposes.
 
 ### [buger](https://github.com/buger)
 - 🌟 👤 [buger](https://github.com/buger) Starred [tsouza/cerberus](https://github.com/tsouza/cerberus)
@@ -135,7 +137,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 14:09:52 UTC*
+*Last updated at 2026-08-11 15:45:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
