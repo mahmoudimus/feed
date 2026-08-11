@@ -50,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete)
   > Remove unused Rust dependencies with this one weird trick!
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [storytold/artcraft](https://github.com/storytold/artcraft)
+  > ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+
 ### [jcs090218](https://github.com/jcs090218)
 - 🌟 👤 [jcs090218](https://github.com/jcs090218) Starred [jcs090218/JCSUnity](https://github.com/jcs090218/JCSUnity)
   > Rapidly build your game with multiple or various components and preset default settings
@@ -199,7 +203,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-10 22:24:03 UTC*
+*Last updated at 2026-08-10 23:22:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
