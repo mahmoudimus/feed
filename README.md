@@ -83,6 +83,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [payamnaghdy/semgrep-offline](https://github.com/payamnaghdy/semgrep-offline)
 
+### [interference-security](https://github.com/interference-security)
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [TK757567/Frida-Patcher](https://github.com/TK757567/Frida-Patcher)
+  > frida-server binary patcher that defeats string/port/thread anti-Frida detection
+
 ### [kevaundray](https://github.com/kevaundray)
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [ethpandaops/eth-beacon-genesis](https://github.com/ethpandaops/eth-beacon-genesis) to [kevaundray/eth-beacon-genesis](https://github.com/kevaundray/eth-beacon-genesis)
   > Genesis state generator for ethereum beacon chains
@@ -148,7 +152,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 18:42:36 UTC*
+*Last updated at 2026-08-11 20:31:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
