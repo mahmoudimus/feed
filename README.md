@@ -57,6 +57,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Native, local-first knowledge graph engine for code and project artifacts—inspired by Graphify, buil...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [crabbuild/trail](https://github.com/crabbuild/trail)
   > Trail is a local-first, prolly tree backed operation database for code and text worktrees. Git recor...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [landaire/xct2cli](https://github.com/landaire/xct2cli)
+  > Make Xcode traces viewable on the CLI
 
 ### [phonowell](https://github.com/phonowell)
 - 🌟 👤 [phonowell](https://github.com/phonowell) Starred [metasequoiaime/MetasequoiaImeTsf](https://github.com/metasequoiaime/MetasequoiaImeTsf)
@@ -74,6 +76,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
+### [tintinweb](https://github.com/tintinweb)
+- 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [tintinweb/vscode-code-review-marker](https://github.com/tintinweb/vscode-code-review-marker)
+  > ✅⚠️❗- VS Code extension for multi-file code review: mark files clean/unsure/suspicious, grey out wha...
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [hukkin/mdformat](https://github.com/hukkin/mdformat)
   > CommonMark compliant Markdown formatter
@@ -84,7 +90,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 09:46:48 UTC*
+*Last updated at 2026-08-11 10:39:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
