@@ -23,6 +23,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [oxc-project/oxc](https://github.com/oxc-project/oxc) to [Stanzilla/oxc](https://github.com/Stanzilla/oxc)
   > ⚓ A collection of high-performance JavaScript tools.
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
+  > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -31,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ambethia](https://github.com/ambethia)
 - 🌟 👤 [ambethia](https://github.com/ambethia) Starred [googlarz/proton-mail-bridge-client](https://github.com/googlarz/proton-mail-bridge-client)
   > 🌉 Local-first Proton Mail MCP and CLI through Proton Bridge. Search, read, draft, send, sync, and ac...
+
+### [ankane](https://github.com/ankane)
+- 🌟 👤 [ankane](https://github.com/ankane) Starred [pgjdbc/pg-java](https://github.com/pgjdbc/pg-java)
+  > A modern Java PostgreSQL driver
 
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder)
@@ -123,6 +129,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [guizmaii-opensource/zio-temporal](https://github.com/guizmaii-opensource/zio-temporal)
   > Build invincible apps with ZIO and https://temporal.io
 
+### [notfoundry](https://github.com/notfoundry)
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [elsung/dgx-spark-deepseek-v4-flash](https://github.com/elsung/dgx-spark-deepseek-v4-flash)
+  > 2x DGX Spark (GB10) running DeepSeek-V4-Flash: dual-node FP8 TP=2 (~41 tok/s single / ~350 agg), sin...
+
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
   > A security-focused library OS supporting kernel- and user-mode execution
@@ -151,7 +161,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 16:43:23 UTC*
+*Last updated at 2026-08-12 17:47:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
