@@ -32,6 +32,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [buger](https://github.com/buger) Forked [aquasecurity/trivy](https://github.com/aquasecurity/trivy) to [buger/trivy](https://github.com/buger/trivy)
   > Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories,...
 
+### [cra0](https://github.com/cra0)
+- 🌟 👤 [cra0](https://github.com/cra0) Starred [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak)
+  > Windows Defender 0day vulnerability
+
 ### [donno2048](https://github.com/donno2048)
 - 🌟 👤 [donno2048](https://github.com/donno2048) Starred [wmww/tawc](https://github.com/wmww/tawc)
   > Tess's Android Wayland Compositor
@@ -59,12 +63,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [vitemcp/server](https://github.com/vitemcp/server)
   > A TypeScript framework for building stateless MCP servers — deploy to serverless and edge.
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [majidmanzarpour/threejs-vfx](https://github.com/majidmanzarpour/threejs-vfx)
+  > A skillshot VFX sandbox with 100 procedural spell effects across 15 schools. Three.js and hand-writt...
+
+### [luc-tielen](https://github.com/luc-tielen)
+- 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
   > Private, searchable screen history for macOS.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
+  > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [helsing-ai/yadr](https://github.com/helsing-ai/yadr)
@@ -73,6 +87,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Checkpoint-engine is a simple middleware to update model weights in LLM inference engines
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [MoonshotAI/Kimi-Vendor-Verifier](https://github.com/MoonshotAI/Kimi-Vendor-Verifier)
   > Kimi-Vendor-Verifier
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [LordGoatius/JIMNIAC](https://github.com/LordGoatius/JIMNIAC)
+  > The most powerful ternary virtual machine in existnce.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [wkqdzkd/Awesome-Reliable-Self-Evolving-Agents](https://github.com/wkqdzkd/Awesome-Reliable-Self-Evolving-Agents)
+  > Diving into Reliable Self-Evolving Agents: A Survey
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [linebender/fearless_simd](https://github.com/linebender/fearless_simd)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [GSI-HPC/simd](https://github.com/GSI-HPC/simd)
+  > Implementation of C++26 §29.10 Data-parallel types for GCC
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
@@ -92,13 +113,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [shader-slang/slang](https://github.com/shader-slang/slang)
   > Making it easier to work with shaders
 
+### [zzzeek](https://github.com/zzzeek)
+- 🌟 👤 [zzzeek](https://github.com/zzzeek) Starred [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet)
+  > Lightweight in-process concurrent programming
+
 
 <!-- nav -->
 [← 2026-08-11](archive/2026/08/11.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 12:38:54 UTC*
+*Last updated at 2026-08-12 14:10:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
