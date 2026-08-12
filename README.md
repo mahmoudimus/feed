@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [KIC](https://github.com/KIC)
+- 🌟 👤 [KIC](https://github.com/KIC) Starred [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
+  > Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
+
 ### [NormXU](https://github.com/NormXU)
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
   > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
@@ -23,6 +27,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder)
   > #1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skill...
+
+### [buger](https://github.com/buger)
+- 🍴 👤 [buger](https://github.com/buger) Forked [aquasecurity/trivy](https://github.com/aquasecurity/trivy) to [buger/trivy](https://github.com/buger/trivy)
+  > Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories,...
+
+### [donno2048](https://github.com/donno2048)
+- 🌟 👤 [donno2048](https://github.com/donno2048) Starred [wmww/tawc](https://github.com/wmww/tawc)
+  > Tess's Android Wayland Compositor
 
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [ebourg/jsign](https://github.com/ebourg/jsign)
@@ -86,7 +98,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 11:36:42 UTC*
+*Last updated at 2026-08-12 12:38:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
