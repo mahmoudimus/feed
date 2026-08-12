@@ -30,6 +30,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [Jamesbarford/holyc-lang](https://github.com/Jamesbarford/holyc-lang)
+  > HolyC compiler & transpiler
+
 ### [ambethia](https://github.com/ambethia)
 - 🌟 👤 [ambethia](https://github.com/ambethia) Starred [googlarz/proton-mail-bridge-client](https://github.com/googlarz/proton-mail-bridge-client)
   > 🌉 Local-first Proton Mail MCP and CLI through Proton Bridge. Search, read, draft, send, sync, and ac...
@@ -76,6 +80,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [vitemcp/server](https://github.com/vitemcp/server)
   > A TypeScript framework for building stateless MCP servers — deploy to serverless and edge.
+
+### [ingydotnet](https://github.com/ingydotnet)
+- 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [orenbenkiki/libyeast](https://github.com/orenbenkiki/libyeast)
+  > A grammar-derived C YAML parser.
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
@@ -143,6 +151,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
   > Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me...
 
+### [sintaxi](https://github.com/sintaxi)
+- 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [openrundev/openrun](https://github.com/openrundev/openrun)
+  > Deployment platform for teams to deploy internal tools. Deploy web apps declaratively, on a single-n...
+
 ### [sophiajt](https://github.com/sophiajt)
 - 🍴 👤 [sophiajt](https://github.com/sophiajt) Forked [modular/modular](https://github.com/modular/modular) to [sophiajt/modular](https://github.com/sophiajt/modular)
   > The Modular Platform (includes MAX & Mojo)
@@ -167,7 +179,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 21:31:53 UTC*
+*Last updated at 2026-08-12 22:27:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
