@@ -33,9 +33,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [TheRealYT/git-knife](https://github.com/TheRealYT/git-knife)
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [letta-ai/letta](https://github.com/letta-ai/letta)
+  > Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [helsing-ai/yadr](https://github.com/helsing-ai/yadr)
   > A tool for linting and extracting Y-ADRs from code.
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
+  > A security-focused library OS supporting kernel- and user-mode execution
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer)
+  > Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, dependency DAG visuali...
 
 
 <!-- nav -->
@@ -43,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 05:21:28 UTC*
+*Last updated at 2026-08-12 07:02:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
