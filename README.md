@@ -8,9 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
-- 🍴 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Forked [testing-library/jest-dom](https://github.com/testing-library/jest-dom) to [JoshuaKGoldberg/jest-dom](https://github.com/JoshuaKGoldberg/jest-dom)
-  > :owl: Custom jest matchers to test the state of the DOM
+### [AXDOOMER](https://github.com/AXDOOMER)
+- 🌟 👤 [AXDOOMER](https://github.com/AXDOOMER) Starred [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server)
+  > Self-hosted GitHub Actions cache server implementation. Compatible with official 'actions/cache' act...
 
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
@@ -105,6 +105,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Private, searchable screen history for macOS.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/libdecomp](https://github.com/dmaivel/libdecomp)
+  > Library for decompiling multi-architecture disassembly (ARM64, X86, X86-64) into source code (C, Zig...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [helsing-ai/yadr](https://github.com/helsing-ai/yadr)
@@ -137,6 +139,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
   > A security-focused library OS supporting kernel- and user-mode execution
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
+  > Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me...
+
+### [sophiajt](https://github.com/sophiajt)
+- 🍴 👤 [sophiajt](https://github.com/sophiajt) Forked [modular/modular](https://github.com/modular/modular) to [sophiajt/modular](https://github.com/sophiajt/modular)
+  > The Modular Platform (includes MAX & Mojo)
+
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [hengyunabc/dumpclass](https://github.com/hengyunabc/dumpclass)
   > Dump classes from running JVM process.
@@ -151,17 +161,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [shader-slang/slang](https://github.com/shader-slang/slang)
   > Making it easier to work with shaders
 
-### [zzzeek](https://github.com/zzzeek)
-- 🌟 👤 [zzzeek](https://github.com/zzzeek) Starred [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet)
-  > Lightweight in-process concurrent programming
-
 
 <!-- nav -->
 [← 2026-08-11](archive/2026/08/11.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 18:43:31 UTC*
+*Last updated at 2026-08-12 20:30:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
