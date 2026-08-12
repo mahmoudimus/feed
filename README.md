@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🍴 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Forked [testing-library/jest-dom](https://github.com/testing-library/jest-dom) to [JoshuaKGoldberg/jest-dom](https://github.com/JoshuaKGoldberg/jest-dom)
+  > :owl: Custom jest matchers to test the state of the DOM
+
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
   > Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
@@ -67,6 +71,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [vitemcp/server](https://github.com/vitemcp/server)
   > A TypeScript framework for building stateless MCP servers — deploy to serverless and edge.
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
+  > Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me...
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [majidmanzarpour/threejs-vfx](https://github.com/majidmanzarpour/threejs-vfx)
   > A skillshot VFX sandbox with 100 procedural spell effects across 15 schools. Three.js and hand-writt...
@@ -112,6 +120,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A Scalable (and Optionally, Data-Parallel) ANARI Multi-GPU Path Tracer
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [saleh2001k/react-native-nitro-theme-transition](https://github.com/saleh2001k/react-native-nitro-theme-transition)
   > Native theme transitions for React Native with Nitro Modules
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [guizmaii-opensource/zio-temporal](https://github.com/guizmaii-opensource/zio-temporal)
+  > Build invincible apps with ZIO and https://temporal.io
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
@@ -141,7 +151,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 15:46:36 UTC*
+*Last updated at 2026-08-12 16:43:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
