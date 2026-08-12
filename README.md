@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
 
+### [ambethia](https://github.com/ambethia)
+- 🌟 👤 [ambethia](https://github.com/ambethia) Starred [googlarz/proton-mail-bridge-client](https://github.com/googlarz/proton-mail-bridge-client)
+  > 🌉 Local-first Proton Mail MCP and CLI through Proton Bridge. Search, read, draft, send, sync, and ac...
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [ebourg/jsign](https://github.com/ebourg/jsign)
   > Java implementation of Microsoft Authenticode for signing Windows executables, installers & scripts
@@ -29,13 +33,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [TheRealYT/git-knife](https://github.com/TheRealYT/git-knife)
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [helsing-ai/yadr](https://github.com/helsing-ai/yadr)
+  > A tool for linting and extracting Y-ADRs from code.
+
 
 <!-- nav -->
 [← 2026-08-11](archive/2026/08/11.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 03:16:02 UTC*
+*Last updated at 2026-08-12 05:21:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
