@@ -50,11 +50,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
+  > Private, searchable screen history for macOS.
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [helsing-ai/yadr](https://github.com/helsing-ai/yadr)
   > A tool for linting and extracting Y-ADRs from code.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [MoonshotAI/checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine)
   > Checkpoint-engine is a simple middleware to update model weights in LLM inference engines
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [MoonshotAI/Kimi-Vendor-Verifier](https://github.com/MoonshotAI/Kimi-Vendor-Verifier)
+  > Kimi-Vendor-Verifier
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
@@ -80,7 +86,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 09:55:15 UTC*
+*Last updated at 2026-08-12 10:48:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
