@@ -28,6 +28,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > herdr plugin: run per-project setup steps when a worktree is created (copy .env from main, mise trus...
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [iurysza/herdr-tab-smart-rename](https://github.com/iurysza/herdr-tab-smart-rename)
   > Generates context-aware workspace and tab names for Herdr.
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [dmno-dev/bumpy](https://github.com/dmno-dev/bumpy)
+  > 🐸 Modern monorepo friendly version management + changelog tool
 
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
@@ -38,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [antifuchs](https://github.com/antifuchs)
 - 🍴 👤 [antifuchs](https://github.com/antifuchs) Forked [progval/matrix2051](https://github.com/progval/matrix2051) to [antifuchs/matrix2051](https://github.com/antifuchs/matrix2051)
   > A Matrix gateway for IRC: connect to Matrix from your favorite IRC client.
+
+### [assarbad](https://github.com/assarbad)
+- 🍴 👤 [assarbad](https://github.com/assarbad) Forked [stanford-scs/jai](https://github.com/stanford-scs/jai) to [assarbad/jai](https://github.com/assarbad/jai)
+  > Jail your AI agent
 
 ### [buger](https://github.com/buger)
 - 🌟 👤 [buger](https://github.com/buger) Starred [tsouza/cerberus](https://github.com/tsouza/cerberus)
@@ -56,6 +62,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Official repository of Trino, the distributed SQL query engine for big data, formerly known as Prest...
 - 🍴 👤 [chrislusf](https://github.com/chrislusf) Forked [StarRocks/starrocks](https://github.com/StarRocks/starrocks) to [chrislusf/starrocks](https://github.com/chrislusf/starrocks)
   > The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. W...
+- 🍴 👤 [chrislusf](https://github.com/chrislusf) Forked [trinodb/trino.io](https://github.com/trinodb/trino.io) to [chrislusf/trino.io](https://github.com/chrislusf/trino.io)
+  > Trino website
 
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)
@@ -80,12 +88,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [dmellok/tesserae](https://github.com/dmellok/tesserae)
   > E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink pa...
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
+  > Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantas...
+
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [payamnaghdy/semgrep-offline](https://github.com/payamnaghdy/semgrep-offline)
 
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [TK757567/Frida-Patcher](https://github.com/TK757567/Frida-Patcher)
   > frida-server binary patcher that defeats string/port/thread anti-Frida detection
+
+### [jaredpalmer](https://github.com/jaredpalmer)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [mirendev/runtime](https://github.com/mirendev/runtime)
+  > Runtime by Miren
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [mirendev/mflags](https://github.com/mirendev/mflags)
+  > A command line dispatcher and flags package
 
 ### [kevaundray](https://github.com/kevaundray)
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [ethpandaops/eth-beacon-genesis](https://github.com/ethpandaops/eth-beacon-genesis) to [kevaundray/eth-beacon-genesis](https://github.com/kevaundray/eth-beacon-genesis)
@@ -130,6 +148,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [int2001/waverover](https://github.com/int2001/waverover)
   > Wavelog: Importhelper for Rovers
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
+  > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
+
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
@@ -145,6 +167,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [hukkin/mdformat](https://github.com/hukkin/mdformat)
   > CommonMark compliant Markdown formatter
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [bearcove/arborium](https://github.com/bearcove/arborium)
+  > An opinionated tree-sitter + tree-sitter-highlight + grammars bundle
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog)
+  > Google Cloud Knowledge Catalog Tools and Samples
 
 
 <!-- nav -->
@@ -152,7 +178,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-11 20:31:19 UTC*
+*Last updated at 2026-08-11 23:26:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
