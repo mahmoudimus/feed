@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
   > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [oxc-project/oxc](https://github.com/oxc-project/oxc) to [Stanzilla/oxc](https://github.com/Stanzilla/oxc)
+  > ⚓ A collection of high-performance JavaScript tools.
+
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
@@ -67,9 +71,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [majidmanzarpour/threejs-vfx](https://github.com/majidmanzarpour/threejs-vfx)
   > A skillshot VFX sandbox with 100 procedural spell effects across 15 schools. Three.js and hand-writt...
 
+### [jveverka](https://github.com/jveverka)
+- 🌟 👤 [jveverka](https://github.com/jveverka) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+  > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
+
+### [mahmoud](https://github.com/mahmoud)
+- 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [Fazel94/floret-torch](https://github.com/Fazel94/floret-torch)
+  > GPU training for floret (fastText + Bloom subword table) vectors in PyTorch, exporting spaCy-compati...
 
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw)
@@ -94,6 +106,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [linebender/fearless_simd](https://github.com/linebender/fearless_simd)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [GSI-HPC/simd](https://github.com/GSI-HPC/simd)
   > Implementation of C++26 §29.10 Data-parallel types for GCC
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
+  > a Productive Parallel Programming Language
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NVIDIA/barney](https://github.com/NVIDIA/barney)
+  > A Scalable (and Optionally, Data-Parallel) ANARI Multi-GPU Path Tracer
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [saleh2001k/react-native-nitro-theme-transition](https://github.com/saleh2001k/react-native-nitro-theme-transition)
+  > Native theme transitions for React Native with Nitro Modules
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
@@ -123,7 +141,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 14:10:17 UTC*
+*Last updated at 2026-08-12 15:46:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
