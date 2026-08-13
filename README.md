@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [macro-inc/macro](https://github.com/macro-inc/macro)
   > Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked ...
 
+### [Hellblazer](https://github.com/Hellblazer)
+- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) to [Hellblazer/asd-ste100-skill](https://github.com/Hellblazer/asd-ste100-skill)
+  > ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambig...
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)
   > Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline o...
@@ -44,13 +48,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs)
   > Quickly find bottlenecks in Rust - one profiler for CPU, memory, SQL, HTTP, I/O and async code.
 
+### [yajo](https://github.com/yajo)
+- 🍴 👤 [yajo](https://github.com/yajo) Forked [zalando/postgres-operator](https://github.com/zalando/postgres-operator) to [yajo/postgres-operator](https://github.com/yajo/postgres-operator)
+  > Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+
 
 <!-- nav -->
 [← 2026-08-12](archive/2026/08/12.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 11:36:41 UTC*
+*Last updated at 2026-08-13 12:39:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
