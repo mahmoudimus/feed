@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [macro-inc/macro](https://github.com/macro-inc/macro)
+  > Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked ...
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
+  > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [manyuegong33/r0crawl_skills](https://github.com/manyuegong33/r0crawl_skills) to [fengjixuchui/r0crawl_skills](https://github.com/fengjixuchui/r0crawl_skills)
   > r0crawl_skills is a massive reverse-engineering skill arsenal for web, Android, iOS, Frida, native b...
@@ -18,13 +26,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Alakazam-studios/alakazam-studio](https://github.com/Alakazam-studios/alakazam-studio) to [johndpope/alakazam-studio](https://github.com/johndpope/alakazam-studio)
   > Open-source Creator Studio | describe a world, edit it as a state graph, play it. Bring your own wor...
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs)
+  > Quickly find bottlenecks in Rust - one profiler for CPU, memory, SQL, HTTP, I/O and async code.
+
 
 <!-- nav -->
 [← 2026-08-12](archive/2026/08/12.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 07:07:06 UTC*
+*Last updated at 2026-08-13 08:59:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
