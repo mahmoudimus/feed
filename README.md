@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
   > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 ### [ThomasVitale](https://github.com/ThomasVitale)
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [testlens-app/setup-testlens](https://github.com/testlens-app/setup-testlens)
   > GitHub setup action for TestLens
@@ -31,6 +35,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [alexazhou](https://github.com/alexazhou)
 - 🌟 👤 [alexazhou](https://github.com/alexazhou) Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
   > One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate ...
+
+### [artem](https://github.com/artem)
+- 🌟 👤 [artem](https://github.com/artem) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
 
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)
@@ -121,7 +129,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 16:42:26 UTC*
+*Last updated at 2026-08-13 17:47:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
