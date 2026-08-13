@@ -1,195 +1,21 @@
-# Daily GitHub Activity (2026-08-12)
+# Daily GitHub Activity (2026-08-13)
 
 <!-- nav -->
-[← 2026-08-11](archive/2026/08/11.md)
+[← 2026-08-12](archive/2026/08/12.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [AXDOOMER](https://github.com/AXDOOMER)
-- 🌟 👤 [AXDOOMER](https://github.com/AXDOOMER) Starred [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server)
-  > Self-hosted GitHub Actions cache server implementation. Compatible with official 'actions/cache' act...
-
-### [KIC](https://github.com/KIC)
-- 🌟 👤 [KIC](https://github.com/KIC) Starred [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
-  > Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
-
-### [NormXU](https://github.com/NormXU)
-- 🌟 👤 [NormXU](https://github.com/NormXU) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
-  > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-
-### [Stanzilla](https://github.com/Stanzilla)
-- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [oxc-project/oxc](https://github.com/oxc-project/oxc) to [Stanzilla/oxc](https://github.com/Stanzilla/oxc)
-  > ⚓ A collection of high-performance JavaScript tools.
-- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
-  > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
-
-### [Wenzel](https://github.com/Wenzel)
-- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-  > Skills for Real Engineers. Straight from my .agents directory.
-
-### [Xe](https://github.com/Xe)
-- 🌟 👤 [Xe](https://github.com/Xe) Starred [Jamesbarford/holyc-lang](https://github.com/Jamesbarford/holyc-lang)
-  > HolyC compiler & transpiler
-
-### [ambethia](https://github.com/ambethia)
-- 🌟 👤 [ambethia](https://github.com/ambethia) Starred [googlarz/proton-mail-bridge-client](https://github.com/googlarz/proton-mail-bridge-client)
-  > 🌉 Local-first Proton Mail MCP and CLI through Proton Bridge. Search, read, draft, send, sync, and ac...
-
-### [ankane](https://github.com/ankane)
-- 🌟 👤 [ankane](https://github.com/ankane) Starred [pgjdbc/pg-java](https://github.com/pgjdbc/pg-java)
-  > A modern Java PostgreSQL driver
-
-### [boyney123](https://github.com/boyney123)
-- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder)
-  > #1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skill...
-
-### [buger](https://github.com/buger)
-- 🍴 👤 [buger](https://github.com/buger) Forked [aquasecurity/trivy](https://github.com/aquasecurity/trivy) to [buger/trivy](https://github.com/buger/trivy)
-  > Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories,...
-
-### [cra0](https://github.com/cra0)
-- 🌟 👤 [cra0](https://github.com/cra0) Starred [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak)
-  > Windows Defender 0day vulnerability
-
-### [donno2048](https://github.com/donno2048)
-- 🌟 👤 [donno2048](https://github.com/donno2048) Starred [wmww/tawc](https://github.com/wmww/tawc)
-  > Tess's Android Wayland Compositor
-
-### [dustinblackman](https://github.com/dustinblackman)
-- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [ebourg/jsign](https://github.com/ebourg/jsign)
-  > Java implementation of Microsoft Authenticode for signing Windows executables, installers & scripts
-
-### [fcakyon](https://github.com/fcakyon)
-- 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [egoist/waku](https://github.com/egoist/waku) to [fcakyon/waku](https://github.com/fcakyon/waku)
-  > ⚡ A native app for all your coding agents.
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [egoist/waku](https://github.com/egoist/waku)
-  > ⚡ A native app for all your coding agents.
-
-### [gabrielfalcao](https://github.com/gabrielfalcao)
-- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [TheRealYT/git-knife](https://github.com/TheRealYT/git-knife)
-
-### [gamous](https://github.com/gamous)
-- 🌟 👤 [gamous](https://github.com/gamous) Starred [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak)
-  > Windows Defender 0day vulnerability
-
-### [h2non](https://github.com/h2non)
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [letta-ai/letta](https://github.com/letta-ai/letta)
-  > Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [vitemcp/server](https://github.com/vitemcp/server)
-  > A TypeScript framework for building stateless MCP servers — deploy to serverless and edge.
-
-### [ingydotnet](https://github.com/ingydotnet)
-- 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [orenbenkiki/libyeast](https://github.com/orenbenkiki/libyeast)
-  > A grammar-derived C YAML parser.
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
-  > Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me...
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [majidmanzarpour/threejs-vfx](https://github.com/majidmanzarpour/threejs-vfx)
-  > A skillshot VFX sandbox with 100 procedural spell effects across 15 schools. Three.js and hand-writt...
-
-### [jveverka](https://github.com/jveverka)
-- 🌟 👤 [jveverka](https://github.com/jveverka) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
-  > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-
-### [lovasoa](https://github.com/lovasoa)
-- 🍴 👤 [lovasoa](https://github.com/lovasoa) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [lovasoa/opencode](https://github.com/lovasoa/opencode)
-  > The open source coding agent.
-
-### [luc-tielen](https://github.com/luc-tielen)
-- 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-  > The agent that grows with you
-
-### [mahmoud](https://github.com/mahmoud)
-- 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [Fazel94/floret-torch](https://github.com/Fazel94/floret-torch)
-  > GPU training for floret (fastText + Bloom subword table) vectors in PyTorch, exporting spaCy-compati...
-
-### [mingrammer](https://github.com/mingrammer)
-- 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [Tencent-Hunyuan/Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw)
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
-  > Private, searchable screen history for macOS.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
-  > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/libdecomp](https://github.com/dmaivel/libdecomp)
-  > Library for decompiling multi-architecture disassembly (ARM64, X86, X86-64) into source code (C, Zig...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [itskovacs/trip](https://github.com/itskovacs/trip)
-  > 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [badlogic/jot](https://github.com/badlogic/jot)
-  > Minimal self-hosted markdown editor with inline comment threads
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [angristan/netclode](https://github.com/angristan/netclode)
-  > Self hosted cloud coding agent with k3s + kata containers + cloud hypervisor microVMs + tailscale + ...
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [helsing-ai/yadr](https://github.com/helsing-ai/yadr)
-  > A tool for linting and extracting Y-ADRs from code.
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [MoonshotAI/checkpoint-engine](https://github.com/MoonshotAI/checkpoint-engine)
-  > Checkpoint-engine is a simple middleware to update model weights in LLM inference engines
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [MoonshotAI/Kimi-Vendor-Verifier](https://github.com/MoonshotAI/Kimi-Vendor-Verifier)
-  > Kimi-Vendor-Verifier
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [LordGoatius/JIMNIAC](https://github.com/LordGoatius/JIMNIAC)
-  > The most powerful ternary virtual machine in existnce.
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [wkqdzkd/Awesome-Reliable-Self-Evolving-Agents](https://github.com/wkqdzkd/Awesome-Reliable-Self-Evolving-Agents)
-  > Diving into Reliable Self-Evolving Agents: A Survey
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [linebender/fearless_simd](https://github.com/linebender/fearless_simd)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [GSI-HPC/simd](https://github.com/GSI-HPC/simd)
-  > Implementation of C++26 §29.10 Data-parallel types for GCC
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [chapel-lang/chapel](https://github.com/chapel-lang/chapel)
-  > a Productive Parallel Programming Language
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NVIDIA/barney](https://github.com/NVIDIA/barney)
-  > A Scalable (and Optionally, Data-Parallel) ANARI Multi-GPU Path Tracer
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [saleh2001k/react-native-nitro-theme-transition](https://github.com/saleh2001k/react-native-nitro-theme-transition)
-  > Native theme transitions for React Native with Nitro Modules
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [guizmaii-opensource/zio-temporal](https://github.com/guizmaii-opensource/zio-temporal)
-  > Build invincible apps with ZIO and https://temporal.io
-
-### [notfoundry](https://github.com/notfoundry)
-- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [elsung/dgx-spark-deepseek-v4-flash](https://github.com/elsung/dgx-spark-deepseek-v4-flash)
-  > 2x DGX Spark (GB10) running DeepSeek-V4-Flash: dual-node FP8 TP=2 (~41 tok/s single / ~350 agg), sin...
-
-### [realoriginal](https://github.com/realoriginal)
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
-  > A security-focused library OS supporting kernel- and user-mode execution
-
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
-  > Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/me...
-
-### [sintaxi](https://github.com/sintaxi)
-- 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [openrundev/openrun](https://github.com/openrundev/openrun)
-  > Deployment platform for teams to deploy internal tools. Deploy web apps declaratively, on a single-n...
-
-### [sophiajt](https://github.com/sophiajt)
-- 🍴 👤 [sophiajt](https://github.com/sophiajt) Forked [modular/modular](https://github.com/modular/modular) to [sophiajt/modular](https://github.com/sophiajt/modular)
-  > The Modular Platform (includes MAX & Mojo)
-
-### [thomasdarimont](https://github.com/thomasdarimont)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [hengyunabc/dumpclass](https://github.com/hengyunabc/dumpclass)
-  > Dump classes from running JVM process.
-
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HexRaysSA/ida-codemode](https://github.com/HexRaysSA/ida-codemode)
-  > ⚠️ Experimental prerelease ⚠️ IDA Code Mode gives agents a compact Python execution surface over the...
-
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer)
-  > Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, dependency DAG visuali...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [shader-slang/slang](https://github.com/shader-slang/slang)
-  > Making it easier to work with shaders
-
+The users you follow have no public activity today that matches the filter criteria.
 
 <!-- nav -->
-[← 2026-08-11](archive/2026/08/11.md)
+[← 2026-08-12](archive/2026/08/12.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 23:27:27 UTC*
+*Last updated at 2026-08-13 00:54:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
