@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [macro-inc/macro](https://github.com/macro-inc/macro)
   > Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked ...
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)
+  > Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline o...
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
@@ -19,6 +23,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [manyuegong33/r0crawl_skills](https://github.com/manyuegong33/r0crawl_skills) to [fengjixuchui/r0crawl_skills](https://github.com/fengjixuchui/r0crawl_skills)
   > r0crawl_skills is a massive reverse-engineering skill arsenal for web, Android, iOS, Frida, native b...
+
+### [fmeum](https://github.com/fmeum)
+- 🍴 👤 [fmeum](https://github.com/fmeum) Forked [buildfarm/buildfarm](https://github.com/buildfarm/buildfarm) to [fmeum/buildfarm](https://github.com/fmeum/buildfarm)
+  > Bazel remote caching and execution service
+
+### [hsiafan](https://github.com/hsiafan)
+- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [chinasoul/BT](https://github.com/chinasoul/BT)
+  > bilibili TV client
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Alakazam-studios/alakazam-studio](https://github.com/Alakazam-studios/alakazam-studio)
@@ -36,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 08:59:38 UTC*
+*Last updated at 2026-08-13 10:05:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
