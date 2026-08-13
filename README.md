@@ -111,6 +111,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [quarkiverse/quarkus-shim](https://github.com/quarkiverse/quarkus-shim)
   > Patch any Java class at build time — insert, wrap, or replace behavior in code you don't own
 
+### [trieu](https://github.com/trieu)
+- 🌟 👤 [trieu](https://github.com/trieu) Starred [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+  > TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and c...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [cellebrite-labs/ida_kcpp](https://github.com/cellebrite-labs/ida_kcpp)
   > An IDAPython module for enhancing c++ support on top of ida_kernelcache
@@ -129,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 17:47:16 UTC*
+*Last updated at 2026-08-13 18:43:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
