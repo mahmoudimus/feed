@@ -97,6 +97,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jveverka](https://github.com/jveverka) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
   > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 
+### [lovasoa](https://github.com/lovasoa)
+- 🍴 👤 [lovasoa](https://github.com/lovasoa) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [lovasoa/opencode](https://github.com/lovasoa/opencode)
+  > The open source coding agent.
+
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -115,6 +119,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/libdecomp](https://github.com/dmaivel/libdecomp)
   > Library for decompiling multi-architecture disassembly (ARM64, X86, X86-64) into source code (C, Zig...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [itskovacs/trip](https://github.com/itskovacs/trip)
+  > 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [badlogic/jot](https://github.com/badlogic/jot)
+  > Minimal self-hosted markdown editor with inline comment threads
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [angristan/netclode](https://github.com/angristan/netclode)
+  > Self hosted cloud coding agent with k3s + kata containers + cloud hypervisor microVMs + tailscale + ...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [helsing-ai/yadr](https://github.com/helsing-ai/yadr)
@@ -179,7 +189,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-12 22:27:34 UTC*
+*Last updated at 2026-08-12 23:27:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
