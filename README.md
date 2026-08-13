@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [macro-inc/macro](https://github.com/macro-inc/macro)
   > Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked ...
 
+### [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt)
+- 🌟 👤 [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt) Starred [imogenagle/Slide_Generation_Capstone](https://github.com/imogenagle/Slide_Generation_Capstone)
+  > Personalized Slide Generation Capstone Project with Adobe
+
 ### [Hellblazer](https://github.com/Hellblazer)
 - 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) to [Hellblazer/asd-ste100-skill](https://github.com/Hellblazer/asd-ste100-skill)
   > ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambig...
@@ -19,6 +23,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
   > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
+
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+- 🍴 👤 [Midi12](https://github.com/Midi12) Forked [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) to [Midi12/Hbgfddffff](https://github.com/Midi12/Hbgfddffff)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -93,6 +103,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [mathiasbynens](https://github.com/mathiasbynens)
+- 🌟 👤 [mathiasbynens](https://github.com/mathiasbynens) Starred [domfarolino/spec-writing-skill](https://github.com/domfarolino/spec-writing-skill)
+  > Web specification writing skill
+
+### [mjallday](https://github.com/mjallday)
+- 🌟 👤 [mjallday](https://github.com/mjallday) Starred [app-vitals/shipwright](https://github.com/app-vitals/shipwright)
+  > The open-source autonomous delivery agent for Claude Code.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [iBala/open-artifact](https://github.com/iBala/open-artifact) to [mrexodia/open-artifact](https://github.com/mrexodia/open-artifact)
   > Publish, share and comment on the HTML and Markdown your coding agent writes. Self-hosted.
@@ -133,7 +151,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 18:43:46 UTC*
+*Last updated at 2026-08-13 20:27:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
