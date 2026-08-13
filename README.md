@@ -37,6 +37,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Open-source Creator Studio | describe a world, edit it as a state graph, play it. Bring your own wor...
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Alakazam-studios/alakazam-studio](https://github.com/Alakazam-studios/alakazam-studio) to [johndpope/alakazam-studio](https://github.com/johndpope/alakazam-studio)
   > Open-source Creator Studio | describe a world, edit it as a state graph, play it. Bring your own wor...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [bet0x/kvtc-poc](https://github.com/bet0x/kvtc-poc)
+  > kvtc PoC — KV Cache Compression for LLM Inference
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs)
@@ -48,7 +50,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 10:05:03 UTC*
+*Last updated at 2026-08-13 11:36:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
