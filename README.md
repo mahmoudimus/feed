@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)
   > Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline o...
 
+### [droe](https://github.com/droe)
+- 🌟 👤 [droe](https://github.com/droe) Starred [rvben/jira-cli](https://github.com/rvben/jira-cli)
+  > Agent-friendly Jira CLI with JSON output, structured exit codes, and schema introspection
+
 ### [evilsocket](https://github.com/evilsocket)
 - 🌟 👤 [evilsocket](https://github.com/evilsocket) Starred [bettercap/bettercap](https://github.com/bettercap/bettercap)
   > The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM a...
@@ -117,7 +121,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 15:45:34 UTC*
+*Last updated at 2026-08-13 16:42:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
