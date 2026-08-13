@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Unlocking _everything_ on the CPU with DRAM scrambling
 - 🍴 👤 [Midi12](https://github.com/Midi12) Forked [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) to [Midi12/Hbgfddffff](https://github.com/Midi12/Hbgfddffff)
   > Unlocking _everything_ on the CPU with DRAM scrambling
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [0xSufi/fable-jailbreak](https://github.com/0xSufi/fable-jailbreak)
+  > Anthropic's Fable jailbreak for Claude Code CLI
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -69,6 +71,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)
   > Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Curs...
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [arcee-ai/nac](https://github.com/arcee-ai/nac)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [arcee-ai/DistillKit](https://github.com/arcee-ai/DistillKit)
+  > An Open Source Toolkit For LLM Distillation
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [manyuegong33/r0crawl_skills](https://github.com/manyuegong33/r0crawl_skills) to [fengjixuchui/r0crawl_skills](https://github.com/fengjixuchui/r0crawl_skills)
@@ -99,6 +104,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [bet0x/kvtc-poc](https://github.com/bet0x/kvtc-poc)
   > kvtc PoC — KV Cache Compression for LLM Inference
 
+### [johnmccabe](https://github.com/johnmccabe)
+- 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [go-vgo/robotgo](https://github.com/go-vgo/robotgo)
+  > RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
+- 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+  > The best-benchmarked open-source AI memory system. And it's free.
+- 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
+### [kenichi-shibata](https://github.com/kenichi-shibata)
+- 🌟 👤 [kenichi-shibata](https://github.com/kenichi-shibata) Starred [NousResearch/Hermes-Bot-Mode](https://github.com/NousResearch/Hermes-Bot-Mode)
+  > Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, a...
+
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -106,6 +123,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mathiasbynens](https://github.com/mathiasbynens)
 - 🌟 👤 [mathiasbynens](https://github.com/mathiasbynens) Starred [domfarolino/spec-writing-skill](https://github.com/domfarolino/spec-writing-skill)
   > Web specification writing skill
+
+### [matthewsot](https://github.com/matthewsot)
+- 🌟 👤 [matthewsot](https://github.com/matthewsot) Starred [Mendossss/Diffusion-policies-long-horizon-manipulation](https://github.com/Mendossss/Diffusion-policies-long-horizon-manipulation)
+  > An executed research study of autoencoders, DDPMs, diffusion policies, and long-horizon robot manipu...
+
+### [mitsuhiko](https://github.com/mitsuhiko)
+- 🌟 👤 [mitsuhiko](https://github.com/mitsuhiko) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
 
 ### [mjallday](https://github.com/mjallday)
 - 🌟 👤 [mjallday](https://github.com/mjallday) Starred [app-vitals/shipwright](https://github.com/app-vitals/shipwright)
@@ -117,6 +142,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [myusuf3](https://github.com/myusuf3)
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs)
   > Quickly find bottlenecks in Rust - one profiler for CPU, memory, SQL, HTTP, I/O and async code.
@@ -124,6 +153,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Meta-Framework of Spatiotemporal Composability
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+
+### [notfoundry](https://github.com/notfoundry)
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+- 🍴 👤 [notfoundry](https://github.com/notfoundry) Forked [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) to [notfoundry/skitter-creek-bath-salts](https://github.com/notfoundry/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
+### [parasyte](https://github.com/parasyte)
+- 🌟 👤 [parasyte](https://github.com/parasyte) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [quarkiverse/quarkus-shim](https://github.com/quarkiverse/quarkus-shim)
@@ -151,7 +190,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 20:27:24 UTC*
+*Last updated at 2026-08-13 22:28:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
