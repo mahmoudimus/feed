@@ -16,6 +16,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) to [Hellblazer/asd-ste100-skill](https://github.com/Hellblazer/asd-ste100-skill)
   > ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambig...
 
+### [ThomasVitale](https://github.com/ThomasVitale)
+- 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [testlens-app/setup-testlens](https://github.com/testlens-app/setup-testlens)
+  > GitHub setup action for TestLens
+
+### [alexazhou](https://github.com/alexazhou)
+- 🌟 👤 [alexazhou](https://github.com/alexazhou) Starred [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+  > One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate ...
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat)
   > Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline o...
@@ -23,6 +31,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)
+  > Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Curs...
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [manyuegong33/r0crawl_skills](https://github.com/manyuegong33/r0crawl_skills) to [fengjixuchui/r0crawl_skills](https://github.com/fengjixuchui/r0crawl_skills)
@@ -44,13 +56,33 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [bet0x/kvtc-poc](https://github.com/bet0x/kvtc-poc)
   > kvtc PoC — KV Cache Compression for LLM Inference
 
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [iBala/open-artifact](https://github.com/iBala/open-artifact) to [mrexodia/open-artifact](https://github.com/mrexodia/open-artifact)
+  > Publish, share and comment on the HTML and Markdown your coding agent writes. Self-hosted.
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs)
   > Quickly find bottlenecks in Rust - one profiler for CPU, memory, SQL, HTTP, I/O and async code.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cordiverse/cordis](https://github.com/cordiverse/cordis)
+  > Meta-Framework of Spatiotemporal Composability
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
 
-### [yajo](https://github.com/yajo)
-- 🍴 👤 [yajo](https://github.com/yajo) Forked [zalando/postgres-operator](https://github.com/zalando/postgres-operator) to [yajo/postgres-operator](https://github.com/yajo/postgres-operator)
-  > Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [cellebrite-labs/ida_kcpp](https://github.com/cellebrite-labs/ida_kcpp)
+  > An IDAPython module for enhancing c++ support on top of ida_kernelcache
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [williballenthin/ida-netnode](https://github.com/williballenthin/ida-netnode)
+  > Humane API for storing and accessing persistent data in IDA Pro databases
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [medigateio/ida_medigate](https://github.com/medigateio/ida_medigate)
+  > Medigate plugin for c++ reverse engineering and other utils
+
+### [wincent](https://github.com/wincent)
+- 🌟 👤 [wincent](https://github.com/wincent) Starred [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit)
+  > A lightweight command-line tool that spins up a local web server to display Git commit diffs in a Gi...
 
 
 <!-- nav -->
@@ -58,7 +90,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 12:39:33 UTC*
+*Last updated at 2026-08-13 14:12:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
