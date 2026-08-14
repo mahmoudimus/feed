@@ -18,6 +18,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
   > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
+### [JLLeitschuh](https://github.com/JLLeitschuh)
+- 🌟 👤 [JLLeitschuh](https://github.com/JLLeitschuh) Starred [doordash-oss/doordash-cli](https://github.com/doordash-oss/doordash-cli)
+
 ### [NormXU](https://github.com/NormXU)
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -27,6 +30,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > View8 - Decompiles serialized V8 objects back into high-level readable code.
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+
+### [Xyl2k](https://github.com/Xyl2k)
+- 🌟 👤 [Xyl2k](https://github.com/Xyl2k) Starred [ianhan/BitmapFonts](https://github.com/ianhan/BitmapFonts)
+  > My collection of bitmap fonts pulled from various demoscene archives over the years
 
 ### [buger](https://github.com/buger)
 - 🚀 👤 [buger](https://github.com/buger) Made [probelabs/amazon-bedrock-serverless-prompt-chaining-audit](https://github.com/probelabs/amazon-bedrock-serverless-prompt-chaining-audit) public
@@ -60,6 +67,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [guilsa](https://github.com/guilsa) Forked [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) to [guilsa/nixos-config](https://github.com/guilsa/nixos-config)
   > My NixOS configurations.
 
+### [ingydotnet](https://github.com/ingydotnet)
+- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [makeplus/makes](https://github.com/makeplus/makes) to [yamlcity/makes](https://github.com/yamlcity/makes)
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
@@ -74,6 +84,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [filliptm/ComfyUI_FL-MCP](https://github.com/filliptm/ComfyUI_FL-MCP)
+
+### [justaugustus](https://github.com/justaugustus)
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish)
+  > The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the t...
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
@@ -122,6 +136,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [fkie-cad/dewolf](https://github.com/fkie-cad/dewolf)
   > A research decompiler implemented as a Binary Ninja plugin.
 
+### [remear](https://github.com/remear)
+- 🌟 👤 [remear](https://github.com/remear) Starred [wouterdebie/davit](https://github.com/wouterdebie/davit)
+  > A native macOS UI for Apple's platform
+
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [xyz2tex/svg2tikz](https://github.com/xyz2tex/svg2tikz)
   > An Inkscape extension for exporting SVG paths as TikZ/PGF paths
@@ -138,6 +156,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [paulmillr/bismar](https://github.com/paulmillr/bismar)
   > Browse, weigh, and diff packages from npm, jsr, crates.io, rubygems, pypi, packagist, github
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [prime-radiant-inc/engineering-notebook](https://github.com/prime-radiant-inc/engineering-notebook)
+  > A Bun CLI that ingests Claude Code and Codex session transcripts, generates LLM-powered daily summar...
+
+### [skx](https://github.com/skx)
+- 🌟 👤 [skx](https://github.com/skx) Starred [jes/cpm-brainfuck](https://github.com/jes/cpm-brainfuck)
+  > A Semi-literate Brainfuck Compiler for CP/M
+
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
@@ -149,6 +175,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Hostzero-GmbH/keycloak-operator](https://github.com/Hostzero-GmbH/keycloak-operator)
   > Kubernetes operator for Keycloak. Manage realms, clients, users, roles, and identity providers as co...
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [hierynomus/asn-one](https://github.com/hierynomus/asn-one)
+  > A Standalone ASN.1 Encoding/Decoding Library in Java
 
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
@@ -173,7 +201,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 18:37:26 UTC*
+*Last updated at 2026-08-14 20:19:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
