@@ -15,6 +15,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Clivern](https://github.com/Clivern)
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
   > A straightforward method for training your LLM, from downloading data to generating text.
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+  > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ### [NormXU](https://github.com/NormXU)
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -42,6 +44,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [jaredpalmer](https://github.com/jaredpalmer)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [basecamp/manager-playbook](https://github.com/basecamp/manager-playbook)
+  > Handbook for people leaders at 37signals.
+
 ### [jart](https://github.com/jart)
 - 🌟 👤 [jart](https://github.com/jart) Starred [starccy/rust-ape](https://github.com/starccy/rust-ape)
   > Build Rust programs into Cosmopolitan APE binaries: one file that runs on Linux, macOS, Windows, on ...
@@ -61,6 +67,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [owenyuwono/poseidon](https://github.com/owenyuwono/poseidon)
   > GPU-driven real-time FFT ocean (Three.js + WebGPU/TSL)
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator)
+  > LLVM based obfuscator
+
 ### [miyakogi](https://github.com/miyakogi)
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
   > Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades ...
@@ -71,6 +81,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A native-feeling macOS desktop workspace for Prime Agent
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator)
   > LLVM based obfuscator
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [radkawar/screenlogger](https://github.com/radkawar/screenlogger) to [mrexodia/screenlogger](https://github.com/mrexodia/screenlogger)
+  > Private, searchable screen history for macOS.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [telos-org/telos](https://github.com/telos-org/telos)
@@ -97,10 +109,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [libkrun/krunvm](https://github.com/libkrun/krunvm)
   > Create microVMs from OCI images
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [paulmillr/bismar](https://github.com/paulmillr/bismar)
+  > Browse, weigh, and diff packages from npm, jsr, crates.io, rubygems, pypi, packagist, github
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Hostzero-GmbH/keycloak-operator](https://github.com/Hostzero-GmbH/keycloak-operator)
+  > Kubernetes operator for Keycloak. Manage realms, clients, users, roles, and identity providers as co...
 
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
@@ -123,7 +141,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 14:06:14 UTC*
+*Last updated at 2026-08-14 15:39:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
