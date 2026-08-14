@@ -164,6 +164,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [parasyte](https://github.com/parasyte) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [race-nevils/brille](https://github.com/race-nevils/brille)
+  > Your agent renders the UI change as ephemeral HTML in your own design system. Annotate your changes,...
+
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [quarkiverse/quarkus-shim](https://github.com/quarkiverse/quarkus-shim)
   > Patch any Java class at build time — insert, wrap, or replace behavior in code you don't own
@@ -190,7 +194,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-13 22:28:42 UTC*
+*Last updated at 2026-08-13 23:28:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
