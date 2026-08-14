@@ -16,9 +16,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [suleram/View8](https://github.com/suleram/View8)
+  > View8 - Decompiles serialized V8 objects back into high-level readable code.
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
   > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+
+### [miyakogi](https://github.com/miyakogi)
+- 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+  > Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades ...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [napbat/semctl](https://github.com/napbat/semctl)
@@ -26,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [paulirish](https://github.com/paulirish)
 - 🌟 👤 [paulirish](https://github.com/paulirish) Starred [SparrowMap/sparrowmap](https://github.com/SparrowMap/sparrowmap)
   > A system for an open, public record of government vehicles on public roads, run by volunteers. Priva...
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [fkie-cad/dewolf](https://github.com/fkie-cad/dewolf)
+  > A research decompiler implemented as a Binary Ninja plugin.
 
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [codemagic-ci-cd/codemagic-patch](https://github.com/codemagic-ci-cd/codemagic-patch)
@@ -37,13 +51,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [libkrun/krunvm](https://github.com/libkrun/krunvm)
   > Create microVMs from OCI images
 
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 
 <!-- nav -->
 [← 2026-08-13](archive/2026/08/13.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 03:18:01 UTC*
+*Last updated at 2026-08-14 05:22:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
