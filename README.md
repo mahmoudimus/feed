@@ -28,9 +28,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [buger](https://github.com/buger)
+- 🚀 👤 [buger](https://github.com/buger) Made [probelabs/amazon-bedrock-serverless-prompt-chaining-audit](https://github.com/probelabs/amazon-bedrock-serverless-prompt-chaining-audit) public
+  > Private ReqProof audit workspace for aws-samples/amazon-bedrock-serverless-prompt-chaining. Contains...
+
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
+
+### [dark-panda](https://github.com/dark-panda)
+- 🍴 👤 [dark-panda](https://github.com/dark-panda) Forked [turbot/steampipe-plugin-jira](https://github.com/turbot/steampipe-plugin-jira) to [dark-panda/steampipe-plugin-jira](https://github.com/dark-panda/steampipe-plugin-jira)
+  > Use SQL to instantly query Jira. Open source CLI. No DB required.
+
+### [ftomassetti](https://github.com/ftomassetti)
+- 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [NanoNets/Graft](https://github.com/NanoNets/Graft)
+  > Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextua...
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [ServiceNow/Dark-Agent](https://github.com/ServiceNow/Dark-Agent)
@@ -39,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > powerful tool to bypass ijiami 4th Gen. android dex unpacker for iJiami and other packers
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
   > 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条...
+
+### [guilsa](https://github.com/guilsa)
+- 🍴 👤 [guilsa](https://github.com/guilsa) Forked [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) to [guilsa/nixos-config](https://github.com/guilsa/nixos-config)
+  > My NixOS configurations.
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -54,6 +70,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [filliptm/ComfyUI_FL-MCP](https://github.com/filliptm/ComfyUI_FL-MCP)
+
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+  > Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth enginee...
 
 ### [laurci](https://github.com/laurci)
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -125,6 +145,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
   > A very very very very very very very long interrupt
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [xyproto/favicon-editor](https://github.com/xyproto/favicon-editor)
+  > :abacus: Spartan grayscale favicon editor for the terminal
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [dprint/jsonc-parser](https://github.com/dprint/jsonc-parser)
@@ -143,7 +165,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 16:37:44 UTC*
+*Last updated at 2026-08-14 17:42:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
