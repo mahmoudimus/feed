@@ -33,6 +33,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [ServiceNow/Dark-Agent](https://github.com/ServiceNow/Dark-Agent)
   > Mythic C2 agent with a full in-memory BOF loader for macOS and Linux
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [Krainium/DarkDex](https://github.com/Krainium/DarkDex)
+  > powerful tool to bypass ijiami 4th Gen. android dex unpacker for iJiami and other packers
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -100,7 +102,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 09:49:11 UTC*
+*Last updated at 2026-08-14 10:45:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
