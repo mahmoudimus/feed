@@ -22,9 +22,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [ServiceNow/Dark-Agent](https://github.com/ServiceNow/Dark-Agent)
+  > Mythic C2 agent with a full in-memory BOF loader for macOS and Linux
+
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
   > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [owenyuwono/poseidon](https://github.com/owenyuwono/poseidon)
+  > GPU-driven real-time FFT ocean (Three.js + WebGPU/TSL)
 
 ### [miyakogi](https://github.com/miyakogi)
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
@@ -55,13 +61,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [dprint/jsonc-parser](https://github.com/dprint/jsonc-parser)
+  > JSONC parsing and manipulation for Rust
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
 
 <!-- nav -->
 [← 2026-08-13](archive/2026/08/13.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 05:22:22 UTC*
+*Last updated at 2026-08-14 07:03:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
