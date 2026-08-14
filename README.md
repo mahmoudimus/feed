@@ -31,6 +31,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [ManticoreGamesInc/vscode-core](https://github.com/ManticoreGamesInc/vscode-core) to [Stanzilla/vscode-core](https://github.com/Stanzilla/vscode-core)
+  > A Visual Studio Code extension that adds support for the Core Games Lua API to the Lua Language Serv...
+- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [ManticoreGamesInc/platform-documentation](https://github.com/ManticoreGamesInc/platform-documentation) to [Stanzilla/platform-documentation](https://github.com/Stanzilla/platform-documentation)
+  > Core Platform API Documentation & Tutorials
+- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [ManticoreGamesInc/mkdocs-material](https://github.com/ManticoreGamesInc/mkdocs-material) to [Stanzilla/mkdocs-material](https://github.com/Stanzilla/mkdocs-material)
+  > A Material Design theme for MkDocs
+
 ### [Xyl2k](https://github.com/Xyl2k)
 - 🌟 👤 [Xyl2k](https://github.com/Xyl2k) Starred [ianhan/BitmapFonts](https://github.com/ianhan/BitmapFonts)
   > My collection of bitmap fonts pulled from various demoscene archives over the years
@@ -46,6 +54,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dark-panda](https://github.com/dark-panda)
 - 🍴 👤 [dark-panda](https://github.com/dark-panda) Forked [turbot/steampipe-plugin-jira](https://github.com/turbot/steampipe-plugin-jira) to [dark-panda/steampipe-plugin-jira](https://github.com/dark-panda/steampipe-plugin-jira)
   > Use SQL to instantly query Jira. Open source CLI. No DB required.
+
+### [evilsocket](https://github.com/evilsocket)
+- 🌟 👤 [evilsocket](https://github.com/evilsocket) Starred [Exploit-Garbage/0day-Rubbish](https://github.com/Exploit-Garbage/0day-Rubbish)
+  > Redefining vulnerability disclosure in the AI era. We mass-produce exploitable 0days and disclose th...
 
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [joho/godotenv](https://github.com/joho/godotenv)
@@ -201,7 +213,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 20:19:38 UTC*
+*Last updated at 2026-08-14 22:10:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
