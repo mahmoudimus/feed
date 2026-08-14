@@ -26,6 +26,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [ServiceNow/Dark-Agent](https://github.com/ServiceNow/Dark-Agent)
   > Mythic C2 agent with a full in-memory BOF loader for macOS and Linux
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
+### [laurci](https://github.com/laurci)
+- 🌟 👤 [laurci](https://github.com/laurci) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
   > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
@@ -38,6 +46,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [napbat/semctl](https://github.com/napbat/semctl)
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [telos-org/telos](https://github.com/telos-org/telos)
+  > Goal-oriented agent runtime
 
 ### [paulirish](https://github.com/paulirish)
 - 🌟 👤 [paulirish](https://github.com/paulirish) Starred [SparrowMap/sparrowmap](https://github.com/SparrowMap/sparrowmap)
@@ -66,6 +78,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > JSONC parsing and manipulation for Rust
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [langchain-ai/langsmith-cli](https://github.com/langchain-ai/langsmith-cli)
+  > A coding agent-first CLI for interacting with LangSmith.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [langchain-ai/langsmith-skills](https://github.com/langchain-ai/langsmith-skills)
 
 
 <!-- nav -->
@@ -73,7 +88,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 07:03:26 UTC*
+*Last updated at 2026-08-14 08:55:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
