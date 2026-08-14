@@ -42,6 +42,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [jart](https://github.com/jart)
+- 🌟 👤 [jart](https://github.com/jart) Starred [starccy/rust-ape](https://github.com/starccy/rust-ape)
+  > Build Rust programs into Cosmopolitan APE binaries: one file that runs on Linux, macOS, Windows, on ...
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [filliptm/ComfyUI_FL-MCP](https://github.com/filliptm/ComfyUI_FL-MCP)
+
 ### [laurci](https://github.com/laurci)
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
@@ -77,6 +84,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [fkie-cad/dewolf](https://github.com/fkie-cad/dewolf)
   > A research decompiler implemented as a Binary Ninja plugin.
 
+### [rougier](https://github.com/rougier)
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [xyz2tex/svg2tikz](https://github.com/xyz2tex/svg2tikz)
+  > An Inkscape extension for exporting SVG paths as TikZ/PGF paths
+
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [codemagic-ci-cd/codemagic-patch](https://github.com/codemagic-ci-cd/codemagic-patch)
   > Self-hosted over-the-air update service for React Native apps
@@ -103,6 +114,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [langchain-ai/langsmith-cli](https://github.com/langchain-ai/langsmith-cli)
   > A coding agent-first CLI for interacting with LangSmith.
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [langchain-ai/langsmith-skills](https://github.com/langchain-ai/langsmith-skills)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [saghen/blink.indent](https://github.com/saghen/blink.indent)
+  > Performant indent guides for neovim
 
 
 <!-- nav -->
@@ -110,7 +123,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 12:35:08 UTC*
+*Last updated at 2026-08-14 14:06:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
