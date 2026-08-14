@@ -40,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [dark-panda](https://github.com/dark-panda) Forked [turbot/steampipe-plugin-jira](https://github.com/turbot/steampipe-plugin-jira) to [dark-panda/steampipe-plugin-jira](https://github.com/dark-panda/steampipe-plugin-jira)
   > Use SQL to instantly query Jira. Open source CLI. No DB required.
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [joho/godotenv](https://github.com/joho/godotenv)
+  > A Go port of Ruby's dotenv library (Loads environment variables from .env files)
+
 ### [ftomassetti](https://github.com/ftomassetti)
 - 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [NanoNets/Graft](https://github.com/NanoNets/Graft)
   > Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextua...
@@ -138,6 +142,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [staringispolite](https://github.com/staringispolite)
+- 🌟 👤 [staringispolite](https://github.com/staringispolite) Starred [pashov/skills](https://github.com/pashov/skills)
+  > Pashov Audit Group Skills
+
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Hostzero-GmbH/keycloak-operator](https://github.com/Hostzero-GmbH/keycloak-operator)
   > Kubernetes operator for Keycloak. Manage realms, clients, users, roles, and identity providers as co...
@@ -165,7 +173,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 17:42:29 UTC*
+*Last updated at 2026-08-14 18:37:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
