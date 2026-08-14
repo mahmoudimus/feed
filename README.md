@@ -35,6 +35,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Mythic C2 agent with a full in-memory BOF loader for macOS and Linux
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [Krainium/DarkDex](https://github.com/Krainium/DarkDex)
   > powerful tool to bypass ijiami 4th Gen. android dex unpacker for iJiami and other packers
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
+  > 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条...
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -43,6 +45,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [laurci](https://github.com/laurci)
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
+- 🌟 👤 [laurci](https://github.com/laurci) Starred [computesdk/benchmarks](https://github.com/computesdk/benchmarks)
+  > Compare startup time-to-interactive for top sandbox providers.
 
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
@@ -58,6 +62,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [napbat/semctl](https://github.com/napbat/semctl)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [am-will/gooey-pi](https://github.com/am-will/gooey-pi)
   > A native-feeling macOS desktop workspace for Prime Agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator)
+  > LLVM based obfuscator
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [telos-org/telos](https://github.com/telos-org/telos)
@@ -104,7 +110,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 11:34:26 UTC*
+*Last updated at 2026-08-14 12:35:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
