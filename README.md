@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [1ilsang](https://github.com/1ilsang) Starred [woowabros/critical-script](https://github.com/woowabros/critical-script)
   > Vite plugin to inline TypeScript modules as critical HTML scripts that run before the main JS bundle...
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
+  > A straightforward method for training your LLM, from downloading data to generating text.
+
 ### [NormXU](https://github.com/NormXU)
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -21,6 +25,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > View8 - Decompiles serialized V8 objects back into high-level readable code.
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+
+### [cra0](https://github.com/cra0)
+- 🌟 👤 [cra0](https://github.com/cra0) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [ServiceNow/Dark-Agent](https://github.com/ServiceNow/Dark-Agent)
@@ -73,6 +81,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [dprint/jsonc-parser](https://github.com/dprint/jsonc-parser)
   > JSONC parsing and manipulation for Rust
@@ -88,7 +100,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 08:55:04 UTC*
+*Last updated at 2026-08-14 09:49:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
