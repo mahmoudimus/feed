@@ -45,10 +45,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shanselman](https://github.com/shanselman)
 - 🍴 👤 [shanselman](https://github.com/shanselman) Forked [jonashonecker/feedpaper](https://github.com/jonashonecker/feedpaper) to [shanselman/feedpaper](https://github.com/shanselman/feedpaper)
 
+### [yegor256](https://github.com/yegor256)
+- 🌟 👤 [yegor256](https://github.com/yegor256) Starred [objectionary/lints](https://github.com/objectionary/lints)
+  > A collection of style checkers for XMIR: they don't predict runtime errors, but prevent compilation ...
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [georgeharker/tree-sitter-zsh](https://github.com/georgeharker/tree-sitter-zsh)
   > zsh grammar for tree sitter
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [matklad/cargo-xtask](https://github.com/matklad/cargo-xtask)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [helix-editor/nucleo](https://github.com/helix-editor/nucleo)
+  > A fast and convenient fuzzy matcher library for rust
 
 
 <!-- nav -->
@@ -56,7 +62,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 08:12:54 UTC*
+*Last updated at 2026-08-15 09:13:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
