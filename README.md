@@ -20,12 +20,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) to [Hellblazer/deepseek-harness](https://github.com/Hellblazer/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🚀 👤 [TomasVotruba](https://github.com/TomasVotruba) Made [TomasVotruba/fast-unit](https://github.com/TomasVotruba/fast-unit) public
 
 ### [XZ-X](https://github.com/XZ-X)
 - 🍴 👤 [XZ-X](https://github.com/XZ-X) Forked [oddessentials/ado-git-repo-insights](https://github.com/oddessentials/ado-git-repo-insights) to [XZ-X/ado-git-repo-insights](https://github.com/XZ-X/ado-git-repo-insights)
   > Extract Azure DevOps Pull Request metrics to SQLite and generate PowerBI-compatible CSVs.
+
+### [bbugdigger](https://github.com/bbugdigger)
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)
+  > A curated list of awesome Android Reverse Engineering training, resources, and tools.
 
 ### [colby57](https://github.com/colby57)
 - 🌟 👤 [colby57](https://github.com/colby57) Starred [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs)
@@ -115,6 +123,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A fast and convenient fuzzy matcher library for rust
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua)
   > The fastest Neovim colorizer
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [criterion-rs/criterion.rs](https://github.com/criterion-rs/criterion.rs)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [nvzqz/divan](https://github.com/nvzqz/divan)
+  > Fast and simple benchmarking for Rust projects
 
 
 <!-- nav -->
@@ -122,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 17:10:18 UTC*
+*Last updated at 2026-08-15 18:10:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
