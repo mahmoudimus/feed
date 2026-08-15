@@ -14,6 +14,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [GrandpaGameHacker](https://github.com/GrandpaGameHacker) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [Hellblazer](https://github.com/Hellblazer)
+- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [cordiverse/cordis](https://github.com/cordiverse/cordis) to [Hellblazer/cordis](https://github.com/Hellblazer/cordis)
+  > Meta-Framework of Spatiotemporal Composability
+- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) to [Hellblazer/deepseek-harness](https://github.com/Hellblazer/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🚀 👤 [TomasVotruba](https://github.com/TomasVotruba) Made [TomasVotruba/fast-unit](https://github.com/TomasVotruba/fast-unit) public
 
@@ -32,6 +38,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Using OpenCv's Android Camera2(JavaCamera2View) with OpenCV 4.10.0-4.14.0
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [zcablii/SARDet_100K](https://github.com/zcablii/SARDet_100K)
   >  [NeurIPS 2024 spotlight] Offical implementation of MSFA and release of SARDet_100K dataset for Larg...
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [findit-studio/colorthief](https://github.com/findit-studio/colorthief)
 
 ### [imrehg](https://github.com/imrehg)
 - 🍴 👤 [imrehg](https://github.com/imrehg) Forked [dkms-project/dkms](https://github.com/dkms-project/dkms) to [imrehg/dkms](https://github.com/imrehg/dkms)
@@ -101,7 +110,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 13:21:11 UTC*
+*Last updated at 2026-08-15 14:10:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
