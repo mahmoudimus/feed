@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [imrehg](https://github.com/imrehg)
 - 🍴 👤 [imrehg](https://github.com/imrehg) Forked [dkms-project/dkms](https://github.com/dkms-project/dkms) to [imrehg/dkms](https://github.com/imrehg/dkms)
   > Dynamic Kernel Module System
+- 🍴 👤 [imrehg](https://github.com/imrehg) Forked [facultyai/pydantic-ai-course](https://github.com/facultyai/pydantic-ai-course) to [imrehg/pydantic-ai-course](https://github.com/imrehg/pydantic-ai-course)
+  > A hands-on course for learning PydanticAI - the Python agent framework built on Pydantic
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
@@ -54,7 +56,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 06:16:26 UTC*
+*Last updated at 2026-08-15 07:20:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
