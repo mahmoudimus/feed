@@ -43,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mojoboost-ml/mojoboost](https://github.com/mojoboost-ml/mojoboost)
   > Gradient boosted decision trees in Mojo. LightGBM-style histogram splits and leaf-wise growth.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bobzhang/moonbit-prolog](https://github.com/bobzhang/moonbit-prolog)
+  > A small but real Prolog interpreter written in MoonBit: unification, backtracking, cut, findall, REP...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [monotykamary/pi-fabric](https://github.com/monotykamary/pi-fabric)
+  > A programmable tool and agent runtime for Pi
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [getzola/zola](https://github.com/getzola/zola)
@@ -50,8 +54,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [yewstack/yew](https://github.com/yewstack/yew)
   > Rust / Wasm framework for creating reliable and efficient web applications
 
+### [rocky](https://github.com/rocky)
+- 🌟 👤 [rocky](https://github.com/rocky) Starred [libcdio/libcdio-sys](https://github.com/libcdio/libcdio-sys)
+  > Native Rust bindings to the libcdio library
+
 ### [shanselman](https://github.com/shanselman)
 - 🍴 👤 [shanselman](https://github.com/shanselman) Forked [jonashonecker/feedpaper](https://github.com/jonashonecker/feedpaper) to [shanselman/feedpaper](https://github.com/shanselman/feedpaper)
+
+### [wincent](https://github.com/wincent)
+- 🌟 👤 [wincent](https://github.com/wincent) Starred [siddhantgoel/awesome-beancount](https://github.com/siddhantgoel/awesome-beancount)
+  > Awesome Beancount Resources
 
 ### [yegor256](https://github.com/yegor256)
 - 🌟 👤 [yegor256](https://github.com/yegor256) Starred [objectionary/lints](https://github.com/objectionary/lints)
@@ -67,6 +79,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [matklad/cargo-xtask](https://github.com/matklad/cargo-xtask)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [helix-editor/nucleo](https://github.com/helix-editor/nucleo)
   > A fast and convenient fuzzy matcher library for rust
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua)
+  > The fastest Neovim colorizer
 
 
 <!-- nav -->
@@ -74,7 +88,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 11:08:32 UTC*
+*Last updated at 2026-08-15 12:13:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
