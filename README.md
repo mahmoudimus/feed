@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
   > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 
+### [ludoch](https://github.com/ludoch)
+- 🌟 👤 [ludoch](https://github.com/ludoch) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+  > Hundreds of models & providers. One command to find what runs on your hardware.
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mojoboost-ml/mojoboost](https://github.com/mojoboost-ml/mojoboost)
   > Gradient boosted decision trees in Mojo. LightGBM-style histogram splits and leaf-wise growth.
@@ -53,6 +57,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [yegor256](https://github.com/yegor256) Starred [objectionary/lints](https://github.com/objectionary/lints)
   > A collection of style checkers for XMIR: they don't predict runtime errors, but prevent compilation ...
 
+### [zacharywhitley](https://github.com/zacharywhitley)
+- 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [inferno-framework/smart-app-launch-test-kit](https://github.com/inferno-framework/smart-app-launch-test-kit) to [zacharywhitley/smart-app-launch-test-kit](https://github.com/zacharywhitley/smart-app-launch-test-kit)
+  > Conformance Testing for the SMART Application Launch Framework Implementation Guide
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [georgeharker/tree-sitter-zsh](https://github.com/georgeharker/tree-sitter-zsh)
   > zsh grammar for tree sitter
@@ -66,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 10:09:58 UTC*
+*Last updated at 2026-08-15 11:08:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
