@@ -30,6 +30,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [scott306lr/herdr-plugin-hunk-autodiff](https://github.com/scott306lr/herdr-plugin-hunk-autodiff)
+  > Herdr plugin: auto-open a hunk diff split when a coding agent finishes with uncommitted changes
+
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🚀 👤 [TomasVotruba](https://github.com/TomasVotruba) Made [TomasVotruba/fast-unit](https://github.com/TomasVotruba/fast-unit) public
 
@@ -76,13 +80,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
   > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [Castux/thunky](https://github.com/Castux/thunky)
+  > A toy language developed to learn about compilers, pure functional programming and lazy evaluation.
+
 ### [ludoch](https://github.com/ludoch)
 - 🌟 👤 [ludoch](https://github.com/ludoch) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
   > Hundreds of models & providers. One command to find what runs on your hardware.
 
+### [mbr](https://github.com/mbr)
+- 🚀 👤 [mbr](https://github.com/mbr) Made [mbr/nixdrawer](https://github.com/mbr/nixdrawer) public
+  > You need hot sauce, duck sauce, soy sauce, and safety pins
+
 ### [miyakogi](https://github.com/miyakogi)
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh)
   > Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim ...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ziyao233/lynx-js](https://github.com/ziyao233/lynx-js)
+  > Add QuickJS to lynx as JavaScript engine.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mojotrees/mojotrees](https://github.com/mojotrees/mojotrees)
@@ -103,6 +119,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [yewstack/yew](https://github.com/yewstack/yew)
   > Rust / Wasm framework for creating reliable and efficient web applications
+
+### [redstar](https://github.com/redstar)
+- 🍴 👤 [redstar](https://github.com/redstar) Forked [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) to [redstar/CodeWhale](https://github.com/redstar/CodeWhale)
+  > Open-source, community-driven agent harness
 
 ### [rocky](https://github.com/rocky)
 - 🌟 👤 [rocky](https://github.com/rocky) Starred [libcdio/libcdio-sys](https://github.com/libcdio/libcdio-sys)
@@ -138,6 +158,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [criterion-rs/criterion.rs](https://github.com/criterion-rs/criterion.rs)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [nvzqz/divan](https://github.com/nvzqz/divan)
   > Fast and simple benchmarking for Rust projects
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [rosetta-rs/hashing-rosetta-rs](https://github.com/rosetta-rs/hashing-rosetta-rs)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed)
+  > CodSpeed is the all-in-one performance testing toolkit. Optimize code performance and catch regressi...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [CodSpeedHQ/codspeed-go](https://github.com/CodSpeedHQ/codspeed-go)
 
 
 <!-- nav -->
@@ -145,7 +169,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 21:09:17 UTC*
+*Last updated at 2026-08-15 22:07:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
