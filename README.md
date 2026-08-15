@@ -38,6 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Core Platform API Documentation & Tutorials
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [ManticoreGamesInc/mkdocs-material](https://github.com/ManticoreGamesInc/mkdocs-material) to [Stanzilla/mkdocs-material](https://github.com/Stanzilla/mkdocs-material)
   > A Material Design theme for MkDocs
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
 
 ### [Xyl2k](https://github.com/Xyl2k)
 - 🌟 👤 [Xyl2k](https://github.com/Xyl2k) Starred [ianhan/BitmapFonts](https://github.com/ianhan/BitmapFonts)
@@ -190,6 +191,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [hierynomus/asn-one](https://github.com/hierynomus/asn-one)
   > A Standalone ASN.1 Encoding/Decoding Library in Java
 
+### [willshiao](https://github.com/willshiao)
+- 🌟 👤 [willshiao](https://github.com/willshiao) Starred [unitreerobotics/xr_teleoperate](https://github.com/unitreerobotics/xr_teleoperate)
+  > This repository implements teleoperation of the Unitree humanoid robot using XR Devices.
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
   > A very very very very very very very long interrupt
@@ -213,7 +218,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-14 22:10:30 UTC*
+*Last updated at 2026-08-14 23:09:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
