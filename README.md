@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BaseMax](https://github.com/BaseMax)
+- 🚀 👤 [BaseMax](https://github.com/BaseMax) Made [BaseMax/marine-traffic-data](https://github.com/BaseMax/marine-traffic-data) public
+  > A Python tool for collecting AIS vessel data from MarineTraffic map endpoints, with geographic tile ...
+- 🚀 👤 [BaseMax](https://github.com/BaseMax) Made [BaseMax/iran-map-vessel](https://github.com/BaseMax/iran-map-vessel) public
+  > An interactive map of a live AIS snapshot of 4,993 vessels in and around Iranian waters: the Persian...
+
 ### [GrandpaGameHacker](https://github.com/GrandpaGameHacker)
 - 🌟 👤 [GrandpaGameHacker](https://github.com/GrandpaGameHacker) Starred [Midi12/Hbgfddffff](https://github.com/Midi12/Hbgfddffff)
   > Unlocking _everything_ on the CPU with DRAM scrambling
@@ -133,7 +139,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 19:12:04 UTC*
+*Last updated at 2026-08-15 20:09:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
