@@ -48,6 +48,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
   > Switchyard lets LLM applications route traffic across models and providers while preserving native O...
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [fabro-sh/fabro](https://github.com/fabro-sh/fabro)
+  > ⚒️ The open source dark software factory for expert engineers.
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [onuralpszr/trackforge](https://github.com/onuralpszr/trackforge)
@@ -91,6 +93,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A programmable tool and agent runtime for Pi
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tornikegomareli/Talkify](https://github.com/tornikegomareli/Talkify)
   > Lightning-fast, free, local first voice dictation for macOS with on-device transcription
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [getzola/zola](https://github.com/getzola/zola)
@@ -139,7 +145,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 20:09:11 UTC*
+*Last updated at 2026-08-15 21:09:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
