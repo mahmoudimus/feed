@@ -41,6 +41,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [XZ-X](https://github.com/XZ-X) Forked [oddessentials/ado-git-repo-insights](https://github.com/oddessentials/ado-git-repo-insights) to [XZ-X/ado-git-repo-insights](https://github.com/XZ-X/ado-git-repo-insights)
   > Extract Azure DevOps Pull Request metrics to SQLite and generate PowerBI-compatible CSVs.
 
+### [ambethia](https://github.com/ambethia)
+- 🌟 👤 [ambethia](https://github.com/ambethia) Starred [ImSundee/Turtleblobifier](https://github.com/ImSundee/Turtleblobifier)
+  > Blobifier for AFC
+
 ### [bbugdigger](https://github.com/bbugdigger)
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)
   > A curated list of awesome Android Reverse Engineering training, resources, and tools.
@@ -54,6 +58,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Switchyard lets LLM applications route traffic across models and providers while preserving native O...
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [fabro-sh/fabro](https://github.com/fabro-sh/fabro)
   > ⚒️ The open source dark software factory for expert engineers.
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [radareorg/r2flutter](https://github.com/radareorg/r2flutter)
+  > Dart/Flutter support for radare2
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator)
+  > LLVM based obfuscator
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [lief-project/LIEF](https://github.com/lief-project/LIEF)
+  > LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+  > 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [onuralpszr/trackforge](https://github.com/onuralpszr/trackforge)
@@ -169,7 +185,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 22:07:56 UTC*
+*Last updated at 2026-08-15 23:09:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
