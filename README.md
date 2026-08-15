@@ -14,9 +14,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [GrandpaGameHacker](https://github.com/GrandpaGameHacker) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [TomasVotruba](https://github.com/TomasVotruba)
+- 🚀 👤 [TomasVotruba](https://github.com/TomasVotruba) Made [TomasVotruba/fast-unit](https://github.com/TomasVotruba/fast-unit) public
+
 ### [XZ-X](https://github.com/XZ-X)
 - 🍴 👤 [XZ-X](https://github.com/XZ-X) Forked [oddessentials/ado-git-repo-insights](https://github.com/oddessentials/ado-git-repo-insights) to [XZ-X/ado-git-repo-insights](https://github.com/XZ-X/ado-git-repo-insights)
   > Extract Azure DevOps Pull Request metrics to SQLite and generate PowerBI-compatible CSVs.
+
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
+  > Switchyard lets LLM applications route traffic across models and providers while preserving native O...
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [onuralpszr/trackforge](https://github.com/onuralpszr/trackforge)
@@ -40,13 +47,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ludoch](https://github.com/ludoch) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
   > Hundreds of models & providers. One command to find what runs on your hardware.
 
+### [miyakogi](https://github.com/miyakogi)
+- 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh)
+  > Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim ...
+
 ### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mojoboost-ml/mojoboost](https://github.com/mojoboost-ml/mojoboost)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mojotrees/mojotrees](https://github.com/mojotrees/mojotrees)
   > Gradient boosted decision trees in Mojo. LightGBM-style histogram splits and leaf-wise growth.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bobzhang/moonbit-prolog](https://github.com/bobzhang/moonbit-prolog)
   > A small but real Prolog interpreter written in MoonBit: unification, backtracking, cut, findall, REP...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [monotykamary/pi-fabric](https://github.com/monotykamary/pi-fabric)
   > A programmable tool and agent runtime for Pi
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tornikegomareli/Talkify](https://github.com/tornikegomareli/Talkify)
+  > Lightning-fast, free, local first voice dictation for macOS with on-device transcription
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [getzola/zola](https://github.com/getzola/zola)
@@ -88,7 +101,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 12:13:27 UTC*
+*Last updated at 2026-08-15 13:21:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
