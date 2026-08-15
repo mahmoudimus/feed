@@ -34,6 +34,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
   > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [getzola/zola](https://github.com/getzola/zola)
+  > A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [yewstack/yew](https://github.com/yewstack/yew)
+  > Rust / Wasm framework for creating reliable and efficient web applications
+
 ### [shanselman](https://github.com/shanselman)
 - 🍴 👤 [shanselman](https://github.com/shanselman) Forked [jonashonecker/feedpaper](https://github.com/jonashonecker/feedpaper) to [shanselman/feedpaper](https://github.com/shanselman/feedpaper)
 
@@ -43,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 04:17:39 UTC*
+*Last updated at 2026-08-15 05:13:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
