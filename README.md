@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
   > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mojoboost-ml/mojoboost](https://github.com/mojoboost-ml/mojoboost)
+  > Gradient boosted decision trees in Mojo. LightGBM-style histogram splits and leaf-wise growth.
+
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [getzola/zola](https://github.com/getzola/zola)
   > A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -62,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 09:13:33 UTC*
+*Last updated at 2026-08-15 10:09:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
