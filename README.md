@@ -27,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [XZ-X](https://github.com/XZ-X) Forked [oddessentials/ado-git-repo-insights](https://github.com/oddessentials/ado-git-repo-insights) to [XZ-X/ado-git-repo-insights](https://github.com/XZ-X/ado-git-repo-insights)
   > Extract Azure DevOps Pull Request metrics to SQLite and generate PowerBI-compatible CSVs.
 
+### [colby57](https://github.com/colby57)
+- 🌟 👤 [colby57](https://github.com/colby57) Starred [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs)
+  > Platform that enables Windows driver development in Rust
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
   > Switchyard lets LLM applications route traffic across models and providers while preserving native O...
@@ -47,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Dynamic Kernel Module System
 - 🍴 👤 [imrehg](https://github.com/imrehg) Forked [facultyai/pydantic-ai-course](https://github.com/facultyai/pydantic-ai-course) to [imrehg/pydantic-ai-course](https://github.com/imrehg/pydantic-ai-course)
   > A hands-on course for learning PydanticAI - the Python agent framework built on Pydantic
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [rfc-editor-drafts/FinalReview-rfc10032](https://github.com/rfc-editor-drafts/FinalReview-rfc10032)
+  > A repo for Final Review of RFC-to-be 10032
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
@@ -83,6 +91,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shanselman](https://github.com/shanselman)
 - 🍴 👤 [shanselman](https://github.com/shanselman) Forked [jonashonecker/feedpaper](https://github.com/jonashonecker/feedpaper) to [shanselman/feedpaper](https://github.com/shanselman/feedpaper)
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [0xferrous/ash](https://github.com/0xferrous/ash)
+  > ash is a CLI for spawning, attaching to, suspending, resuming, mounting into, and deleting NixOS age...
+
 ### [wincent](https://github.com/wincent)
 - 🌟 👤 [wincent](https://github.com/wincent) Starred [siddhantgoel/awesome-beancount](https://github.com/siddhantgoel/awesome-beancount)
   > Awesome Beancount Resources
@@ -110,7 +122,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 14:10:04 UTC*
+*Last updated at 2026-08-15 15:08:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
