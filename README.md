@@ -43,13 +43,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shanselman](https://github.com/shanselman)
 - 🍴 👤 [shanselman](https://github.com/shanselman) Forked [jonashonecker/feedpaper](https://github.com/jonashonecker/feedpaper) to [shanselman/feedpaper](https://github.com/shanselman/feedpaper)
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [georgeharker/tree-sitter-zsh](https://github.com/georgeharker/tree-sitter-zsh)
+  > zsh grammar for tree sitter
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [matklad/cargo-xtask](https://github.com/matklad/cargo-xtask)
+
 
 <!-- nav -->
 [← 2026-08-14](archive/2026/08/14.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-15 05:13:50 UTC*
+*Last updated at 2026-08-15 06:16:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
