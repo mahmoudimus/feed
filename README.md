@@ -24,10 +24,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [methodgg/wago.io](https://github.com/methodgg/wago.io) to [Stanzilla/wago.io](https://github.com/Stanzilla/wago.io)
   > Code for website wago.io
 
-### [ThomasVitale](https://github.com/ThomasVitale)
-- 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [cachix/devenv](https://github.com/cachix/devenv)
-  > Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
-
 ### [andyleejordan](https://github.com/andyleejordan)
 - 🌟 👤 [andyleejordan](https://github.com/andyleejordan) Starred [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
   > DNS-Blocklists: For a better internet - keep the internet clean!
@@ -64,10 +60,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject) to [fengjixuchui/sukinject](https://github.com/fengjixuchui/sukinject)
-
-### [gabrielfalcao](https://github.com/gabrielfalcao)
-- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [YGGverse/btracker](https://github.com/YGGverse/btracker)
-  > βtracker is an ecosystem to deploy BitTorrent open tracker with DHT search engine.
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap)
@@ -133,6 +125,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [z0r0z/majeur](https://github.com/z0r0z/majeur)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [bjarneo/cliamp](https://github.com/bjarneo/cliamp)
   > cliamp - Terminal music player inspired by winamp 
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [solardev-xyz/freedom-browser](https://github.com/solardev-xyz/freedom-browser)
+  > Freedom Browser — decentralized web browsing with Swarm, IPFS, Radicle, ENS, and Tezos Domains
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [webgpu-tools/wesl-spec](https://github.com/webgpu-tools/wesl-spec)
@@ -160,7 +154,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 20:07:43 UTC*
+*Last updated at 2026-08-16 21:08:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
