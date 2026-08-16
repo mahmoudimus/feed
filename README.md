@@ -32,6 +32,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
   > Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 
+### [buger](https://github.com/buger)
+- 🌟 👤 [buger](https://github.com/buger) Starred [buraksezer/consistent](https://github.com/buraksezer/consistent)
+  > Consistent hashing with bounded loads in Golang
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)
   > Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh So...
@@ -52,8 +56,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap)
   > Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [libretro/mame2003-plus-libretro](https://github.com/libretro/mame2003-plus-libretro)
+  > Updated 2018 version of MAME (0.78) for libretro. with added game support plus many fixes and improv...
+
+### [laomobk](https://github.com/laomobk)
+- 🌟 👤 [laomobk](https://github.com/laomobk) Starred [sigoden/aichat](https://github.com/sigoden/aichat)
+  > All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to...
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli)
+  > Independent, unofficial CLI to edit CapCut and JianYing projects — subtitles, timing, speed, volume,...
 
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [tgies/klattsch](https://github.com/tgies/klattsch)
@@ -71,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 10:10:53 UTC*
+*Last updated at 2026-08-16 11:08:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
