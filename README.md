@@ -14,6 +14,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [tornikegomareli/Talkify](https://github.com/tornikegomareli/Talkify)
   > Lightning-fast, free, local first voice dictation for macOS with on-device transcription
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)
+  > Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh So...
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [YGGverse/btracker](https://github.com/YGGverse/btracker)
+  > βtracker is an ecosystem to deploy BitTorrent open tracker with DHT search engine.
+
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [tgies/klattsch](https://github.com/tgies/klattsch)
   > primitive parallel-formant speech synth in the browser
@@ -30,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 05:16:50 UTC*
+*Last updated at 2026-08-16 06:18:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
