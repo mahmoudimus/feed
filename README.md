@@ -35,6 +35,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [antifuchs](https://github.com/antifuchs)
 - 🌟 👤 [antifuchs](https://github.com/antifuchs) Starred [george-norton/zmk-keyboard-ploopy](https://github.com/george-norton/zmk-keyboard-ploopy)
   > ZMK support for Ploopy RP2040 devices
+- 🌟 👤 [antifuchs](https://github.com/antifuchs) Starred [RobotoSkunk/ff-better-findbar](https://github.com/RobotoSkunk/ff-better-findbar)
+  > A mod for Firefox-based browsers
 
 ### [bbugdigger](https://github.com/bbugdigger)
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
@@ -95,6 +97,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [laomobk](https://github.com/laomobk) Starred [sigoden/aichat](https://github.com/sigoden/aichat)
   > All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [leancontext/website](https://github.com/leancontext/website)
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli)
@@ -132,7 +137,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 16:09:59 UTC*
+*Last updated at 2026-08-16 17:09:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
