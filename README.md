@@ -39,6 +39,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [bbugdigger](https://github.com/bbugdigger)
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
   > Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
+  > A tool for reverse engineering Android apk files
 
 ### [buger](https://github.com/buger)
 - 🌟 👤 [buger](https://github.com/buger) Starred [buraksezer/consistent](https://github.com/buraksezer/consistent)
@@ -70,6 +72,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
   > DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0
+
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [es3n1n/defendnot](https://github.com/es3n1n/defendnot)
+  > An even funnier way to disable windows defender (through WSC api)
 
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
@@ -117,6 +123,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Validate Skill content against Agent Skill specification, with additional content density and qualit...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [agent-ecosystem/agent-skill-implementation](https://github.com/agent-ecosystem/agent-skill-implementation)
   > Empirical research into how agent platforms implement Agent Skill loading, management, and presentat...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [DeepL/deepl-cli](https://github.com/DeepL/deepl-cli)
+  > DeepL CLI is a comprehensive, developer-friendly command-line tool that integrates DeepL's powerful ...
 
 
 <!-- nav -->
@@ -124,7 +132,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 15:09:06 UTC*
+*Last updated at 2026-08-16 16:09:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
