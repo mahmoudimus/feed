@@ -127,6 +127,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [z0r0z/majeur](https://github.com/z0r0z/majeur)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [bjarneo/cliamp](https://github.com/bjarneo/cliamp)
+  > cliamp - Terminal music player inspired by winamp 
+
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [webgpu-tools/wesl-spec](https://github.com/webgpu-tools/wesl-spec)
+  > A portable and modular superset of WGSL 
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [marchof/jader](https://github.com/marchof/jader)
@@ -150,7 +156,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 18:10:32 UTC*
+*Last updated at 2026-08-16 19:11:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
