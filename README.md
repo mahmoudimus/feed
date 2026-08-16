@@ -13,6 +13,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privac...
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
   > An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintaine...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [oven-sh/bun](https://github.com/oven-sh/bun)
+  > Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template)
@@ -34,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)
   > Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh So...
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [snarktank/ralph](https://github.com/snarktank/ralph)
+  > Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [rayon-rs/rayon](https://github.com/rayon-rs/rayon)
   > Rayon: A data parallelism library for Rust
@@ -41,6 +47,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [YGGverse/btracker](https://github.com/YGGverse/btracker)
   > βtracker is an ecosystem to deploy BitTorrent open tracker with DHT search engine.
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap)
+  > Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
@@ -61,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 08:13:56 UTC*
+*Last updated at 2026-08-16 09:15:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
