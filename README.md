@@ -111,6 +111,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pranjalssh/fast.cu](https://github.com/pranjalssh/fast.cu)
   > Fastest kernels written from scratch
 
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)
+  > The next-generation ad blocker for Safari.
+
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [tgies/klattsch](https://github.com/tgies/klattsch)
   > primitive parallel-formant speech synth in the browser
@@ -156,7 +160,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 19:11:50 UTC*
+*Last updated at 2026-08-16 20:07:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
