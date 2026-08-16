@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [antifuchs](https://github.com/antifuchs) Starred [RobotoSkunk/ff-better-findbar](https://github.com/RobotoSkunk/ff-better-findbar)
   > A mod for Firefox-based browsers
 
+### [artem](https://github.com/artem)
+- 🌟 👤 [artem](https://github.com/artem) Starred [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook)
+  > Open Source Introductory Systems Programming Textbook for the University of Illinois
+
 ### [bbugdigger](https://github.com/bbugdigger)
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
   > Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
@@ -58,6 +62,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [rayon-rs/rayon](https://github.com/rayon-rs/rayon)
   > Rayon: A data parallelism library for Rust
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+  > 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first des...
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject) to [fengjixuchui/sukinject](https://github.com/fengjixuchui/sukinject)
 
@@ -76,6 +84,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
+
+### [jentfoo](https://github.com/jentfoo)
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [jentfoo/ajent](https://github.com/jentfoo/ajent)
+  > Lightweight terminal agent interface implemented in Golang
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [libretro/mame2003-plus-libretro](https://github.com/libretro/mame2003-plus-libretro)
@@ -161,7 +173,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 22:08:08 UTC*
+*Last updated at 2026-08-16 23:08:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
