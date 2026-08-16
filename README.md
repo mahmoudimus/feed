@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [tornikegomareli/Talkify](https://github.com/tornikegomareli/Talkify)
   > Lightning-fast, free, local first voice dictation for macOS with on-device transcription
 
+### [ThomasVitale](https://github.com/ThomasVitale)
+- 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [cachix/devenv](https://github.com/cachix/devenv)
+  > Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+
 ### [andyleejordan](https://github.com/andyleejordan)
 - 🌟 👤 [andyleejordan](https://github.com/andyleejordan) Starred [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
   > DNS-Blocklists: For a better internet - keep the internet clean!
@@ -60,6 +64,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap)
   > Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 
+### [hit9](https://github.com/hit9)
+- 🌟 👤 [hit9](https://github.com/hit9) Starred [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
+  > DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [libretro/mame2003-plus-libretro](https://github.com/libretro/mame2003-plus-libretro)
   > Updated 2018 version of MAME (0.78) for libretro. with added game support plus many fixes and improv...
@@ -85,11 +93,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [tgies/klattsch](https://github.com/tgies/klattsch)
   > primitive parallel-formant speech synth in the browser
 
+### [rougier](https://github.com/rougier)
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [VisiGrid/VisiGrid](https://github.com/VisiGrid/VisiGrid)
+  > A fast, keyboard-first, local-only spreadsheet for people who care about flow.
+
 ### [sblackshear](https://github.com/sblackshear)
 - 🌟 👤 [sblackshear](https://github.com/sblackshear) Starred [ilyasergey/lean-move](https://github.com/ilyasergey/lean-move)
   > Lean formalization of Move Borrow Checker
 - 🍴 👤 [sblackshear](https://github.com/sblackshear) Forked [ilyasergey/lean-move](https://github.com/ilyasergey/lean-move) to [sblackshear/lean-move](https://github.com/sblackshear/lean-move)
   > Lean formalization of Move Borrow Checker
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [agent-ecosystem/skill-validator](https://github.com/agent-ecosystem/skill-validator)
+  > Validate Skill content against Agent Skill specification, with additional content density and qualit...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [agent-ecosystem/agent-skill-implementation](https://github.com/agent-ecosystem/agent-skill-implementation)
+  > Empirical research into how agent platforms implement Agent Skill loading, management, and presentat...
 
 
 <!-- nav -->
@@ -97,7 +115,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 13:21:56 UTC*
+*Last updated at 2026-08-16 14:11:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
