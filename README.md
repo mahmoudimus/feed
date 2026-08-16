@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
+  > AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privac...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+  > An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintaine...
+
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template)
   > Meet Foreman, an eve Software Factory.
@@ -36,6 +42,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [YGGverse/btracker](https://github.com/YGGverse/btracker)
   > βtracker is an ecosystem to deploy BitTorrent open tracker with DHT search engine.
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
+
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [tgies/klattsch](https://github.com/tgies/klattsch)
   > primitive parallel-formant speech synth in the browser
@@ -52,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 07:20:43 UTC*
+*Last updated at 2026-08-16 08:13:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
