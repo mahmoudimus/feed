@@ -14,9 +14,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [tornikegomareli/Talkify](https://github.com/tornikegomareli/Talkify)
   > Lightning-fast, free, local first voice dictation for macOS with on-device transcription
 
+### [andyleejordan](https://github.com/andyleejordan)
+- 🌟 👤 [andyleejordan](https://github.com/andyleejordan) Starred [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
+  > DNS-Blocklists: For a better internet - keep the internet clean!
+- 🍴 👤 [andyleejordan](https://github.com/andyleejordan) Forked [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) to [andyleejordan/dns-blocklists](https://github.com/andyleejordan/dns-blocklists)
+  > DNS-Blocklists: For a better internet - keep the internet clean!
+
+### [bbugdigger](https://github.com/bbugdigger)
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
+  > Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor)
   > Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh So...
+
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [rayon-rs/rayon](https://github.com/rayon-rs/rayon)
+  > Rayon: A data parallelism library for Rust
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [YGGverse/btracker](https://github.com/YGGverse/btracker)
@@ -38,7 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 06:18:32 UTC*
+*Last updated at 2026-08-16 07:20:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
