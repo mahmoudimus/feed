@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [andyleejordan](https://github.com/andyleejordan) Forked [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) to [andyleejordan/dns-blocklists](https://github.com/andyleejordan/dns-blocklists)
   > DNS-Blocklists: For a better internet - keep the internet clean!
 
+### [antifuchs](https://github.com/antifuchs)
+- 🌟 👤 [antifuchs](https://github.com/antifuchs) Starred [george-norton/zmk-keyboard-ploopy](https://github.com/george-norton/zmk-keyboard-ploopy)
+  > ZMK support for Ploopy RP2040 devices
+
 ### [bbugdigger](https://github.com/bbugdigger)
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root)
   > Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
@@ -59,6 +63,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [libretro/mame2003-plus-libretro](https://github.com/libretro/mame2003-plus-libretro)
   > Updated 2018 version of MAME (0.78) for libretro. with added game support plus many fixes and improv...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn)
+  > Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [dennisadvani/metixel-photoframe](https://github.com/dennisadvani/metixel-photoframe)
+  > Metixel Photoframe turns a Raspberry Pi into a polished, hardware-accelerated digital photo frame. I...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [dennisadvani/metixel-photoframe](https://github.com/dennisadvani/metixel-photoframe) to [johndpope/metixel-photoframe](https://github.com/johndpope/metixel-photoframe)
+  > Metixel Photoframe turns a Raspberry Pi into a polished, hardware-accelerated digital photo frame. I...
 
 ### [laomobk](https://github.com/laomobk)
 - 🌟 👤 [laomobk](https://github.com/laomobk) Starred [sigoden/aichat](https://github.com/sigoden/aichat)
@@ -68,6 +78,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [zeronsh/comet](https://github.com/zeronsh/comet)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli)
   > Independent, unofficial CLI to edit CapCut and JianYing projects — subtitles, timing, speed, volume,...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [CapSoftware/cinder](https://github.com/CapSoftware/cinder)
+  > A drop-in Cargo replacement focused on dramatically faster Rust development.
 
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [tgies/klattsch](https://github.com/tgies/klattsch)
@@ -85,7 +97,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 12:13:37 UTC*
+*Last updated at 2026-08-16 13:21:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
