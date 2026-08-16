@@ -147,6 +147,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Empirical research into how agent platforms implement Agent Skill loading, management, and presentat...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [DeepL/deepl-cli](https://github.com/DeepL/deepl-cli)
   > DeepL CLI is a comprehensive, developer-friendly command-line tool that integrates DeepL's powerful ...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [google/safe-bindings](https://github.com/google/safe-bindings)
+  > C++ wrappers (using Crubit) for Rust libraries
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [google/smccc](https://github.com/google/smccc)
+  > Rust functions and constants for Arm SMCCC and PSCI
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [google/tarpc](https://github.com/google/tarpc)
+  > An RPC framework for Rust with a focus on ease of use.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [google/rust-skills](https://github.com/google/rust-skills)
 
 
 <!-- nav -->
@@ -154,7 +161,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 21:08:28 UTC*
+*Last updated at 2026-08-16 22:08:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
