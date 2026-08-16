@@ -56,6 +56,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [rayon-rs/rayon](https://github.com/rayon-rs/rayon)
   > Rayon: A data parallelism library for Rust
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject) to [fengjixuchui/sukinject](https://github.com/fengjixuchui/sukinject)
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [YGGverse/btracker](https://github.com/YGGverse/btracker)
   > βtracker is an ecosystem to deploy BitTorrent open tracker with DHT search engine.
@@ -67,6 +70,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
   > DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0
+
+### [interference-security](https://github.com/interference-security)
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+  > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [libretro/mame2003-plus-libretro](https://github.com/libretro/mame2003-plus-libretro)
@@ -88,6 +95,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Independent, unofficial CLI to edit CapCut and JianYing projects — subtitles, timing, speed, volume,...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [CapSoftware/cinder](https://github.com/CapSoftware/cinder)
   > A drop-in Cargo replacement focused on dramatically faster Rust development.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pranjalssh/fast.cu](https://github.com/pranjalssh/fast.cu)
+  > Fastest kernels written from scratch
 
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [tgies/klattsch](https://github.com/tgies/klattsch)
@@ -115,7 +124,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 14:11:03 UTC*
+*Last updated at 2026-08-16 15:09:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
