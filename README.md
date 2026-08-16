@@ -18,13 +18,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [tgies/klattsch](https://github.com/tgies/klattsch)
   > primitive parallel-formant speech synth in the browser
 
+### [sblackshear](https://github.com/sblackshear)
+- 🌟 👤 [sblackshear](https://github.com/sblackshear) Starred [ilyasergey/lean-move](https://github.com/ilyasergey/lean-move)
+  > Lean formalization of Move Borrow Checker
+- 🍴 👤 [sblackshear](https://github.com/sblackshear) Forked [ilyasergey/lean-move](https://github.com/ilyasergey/lean-move) to [sblackshear/lean-move](https://github.com/sblackshear/lean-move)
+  > Lean formalization of Move Borrow Checker
+
 
 <!-- nav -->
 [← 2026-08-15](archive/2026/08/15.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 00:31:24 UTC*
+*Last updated at 2026-08-16 02:13:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
