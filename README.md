@@ -21,6 +21,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Meet Foreman, an eve Software Factory.
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [tornikegomareli/Talkify](https://github.com/tornikegomareli/Talkify)
   > Lightning-fast, free, local first voice dictation for macOS with on-device transcription
+- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [methodgg/wago.io](https://github.com/methodgg/wago.io) to [Stanzilla/wago.io](https://github.com/Stanzilla/wago.io)
+  > Code for website wago.io
 
 ### [ThomasVitale](https://github.com/ThomasVitale)
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [cachix/devenv](https://github.com/cachix/devenv)
@@ -123,6 +125,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [sblackshear](https://github.com/sblackshear) Forked [ilyasergey/lean-move](https://github.com/ilyasergey/lean-move) to [sblackshear/lean-move](https://github.com/sblackshear/lean-move)
   > Lean formalization of Move Borrow Checker
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [z0r0z/majeur](https://github.com/z0r0z/majeur)
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [marchof/jader](https://github.com/marchof/jader)
+  > A CPU-based 3D shader implemented entirely in modern Java
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [rcrida/jcsp](https://github.com/rcrida/jcsp)
+  > Java Constraint Satisfaction Problems
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [forax/jvisualbook](https://github.com/forax/jvisualbook)
+  > A program to see Jshell files as an executable notebook
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [agent-ecosystem/skill-validator](https://github.com/agent-ecosystem/skill-validator)
   > Validate Skill content against Agent Skill specification, with additional content density and qualit...
@@ -137,7 +150,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-16 17:09:28 UTC*
+*Last updated at 2026-08-16 18:10:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
