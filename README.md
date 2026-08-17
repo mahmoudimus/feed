@@ -78,6 +78,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [iced-rs/iced](https://github.com/iced-rs/iced)
   > A cross-platform GUI library for Rust, inspired by Elm
 
+### [matin](https://github.com/matin)
+- 🌟 👤 [matin](https://github.com/matin) Starred [valhalla/valhalla](https://github.com/valhalla/valhalla)
+  > Open Source Routing Engine for OpenStreetMap
+
 ### [mimoo](https://github.com/mimoo)
 - 🌟 👤 [mimoo](https://github.com/mimoo) Starred [kmilner/tamarin-rs](https://github.com/kmilner/tamarin-rs)
   > Rust port of the Tamarin Prover
@@ -124,7 +128,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 18:18:59 UTC*
+*Last updated at 2026-08-17 19:19:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
