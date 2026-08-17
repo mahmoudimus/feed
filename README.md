@@ -48,6 +48,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)
+  > Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signin...
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [julius383/PageSieve](https://github.com/julius383/PageSieve)
@@ -75,6 +77,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [iced-rs/iced](https://github.com/iced-rs/iced)
   > A cross-platform GUI library for Rust, inspired by Elm
 
+### [mimoo](https://github.com/mimoo)
+- 🌟 👤 [mimoo](https://github.com/mimoo) Starred [kmilner/tamarin-rs](https://github.com/kmilner/tamarin-rs)
+  > Rust port of the Tamarin Prover
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [blasty/ida-tui](https://github.com/blasty/ida-tui) to [mrexodia/ida-tui](https://github.com/mrexodia/ida-tui)
 
@@ -101,6 +107,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [zakkak](https://github.com/zakkak)
 - 🌟 👤 [zakkak](https://github.com/zakkak) Starred [galderz/attimo](https://github.com/galderz/attimo)
 
+### [zardus](https://github.com/zardus)
+- 🍴 👤 [zardus](https://github.com/zardus) Forked [Xpra-org/xpra](https://github.com/Xpra-org/xpra) to [zardus/xpra](https://github.com/zardus/xpra)
+  > Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [Xuanwo/backon](https://github.com/Xuanwo/backon)
   > Make retry like a built-in feature provided by Rust.
@@ -111,7 +121,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 16:12:53 UTC*
+*Last updated at 2026-08-17 17:15:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
