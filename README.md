@@ -107,6 +107,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [sobolevn](https://github.com/sobolevn) Forked [NewHR/telegram](https://github.com/NewHR/telegram) to [sobolevn/telegram](https://github.com/sobolevn/telegram)
   > Список интересных телеграм каналов, чатов, груп в сфере IT & Digital
 
+### [superp00t](https://github.com/superp00t)
+- 🌟 👤 [superp00t](https://github.com/superp00t) Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)
+  > The swiss army knife of lossless video/audio editing
+
 ### [yajo](https://github.com/yajo)
 - 🍴 👤 [yajo](https://github.com/yajo) Forked [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) to [moduon/AutoKuma](https://github.com/moduon/AutoKuma)
   > AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container ...
@@ -121,6 +125,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [Xuanwo/backon](https://github.com/Xuanwo/backon)
   > Make retry like a built-in feature provided by Rust.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [comex/rust-shlex](https://github.com/comex/rust-shlex)
+  > Split a string into shell words, like Python's shlex.
 
 
 <!-- nav -->
@@ -128,7 +134,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 19:19:06 UTC*
+*Last updated at 2026-08-17 20:12:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
