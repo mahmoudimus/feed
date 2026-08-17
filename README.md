@@ -24,6 +24,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > VLM bake-off — MLX vs GGUF: identical vision benchmarks across mlx-vlm and llama.cpp on Apple Silico...
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [TableProApp/TablePro](https://github.com/TableProApp/TablePro)
   > Free and open source database client built natively for developers
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [noonghunna/club-3090](https://github.com/noonghunna/club-3090)
+  > Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, i...
 
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
@@ -79,7 +81,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 11:14:08 UTC*
+*Last updated at 2026-08-17 12:17:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
