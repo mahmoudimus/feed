@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [quarkslab/pcode_graph](https://github.com/quarkslab/pcode_graph)
   > A library to build Control and Data Flow Graphs from binary code
 
+### [anzz1](https://github.com/anzz1)
+- 🌟 👤 [anzz1](https://github.com/anzz1) Starred [YuZhouRen86/VxKex-NEXT](https://github.com/YuZhouRen86/VxKex-NEXT)
+  > Windows 7 API Extensions
+
 ### [bitranox](https://github.com/bitranox)
 - 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/lib_log_rich](https://github.com/bitranox/lib_log_rich)
 
@@ -134,7 +138,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 21:13:55 UTC*
+*Last updated at 2026-08-17 22:11:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
