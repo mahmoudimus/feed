@@ -60,6 +60,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [tobi/qmd](https://github.com/tobi/qmd)
   > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
 
+### [zakkak](https://github.com/zakkak)
+- 🌟 👤 [zakkak](https://github.com/zakkak) Starred [galderz/attimo](https://github.com/galderz/attimo)
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [Xuanwo/backon](https://github.com/Xuanwo/backon)
   > Make retry like a built-in feature provided by Rust.
@@ -70,7 +73,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 09:27:29 UTC*
+*Last updated at 2026-08-17 10:19:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
