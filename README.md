@@ -55,6 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [julius383/PageSieve](https://github.com/julius383/PageSieve)
   > A web scraping browser extension through a sidebar UI
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [trylynceus/jobs](https://github.com/trylynceus/jobs)
+  > Low quality version of what we have at Lynceus jobs
 
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [yaml/yamlschema](https://github.com/yaml/yamlschema) to [yamlcity/yamlschema](https://github.com/yamlcity/yamlschema)
@@ -91,6 +92,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [tobi/qmd](https://github.com/tobi/qmd)
   > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+  > Static analysis for GitHub Actions
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [haarisxk/Waypoint](https://github.com/haarisxk/Waypoint)
@@ -121,7 +124,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 17:15:26 UTC*
+*Last updated at 2026-08-17 18:18:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
