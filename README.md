@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [quarkslab/pcode_graph](https://github.com/quarkslab/pcode_graph)
+  > A library to build Control and Data Flow Graphs from binary code
+
 ### [bitranox](https://github.com/bitranox)
 - 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/lib_log_rich](https://github.com/bitranox/lib_log_rich)
 
@@ -24,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
   > The operations layer for your local LLM stack
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mohammad-alattas/APISignature](https://github.com/mohammad-alattas/APISignature)
+  > APISignature is a plugin for x64dbg that help the malware analysts & reverse engineers during analys...
+
 ### [ramonli](https://github.com/ramonli)
 - 🌟 👤 [ramonli](https://github.com/ramonli) Starred [AnxForever/stylekit](https://github.com/AnxForever/stylekit)
   > 精选优质 Web 设计风格，提供文档、组件模板、代码片段， 以及可直接导出的 AI Rules。
@@ -38,7 +46,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 06:27:13 UTC*
+*Last updated at 2026-08-17 07:41:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
