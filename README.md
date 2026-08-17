@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+  > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [quarkslab/pcode_graph](https://github.com/quarkslab/pcode_graph)
   > A library to build Control and Data Flow Graphs from binary code
@@ -18,6 +22,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [ivanfioravanti/vlm-bakeoff](https://github.com/ivanfioravanti/vlm-bakeoff)
   > VLM bake-off — MLX vs GGUF: identical vision benchmarks across mlx-vlm and llama.cpp on Apple Silico...
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [TableProApp/TablePro](https://github.com/TableProApp/TablePro)
+  > Free and open source database client built natively for developers
 
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [gokrazy-community/kernel-rpi-os-32](https://github.com/gokrazy-community/kernel-rpi-os-32)
@@ -42,13 +48,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [Chris-Tophski/SudokuMakerConstraints](https://github.com/Chris-Tophski/SudokuMakerConstraints)
   > JavaScript snitteps for SudokuMaker constraints and components
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mohammad-alattas/APISignature](https://github.com/mohammad-alattas/APISignature)
-  > APISignature is a plugin for x64dbg that help the malware analysts & reverse engineers during analys...
+### [luc-tielen](https://github.com/luc-tielen)
+- 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [iced-rs/iced](https://github.com/iced-rs/iced)
+  > A cross-platform GUI library for Rust, inspired by Elm
 
 ### [ramonli](https://github.com/ramonli)
 - 🌟 👤 [ramonli](https://github.com/ramonli) Starred [AnxForever/stylekit](https://github.com/AnxForever/stylekit)
   > 精选优质 Web 设计风格，提供文档、组件模板、代码片段， 以及可直接导出的 AI Rules。
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [tobi/qmd](https://github.com/tobi/qmd)
+  > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [Xuanwo/backon](https://github.com/Xuanwo/backon)
@@ -60,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 08:28:31 UTC*
+*Last updated at 2026-08-17 09:27:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
