@@ -11,6 +11,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [bitranox](https://github.com/bitranox)
 - 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/lib_log_rich](https://github.com/bitranox/lib_log_rich)
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [ivanfioravanti/vlm-bakeoff](https://github.com/ivanfioravanti/vlm-bakeoff)
+  > VLM bake-off — MLX vs GGUF: identical vision benchmarks across mlx-vlm and llama.cpp on Apple Silico...
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [julius383/PageSieve](https://github.com/julius383/PageSieve)
   > A web scraping browser extension through a sidebar UI
@@ -34,7 +38,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 05:24:20 UTC*
+*Last updated at 2026-08-17 06:27:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
