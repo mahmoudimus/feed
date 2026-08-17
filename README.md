@@ -25,6 +25,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [TableProApp/TablePro](https://github.com/TableProApp/TablePro)
   > Free and open source database client built natively for developers
 
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+  > A batteries-included framework for building web apps
+
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [gokrazy-community/kernel-rpi-os-32](https://github.com/gokrazy-community/kernel-rpi-os-32)
   > Linux kernel for Raspberry Pi 32 bits, for usage in gokrazy
@@ -39,6 +43,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [rfc-editor-drafts/FinalReview-rfc10032](https://github.com/rfc-editor-drafts/FinalReview-rfc10032) to [jedisct1/FinalReview-rfc10032](https://github.com/jedisct1/FinalReview-rfc10032)
   > A repo for Final Review of RFC-to-be 10032
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ctz/graviola](https://github.com/ctz/graviola)
+  > High quality, fast and easy to build cryptography for Rust
 
 ### [johnmccabe](https://github.com/johnmccabe)
 - 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
@@ -73,7 +79,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-17 10:19:11 UTC*
+*Last updated at 2026-08-17 11:14:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
