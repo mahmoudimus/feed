@@ -65,6 +65,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [tale/headplane](https://github.com/tale/headplane)
   > A feature-complete Web UI for Headscale
 
+### [hsiafan](https://github.com/hsiafan)
+- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [ascenx/vscode-git-log](https://github.com/ascenx/vscode-git-log)
+  > A visual Git log, commit graph, history browser, and repository operations extension for Visual Stud...
+
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde)
   > A crowdsourced distributed cluster for AI art and text generation
@@ -90,10 +94,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
   > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp)
+  > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
 
 ### [tetromino](https://github.com/tetromino)
 - 🍴 👤 [tetromino](https://github.com/tetromino) Forked [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) to [tetromino/buildtools](https://github.com/tetromino/buildtools)
   > A bazel BUILD file formatter and editor
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [embesozzi/draft-embesozzi-intent-agent-native-authorization](https://github.com/embesozzi/draft-embesozzi-intent-agent-native-authorization)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [mcguinness/mission-bound-authorization](https://github.com/mcguinness/mission-bound-authorization)
+  > Reference architecture for mission-bound authorization
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)
+  > Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready T...
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [vercel-labs/native](https://github.com/vercel-labs/native)
@@ -107,7 +120,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 09:19:51 UTC*
+*Last updated at 2026-08-18 10:15:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
