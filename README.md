@@ -66,6 +66,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An open source, self-hosted implementation of the Tailscale control server
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [tale/headplane](https://github.com/tale/headplane)
   > A feature-complete Web UI for Headscale
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [grpc/grpc-web](https://github.com/grpc/grpc-web)
+  > gRPC for Web Clients
 
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [ascenx/vscode-git-log](https://github.com/ascenx/vscode-git-log)
@@ -115,6 +117,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nmarasoiu](https://github.com/nmarasoiu) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
   > Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4...
 
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🍴 👤 [samuelcolvin](https://github.com/samuelcolvin) Forked [rust-num/num-bigint](https://github.com/rust-num/num-bigint) to [samuelcolvin/num-bigint](https://github.com/samuelcolvin/num-bigint)
+  > Big integer types for Rust
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [cosmik-network/semble](https://github.com/cosmik-network/semble)
   > A social knowledge tool for research trails, built on ATProto
@@ -154,7 +160,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 18:18:10 UTC*
+*Last updated at 2026-08-18 20:10:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
