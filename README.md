@@ -101,6 +101,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp)
   > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lencx/Minke](https://github.com/lencx/Minke)
+  > 🐳 DeepSeek Harness Desktop
+
 ### [tetromino](https://github.com/tetromino)
 - 🍴 👤 [tetromino](https://github.com/tetromino) Forked [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) to [tetromino/buildtools](https://github.com/tetromino/buildtools)
   > A bazel BUILD file formatter and editor
@@ -124,7 +128,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 11:14:10 UTC*
+*Last updated at 2026-08-18 12:19:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
