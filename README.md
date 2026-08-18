@@ -8,6 +8,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Gcenx](https://github.com/Gcenx)
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [chrissotraidis/ectopad](https://github.com/chrissotraidis/ectopad)
+  > Metroid Prime native for MacOS, iOS, and iPadOS
+
+### [Houfeng](https://github.com/Houfeng)
+- 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [Textualize/textual](https://github.com/Textualize/textual)
+  > The lean application framework for Python.  Build sophisticated user interfaces with a simple Python...
+- 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [aristocratos/btop](https://github.com/aristocratos/btop)
+  > A monitor of resources
+- 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
+  > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
+  > Hardware backdoors in x86 CPUs
+
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
@@ -55,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 05:17:50 UTC*
+*Last updated at 2026-08-18 06:20:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
