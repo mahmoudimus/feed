@@ -107,6 +107,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lencx/Minke](https://github.com/lencx/Minke)
   > 🐳 DeepSeek Harness Desktop
 
+### [nmarasoiu](https://github.com/nmarasoiu)
+- 🌟 👤 [nmarasoiu](https://github.com/nmarasoiu) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+  > Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4...
+
+### [skx](https://github.com/skx)
+- 🍴 👤 [skx](https://github.com/skx) Forked [ivanizag/iz-cpm](https://github.com/ivanizag/iz-cpm) to [skx/iz-cpm](https://github.com/skx/iz-cpm)
+  > Portable CP/M emulation to run CP/M 2.2 binaries for Z80
+
 ### [tetromino](https://github.com/tetromino)
 - 🍴 👤 [tetromino](https://github.com/tetromino) Forked [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) to [tetromino/buildtools](https://github.com/tetromino/buildtools)
   > A bazel BUILD file formatter and editor
@@ -134,7 +142,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 13:33:34 UTC*
+*Last updated at 2026-08-18 14:20:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
