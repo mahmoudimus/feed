@@ -10,7 +10,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [chrissotraidis/ectopad](https://github.com/chrissotraidis/ectopad)
-  > Metroid Prime native for MacOS, iOS, and iPadOS
+  > Metroid Prime through Metaforce, native and optimized for MacOS, iOS, and iPadOS
 
 ### [Houfeng](https://github.com/Houfeng)
 - 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [Textualize/textual](https://github.com/Textualize/textual)
@@ -19,6 +19,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A monitor of resources
 - 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
   > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [browsh-org/browsh](https://github.com/browsh-org/browsh)
+  > A fully-modern text-based browser, rendering to TTY and browsers
 
 ### [Midi12](https://github.com/Midi12)
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
@@ -59,6 +61,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [artokun/comfyui-mcp-panel](https://github.com/artokun/comfyui-mcp-panel)
   > The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no A...
 
+### [kevyonan](https://github.com/kevyonan)
+- 🌟 👤 [kevyonan](https://github.com/kevyonan) Starred [geominorai/smbl](https://github.com/geominorai/smbl)
+  > SourceMod Bot Library
+- 🍴 👤 [kevyonan](https://github.com/kevyonan) Forked [geominorai/smbl](https://github.com/geominorai/smbl) to [kevyonan/smbl](https://github.com/kevyonan/smbl)
+  > SourceMod Bot Library
+- 🍴 👤 [kevyonan](https://github.com/kevyonan) Forked [geominorai/sm-rts-starter](https://github.com/geominorai/sm-rts-starter) to [kevyonan/sm-rts-starter](https://github.com/kevyonan/sm-rts-starter)
+  > Starter code for a real-time-strategy (RTS) mode SourceMod plugin
+
+### [tetromino](https://github.com/tetromino)
+- 🍴 👤 [tetromino](https://github.com/tetromino) Forked [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) to [tetromino/buildtools](https://github.com/tetromino/buildtools)
+  > A bazel BUILD file formatter and editor
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [vercel-labs/native](https://github.com/vercel-labs/native)
   > Toolkit for building native desktop apps
@@ -71,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 06:20:57 UTC*
+*Last updated at 2026-08-18 07:27:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
