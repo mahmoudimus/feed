@@ -33,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [splintersfury/KernelSight](https://github.com/splintersfury/KernelSight) to [fengjixuchui/KernelSight](https://github.com/fengjixuchui/KernelSight)
   > Windows kernel driver exploitation knowledge base — 28 case studies organized by driver type, ground...
 
+### [jentfoo](https://github.com/jentfoo)
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde)
+  > A crowdsourced distributed cluster for AI art and text generation
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [TheTom/hermes-go](https://github.com/TheTom/hermes-go)
   > The agent that grows with you
@@ -51,7 +55,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 03:33:46 UTC*
+*Last updated at 2026-08-18 04:22:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
