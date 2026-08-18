@@ -26,6 +26,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [browsh-org/browsh](https://github.com/browsh-org/browsh)
   > A fully-modern text-based browser, rendering to TTY and browsers
 
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/formatly-on-demand](https://github.com/JoshuaKGoldberg/formatly-on-demand)
+  > Offers to format pull requests with whatever formatter your project is already using, then formats t...
+
 ### [Midi12](https://github.com/Midi12)
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
   > Hardware backdoors in x86 CPUs
@@ -38,6 +42,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [dain](https://github.com/dain)
 - 🍴 👤 [dain](https://github.com/dain) Forked [pingdotgg/t3code](https://github.com/pingdotgg/t3code) to [dain/t3code](https://github.com/dain/t3code)
+
+### [danieldietrich](https://github.com/danieldietrich)
+- 🌟 👤 [danieldietrich](https://github.com/danieldietrich) Starred [gastownhall/beads](https://github.com/gastownhall/beads)
+  > Beads - A memory upgrade for your coding agent
 
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [geocine/codex-window-taskbar](https://github.com/geocine/codex-window-taskbar)
@@ -60,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Workshop materials for “Step-by-Step Malware Development: Evading EDR from Loaders to the Kernel” pr...
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [haarisxk/Waypoint](https://github.com/haarisxk/Waypoint) to [fengjixuchui/Waypoint](https://github.com/fengjixuchui/Waypoint)
   > A stealth-focused kernel-mode virtual HID mouse driver for Windows. Built with KMDF and VHF for prec...
+
+### [fmeum](https://github.com/fmeum)
+- 🌟 👤 [fmeum](https://github.com/fmeum) Starred [tuist/once](https://github.com/tuist/once)
+  > Run once. Reuse everywhere.
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [juanfont/headscale](https://github.com/juanfont/headscale)
@@ -162,7 +174,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 21:11:32 UTC*
+*Last updated at 2026-08-18 22:09:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
