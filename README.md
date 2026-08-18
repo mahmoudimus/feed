@@ -8,9 +8,30 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [cra0](https://github.com/cra0)
+- 🌟 👤 [cra0](https://github.com/cra0) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- 🌟 👤 [cra0](https://github.com/cra0) Starred [alexander-pick/shannon_modem_loader](https://github.com/alexander-pick/shannon_modem_loader)
+  > Exynos Modem / Shannon baseband firmware loader for IDA Pro 8.x/9.x
+
+### [dain](https://github.com/dain)
+- 🍴 👤 [dain](https://github.com/dain) Forked [pingdotgg/t3code](https://github.com/pingdotgg/t3code) to [dain/t3code](https://github.com/dain/t3code)
+
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [geocine/codex-window-taskbar](https://github.com/geocine/codex-window-taskbar)
+  > Native Windows taskbar widget for Codex usage.
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [jundot/omlx](https://github.com/jundot/omlx)
   > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [livekit/livekit](https://github.com/livekit/livekit)
+  > End-to-end realtime stack for connecting humans and AI
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [splintersfury/KernelSight](https://github.com/splintersfury/KernelSight) to [fengjixuchui/KernelSight](https://github.com/fengjixuchui/KernelSight)
+  > Windows kernel driver exploitation knowledge base — 28 case studies organized by driver type, ground...
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [TheTom/hermes-go](https://github.com/TheTom/hermes-go)
@@ -18,13 +39,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [artokun/comfyui-mcp-panel](https://github.com/artokun/comfyui-mcp-panel)
   > The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no A...
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [vercel-labs/native](https://github.com/vercel-labs/native)
+  > Toolkit for building native desktop apps
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ckolivas/lrzip](https://github.com/ckolivas/lrzip)
+  > Long Range Zip
+
 
 <!-- nav -->
 [← 2026-08-17](archive/2026/08/17.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 02:07:36 UTC*
+*Last updated at 2026-08-18 03:33:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
