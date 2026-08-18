@@ -42,6 +42,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [jundot/omlx](https://github.com/jundot/omlx)
   > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [raine/workmux](https://github.com/raine/workmux)
+  > git worktrees + tmux windows for zero-friction parallel dev
 
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [blender/blender](https://github.com/blender/blender)
@@ -116,6 +118,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)
   > Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready T...
 
+### [thomasmueller](https://github.com/thomasmueller)
+- 🍴 👤 [thomasmueller](https://github.com/thomasmueller) Forked [adobe/aem-project-archetype](https://github.com/adobe/aem-project-archetype) to [oak-indexing/aem-project-archetype](https://github.com/oak-indexing/aem-project-archetype)
+  > Maven template to create best-practice websites on AEM.
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [vercel-labs/native](https://github.com/vercel-labs/native)
   > Toolkit for building native desktop apps
@@ -128,7 +134,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 12:19:06 UTC*
+*Last updated at 2026-08-18 13:33:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
