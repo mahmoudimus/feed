@@ -112,6 +112,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lencx/Minke](https://github.com/lencx/Minke)
   > 🐳 DeepSeek Harness Desktop
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [gajus/zod-compiler](https://github.com/gajus/zod-compiler)
+  > Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack,...
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🌟 👤 [nmarasoiu](https://github.com/nmarasoiu) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
@@ -160,7 +162,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 20:10:12 UTC*
+*Last updated at 2026-08-18 21:11:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
