@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AlexsJones](https://github.com/AlexsJones)
+- 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [vlanx/gruvbox-material-ghostty](https://github.com/vlanx/gruvbox-material-ghostty)
+  > Port of the Gruvbox Material theme for Ghostty
+
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [chrissotraidis/ectopad](https://github.com/chrissotraidis/ectopad)
   > Metroid Prime through Metaforce, native and optimized for MacOS, iOS, and iPadOS
@@ -44,12 +48,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [raine/workmux](https://github.com/raine/workmux)
   > git worktrees + tmux windows for zero-friction parallel dev
-
-### [emcfarlane](https://github.com/emcfarlane)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [blender/blender](https://github.com/blender/blender)
-  > Official mirror of Blender
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [evanw/csg.js](https://github.com/evanw/csg.js)
-  > Constructive solid geometry on meshes using BSP trees in JavaScript
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [livekit/livekit](https://github.com/livekit/livekit)
@@ -97,6 +95,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [laomobk](https://github.com/laomobk) Forked [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) to [laomobk/omnisharp-roslyn](https://github.com/laomobk/omnisharp-roslyn)
   > OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
 
+### [mikehearn](https://github.com/mikehearn)
+- 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [pitiflautico/neobrowser](https://github.com/pitiflautico/neobrowser)
+  > MCP server that drives real Chrome with your real logged-in sessions — genuine fingerprint (passes b...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
   > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
@@ -114,6 +116,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [skx](https://github.com/skx)
 - 🍴 👤 [skx](https://github.com/skx) Forked [ivanizag/iz-cpm](https://github.com/ivanizag/iz-cpm) to [skx/iz-cpm](https://github.com/skx/iz-cpm)
   > Portable CP/M emulation to run CP/M 2.2 binaries for Z80
+
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [pg83/solo](https://github.com/pg83/solo)
+  > Portable Linux binaries, solved
 
 ### [tetromino](https://github.com/tetromino)
 - 🍴 👤 [tetromino](https://github.com/tetromino) Forked [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) to [tetromino/buildtools](https://github.com/tetromino/buildtools)
@@ -142,7 +148,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 14:20:11 UTC*
+*Last updated at 2026-08-18 15:18:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
