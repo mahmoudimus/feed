@@ -58,6 +58,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Windows kernel driver exploitation knowledge base — 28 case studies organized by driver type, ground...
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [tyeurada/edrEvasionWorkshop](https://github.com/tyeurada/edrEvasionWorkshop) to [fengjixuchui/edrEvasionWorkshop](https://github.com/fengjixuchui/edrEvasionWorkshop)
   > Workshop materials for “Step-by-Step Malware Development: Evading EDR from Loaders to the Kernel” pr...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [haarisxk/Waypoint](https://github.com/haarisxk/Waypoint) to [fengjixuchui/Waypoint](https://github.com/fengjixuchui/Waypoint)
+  > A stealth-focused kernel-mode virtual HID mouse driver for Windows. Built with KMDF and VHF for prec...
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [juanfont/headscale](https://github.com/juanfont/headscale)
@@ -113,6 +115,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nmarasoiu](https://github.com/nmarasoiu) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
   > Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4...
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [cosmik-network/semble](https://github.com/cosmik-network/semble)
+  > A social knowledge tool for research trails, built on ATProto
+
 ### [skx](https://github.com/skx)
 - 🍴 👤 [skx](https://github.com/skx) Forked [ivanizag/iz-cpm](https://github.com/ivanizag/iz-cpm) to [skx/iz-cpm](https://github.com/skx/iz-cpm)
   > Portable CP/M emulation to run CP/M 2.2 binaries for Z80
@@ -148,7 +154,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 16:16:28 UTC*
+*Last updated at 2026-08-18 17:15:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
