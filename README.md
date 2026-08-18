@@ -73,6 +73,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde)
   > A crowdsourced distributed cluster for AI art and text generation
 
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lemonade-sdk/mac-amdgpu](https://github.com/lemonade-sdk/mac-amdgpu)
+  > A WIP Driver for AMD GPUs on MacOS
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [TheTom/hermes-go](https://github.com/TheTom/hermes-go)
   > The agent that grows with you
@@ -120,7 +124,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 10:15:28 UTC*
+*Last updated at 2026-08-18 11:14:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
