@@ -43,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [jundot/omlx](https://github.com/jundot/omlx)
   > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
 
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [blender/blender](https://github.com/blender/blender)
+  > Official mirror of Blender
+
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [livekit/livekit](https://github.com/livekit/livekit)
   > End-to-end realtime stack for connecting humans and AI
@@ -50,6 +54,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [splintersfury/KernelSight](https://github.com/splintersfury/KernelSight) to [fengjixuchui/KernelSight](https://github.com/fengjixuchui/KernelSight)
   > Windows kernel driver exploitation knowledge base — 28 case studies organized by driver type, ground...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [tyeurada/edrEvasionWorkshop](https://github.com/tyeurada/edrEvasionWorkshop) to [fengjixuchui/edrEvasionWorkshop](https://github.com/fengjixuchui/edrEvasionWorkshop)
+  > Workshop materials for “Step-by-Step Malware Development: Evading EDR from Loaders to the Kernel” pr...
 
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde)
@@ -85,7 +91,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 07:27:33 UTC*
+*Last updated at 2026-08-18 08:20:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
