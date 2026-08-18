@@ -46,6 +46,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [blender/blender](https://github.com/blender/blender)
   > Official mirror of Blender
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [evanw/csg.js](https://github.com/evanw/csg.js)
+  > Constructive solid geometry on meshes using BSP trees in JavaScript
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [livekit/livekit](https://github.com/livekit/livekit)
@@ -56,6 +58,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Windows kernel driver exploitation knowledge base — 28 case studies organized by driver type, ground...
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [tyeurada/edrEvasionWorkshop](https://github.com/tyeurada/edrEvasionWorkshop) to [fengjixuchui/edrEvasionWorkshop](https://github.com/fengjixuchui/edrEvasionWorkshop)
   > Workshop materials for “Step-by-Step Malware Development: Evading EDR from Loaders to the Kernel” pr...
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [juanfont/headscale](https://github.com/juanfont/headscale)
+  > An open source, self-hosted implementation of the Tailscale control server
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [tale/headplane](https://github.com/tale/headplane)
+  > A feature-complete Web UI for Headscale
 
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde)
@@ -75,6 +83,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [kevyonan](https://github.com/kevyonan) Forked [geominorai/sm-rts-starter](https://github.com/geominorai/sm-rts-starter) to [kevyonan/sm-rts-starter](https://github.com/kevyonan/sm-rts-starter)
   > Starter code for a real-time-strategy (RTS) mode SourceMod plugin
 
+### [laomobk](https://github.com/laomobk)
+- 🍴 👤 [laomobk](https://github.com/laomobk) Forked [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) to [laomobk/omnisharp-roslyn](https://github.com/laomobk/omnisharp-roslyn)
+  > OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
+  > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
+
 ### [tetromino](https://github.com/tetromino)
 - 🍴 👤 [tetromino](https://github.com/tetromino) Forked [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) to [tetromino/buildtools](https://github.com/tetromino/buildtools)
   > A bazel BUILD file formatter and editor
@@ -91,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 08:20:05 UTC*
+*Last updated at 2026-08-18 09:19:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
