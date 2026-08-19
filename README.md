@@ -35,12 +35,30 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jlfwong](https://github.com/jlfwong)
 - 🌟 👤 [jlfwong](https://github.com/jlfwong) Starred [TheSevenPens/DrawTabData](https://github.com/TheSevenPens/DrawTabData)
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Hearmeman24/ComfyUI-MiniMaxRefPack](https://github.com/Hearmeman24/ComfyUI-MiniMaxRefPack)
+  > Reference management, portable configs and VLM prompt writing for ComfyUI's MiniMax H3 Reference-to-...
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pg83/solo](https://github.com/pg83/solo)
   > Portable Linux binaries, solved
 
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial)
+  > My learning notes for ML SYS.
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
+  > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
+
 ### [randombit](https://github.com/randombit)
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [defuse/auditician](https://github.com/defuse/auditician)
+
+### [sbycrosz](https://github.com/sbycrosz)
+- 🍴 👤 [sbycrosz](https://github.com/sbycrosz) Forked [revopush/code-push-cli](https://github.com/revopush/code-push-cli) to [sbycrosz/code-push-cli](https://github.com/sbycrosz/code-push-cli)
+  > The Ultimate Alternative to CodePush - Real-time updates with full cloud support, CodePush SDK compa...
+
+### [zserge](https://github.com/zserge)
+- 🌟 👤 [zserge](https://github.com/zserge) Starred [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
+  > A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire...
 
 
 <!-- nav -->
@@ -48,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 04:24:14 UTC*
+*Last updated at 2026-08-19 05:18:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
