@@ -32,6 +32,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [fortify/fcli](https://github.com/fortify/fcli)
   > fcli is a command-line utility for interacting with various Fortify products
 
+### [hit9](https://github.com/hit9)
+- 🌟 👤 [hit9](https://github.com/hit9) Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
+  > local multi-agent harness
+
 ### [jlfwong](https://github.com/jlfwong)
 - 🌟 👤 [jlfwong](https://github.com/jlfwong) Starred [TheSevenPens/DrawTabData](https://github.com/TheSevenPens/DrawTabData)
 
@@ -40,6 +44,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Reference management, portable configs and VLM prompt writing for ComfyUI's MiniMax H3 Reference-to-...
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [no8d/ComfyUI-NO8D-controls](https://github.com/no8d/ComfyUI-NO8D-controls)
   > This is a set of high-efficiency custom nodes covering prompt writing to final image generation. By ...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)
+  > An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pg83/solo](https://github.com/pg83/solo)
@@ -58,6 +64,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [sbycrosz](https://github.com/sbycrosz) Forked [revopush/code-push-cli](https://github.com/revopush/code-push-cli) to [sbycrosz/code-push-cli](https://github.com/sbycrosz/code-push-cli)
   > The Ultimate Alternative to CodePush - Real-time updates with full cloud support, CodePush SDK compa...
 
+### [sfinktah](https://github.com/sfinktah)
+- 🌟 👤 [sfinktah](https://github.com/sfinktah) Starred [tpope/vim-abolish](https://github.com/tpope/vim-abolish)
+  > abolish.vim: Work with several variants of a word at once
+- 🍴 👤 [sfinktah](https://github.com/sfinktah) Forked [inkarkat/vim-mark](https://github.com/inkarkat/vim-mark) to [sfinktah/vim-mark](https://github.com/sfinktah/vim-mark)
+  > Highlight several words in different colors simultaneously.
+
 ### [zserge](https://github.com/zserge)
 - 🌟 👤 [zserge](https://github.com/zserge) Starred [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
   > A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire...
@@ -68,7 +80,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 08:20:45 UTC*
+*Last updated at 2026-08-19 09:20:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
