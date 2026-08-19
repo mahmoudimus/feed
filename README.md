@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [pg83/solo](https://github.com/pg83/solo)
   > Portable Linux binaries, solved
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
+  > Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p...
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
@@ -48,6 +52,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI...
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Glitch-Gaming-Platform/Glitch-Desktop-App](https://github.com/Glitch-Gaming-Platform/Glitch-Desktop-App)
   > Desktop streaming application for Glitch.
+
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [giovapanasiti/book_studio](https://github.com/giovapanasiti/book_studio)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/idawilli](https://github.com/williballenthin/idawilli) to [mrexodia/idawilli](https://github.com/mrexodia/idawilli)
@@ -98,7 +105,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 12:18:47 UTC*
+*Last updated at 2026-08-19 13:34:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
