@@ -38,6 +38,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Hearmeman24/ComfyUI-MiniMaxRefPack](https://github.com/Hearmeman24/ComfyUI-MiniMaxRefPack)
   > Reference management, portable configs and VLM prompt writing for ComfyUI's MiniMax H3 Reference-to-...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [no8d/ComfyUI-NO8D-controls](https://github.com/no8d/ComfyUI-NO8D-controls)
+  > This is a set of high-efficiency custom nodes covering prompt writing to final image generation. By ...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pg83/solo](https://github.com/pg83/solo)
@@ -66,7 +68,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 06:21:26 UTC*
+*Last updated at 2026-08-19 07:28:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
