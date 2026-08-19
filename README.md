@@ -44,6 +44,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [trustsig-eu/wasm2c-tableflip](https://github.com/trustsig-eu/wasm2c-tableflip)
   > wasm2c sandbox escape. An untrusted WebAssembly module breaks out of the generated C sandbox and exe...
 
+### [jentfoo](https://github.com/jentfoo)
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [paimonchan/paimon-mcp-fetch](https://github.com/paimonchan/paimon-mcp-fetch)
+  > MCP server for fetching web pages — SSRF-safe, readability-optimized, single Go binary. AI-optimized...
+
 ### [jlfwong](https://github.com/jlfwong)
 - 🌟 👤 [jlfwong](https://github.com/jlfwong) Starred [TheSevenPens/DrawTabData](https://github.com/TheSevenPens/DrawTabData)
 
@@ -129,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 16:16:31 UTC*
+*Last updated at 2026-08-19 17:15:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
