@@ -40,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
   > local multi-agent harness
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [trustsig-eu/wasm2c-tableflip](https://github.com/trustsig-eu/wasm2c-tableflip)
+  > wasm2c sandbox escape. An untrusted WebAssembly module breaks out of the generated C sandbox and exe...
+
 ### [jlfwong](https://github.com/jlfwong)
 - 🌟 👤 [jlfwong](https://github.com/jlfwong) Starred [TheSevenPens/DrawTabData](https://github.com/TheSevenPens/DrawTabData)
 
@@ -60,6 +64,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
 
+### [mekanix](https://github.com/mekanix)
+- 🌟 👤 [mekanix](https://github.com/mekanix) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+  > A batteries-included framework for building web apps
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/idawilli](https://github.com/williballenthin/idawilli) to [mrexodia/idawilli](https://github.com/mrexodia/idawilli)
   > IDA Pro resources, scripts, and configurations
@@ -69,6 +77,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pg83/solo](https://github.com/pg83/solo)
   > Portable Linux binaries, solved
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate)
+  > Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to c...
 
 ### [notify-bibi](https://github.com/notify-bibi)
 - 🌟 👤 [notify-bibi](https://github.com/notify-bibi) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
@@ -119,7 +129,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 15:18:07 UTC*
+*Last updated at 2026-08-19 16:16:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
