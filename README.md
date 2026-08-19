@@ -47,6 +47,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)
   > An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/idawilli](https://github.com/williballenthin/idawilli) to [mrexodia/idawilli](https://github.com/mrexodia/idawilli)
+  > IDA Pro resources, scripts, and configurations
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pg83/solo](https://github.com/pg83/solo)
   > Portable Linux binaries, solved
@@ -80,7 +84,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 09:20:21 UTC*
+*Last updated at 2026-08-19 10:15:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
