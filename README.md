@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/formatly-on-demand](https://github.com/JoshuaKGoldberg/formatly-on-demand)
   > Offers to format pull requests with whatever formatter your project is already using, then formats t...
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/prettier-plugin-padding-lines](https://github.com/JoshuaKGoldberg/prettier-plugin-padding-lines)
+  > Prettier plugin to enforce a blank line after block-like statements. 🛋️
 
 ### [Midi12](https://github.com/Midi12)
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
@@ -131,9 +133,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nmarasoiu](https://github.com/nmarasoiu) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
   > Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4...
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
+
 ### [samuelcolvin](https://github.com/samuelcolvin)
 - 🍴 👤 [samuelcolvin](https://github.com/samuelcolvin) Forked [rust-num/num-bigint](https://github.com/rust-num/num-bigint) to [samuelcolvin/num-bigint](https://github.com/samuelcolvin/num-bigint)
   > Big integer types for Rust
+
+### [shanselman](https://github.com/shanselman)
+- 🚀 👤 [shanselman](https://github.com/shanselman) Made [shanselman/llama-cpp-ant-setup](https://github.com/shanselman/llama-cpp-ant-setup) public
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [cosmik-network/semble](https://github.com/cosmik-network/semble)
@@ -174,7 +183,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 22:09:27 UTC*
+*Last updated at 2026-08-18 23:10:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
