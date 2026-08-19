@@ -43,6 +43,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
 
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [kim-em/lean-zip](https://github.com/kim-em/lean-zip)
+
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [mvdan/sh](https://github.com/mvdan/sh)
   > A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
@@ -156,6 +159,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [h3dk4ndi/chronos2-cpp](https://github.com/h3dk4ndi/chronos2-cpp)
   > C++17 realised-volatility forecasting pipeline: Bloomberg BLPAPI → SQLite → feature engineering → Ch...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
+  > Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
+
 ### [wincent](https://github.com/wincent)
 - 🌟 👤 [wincent](https://github.com/wincent) Starred [JoviDeCroock/stableref](https://github.com/JoviDeCroock/stableref)
   > Proof-carrying referential stability for React and Preact
@@ -167,6 +174,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [AutomaApp/automa](https://github.com/AutomaApp/automa)
   > A browser extension for automating your browser by connecting blocks
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [pg83/solo](https://github.com/pg83/solo)
+  > Portable Linux binaries, solved
 
 ### [zserge](https://github.com/zserge)
 - 🌟 👤 [zserge](https://github.com/zserge) Starred [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
@@ -178,7 +187,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 21:14:08 UTC*
+*Last updated at 2026-08-19 22:12:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
