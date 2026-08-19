@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [getsentry/temporal-adventure-bot-workflow](https://github.com/getsentry/temporal-adventure-bot-workflow)
   > A Vercel Workflow port of the choose-your-own-adventure Slack bot.
 
+### [KIC](https://github.com/KIC)
+- 🌟 👤 [KIC](https://github.com/KIC) Starred [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+  > Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [huggingface/transformers](https://github.com/huggingface/transformers)
   > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
@@ -27,6 +31,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
   > Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p...
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [microsoft/Loopsbench](https://github.com/microsoft/Loopsbench)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [alphaXiv/openresearch-cli](https://github.com/alphaXiv/openresearch-cli)
+  > Run parallel research agents with any model
 
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
@@ -50,6 +57,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [jlfwong](https://github.com/jlfwong)
 - 🌟 👤 [jlfwong](https://github.com/jlfwong) Starred [TheSevenPens/DrawTabData](https://github.com/TheSevenPens/DrawTabData)
+
+### [johanbrandhorst](https://github.com/johanbrandhorst)
+- 🚀 👤 [johanbrandhorst](https://github.com/johanbrandhorst) Made [johanbrandhorst/android-bootstrap](https://github.com/johanbrandhorst/android-bootstrap) public
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Hearmeman24/ComfyUI-MiniMaxRefPack](https://github.com/Hearmeman24/ComfyUI-MiniMaxRefPack)
@@ -111,6 +121,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [pg83/solo](https://github.com/pg83/solo)
   > Portable Linux binaries, solved
 
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [h3dk4ndi/chronos2-cpp](https://github.com/h3dk4ndi/chronos2-cpp)
+  > C++17 realised-volatility forecasting pipeline: Bloomberg BLPAPI → SQLite → feature engineering → Ch...
+
 ### [wincent](https://github.com/wincent)
 - 🌟 👤 [wincent](https://github.com/wincent) Starred [JoviDeCroock/stableref](https://github.com/JoviDeCroock/stableref)
   > Proof-carrying referential stability for React and Preact
@@ -133,7 +147,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 17:15:15 UTC*
+*Last updated at 2026-08-19 18:15:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
