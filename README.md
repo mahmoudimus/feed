@@ -1,189 +1,21 @@
-# Daily GitHub Activity (2026-08-18)
+# Daily GitHub Activity (2026-08-19)
 
 <!-- nav -->
-[← 2026-08-17](archive/2026/08/17.md)
+[← 2026-08-18](archive/2026/08/18.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [AlexsJones](https://github.com/AlexsJones)
-- 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [vlanx/gruvbox-material-ghostty](https://github.com/vlanx/gruvbox-material-ghostty)
-  > Port of the Gruvbox Material theme for Ghostty
-
-### [Gcenx](https://github.com/Gcenx)
-- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [chrissotraidis/ectopad](https://github.com/chrissotraidis/ectopad)
-  > Metroid Prime through Metaforce, native and optimized for MacOS, iOS, and iPadOS
-
-### [Houfeng](https://github.com/Houfeng)
-- 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [Textualize/textual](https://github.com/Textualize/textual)
-  > The lean application framework for Python.  Build sophisticated user interfaces with a simple Python...
-- 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [aristocratos/btop](https://github.com/aristocratos/btop)
-  > A monitor of resources
-- 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
-  > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- 🌟 👤 [Houfeng](https://github.com/Houfeng) Starred [browsh-org/browsh](https://github.com/browsh-org/browsh)
-  > A fully-modern text-based browser, rendering to TTY and browsers
-
-### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
-- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/formatly-on-demand](https://github.com/JoshuaKGoldberg/formatly-on-demand)
-  > Offers to format pull requests with whatever formatter your project is already using, then formats t...
-- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/prettier-plugin-padding-lines](https://github.com/JoshuaKGoldberg/prettier-plugin-padding-lines)
-  > Prettier plugin to enforce a blank line after block-like statements. 🛋️
-
-### [Midi12](https://github.com/Midi12)
-- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
-  > Hardware backdoors in x86 CPUs
-
-### [cra0](https://github.com/cra0)
-- 🌟 👤 [cra0](https://github.com/cra0) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
-  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
-- 🌟 👤 [cra0](https://github.com/cra0) Starred [alexander-pick/shannon_modem_loader](https://github.com/alexander-pick/shannon_modem_loader)
-  > Exynos Modem / Shannon baseband firmware loader for IDA Pro 8.x/9.x
-
-### [dain](https://github.com/dain)
-- 🍴 👤 [dain](https://github.com/dain) Forked [pingdotgg/t3code](https://github.com/pingdotgg/t3code) to [dain/t3code](https://github.com/dain/t3code)
-
-### [danieldietrich](https://github.com/danieldietrich)
-- 🌟 👤 [danieldietrich](https://github.com/danieldietrich) Starred [gastownhall/beads](https://github.com/gastownhall/beads)
-  > Beads - A memory upgrade for your coding agent
-
-### [donvito](https://github.com/donvito)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [geocine/codex-window-taskbar](https://github.com/geocine/codex-window-taskbar)
-  > Native Windows taskbar widget for Codex usage.
-
-### [dustinblackman](https://github.com/dustinblackman)
-- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [jundot/omlx](https://github.com/jundot/omlx)
-  > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
-- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [raine/workmux](https://github.com/raine/workmux)
-  > git worktrees + tmux windows for zero-friction parallel dev
-
-### [fcakyon](https://github.com/fcakyon)
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [livekit/livekit](https://github.com/livekit/livekit)
-  > End-to-end realtime stack for connecting humans and AI
-
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [splintersfury/KernelSight](https://github.com/splintersfury/KernelSight) to [fengjixuchui/KernelSight](https://github.com/fengjixuchui/KernelSight)
-  > Windows kernel driver exploitation knowledge base — 28 case studies organized by driver type, ground...
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [tyeurada/edrEvasionWorkshop](https://github.com/tyeurada/edrEvasionWorkshop) to [fengjixuchui/edrEvasionWorkshop](https://github.com/fengjixuchui/edrEvasionWorkshop)
-  > Workshop materials for “Step-by-Step Malware Development: Evading EDR from Loaders to the Kernel” pr...
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [haarisxk/Waypoint](https://github.com/haarisxk/Waypoint) to [fengjixuchui/Waypoint](https://github.com/fengjixuchui/Waypoint)
-  > A stealth-focused kernel-mode virtual HID mouse driver for Windows. Built with KMDF and VHF for prec...
-
-### [fmeum](https://github.com/fmeum)
-- 🌟 👤 [fmeum](https://github.com/fmeum) Starred [tuist/once](https://github.com/tuist/once)
-  > Run once. Reuse everywhere.
-
-### [h2non](https://github.com/h2non)
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [juanfont/headscale](https://github.com/juanfont/headscale)
-  > An open source, self-hosted implementation of the Tailscale control server
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [tale/headplane](https://github.com/tale/headplane)
-  > A feature-complete Web UI for Headscale
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [grpc/grpc-web](https://github.com/grpc/grpc-web)
-  > gRPC for Web Clients
-
-### [hsiafan](https://github.com/hsiafan)
-- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [ascenx/vscode-git-log](https://github.com/ascenx/vscode-git-log)
-  > A visual Git log, commit graph, history browser, and repository operations extension for Visual Stud...
-
-### [jentfoo](https://github.com/jentfoo)
-- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde)
-  > A crowdsourced distributed cluster for AI art and text generation
-
-### [jeremyckahn](https://github.com/jeremyckahn)
-- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lemonade-sdk/mac-amdgpu](https://github.com/lemonade-sdk/mac-amdgpu)
-  > A WIP Driver for AMD GPUs on MacOS
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [TheTom/hermes-go](https://github.com/TheTom/hermes-go)
-  > The agent that grows with you
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [artokun/comfyui-mcp-panel](https://github.com/artokun/comfyui-mcp-panel)
-  > The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no A...
-
-### [kevyonan](https://github.com/kevyonan)
-- 🌟 👤 [kevyonan](https://github.com/kevyonan) Starred [geominorai/smbl](https://github.com/geominorai/smbl)
-  > SourceMod Bot Library
-- 🍴 👤 [kevyonan](https://github.com/kevyonan) Forked [geominorai/smbl](https://github.com/geominorai/smbl) to [kevyonan/smbl](https://github.com/kevyonan/smbl)
-  > SourceMod Bot Library
-- 🍴 👤 [kevyonan](https://github.com/kevyonan) Forked [geominorai/sm-rts-starter](https://github.com/geominorai/sm-rts-starter) to [kevyonan/sm-rts-starter](https://github.com/kevyonan/sm-rts-starter)
-  > Starter code for a real-time-strategy (RTS) mode SourceMod plugin
-
-### [laomobk](https://github.com/laomobk)
-- 🍴 👤 [laomobk](https://github.com/laomobk) Forked [OmniSharp/omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) to [laomobk/omnisharp-roslyn](https://github.com/laomobk/omnisharp-roslyn)
-  > OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
-
-### [mikehearn](https://github.com/mikehearn)
-- 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [pitiflautico/neobrowser](https://github.com/pitiflautico/neobrowser)
-  > MCP server that drives real Chrome with your real logged-in sessions — genuine fingerprint (passes b...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
-  > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp)
-  > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lencx/Minke](https://github.com/lencx/Minke)
-  > 🐳 DeepSeek Harness Desktop
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [gajus/zod-compiler](https://github.com/gajus/zod-compiler)
-  > Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack,...
-
-### [nmarasoiu](https://github.com/nmarasoiu)
-- 🌟 👤 [nmarasoiu](https://github.com/nmarasoiu) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
-  > Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4...
-
-### [realoriginal](https://github.com/realoriginal)
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
-  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
-
-### [samuelcolvin](https://github.com/samuelcolvin)
-- 🍴 👤 [samuelcolvin](https://github.com/samuelcolvin) Forked [rust-num/num-bigint](https://github.com/rust-num/num-bigint) to [samuelcolvin/num-bigint](https://github.com/samuelcolvin/num-bigint)
-  > Big integer types for Rust
-
-### [shanselman](https://github.com/shanselman)
-- 🚀 👤 [shanselman](https://github.com/shanselman) Made [shanselman/llama-cpp-ant-setup](https://github.com/shanselman/llama-cpp-ant-setup) public
-
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [cosmik-network/semble](https://github.com/cosmik-network/semble)
-  > A social knowledge tool for research trails, built on ATProto
-
-### [skx](https://github.com/skx)
-- 🍴 👤 [skx](https://github.com/skx) Forked [ivanizag/iz-cpm](https://github.com/ivanizag/iz-cpm) to [skx/iz-cpm](https://github.com/skx/iz-cpm)
-  > Portable CP/M emulation to run CP/M 2.2 binaries for Z80
-
-### [stepancheg](https://github.com/stepancheg)
-- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [pg83/solo](https://github.com/pg83/solo)
-  > Portable Linux binaries, solved
-
-### [tetromino](https://github.com/tetromino)
-- 🍴 👤 [tetromino](https://github.com/tetromino) Forked [bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) to [tetromino/buildtools](https://github.com/tetromino/buildtools)
-  > A bazel BUILD file formatter and editor
-
-### [thomasdarimont](https://github.com/thomasdarimont)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [embesozzi/draft-embesozzi-intent-agent-native-authorization](https://github.com/embesozzi/draft-embesozzi-intent-agent-native-authorization)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [mcguinness/mission-bound-authorization](https://github.com/mcguinness/mission-bound-authorization)
-  > Reference architecture for mission-bound authorization
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)
-  > Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready T...
-
-### [thomasmueller](https://github.com/thomasmueller)
-- 🍴 👤 [thomasmueller](https://github.com/thomasmueller) Forked [adobe/aem-project-archetype](https://github.com/adobe/aem-project-archetype) to [oak-indexing/aem-project-archetype](https://github.com/oak-indexing/aem-project-archetype)
-  > Maven template to create best-practice websites on AEM.
-
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [vercel-labs/native](https://github.com/vercel-labs/native)
-  > Toolkit for building native desktop apps
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [ckolivas/lrzip](https://github.com/ckolivas/lrzip)
-  > Long Range Zip
-
+The users you follow have no public activity today that matches the filter criteria.
 
 <!-- nav -->
-[← 2026-08-17](archive/2026/08/17.md)
+[← 2026-08-18](archive/2026/08/18.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-18 23:10:10 UTC*
+*Last updated at 2026-08-19 00:30:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
