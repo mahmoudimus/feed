@@ -12,10 +12,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [BaseMax](https://github.com/BaseMax) Made [BaseMax/AndroidShotNormalizer](https://github.com/BaseMax/AndroidShotNormalizer) public
   > Purpose‑built for Android developers: transform screenshots into store‑compliant 16:9 or 9:16 images...
 
-### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
-- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [getsentry/temporal-adventure-bot-workflow](https://github.com/getsentry/temporal-adventure-bot-workflow)
-  > A Vercel Workflow port of the choose-your-own-adventure Slack bot.
-
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
   > Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
@@ -28,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [pg83/solo](https://github.com/pg83/solo)
   > Portable Linux binaries, solved
 
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [FoxYxoF/BlueSDR](https://github.com/FoxYxoF/BlueSDR)
+  > Experimental SDR transceiver based on STM32 Blue Pill
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
   > Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare p...
@@ -39,13 +39,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
   > TypeScript-to-Native Compiler
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [mvdan/sh](https://github.com/mvdan/sh)
+  > A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)
+  > AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and...
+
 ### [h3xstream](https://github.com/h3xstream)
 - 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [fortify/fcli](https://github.com/fortify/fcli)
   > fcli is a command-line utility for interacting with various Fortify products
 
+### [heinermann](https://github.com/heinermann)
+- 🌟 👤 [heinermann](https://github.com/heinermann) Starred [VerySleepy/verysleepy](https://github.com/VerySleepy/verysleepy)
+  > Very Sleepy, a sampling CPU profiler for Windows
+
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)
   > local multi-agent harness
+
+### [interference-security](https://github.com/interference-security)
+- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [floci-io/floci](https://github.com/floci-io/floci)
+  > Light, fluffy, and always free - The AWS Local Emulator alternative
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [trustsig-eu/wasm2c-tableflip](https://github.com/trustsig-eu/wasm2c-tableflip)
@@ -87,12 +103,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > IDA Pro resources, scripts, and configurations
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [triskellib/triskel](https://github.com/triskellib/triskel) to [mrexodia/triskel](https://github.com/mrexodia/triskel)
   > A graphing library for Control Flow Graphs
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ggfuchsi-oss/spectrIDA-Reverse_Engineering_Stack](https://github.com/ggfuchsi-oss/spectrIDA-Reverse_Engineering_Stack)
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pg83/solo](https://github.com/pg83/solo)
   > Portable Linux binaries, solved
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate)
   > Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to c...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+  > The design language that makes your AI harness better at design.
 
 ### [notify-bibi](https://github.com/notify-bibi)
 - 🌟 👤 [notify-bibi](https://github.com/notify-bibi) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
@@ -121,6 +140,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [pg83/solo](https://github.com/pg83/solo)
   > Portable Linux binaries, solved
 
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
+  > Lore is a next-generation, open source version control system
+
 ### [stephenlb](https://github.com/stephenlb)
 - 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [h3dk4ndi/chronos2-cpp](https://github.com/h3dk4ndi/chronos2-cpp)
   > C++17 realised-volatility forecasting pipeline: Bloomberg BLPAPI → SQLite → feature engineering → Ch...
@@ -147,7 +170,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 18:15:05 UTC*
+*Last updated at 2026-08-19 20:13:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
