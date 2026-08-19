@@ -46,6 +46,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > This is a set of high-efficiency custom nodes covering prompt writing to final image generation. By ...
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)
   > An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Glitch-Gaming-Platform/Glitch-Desktop-App](https://github.com/Glitch-Gaming-Platform/Glitch-Desktop-App)
+  > Desktop streaming application for Glitch.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/idawilli](https://github.com/williballenthin/idawilli) to [mrexodia/idawilli](https://github.com/mrexodia/idawilli)
@@ -54,6 +56,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pg83/solo](https://github.com/pg83/solo)
   > Portable Linux binaries, solved
+
+### [notify-bibi](https://github.com/notify-bibi)
+- 🌟 👤 [notify-bibi](https://github.com/notify-bibi) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial)
@@ -74,6 +80,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [sfinktah](https://github.com/sfinktah) Forked [inkarkat/vim-mark](https://github.com/inkarkat/vim-mark) to [sfinktah/vim-mark](https://github.com/sfinktah/vim-mark)
   > Highlight several words in different colors simultaneously.
 
+### [wincent](https://github.com/wincent)
+- 🌟 👤 [wincent](https://github.com/wincent) Starred [JoviDeCroock/stableref](https://github.com/JoviDeCroock/stableref)
+  > Proof-carrying referential stability for React and Preact
+
+### [xrash](https://github.com/xrash)
+- 🌟 👤 [xrash](https://github.com/xrash) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
+
 ### [zserge](https://github.com/zserge)
 - 🌟 👤 [zserge](https://github.com/zserge) Starred [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
   > A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire...
@@ -84,7 +98,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 11:13:13 UTC*
+*Last updated at 2026-08-19 12:18:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
