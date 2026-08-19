@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [huggingface/transformers](https://github.com/huggingface/transformers)
   > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [Effect-TS/effect](https://github.com/Effect-TS/effect)
+  > Build production-ready applications in TypeScript
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [pg83/solo](https://github.com/pg83/solo)
   > Portable Linux binaries, solved
@@ -62,6 +66,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [floci-io/floci](https://github.com/floci-io/floci)
   > Light, fluffy, and always free - The AWS Local Emulator alternative
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [triskellib/triskel](https://github.com/triskellib/triskel)
+  > A graphing library for Control Flow Graphs
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [trustsig-eu/wasm2c-tableflip](https://github.com/trustsig-eu/wasm2c-tableflip)
@@ -170,7 +178,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 20:13:02 UTC*
+*Last updated at 2026-08-19 21:14:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
