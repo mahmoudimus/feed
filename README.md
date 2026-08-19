@@ -13,7 +13,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Purpose‑built for Android developers: transform screenshots into store‑compliant 16:9 or 9:16 images...
 
 ### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
-- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/temporal-adventure-bot-workflow](https://github.com/JoshuaKGoldberg/temporal-adventure-bot-workflow)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [getsentry/temporal-adventure-bot-workflow](https://github.com/getsentry/temporal-adventure-bot-workflow)
   > A Vercel Workflow port of the choose-your-own-adventure Slack bot.
 
 ### [P4nda0s](https://github.com/P4nda0s)
@@ -56,9 +56,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [giovapanasiti/book_studio](https://github.com/giovapanasiti/book_studio)
 
+### [laurci](https://github.com/laurci)
+- 🌟 👤 [laurci](https://github.com/laurci) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
+  > TypeScript-to-Native Compiler
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/idawilli](https://github.com/williballenthin/idawilli) to [mrexodia/idawilli](https://github.com/mrexodia/idawilli)
   > IDA Pro resources, scripts, and configurations
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [triskellib/triskel](https://github.com/triskellib/triskel) to [mrexodia/triskel](https://github.com/mrexodia/triskel)
+  > A graphing library for Control Flow Graphs
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pg83/solo](https://github.com/pg83/solo)
@@ -87,6 +93,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [sfinktah](https://github.com/sfinktah) Forked [inkarkat/vim-mark](https://github.com/inkarkat/vim-mark) to [sfinktah/vim-mark](https://github.com/sfinktah/vim-mark)
   > Highlight several words in different colors simultaneously.
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [pg83/solo](https://github.com/pg83/solo)
+  > Portable Linux binaries, solved
+
 ### [wincent](https://github.com/wincent)
 - 🌟 👤 [wincent](https://github.com/wincent) Starred [JoviDeCroock/stableref](https://github.com/JoviDeCroock/stableref)
   > Proof-carrying referential stability for React and Preact
@@ -94,6 +104,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xrash](https://github.com/xrash)
 - 🌟 👤 [xrash](https://github.com/xrash) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [AutomaApp/automa](https://github.com/AutomaApp/automa)
+  > A browser extension for automating your browser by connecting blocks
 
 ### [zserge](https://github.com/zserge)
 - 🌟 👤 [zserge](https://github.com/zserge) Starred [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
@@ -105,7 +119,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-19 13:34:51 UTC*
+*Last updated at 2026-08-19 14:21:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
