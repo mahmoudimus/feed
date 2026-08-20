@@ -20,9 +20,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
+### [colby57](https://github.com/colby57)
+- 🌟 👤 [colby57](https://github.com/colby57) Starred [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs)
+  > Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to deve...
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [123panNextGen/123pan](https://github.com/123panNextGen/123pan)
   > 第三方123云盘客户端，解决了123云盘官方客户端的若干问题，并使用多种方式解除流量限制，使用Python3和PyQt6制作
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [Proteas/apple-cve](https://github.com/Proteas/apple-cve)
+  > apple cve list
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [zer0condition/GoodmansKernel](https://github.com/zer0condition/GoodmansKernel)
+  > Run unsigned kernel payloads in a signed kernel driver via wasm3. No JIT/W^x (HVCI/etc., compliant)
 
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [vercel-labs/fx](https://github.com/vercel-labs/fx)
@@ -68,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 06:22:29 UTC*
+*Last updated at 2026-08-20 07:31:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
