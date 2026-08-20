@@ -115,6 +115,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [timescale/timescaledb](https://github.com/timescale/timescaledb)
   > A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
+### [mdgriffith](https://github.com/mdgriffith)
+- 🍴 👤 [mdgriffith](https://github.com/mdgriffith) Forked [yfedoseev/pdf_oxide](https://github.com/yfedoseev/pdf_oxide) to [mdgriffith/pdf_oxide](https://github.com/mdgriffith/pdf_oxide)
+  > The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion,...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark)
   > Qwen3.8 27B on SGLang for DGX Spark
@@ -143,6 +147,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [NanoVNA-Saver/nanovna-saver](https://github.com/NanoVNA-Saver/nanovna-saver)
+  > A tool for reading, displaying and saving data from the NanoVNA
+
 ### [tabjy](https://github.com/tabjy)
 - 🌟 👤 [tabjy](https://github.com/tabjy) Starred [ryfineZ/carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel)
   > Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte ...
@@ -170,7 +178,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 21:16:15 UTC*
+*Last updated at 2026-08-20 22:13:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
