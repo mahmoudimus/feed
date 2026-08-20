@@ -12,6 +12,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [MikeHazeJr/perfect-dark-2](https://github.com/MikeHazeJr/perfect-dark-2)
   > Perfect Dark PC port with server-authoritative multiplayer, dynamic mod loader, and AllInOneMods int...
 
+### [John-K](https://github.com/John-K)
+- 🌟 👤 [John-K](https://github.com/John-K) Starred [mega-yfue/mega-yfue.github.io](https://github.com/mega-yfue/mega-yfue.github.io)
+
 ### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [pbhandari/dotfiles](https://github.com/pbhandari/dotfiles)
   > My dotfiles
@@ -121,6 +124,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [zachahn/vomit](https://github.com/zachahn/vomit)
   > Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless
 
+### [notfoundry](https://github.com/notfoundry)
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [danielvaughn/hz](https://github.com/danielvaughn/hz)
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL)
   > Scalable toolkit for efficient model reinforcement
@@ -154,7 +160,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 19:21:33 UTC*
+*Last updated at 2026-08-20 20:14:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
