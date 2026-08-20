@@ -18,6 +18,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [pbhandari/dotfiles](https://github.com/pbhandari/dotfiles)
   > My dotfiles
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/sentry-dogescript](https://github.com/JoshuaKGoldberg/sentry-dogescript)
+  > Prototype hackweek Sentry SDK for Dogescript — not an official Sentry SDK
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/sentry-jsfuck](https://github.com/JoshuaKGoldberg/sentry-jsfuck)
+  > Prototype hackweek Sentry SDK written entirely in []()!+ — not an official Sentry SDK
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/sentry-lolcode](https://github.com/JoshuaKGoldberg/sentry-lolcode)
+  > Prototype hackweek Sentry SDK for LOLCODE — not an official Sentry SDK
 
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
@@ -30,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)
+  > Claude Code port of poteto's pstack (cursor/plugins/pstack). Rigorous agent workflows with Cursor pr...
 
 ### [Xyl2k](https://github.com/Xyl2k)
 - 🌟 👤 [Xyl2k](https://github.com/Xyl2k) Starred [mnemo70/spt-realghostbusters](https://github.com/mnemo70/spt-realghostbusters)
@@ -160,7 +170,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 20:14:54 UTC*
+*Last updated at 2026-08-20 21:16:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
