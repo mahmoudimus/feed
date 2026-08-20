@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [MikeHazeJr/perfect-dark-2](https://github.com/MikeHazeJr/perfect-dark-2)
   > Perfect Dark PC port with server-authoritative multiplayer, dynamic mod loader, and AllInOneMods int...
 
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [pbhandari/dotfiles](https://github.com/pbhandari/dotfiles)
+  > My dotfiles
+
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
   > A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -121,7 +125,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 14:23:27 UTC*
+*Last updated at 2026-08-20 15:21:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
