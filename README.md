@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Gcenx](https://github.com/Gcenx)
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [MikeHazeJr/perfect-dark-2](https://github.com/MikeHazeJr/perfect-dark-2)
+  > Perfect Dark PC port with server-authoritative multiplayer, dynamic mod loader, and AllInOneMods int...
+
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [akatz-ai/h3-relay](https://github.com/akatz-ai/h3-relay) to [johndpope/h3-relay](https://github.com/johndpope/h3-relay)
   > Steerable, resumable, bounded-memory MiniMax H3 video workflows for ComfyUI
@@ -29,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [vercel-labs/fx](https://github.com/vercel-labs/fx)
   > Unix like coding agent
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ianjwhite99/opencode-with-claude](https://github.com/ianjwhite99/opencode-with-claude)
+  > OpenCode plugin to use your Claude Max/Pro subscription with OpenCode via Meridian
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [rynfar/meridian](https://github.com/rynfar/meridian)
+  > Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline, Jcode. Proxy that br...
 
 
 <!-- nav -->
@@ -36,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 03:35:52 UTC*
+*Last updated at 2026-08-20 04:23:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
