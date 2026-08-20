@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
+### [Xyl2k](https://github.com/Xyl2k)
+- 🌟 👤 [Xyl2k](https://github.com/Xyl2k) Starred [mnemo70/spt-realghostbusters](https://github.com/mnemo70/spt-realghostbusters)
+  > Spreadpoint "The Real Ghostbusters" - An Amiga Intro Disassembly
+
 ### [ajkhoury](https://github.com/ajkhoury)
 - 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [hfiref0x/ETWX](https://github.com/hfiref0x/ETWX)
   > ETW Explorer
@@ -64,6 +68,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
   > A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire...
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [hfiref0x/ETWX](https://github.com/hfiref0x/ETWX)
+  > ETW Explorer
 
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [akatz-ai/h3-relay](https://github.com/akatz-ai/h3-relay) to [johndpope/h3-relay](https://github.com/johndpope/h3-relay)
@@ -91,6 +97,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > OBLITERATE THE CHAINS THAT BIND YOU
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
   > Message passing based allocator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [LegalizeNukes/brave-scriptlets](https://github.com/LegalizeNukes/brave-scriptlets)
@@ -133,7 +140,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 16:19:02 UTC*
+*Last updated at 2026-08-20 17:17:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
