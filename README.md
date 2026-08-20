@@ -44,6 +44,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [geocine/geobench](https://github.com/geocine/geobench)
   > A reproducible 30-task benchmark for evaluating coding agents across models, harnesses, and real-wor...
 
+### [dumbasPL](https://github.com/dumbasPL)
+- 🌟 👤 [dumbasPL](https://github.com/dumbasPL) Starred [hfiref0x/ETWX](https://github.com/hfiref0x/ETWX)
+  > ETW Explorer
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
   > MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac usin...
@@ -91,6 +95,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [dzhng/skills](https://github.com/dzhng/skills)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [kunchenguid/grok-ship](https://github.com/kunchenguid/grok-ship)
+  > Turn your Grok Bot into a software factory.
 
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [timescale/timescaledb](https://github.com/timescale/timescaledb)
@@ -148,7 +154,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 18:19:37 UTC*
+*Last updated at 2026-08-20 19:21:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
