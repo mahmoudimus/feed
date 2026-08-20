@@ -36,6 +36,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
   > MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac usin...
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [AmberWolfCyber/NachoMDM](https://github.com/AmberWolfCyber/NachoMDM) to [fengjixuchui/NachoMDM](https://github.com/fengjixuchui/NachoMDM)
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [123panNextGen/123pan](https://github.com/123panNextGen/123pan)
   > 第三方123云盘客户端，解决了123云盘官方客户端的若干问题，并使用多种方式解除流量限制，使用Python3和PyQt6制作
@@ -62,6 +65,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [benjaminion/static-linear](https://github.com/benjaminion/static-linear)
   > Render a Linear Initiative as a static website
 
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [dzhng/skills](https://github.com/dzhng/skills)
+
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [timescale/timescaledb](https://github.com/timescale/timescaledb)
   > A time-series database for high-performance real-time analytics packaged as a Postgres extension
@@ -74,6 +80,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
   > Message passing based allocator
 
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [LegalizeNukes/brave-scriptlets](https://github.com/LegalizeNukes/brave-scriptlets)
+  > Userscripts for Brave Browser’s Custom Scriptlets feature — lightweight replacements for common brow...
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)
+  > Crowdsourcing better titles and thumbnails on YouTube
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL)
   > Scalable toolkit for efficient model reinforcement
@@ -83,6 +95,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [tabjy](https://github.com/tabjy)
 - 🌟 👤 [tabjy](https://github.com/tabjy) Starred [ryfineZ/carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel)
   > Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte ...
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
+  > Notepad++ official repository
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [treyhunner/sincewhen](https://github.com/treyhunner/sincewhen)
@@ -103,7 +119,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 12:20:26 UTC*
+*Last updated at 2026-08-20 13:36:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
