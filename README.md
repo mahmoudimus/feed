@@ -71,6 +71,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [hfiref0x/ETWX](https://github.com/hfiref0x/ETWX)
   > ETW Explorer
 
+### [jaredpalmer](https://github.com/jaredpalmer)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [theredsix/agent-browser-protocol](https://github.com/theredsix/agent-browser-protocol)
+  > Deterministic browser automation. Works out of the box with Claude/Codex/OpenCode
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [chromiumembedded/cef](https://github.com/chromiumembedded/cef)
+  > Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other...
+
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [akatz-ai/h3-relay](https://github.com/akatz-ai/h3-relay) to [johndpope/h3-relay](https://github.com/johndpope/h3-relay)
   > Steerable, resumable, bounded-memory MiniMax H3 video workflows for ComfyUI
@@ -106,6 +112,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Crowdsourcing better titles and thumbnails on YouTube
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [xaitax/x-account-location-device](https://github.com/xaitax/x-account-location-device)
   > See where any X (Twitter) account posts from and on what device — country flags, device icons & VPN/...
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [zachahn/vomit](https://github.com/zachahn/vomit)
+  > Clean up Claude 5's token vomit with a separate LLM. Save your tokens, Claude 5 is hopeless
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL)
@@ -140,7 +148,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 17:17:12 UTC*
+*Last updated at 2026-08-20 18:19:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
