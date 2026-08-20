@@ -16,9 +16,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [vmos-dev/ai-battle-mcp](https://github.com/vmos-dev/ai-battle-mcp)
   > Multi-user AI group chat via MCP — let your AIs debate each other so you don't have to.
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [123panNextGen/123pan](https://github.com/123panNextGen/123pan)
+  > 第三方123云盘客户端，解决了123云盘官方客户端的若干问题，并使用多种方式解除流量限制，使用Python3和PyQt6制作
+
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [vercel-labs/fx](https://github.com/vercel-labs/fx)
   > Unix like coding agent
+- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
+  > Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [akatz-ai/h3-relay](https://github.com/akatz-ai/h3-relay) to [johndpope/h3-relay](https://github.com/johndpope/h3-relay)
@@ -58,7 +68,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 05:19:21 UTC*
+*Last updated at 2026-08-20 06:22:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
