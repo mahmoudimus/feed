@@ -50,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mvp-ai-lab/RAVEN](https://github.com/mvp-ai-lab/RAVEN)
   > Implementation of our paper "RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-mo...
 
+### [luc-tielen](https://github.com/luc-tielen)
+- 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [timescale/timescaledb](https://github.com/timescale/timescaledb)
+  > A time-series database for high-performance real-time analytics packaged as a Postgres extension
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark)
   > Qwen3.8 27B on SGLang for DGX Spark
@@ -73,6 +77,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > OpenCode plugin to use your Claude Max/Pro subscription with OpenCode via Meridian
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [rynfar/meridian](https://github.com/rynfar/meridian)
   > Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline, Jcode. Proxy that br...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [docker/sbx-releases](https://github.com/docker/sbx-releases)
 
 
 <!-- nav -->
@@ -80,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 08:21:51 UTC*
+*Last updated at 2026-08-20 09:21:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
