@@ -66,6 +66,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 
+### [tabjy](https://github.com/tabjy)
+- 🌟 👤 [tabjy](https://github.com/tabjy) Starred [ryfineZ/carrier-ims-for-pixel](https://github.com/ryfineZ/carrier-ims-for-pixel)
+  > Carrier IMS for Pixel (TurboIMS): multilingual (中文/English) pixel ims / ims / carrierconfig / volte ...
+
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [treyhunner/sincewhen](https://github.com/treyhunner/sincewhen)
   > Python package for discovering in which Python version a feature was added/removed
@@ -85,7 +89,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 09:21:03 UTC*
+*Last updated at 2026-08-20 10:17:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
