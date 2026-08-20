@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [colby57](https://github.com/colby57) Starred [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs)
   > Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to deve...
 
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
+  > MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac usin...
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [123panNextGen/123pan](https://github.com/123panNextGen/123pan)
   > 第三方123云盘客户端，解决了123云盘官方客户端的若干问题，并使用多种方式解除流量限制，使用Python3和PyQt6制作
@@ -59,6 +63,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Qwen3.8 27B on SGLang for DGX Spark
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)
   > OBLITERATE THE CHAINS THAT BIND YOU
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
+  > Message passing based allocator
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL)
@@ -89,7 +95,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 10:17:25 UTC*
+*Last updated at 2026-08-20 11:15:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
