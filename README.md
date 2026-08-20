@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [colby57](https://github.com/colby57) Starred [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs)
   > Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to deve...
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [geocine/geobench](https://github.com/geocine/geobench)
+  > A reproducible 30-task benchmark for evaluating coding agents across models, harnesses, and real-wor...
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)
   > MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac usin...
@@ -53,6 +57,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Svelte Shadcn Useful blocks for production - Inspired from COSS UI
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mvp-ai-lab/RAVEN](https://github.com/mvp-ai-lab/RAVEN)
   > Implementation of our paper "RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-mo...
+
+### [kevaundray](https://github.com/kevaundray)
+- 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [benjaminion/static-linear](https://github.com/benjaminion/static-linear)
+  > Render a Linear Initiative as a static website
 
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [timescale/timescaledb](https://github.com/timescale/timescaledb)
@@ -95,7 +103,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 11:15:19 UTC*
+*Last updated at 2026-08-20 12:20:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
