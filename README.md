@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
+### [ajkhoury](https://github.com/ajkhoury)
+- 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [hfiref0x/ETWX](https://github.com/hfiref0x/ETWX)
+  > ETW Explorer
+
 ### [colby57](https://github.com/colby57)
 - 🌟 👤 [colby57](https://github.com/colby57) Starred [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs)
   > Rusty wrapper for the Unified Extensible Firmware Interface (UEFI). This crate makes it easy to deve...
@@ -56,6 +60,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Unix like coding agent
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
   > Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
+  > A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire...
 
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [akatz-ai/h3-relay](https://github.com/akatz-ai/h3-relay) to [johndpope/h3-relay](https://github.com/johndpope/h3-relay)
@@ -125,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 15:21:39 UTC*
+*Last updated at 2026-08-20 16:19:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
