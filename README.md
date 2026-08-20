@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [MikeHazeJr/perfect-dark-2](https://github.com/MikeHazeJr/perfect-dark-2)
   > Perfect Dark PC port with server-authoritative multiplayer, dynamic mod loader, and AllInOneMods int...
 
+### [KIC](https://github.com/KIC)
+- 🌟 👤 [KIC](https://github.com/KIC) Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+  > A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [vmos-dev/ai-battle-mcp](https://github.com/vmos-dev/ai-battle-mcp)
   > Multi-user AI group chat via MCP — let your AIs debate each other so you don't have to.
@@ -76,7 +80,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 07:31:03 UTC*
+*Last updated at 2026-08-20 08:21:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
