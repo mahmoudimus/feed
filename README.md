@@ -85,6 +85,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Userscripts for Brave Browser’s Custom Scriptlets feature — lightweight replacements for common brow...
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)
   > Crowdsourcing better titles and thumbnails on YouTube
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [xaitax/x-account-location-device](https://github.com/xaitax/x-account-location-device)
+  > See where any X (Twitter) account posts from and on what device — country flags, device icons & VPN/...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL)
@@ -119,7 +121,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-20 13:36:33 UTC*
+*Last updated at 2026-08-20 14:23:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
