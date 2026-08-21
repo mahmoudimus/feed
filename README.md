@@ -12,6 +12,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [csete/gpredict](https://github.com/csete/gpredict)
   > Gpredict satellite tracking application
 
+### [colby57](https://github.com/colby57)
+- 🍴 👤 [colby57](https://github.com/colby57) Forked [x64dbg/TitanEngine](https://github.com/x64dbg/TitanEngine) to [colby57/TitanEngine](https://github.com/colby57/TitanEngine)
+  > TitanEngine Community Edition. Debug engine used by x64dbg.
+- 🍴 👤 [colby57](https://github.com/colby57) Forked [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) to [colby57/x64dbg-unified](https://github.com/colby57/x64dbg-unified)
+  > An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysi...
+
 ### [crawshaw](https://github.com/crawshaw)
 - 🌟 👤 [crawshaw](https://github.com/crawshaw) Starred [gominimal/minimal](https://github.com/gominimal/minimal)
   > Build Software You Can Trust. Isolated, reproducible development environments and a secure package m...
@@ -77,7 +83,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 11:14:58 UTC*
+*Last updated at 2026-08-21 12:20:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
