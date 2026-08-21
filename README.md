@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [csete/gpredict](https://github.com/csete/gpredict)
   > Gpredict satellite tracking application
 
+### [andyleejordan](https://github.com/andyleejordan)
+- 🌟 👤 [andyleejordan](https://github.com/andyleejordan) Starred [MacPaw/cleanmymac-cli](https://github.com/MacPaw/cleanmymac-cli)
+  > Clean Xcode, Docker, Homebrew, and developer caches, remove project and AI artifacts, analyze storag...
+
 ### [claucece](https://github.com/claucece)
 - 🌟 👤 [claucece](https://github.com/claucece) Starred [fffmath/UsefulLink](https://github.com/fffmath/UsefulLink)
   > A page containing many useful links.
@@ -102,6 +106,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nelfo](https://github.com/nelfo) Starred [colby57/x64dbg-unified](https://github.com/colby57/x64dbg-unified)
   > A unified x86/x64 debugger for Windows with mixed-mode WOW64 and Heaven's Gate support.
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [psyclyx/fix](https://github.com/psyclyx/fix)
+  > Fast nIX language evaluator
+
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [adnanakil/nobuzz](https://github.com/adnanakil/nobuzz)
   > A Claude Code skill (/debuzz) that pipes Claude's answers through Gemini to remove the BuzzFeed voic...
@@ -123,6 +131,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Hunt for CVE-2026-18963 exploitation traces (Keycloak unauthenticated account takeover) in the Keycl...
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [litestar-org/litestar](https://github.com/litestar-org/litestar)
   > Light, flexible and extensible ASGI framework | Built to scale
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt)
+  > JSON Web Token implementation in Python
 
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go)
@@ -134,7 +144,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 20:11:39 UTC*
+*Last updated at 2026-08-21 21:11:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
