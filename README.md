@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
   > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [lawriec/mcp-internet-archive](https://github.com/lawriec/mcp-internet-archive)
+  > MCP for access to the internet archive via ia CLI
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [letta-ai/letta-code](https://github.com/letta-ai/letta-code)
   > Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
@@ -60,6 +64,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [kyos-public/keycloak-cve-2026-18963-hunt](https://github.com/kyos-public/keycloak-cve-2026-18963-hunt)
   > Hunt for CVE-2026-18963 exploitation traces (Keycloak unauthenticated account takeover) in the Keycl...
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [litestar-org/litestar](https://github.com/litestar-org/litestar)
+  > Light, flexible and extensible ASGI framework | Built to scale
 
 
 <!-- nav -->
@@ -67,7 +73,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 09:23:08 UTC*
+*Last updated at 2026-08-21 10:17:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
