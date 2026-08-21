@@ -24,13 +24,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [bjarneo/cliamp](https://github.com/bjarneo/cliamp)
   > cliamp - Terminal music player inspired by winamp 
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [io-s2c/s2c](https://github.com/io-s2c/s2c)
+  > A replicated state machine built atop S3.
+
 
 <!-- nav -->
 [← 2026-08-20](archive/2026/08/20.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 04:25:52 UTC*
+*Last updated at 2026-08-21 05:21:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
