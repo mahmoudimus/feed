@@ -38,6 +38,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [drduh](https://github.com/drduh) Starred [disconnectme/disconnect-tracking-protection](https://github.com/disconnectme/disconnect-tracking-protection)
   > Canonical repository for the Disconnect services file
 
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [vercel-labs/wterm](https://github.com/vercel-labs/wterm)
+  > A terminal emulator for the web
+- 🍴 👤 [dustinblackman](https://github.com/dustinblackman) Forked [coder/ghostty-web](https://github.com/coder/ghostty-web) to [dustinblackman/ghostty-web](https://github.com/dustinblackman/ghostty-web)
+  > Ghostty for the web with xterm.js API compatibility
+
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
   > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
@@ -90,6 +96,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [mehrantsi/MSAP-2](https://github.com/mehrantsi/MSAP-2)
   > An 8-bit computer. Successor to MSAP-1
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [hpbrn/creed](https://github.com/hpbrn/creed)
+  > Personal context for your agents.
+
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [kyos-public/keycloak-cve-2026-18963-hunt](https://github.com/kyos-public/keycloak-cve-2026-18963-hunt)
   > Hunt for CVE-2026-18963 exploitation traces (Keycloak unauthenticated account takeover) in the Keycl...
@@ -106,7 +116,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 15:21:06 UTC*
+*Last updated at 2026-08-21 16:17:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
