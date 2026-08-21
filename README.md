@@ -46,6 +46,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [letta-ai/letta-code](https://github.com/letta-ai/letta-code)
   > Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
 
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [asciinema/agg](https://github.com/asciinema/agg)
+  > asciinema gif generator
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 
@@ -67,6 +71,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [snflkd/fluent-korean](https://github.com/snflkd/fluent-korean)
   > Claude Code가 명확한 한국어를 구사하게 만드는 output-style 플러그인 | Claude Code output-style for clear, fluent Korean
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [umanovskis/baremetal-arm](https://github.com/umanovskis/baremetal-arm)
+  > An ebook about bare-metal programming for ARM
+
+### [nelfo](https://github.com/nelfo)
+- 🌟 👤 [nelfo](https://github.com/nelfo) Starred [colby57/x64dbg-unified](https://github.com/colby57/x64dbg-unified)
+  > A unified x86/x64 debugger for Windows with mixed-mode WOW64 and Heaven's Gate support.
+
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [mehrantsi/MSAP-2](https://github.com/mehrantsi/MSAP-2)
   > An 8-bit computer. Successor to MSAP-1
@@ -83,7 +95,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 12:20:12 UTC*
+*Last updated at 2026-08-21 13:35:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
