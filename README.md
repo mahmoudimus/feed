@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [csete/gpredict](https://github.com/csete/gpredict)
   > Gpredict satellite tracking application
 
+### [claucece](https://github.com/claucece)
+- 🌟 👤 [claucece](https://github.com/claucece) Starred [fffmath/UsefulLink](https://github.com/fffmath/UsefulLink)
+  > A page containing many useful links.
+
 ### [colby57](https://github.com/colby57)
 - 🍴 👤 [colby57](https://github.com/colby57) Forked [x64dbg/TitanEngine](https://github.com/x64dbg/TitanEngine) to [colby57/TitanEngine](https://github.com/colby57/TitanEngine)
   > TitanEngine Community Edition. Debug engine used by x64dbg.
@@ -89,13 +93,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [litestar-org/litestar](https://github.com/litestar-org/litestar)
   > Light, flexible and extensible ASGI framework | Built to scale
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go)
+  > Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single...
+
 
 <!-- nav -->
 [← 2026-08-20](archive/2026/08/20.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 13:35:38 UTC*
+*Last updated at 2026-08-21 14:21:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
