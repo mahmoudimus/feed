@@ -20,6 +20,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [drduh](https://github.com/drduh) Starred [disconnectme/disconnect-tracking-protection](https://github.com/disconnectme/disconnect-tracking-protection)
   > Canonical repository for the Disconnect services file
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
+
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [bjarneo/cliamp](https://github.com/bjarneo/cliamp)
   > cliamp - Terminal music player inspired by winamp 
@@ -32,13 +35,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mbrt](https://github.com/mbrt) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
 
+### [rougier](https://github.com/rougier)
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [mehrantsi/MSAP-2](https://github.com/mehrantsi/MSAP-2)
+  > An 8-bit computer. Successor to MSAP-1
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [kyos-public/keycloak-cve-2026-18963-hunt](https://github.com/kyos-public/keycloak-cve-2026-18963-hunt)
+  > Hunt for CVE-2026-18963 exploitation traces (Keycloak unauthenticated account takeover) in the Keycl...
+
 
 <!-- nav -->
 [← 2026-08-20](archive/2026/08/20.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 06:22:43 UTC*
+*Last updated at 2026-08-21 07:33:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
