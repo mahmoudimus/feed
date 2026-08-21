@@ -28,13 +28,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [io-s2c/s2c](https://github.com/io-s2c/s2c)
   > A replicated state machine built atop S3.
 
+### [mbrt](https://github.com/mbrt)
+- 🌟 👤 [mbrt](https://github.com/mbrt) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .agents directory.
+
 
 <!-- nav -->
 [← 2026-08-20](archive/2026/08/20.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 05:21:01 UTC*
+*Last updated at 2026-08-21 06:22:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
