@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [csete/gpredict](https://github.com/csete/gpredict)
   > Gpredict satellite tracking application
 
+### [crawshaw](https://github.com/crawshaw)
+- 🌟 👤 [crawshaw](https://github.com/crawshaw) Starred [gominimal/minimal](https://github.com/gominimal/minimal)
+  > Build Software You Can Trust. Isolated, reproducible development environments and a secure package m...
+
 ### [drduh](https://github.com/drduh)
 - 🌟 👤 [drduh](https://github.com/drduh) Starred [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
   > Fast linters runner for Go
@@ -73,7 +77,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 10:17:11 UTC*
+*Last updated at 2026-08-21 11:14:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
