@@ -47,6 +47,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A terminal emulator for the web
 - 🍴 👤 [dustinblackman](https://github.com/dustinblackman) Forked [coder/ghostty-web](https://github.com/coder/ghostty-web) to [dustinblackman/ghostty-web](https://github.com/dustinblackman/ghostty-web)
   > Ghostty for the web with xterm.js API compatibility
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [generalaction/emdash](https://github.com/generalaction/emdash)
+  > Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in ...
+
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [cuga-project/cuga-agent](https://github.com/cuga-project/cuga-agent)
+  > CUGA is an open-source generalist agent harness for the enterprise, supporting complex task executio...
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
@@ -70,6 +76,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [justaugustus](https://github.com/justaugustus)
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [google/capslock](https://github.com/google/capslock)
 
+### [kenichi-shibata](https://github.com/kenichi-shibata)
+- 🌟 👤 [kenichi-shibata](https://github.com/kenichi-shibata) Starred [dalisoft/awesome-ui-libraries](https://github.com/dalisoft/awesome-ui-libraries)
+  > List of curated UI libraries, templates and inspirations
+
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [bjarneo/cliamp](https://github.com/bjarneo/cliamp)
   > cliamp - Terminal music player inspired by winamp 
@@ -88,10 +98,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [snflkd/fluent-korean](https://github.com/snflkd/fluent-korean)
   > Claude Code가 명확한 한국어를 구사하게 만드는 output-style 플러그인 | Claude Code output-style for clear, fluent Korean
 
-### [mitsuakki](https://github.com/mitsuakki)
-- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [umanovskis/baremetal-arm](https://github.com/umanovskis/baremetal-arm)
-  > An ebook about bare-metal programming for ARM
-
 ### [nelfo](https://github.com/nelfo)
 - 🌟 👤 [nelfo](https://github.com/nelfo) Starred [colby57/x64dbg-unified](https://github.com/colby57/x64dbg-unified)
   > A unified x86/x64 debugger for Windows with mixed-mode WOW64 and Heaven's Gate support.
@@ -107,6 +113,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [hpbrn/creed](https://github.com/hpbrn/creed)
   > Personal context for your agents.
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs)
+  > Rust library for build scripts to compile C/C++ code into a Rust library
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [kyos-public/keycloak-cve-2026-18963-hunt](https://github.com/kyos-public/keycloak-cve-2026-18963-hunt)
@@ -124,7 +134,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 18:18:46 UTC*
+*Last updated at 2026-08-21 20:11:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
