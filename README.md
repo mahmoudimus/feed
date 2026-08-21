@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [drduh](https://github.com/drduh) Starred [disconnectme/disconnect-tracking-protection](https://github.com/disconnectme/disconnect-tracking-protection)
   > Canonical repository for the Disconnect services file
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [letta-ai/letta-code](https://github.com/letta-ai/letta-code)
+  > Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 
@@ -49,7 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 07:33:08 UTC*
+*Last updated at 2026-08-21 08:23:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
