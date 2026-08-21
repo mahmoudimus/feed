@@ -57,6 +57,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 
+### [justaugustus](https://github.com/justaugustus)
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [google/capslock](https://github.com/google/capslock)
+
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [bjarneo/cliamp](https://github.com/bjarneo/cliamp)
   > cliamp - Terminal music player inspired by winamp 
@@ -103,7 +106,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 14:21:57 UTC*
+*Last updated at 2026-08-21 15:21:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
