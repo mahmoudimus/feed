@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [csete/gpredict](https://github.com/csete/gpredict)
+  > Gpredict satellite tracking application
+
 ### [drduh](https://github.com/drduh)
 - 🌟 👤 [drduh](https://github.com/drduh) Starred [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
   > Fast linters runner for Go
@@ -19,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Fully featured, open source, privacy friendly email app for Android
 - 🌟 👤 [drduh](https://github.com/drduh) Starred [disconnectme/disconnect-tracking-protection](https://github.com/disconnectme/disconnect-tracking-protection)
   > Canonical repository for the Disconnect services file
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
+  > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [letta-ai/letta-code](https://github.com/letta-ai/letta-code)
@@ -34,10 +42,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [io-s2c/s2c](https://github.com/io-s2c/s2c)
   > A replicated state machine built atop S3.
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [vivekhaldar/seed](https://github.com/vivekhaldar/seed)
+  > A seed agent: the smallest starting point from which an agent can grow
 
 ### [mbrt](https://github.com/mbrt)
 - 🌟 👤 [mbrt](https://github.com/mbrt) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
+
+### [mingrammer](https://github.com/mingrammer)
+- 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [snflkd/fluent-korean](https://github.com/snflkd/fluent-korean)
+  > Claude Code가 명확한 한국어를 구사하게 만드는 output-style 플러그인 | Claude Code output-style for clear, fluent Korean
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [mehrantsi/MSAP-2](https://github.com/mehrantsi/MSAP-2)
@@ -53,7 +67,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 08:23:17 UTC*
+*Last updated at 2026-08-21 09:23:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
