@@ -26,6 +26,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [crawshaw](https://github.com/crawshaw) Starred [gominimal/minimal](https://github.com/gominimal/minimal)
   > Build Software You Can Trust. Isolated, reproducible development environments and a secure package m...
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce)
+  > Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with a...
+
 ### [drduh](https://github.com/drduh)
 - 🌟 👤 [drduh](https://github.com/drduh) Starred [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
   > Fast linters runner for Go
@@ -92,6 +96,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nelfo](https://github.com/nelfo) Starred [colby57/x64dbg-unified](https://github.com/colby57/x64dbg-unified)
   > A unified x86/x64 debugger for Windows with mixed-mode WOW64 and Heaven's Gate support.
 
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [adnanakil/nobuzz](https://github.com/adnanakil/nobuzz)
+  > A Claude Code skill (/debuzz) that pipes Claude's answers through Gemini to remove the BuzzFeed voic...
+
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [mehrantsi/MSAP-2](https://github.com/mehrantsi/MSAP-2)
   > An 8-bit computer. Successor to MSAP-1
@@ -116,7 +124,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 17:17:13 UTC*
+*Last updated at 2026-08-21 18:18:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
