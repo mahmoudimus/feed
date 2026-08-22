@@ -29,6 +29,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [acher249/4dgs-world-foundation-model-demo](https://github.com/acher249/4dgs-world-foundation-model-demo)
   > This is a demo showcasing Gracia.ai's 4DGS assets with added a world foundation model based 3D envir...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager)
+  > A user-friendly GUI to manage systemd units
+
 ### [parasyte](https://github.com/parasyte)
 - 🌟 👤 [parasyte](https://github.com/parasyte) Starred [Nathanw1014/strix-halo-llamacpp](https://github.com/Nathanw1014/strix-halo-llamacpp)
   > Performance-tuned llama.cpp for AMD Strix Halo (gfx1151): FA + MoE-prefill fixes with a bundled curr...
@@ -39,7 +43,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 09:15:27 UTC*
+*Last updated at 2026-08-22 10:10:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
