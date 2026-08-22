@@ -43,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [heinermann](https://github.com/heinermann) Forked [HotoRas/msvc-unlinker](https://github.com/HotoRas/msvc-unlinker) to [heinermann/msvc-unlinker](https://github.com/heinermann/msvc-unlinker)
   > Unlinker is a tool that can rip functions out of Visual C++ compiled binaries and produce Visual C++...
 
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [DavidObando/gsharp](https://github.com/DavidObando/gsharp)
+  > GSharp Programming Language
+
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy)
   > Automatically mock your HTTP interactions to simplify and speed up testing
@@ -74,6 +78,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [parasyte](https://github.com/parasyte) Starred [Nathanw1014/strix-halo-llamacpp](https://github.com/Nathanw1014/strix-halo-llamacpp)
   > Performance-tuned llama.cpp for AMD Strix Halo (gfx1151): FA + MoE-prefill fixes with a bundled curr...
 
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer)
+  > Lightweight Rust LSP that trades incompleteness for performance and low memory usage
+
 ### [rocky](https://github.com/rocky)
 - 🌟 👤 [rocky](https://github.com/rocky) Starred [libcdio/libcdio.github.io](https://github.com/libcdio/libcdio.github.io)
   > libcdio.github.io
@@ -102,7 +110,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 19:13:26 UTC*
+*Last updated at 2026-08-22 20:08:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
