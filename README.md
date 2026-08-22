@@ -74,6 +74,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [asciinema/agg](https://github.com/asciinema/agg)
   > asciinema gif generator
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HexRaysSA/ida-nexus](https://github.com/HexRaysSA/ida-nexus)
+  > ⚠️ Experimental ⚠️ IDA Nexus allows multiple clients to seamlessly share and operate on IDA database...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 
@@ -144,7 +148,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-21 22:10:52 UTC*
+*Last updated at 2026-08-21 23:11:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
