@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [artem](https://github.com/artem)
+- 🌟 👤 [artem](https://github.com/artem) Starred [modular/modular](https://github.com/modular/modular)
+  > The Modular Platform (includes MAX & Mojo)
+
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [GoogleChromeLabs/cssomnom](https://github.com/GoogleChromeLabs/cssomnom) to [probelabs/cssomnom](https://github.com/probelabs/cssomnom)
 
@@ -18,6 +22,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
+
+### [imrehg](https://github.com/imrehg)
+- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy)
+  > Automatically mock your HTTP interactions to simplify and speed up testing
+- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [getsentry/responses](https://github.com/getsentry/responses)
+  > A utility for mocking out the Python Requests library.
 
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [container-registry/harbor-next](https://github.com/container-registry/harbor-next) to [ingydotnet/harbor-next](https://github.com/ingydotnet/harbor-next)
@@ -43,7 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 11:09:40 UTC*
+*Last updated at 2026-08-22 12:13:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
