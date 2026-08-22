@@ -60,6 +60,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager)
   > A user-friendly GUI to manage systemd units
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang)
+  > A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving sys...
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat)
@@ -81,13 +84,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tsnl](https://github.com/tsnl) Starred [kvark/ommatidia](https://github.com/kvark/ommatidia)
   > Neural frame reconstruction from sparse samples
 
+### [zhkl0228](https://github.com/zhkl0228)
+- 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [londek/ipadecrypt](https://github.com/londek/ipadecrypt)
+  > 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal use...
+
 
 <!-- nav -->
 [← 2026-08-21](archive/2026/08/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 17:09:47 UTC*
+*Last updated at 2026-08-22 18:10:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
