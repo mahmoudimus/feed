@@ -15,6 +15,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [artem](https://github.com/artem)
 - 🌟 👤 [artem](https://github.com/artem) Starred [modular/modular](https://github.com/modular/modular)
   > The Modular Platform (includes MAX & Mojo)
+- 🌟 👤 [artem](https://github.com/artem) Starred [MercuryTechnologies/snowydeer](https://github.com/MercuryTechnologies/snowydeer)
+  > Build Nix packages inside buck2
 
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [GoogleChromeLabs/cssomnom](https://github.com/GoogleChromeLabs/cssomnom) to [probelabs/cssomnom](https://github.com/probelabs/cssomnom)
@@ -84,8 +86,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tsnl](https://github.com/tsnl) Starred [kvark/ommatidia](https://github.com/kvark/ommatidia)
   > Neural frame reconstruction from sparse samples
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [godotengine/godot-git-plugin](https://github.com/godotengine/godot-git-plugin)
+  > Git implementation of the VCS interface in Godot
+
 ### [zhkl0228](https://github.com/zhkl0228)
 - 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [londek/ipadecrypt](https://github.com/londek/ipadecrypt)
+  > 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal use...
+- 🍴 👤 [zhkl0228](https://github.com/zhkl0228) Forked [londek/ipadecrypt](https://github.com/londek/ipadecrypt) to [zhkl0228/ipadecrypt](https://github.com/zhkl0228/ipadecrypt)
   > 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal use...
 
 
@@ -94,7 +102,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 18:10:54 UTC*
+*Last updated at 2026-08-22 19:13:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
