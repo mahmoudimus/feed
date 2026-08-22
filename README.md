@@ -35,6 +35,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [brouhaha/cpm22](https://github.com/brouhaha/cpm22)
   > CP/M 2.2 source code
 
+### [heinermann](https://github.com/heinermann)
+- 🌟 👤 [heinermann](https://github.com/heinermann) Starred [HotoRas/msvc-unlinker](https://github.com/HotoRas/msvc-unlinker)
+  > Unlinker is a tool that can rip functions out of Visual C++ compiled binaries and produce Visual C++...
+- 🍴 👤 [heinermann](https://github.com/heinermann) Forked [HotoRas/msvc-unlinker](https://github.com/HotoRas/msvc-unlinker) to [heinermann/msvc-unlinker](https://github.com/heinermann/msvc-unlinker)
+  > Unlinker is a tool that can rip functions out of Visual C++ compiled binaries and produce Visual C++...
+
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy)
   > Automatically mock your HTTP interactions to simplify and speed up testing
@@ -71,13 +77,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [tobi/omasnap](https://github.com/tobi/omasnap)
   > Native Wayland screenshot and annotation editor for Omarchy and Hyprland
 
+### [tsnl](https://github.com/tsnl)
+- 🌟 👤 [tsnl](https://github.com/tsnl) Starred [kvark/ommatidia](https://github.com/kvark/ommatidia)
+  > Neural frame reconstruction from sparse samples
+
 
 <!-- nav -->
 [← 2026-08-21](archive/2026/08/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 16:09:09 UTC*
+*Last updated at 2026-08-22 17:09:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
