@@ -59,13 +59,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [parasyte](https://github.com/parasyte) Starred [Nathanw1014/strix-halo-llamacpp](https://github.com/Nathanw1014/strix-halo-llamacpp)
   > Performance-tuned llama.cpp for AMD Strix Halo (gfx1151): FA + MoE-prefill fixes with a bundled curr...
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [tobi/omasnap](https://github.com/tobi/omasnap)
+  > Native Wayland screenshot and annotation editor for Omarchy and Hyprland
+
 
 <!-- nav -->
 [← 2026-08-21](archive/2026/08/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 14:09:11 UTC*
+*Last updated at 2026-08-22 15:08:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
