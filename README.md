@@ -14,10 +14,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
 
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [container-registry/harbor-next](https://github.com/container-registry/harbor-next) to [ingydotnet/harbor-next](https://github.com/ingydotnet/harbor-next)
   > Next-generation Harbor. Use features before they move upstream.
+
+### [parasyte](https://github.com/parasyte)
+- 🌟 👤 [parasyte](https://github.com/parasyte) Starred [Nathanw1014/strix-halo-llamacpp](https://github.com/Nathanw1014/strix-halo-llamacpp)
+  > Performance-tuned llama.cpp for AMD Strix Halo (gfx1151): FA + MoE-prefill fixes with a bundled curr...
 
 
 <!-- nav -->
@@ -25,7 +30,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 03:32:00 UTC*
+*Last updated at 2026-08-22 04:20:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
