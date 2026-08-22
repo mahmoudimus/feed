@@ -78,10 +78,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [parasyte](https://github.com/parasyte) Starred [Nathanw1014/strix-halo-llamacpp](https://github.com/Nathanw1014/strix-halo-llamacpp)
   > Performance-tuned llama.cpp for AMD Strix Halo (gfx1151): FA + MoE-prefill fixes with a bundled curr...
 
-### [randombit](https://github.com/randombit)
-- 🌟 👤 [randombit](https://github.com/randombit) Starred [rust-glancer/rust-glancer](https://github.com/rust-glancer/rust-glancer)
-  > Lightweight Rust LSP that trades incompleteness for performance and low memory usage
-
 ### [rocky](https://github.com/rocky)
 - 🌟 👤 [rocky](https://github.com/rocky) Starred [libcdio/libcdio.github.io](https://github.com/libcdio/libcdio.github.io)
   > libcdio.github.io
@@ -93,6 +89,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [tsnl](https://github.com/tsnl)
 - 🌟 👤 [tsnl](https://github.com/tsnl) Starred [kvark/ommatidia](https://github.com/kvark/ommatidia)
   > Neural frame reconstruction from sparse samples
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/listing-toggles](https://github.com/milankovo/listing-toggles)
 
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [godotengine/godot-git-plugin](https://github.com/godotengine/godot-git-plugin)
@@ -110,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 20:08:57 UTC*
+*Last updated at 2026-08-22 21:09:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
