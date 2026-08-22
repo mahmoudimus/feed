@@ -27,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
 
+### [fnuecke](https://github.com/fnuecke)
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [brouhaha/cpm22](https://github.com/brouhaha/cpm22)
+  > CP/M 2.2 source code
+
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy)
   > Automatically mock your HTTP interactions to simplify and speed up testing
@@ -61,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 13:22:35 UTC*
+*Last updated at 2026-08-22 14:09:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
