@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [KIC](https://github.com/KIC)
+- 🌟 👤 [KIC](https://github.com/KIC) Starred [Ridhvik-2024/CWAA-V5](https://github.com/Ridhvik-2024/CWAA-V5)
+  > Complex Wave Associative Architecture — V5 experimental language model.
+
 ### [artem](https://github.com/artem)
 - 🌟 👤 [artem](https://github.com/artem) Starred [modular/modular](https://github.com/modular/modular)
   > The Modular Platform (includes MAX & Mojo)
@@ -59,6 +63,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [parasyte](https://github.com/parasyte) Starred [Nathanw1014/strix-halo-llamacpp](https://github.com/Nathanw1014/strix-halo-llamacpp)
   > Performance-tuned llama.cpp for AMD Strix Halo (gfx1151): FA + MoE-prefill fixes with a bundled curr...
 
+### [rocky](https://github.com/rocky)
+- 🌟 👤 [rocky](https://github.com/rocky) Starred [libcdio/libcdio.github.io](https://github.com/libcdio/libcdio.github.io)
+  > libcdio.github.io
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [tobi/omasnap](https://github.com/tobi/omasnap)
   > Native Wayland screenshot and annotation editor for Omarchy and Hyprland
@@ -69,7 +77,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 15:08:38 UTC*
+*Last updated at 2026-08-22 16:09:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
