@@ -26,6 +26,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [caitree/scfm](https://github.com/caitree/scfm)
   > An efficient distillation method for flow matching models
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [acher249/4dgs-world-foundation-model-demo](https://github.com/acher249/4dgs-world-foundation-model-demo)
+  > This is a demo showcasing Gracia.ai's 4DGS assets with added a world foundation model based 3D envir...
 
 ### [parasyte](https://github.com/parasyte)
 - 🌟 👤 [parasyte](https://github.com/parasyte) Starred [Nathanw1014/strix-halo-llamacpp](https://github.com/Nathanw1014/strix-halo-llamacpp)
@@ -37,7 +39,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 05:15:36 UTC*
+*Last updated at 2026-08-22 06:17:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
