@@ -22,10 +22,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
   > Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with eve...
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [donvito/coworker](https://github.com/donvito/coworker)
+  > AI Agents working for you
+
+### [droe](https://github.com/droe)
+- 🌟 👤 [droe](https://github.com/droe) Starred [droe/pi-provider-swiss-ai-platform](https://github.com/droe/pi-provider-swiss-ai-platform)
+  > Pi provider for Swiss AI Platform by Swisscom
 
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-  > Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi,...
+  > Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, C...
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [youssofal/MTPLX](https://github.com/youssofal/MTPLX)
   > 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No Ex...
 
@@ -102,13 +108,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
 
+### [zzzeek](https://github.com/zzzeek)
+- 🚀 👤 [zzzeek](https://github.com/zzzeek) Made [zzzeek/compasshud](https://github.com/zzzeek/compasshud) public
+  > compass and xzy for minecraft clinet
+
 
 <!-- nav -->
 [← 2026-08-22](archive/2026/08/22.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 18:11:17 UTC*
+*Last updated at 2026-08-23 19:12:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
