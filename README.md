@@ -29,6 +29,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [youssofal/MTPLX](https://github.com/youssofal/MTPLX)
   > 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No Ex...
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [makerspet/oomwoo](https://github.com/makerspet/oomwoo)
+  > Open-source vacuum robot cleaner
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
+  > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+  > Claude Code skill to support Android app's reverse engineering
+
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [chattocorp/chatto](https://github.com/chattocorp/chatto)
   > A fully-featured team and group chat application that you can easily selfhost.
@@ -53,6 +63,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream...
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
   > Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can ...
+
+### [kevaundray](https://github.com/kevaundray)
+- 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [eth-clients/history-endpoints](https://github.com/eth-clients/history-endpoints) to [kevaundray/history-endpoints](https://github.com/kevaundray/history-endpoints)
+  > Sources for historical Ethereum data
 
 ### [laomobk](https://github.com/laomobk)
 - 🍴 👤 [laomobk](https://github.com/laomobk) Forked [termux/termux-app](https://github.com/termux/termux-app) to [laomobk/termux-app](https://github.com/laomobk/termux-app)
@@ -94,7 +108,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 17:10:50 UTC*
+*Last updated at 2026-08-23 18:11:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
