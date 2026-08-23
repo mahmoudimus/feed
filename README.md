@@ -1,120 +1,21 @@
-# Daily GitHub Activity (2026-08-22)
+# Daily GitHub Activity (2026-08-23)
 
 <!-- nav -->
-[← 2026-08-21](archive/2026/08/21.md)
+[← 2026-08-22](archive/2026/08/22.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [KIC](https://github.com/KIC)
-- 🌟 👤 [KIC](https://github.com/KIC) Starred [Ridhvik-2024/CWAA-V5](https://github.com/Ridhvik-2024/CWAA-V5)
-  > Complex Wave Associative Architecture — V5 experimental language model.
-
-### [artem](https://github.com/artem)
-- 🌟 👤 [artem](https://github.com/artem) Starred [modular/modular](https://github.com/modular/modular)
-  > The Modular Platform (includes MAX & Mojo)
-- 🌟 👤 [artem](https://github.com/artem) Starred [MercuryTechnologies/snowydeer](https://github.com/MercuryTechnologies/snowydeer)
-  > Build Nix packages inside buck2
-
-### [buger](https://github.com/buger)
-- 🍴 👤 [buger](https://github.com/buger) Forked [GoogleChromeLabs/cssomnom](https://github.com/GoogleChromeLabs/cssomnom) to [probelabs/cssomnom](https://github.com/probelabs/cssomnom)
-
-### [donvito](https://github.com/donvito)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [syv-ai/qwen38-27b-rtx3090](https://github.com/syv-ai/qwen38-27b-rtx3090)
-  > Qwen3.8-27B on a single RTX 3090 with vLLM: ~1,000 tok/s at 64 concurrent (int8 tensor-core GEMMs, f...
-
-### [dustinblackman](https://github.com/dustinblackman)
-- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)
-  > Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Curs...
-
-### [fcakyon](https://github.com/fcakyon)
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
-
-### [fnuecke](https://github.com/fnuecke)
-- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [brouhaha/cpm22](https://github.com/brouhaha/cpm22)
-  > CP/M 2.2 source code
-
-### [heinermann](https://github.com/heinermann)
-- 🌟 👤 [heinermann](https://github.com/heinermann) Starred [HotoRas/msvc-unlinker](https://github.com/HotoRas/msvc-unlinker)
-  > Unlinker is a tool that can rip functions out of Visual C++ compiled binaries and produce Visual C++...
-- 🍴 👤 [heinermann](https://github.com/heinermann) Forked [HotoRas/msvc-unlinker](https://github.com/HotoRas/msvc-unlinker) to [heinermann/msvc-unlinker](https://github.com/heinermann/msvc-unlinker)
-  > Unlinker is a tool that can rip functions out of Visual C++ compiled binaries and produce Visual C++...
-
-### [illnyang](https://github.com/illnyang)
-- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [DavidObando/gsharp](https://github.com/DavidObando/gsharp)
-  > GSharp Programming Language
-
-### [imrehg](https://github.com/imrehg)
-- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy)
-  > Automatically mock your HTTP interactions to simplify and speed up testing
-- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [getsentry/responses](https://github.com/getsentry/responses)
-  > A utility for mocking out the Python Requests library.
-
-### [ingydotnet](https://github.com/ingydotnet)
-- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [container-registry/harbor-next](https://github.com/container-registry/harbor-next) to [ingydotnet/harbor-next](https://github.com/ingydotnet/harbor-next)
-  > Next-generation Harbor. Use features before they move upstream.
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [caitree/scfm](https://github.com/caitree/scfm)
-  > An efficient distillation method for flow matching models
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [acher249/4dgs-world-foundation-model-demo](https://github.com/acher249/4dgs-world-foundation-model-demo)
-  > This is a demo showcasing Gracia.ai's 4DGS assets with added a world foundation model based 3D envir...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager)
-  > A user-friendly GUI to manage systemd units
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang)
-  > A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving sys...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
-  > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
-
-### [nitrohorse](https://github.com/nitrohorse)
-- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat)
-  > The cutest instant messenger in the [matrix]
-
-### [parasyte](https://github.com/parasyte)
-- 🌟 👤 [parasyte](https://github.com/parasyte) Starred [Nathanw1014/strix-halo-llamacpp](https://github.com/Nathanw1014/strix-halo-llamacpp)
-  > Performance-tuned llama.cpp for AMD Strix Halo (gfx1151): FA + MoE-prefill fixes with a bundled curr...
-
-### [rocky](https://github.com/rocky)
-- 🌟 👤 [rocky](https://github.com/rocky) Starred [libcdio/libcdio.github.io](https://github.com/libcdio/libcdio.github.io)
-  > libcdio.github.io
-
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [tobi/omasnap](https://github.com/tobi/omasnap)
-  > Native Wayland screenshot and annotation editor for Omarchy and Hyprland
-
-### [spotlightishere](https://github.com/spotlightishere)
-- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
-
-### [tsnl](https://github.com/tsnl)
-- 🌟 👤 [tsnl](https://github.com/tsnl) Starred [kvark/ommatidia](https://github.com/kvark/ommatidia)
-  > Neural frame reconstruction from sparse samples
-
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/listing-toggles](https://github.com/milankovo/listing-toggles)
-
-### [xyproto](https://github.com/xyproto)
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [godotengine/godot-git-plugin](https://github.com/godotengine/godot-git-plugin)
-  > Git implementation of the VCS interface in Godot
-
-### [zhkl0228](https://github.com/zhkl0228)
-- 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [londek/ipadecrypt](https://github.com/londek/ipadecrypt)
-  > 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal use...
-- 🍴 👤 [zhkl0228](https://github.com/zhkl0228) Forked [londek/ipadecrypt](https://github.com/londek/ipadecrypt) to [zhkl0228/ipadecrypt](https://github.com/zhkl0228/ipadecrypt)
-  > 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal use...
-
+The users you follow have no public activity today that matches the filter criteria.
 
 <!-- nav -->
-[← 2026-08-21](archive/2026/08/21.md)
+[← 2026-08-22](archive/2026/08/22.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-22 23:08:58 UTC*
+*Last updated at 2026-08-23 00:32:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
