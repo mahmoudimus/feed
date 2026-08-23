@@ -23,6 +23,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [heinermann](https://github.com/heinermann)
 - 🍴 👤 [heinermann](https://github.com/heinermann) Forked [decompme/decomp.me](https://github.com/decompme/decomp.me) to [heinermann/decomp.me](https://github.com/heinermann/decomp.me)
   > Collaborative decompilation and reverse engineering website
+- 🍴 👤 [heinermann](https://github.com/heinermann) Forked [decompals/wibo](https://github.com/decompals/wibo) to [heinermann/wibo](https://github.com/heinermann/wibo)
+  > A minimal, low-fuss wrapper that can run simple command-line 32-bit Windows binaries on Linux and ma...
+
+### [justaugustus](https://github.com/justaugustus)
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [entireio/git-sync](https://github.com/entireio/git-sync)
+  > 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream...
 
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [ergogen/ergogen](https://github.com/ergogen/ergogen)
@@ -38,7 +44,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 04:25:09 UTC*
+*Last updated at 2026-08-23 05:17:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
