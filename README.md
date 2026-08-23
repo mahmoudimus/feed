@@ -16,6 +16,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [TheTom](https://github.com/TheTom) Starred [CharlesHoskinson/anthropies](https://github.com/CharlesHoskinson/anthropies)
   > Restore clean title in work you already own. Strip vendor marks from Outputs Anthropic assigned to y...
 
+### [buger](https://github.com/buger)
+- 🍴 👤 [buger](https://github.com/buger) Forked [GoogleChromeLabs/cssomnom](https://github.com/GoogleChromeLabs/cssomnom) to [buger/cssomnom](https://github.com/buger/cssomnom)
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
   > Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with eve...
@@ -23,6 +26,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
   > Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi,...
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [youssofal/MTPLX](https://github.com/youssofal/MTPLX)
+  > 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No Ex...
+
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [chattocorp/chatto](https://github.com/chattocorp/chatto)
+  > A fully-featured team and group chat application that you can easily selfhost.
 
 ### [heinermann](https://github.com/heinermann)
 - 🍴 👤 [heinermann](https://github.com/heinermann) Forked [decompme/decomp.me](https://github.com/decompme/decomp.me) to [heinermann/decomp.me](https://github.com/heinermann/decomp.me)
@@ -61,6 +70,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [humanlayer/fold](https://github.com/humanlayer/fold)
   > Fold is an Effect-native, provider-agnostic, isomorphic agent core with an optional opinionated codi...
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [OpenPoiesis/poietic-playground](https://github.com/OpenPoiesis/poietic-playground)
+  > Educational tool, a virtual laboratory for modelling and simulation of dynamical systems using the S...
+
 ### [randombit](https://github.com/randombit)
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [Dragon-Hatcher/type-system-chess](https://github.com/Dragon-Hatcher/type-system-chess)
   > Chess implemented entirely in the Rust and TS type systems.
@@ -75,7 +88,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 11:10:01 UTC*
+*Last updated at 2026-08-23 12:13:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
