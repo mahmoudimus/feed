@@ -78,6 +78,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [laomobk](https://github.com/laomobk) Forked [termux/termux-app](https://github.com/termux/termux-app) to [laomobk/termux-app](https://github.com/laomobk/termux-app)
   > Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [cea-sec/miasm](https://github.com/cea-sec/miasm)
+  > Reverse engineering framework in Python
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
   > Unified algorithmic compaction + observational memory for Pi. Merges pi-vcc and pi-observational-mem...
@@ -112,6 +116,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc)
+  > Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-pre...
+
 ### [zzzeek](https://github.com/zzzeek)
 - 🚀 👤 [zzzeek](https://github.com/zzzeek) Made [zzzeek/compasshud](https://github.com/zzzeek/compasshud) public
   > compass and xzy for minecraft clinet
@@ -122,7 +130,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 20:08:28 UTC*
+*Last updated at 2026-08-23 21:09:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
