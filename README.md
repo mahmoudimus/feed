@@ -61,6 +61,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
   > Unified algorithmic compaction + observational memory for Pi. Merges pi-vcc and pi-observational-mem...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
 
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [ergogen/ergogen](https://github.com/ergogen/ergogen)
@@ -82,13 +84,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [programasweights/claudish](https://github.com/programasweights/claudish)
   > Translate between English and Claudish with tiny ProgramAsWeights functions.
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+  > Claude Code skill to support Android app's reverse engineering
+
 
 <!-- nav -->
 [← 2026-08-22](archive/2026/08/22.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 15:09:50 UTC*
+*Last updated at 2026-08-23 16:10:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
