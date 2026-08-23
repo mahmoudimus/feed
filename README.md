@@ -45,13 +45,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [laomobk](https://github.com/laomobk) Forked [termux/termux-app](https://github.com/termux/termux-app) to [laomobk/termux-app](https://github.com/laomobk/termux-app)
   > Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
+  > Unified algorithmic compaction + observational memory for Pi. Merges pi-vcc and pi-observational-mem...
+
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [ergogen/ergogen](https://github.com/ergogen/ergogen)
   > Ergonomic keyboard layout generator
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [humanlayer/fold](https://github.com/humanlayer/fold)
+  > Fold is an Effect-native, provider-agnostic, isomorphic agent core with an optional opinionated codi...
+
 ### [randombit](https://github.com/randombit)
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [Dragon-Hatcher/type-system-chess](https://github.com/Dragon-Hatcher/type-system-chess)
   > Chess implemented entirely in the Rust and TS type systems.
+
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [programasweights/claudish](https://github.com/programasweights/claudish)
+  > Translate between English and Claudish with tiny ProgramAsWeights functions.
 
 
 <!-- nav -->
@@ -59,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 08:15:34 UTC*
+*Last updated at 2026-08-23 09:15:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
