@@ -74,6 +74,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [eth-clients/history-endpoints](https://github.com/eth-clients/history-endpoints) to [kevaundray/history-endpoints](https://github.com/kevaundray/history-endpoints)
   > Sources for historical Ethereum data
 
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)
+  > A focused launcher for your desktop - native, fast, extensible
+
 ### [laomobk](https://github.com/laomobk)
 - 🍴 👤 [laomobk](https://github.com/laomobk) Forked [termux/termux-app](https://github.com/termux/termux-app) to [laomobk/termux-app](https://github.com/laomobk/termux-app)
   > Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -91,6 +95,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [ergogen/ergogen](https://github.com/ergogen/ergogen)
   > Ergonomic keyboard layout generator
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)
+  > Switchyard lets LLM applications route traffic across models and providers while preserving native O...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [humanlayer/fold](https://github.com/humanlayer/fold)
@@ -134,7 +140,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 22:08:56 UTC*
+*Last updated at 2026-08-23 23:08:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
