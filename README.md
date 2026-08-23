@@ -35,6 +35,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
   > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [syv-ai/qwen38-27b-rtx3090](https://github.com/syv-ai/qwen38-27b-rtx3090)
+  > Qwen3.8-27B on a single RTX 3090 with vLLM: ~1,000 tok/s at 64 concurrent (int8 tensor-core GEMMs, f...
+
 ### [justaugustus](https://github.com/justaugustus)
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [entireio/git-sync](https://github.com/entireio/git-sync)
   > 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream...
@@ -71,7 +75,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 10:11:12 UTC*
+*Last updated at 2026-08-23 11:10:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
