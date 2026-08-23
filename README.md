@@ -108,6 +108,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [Dragon-Hatcher/type-system-chess](https://github.com/Dragon-Hatcher/type-system-chess)
   > Chess implemented entirely in the Rust and TS type systems.
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
+
 ### [samuelcolvin](https://github.com/samuelcolvin)
 - 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [programasweights/claudish](https://github.com/programasweights/claudish)
   > Translate between English and Claudish with tiny ProgramAsWeights functions.
@@ -130,7 +134,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 21:09:46 UTC*
+*Last updated at 2026-08-23 22:08:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
