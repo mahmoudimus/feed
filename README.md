@@ -41,6 +41,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
   > Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can ...
 
+### [laomobk](https://github.com/laomobk)
+- 🍴 👤 [laomobk](https://github.com/laomobk) Forked [termux/termux-app](https://github.com/termux/termux-app) to [laomobk/termux-app](https://github.com/laomobk/termux-app)
+  > Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [ergogen/ergogen](https://github.com/ergogen/ergogen)
   > Ergonomic keyboard layout generator
@@ -55,7 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 07:23:08 UTC*
+*Last updated at 2026-08-23 08:15:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
