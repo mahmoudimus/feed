@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [TheTom](https://github.com/TheTom) Starred [CharlesHoskinson/anthropies](https://github.com/CharlesHoskinson/anthropies)
   > Restore clean title in work you already own. Strip vendor marks from Outputs Anthropic assigned to y...
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)
+  > Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with eve...
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
   > Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi,...
@@ -44,7 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 05:17:58 UTC*
+*Last updated at 2026-08-23 06:19:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
