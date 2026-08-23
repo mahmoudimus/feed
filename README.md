@@ -92,6 +92,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [humanlayer/fold](https://github.com/humanlayer/fold)
   > Fold is an Effect-native, provider-agnostic, isomorphic agent core with an optional opinionated codi...
 
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam)
+  > AdNauseam: Fight back against advertising surveillance
+
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [OpenPoiesis/poietic-playground](https://github.com/OpenPoiesis/poietic-playground)
   > Educational tool, a virtual laboratory for modelling and simulation of dynamical systems using the S...
@@ -118,7 +122,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-23 19:12:56 UTC*
+*Last updated at 2026-08-23 20:08:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
