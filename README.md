@@ -31,6 +31,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [aslushnikov](https://github.com/aslushnikov) Forked [nuxt/nuxt](https://github.com/nuxt/nuxt) to [aslushnikov/nuxt](https://github.com/aslushnikov/nuxt)
   > the full-stack Vue framework
 
+### [djspiewak](https://github.com/djspiewak)
+- 🍴 👤 [djspiewak](https://github.com/djspiewak) Forked [bazelbuild/bazel](https://github.com/bazelbuild/bazel) to [djspiewak/bazel](https://github.com/djspiewak/bazel)
+  > a fast, scalable, multi-language and extensible build system
+
 ### [evilsocket](https://github.com/evilsocket)
 - 🍴 👤 [evilsocket](https://github.com/evilsocket) Forked [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) to [evilsocket/awesome-vehicle-security](https://github.com/evilsocket/awesome-vehicle-security)
   > 🚗  A curated list of resources for learning about vehicle security and car hacking.
@@ -77,6 +81,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jaredpalmer](https://github.com/jaredpalmer)
 - 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [tobi/walgit](https://github.com/tobi/walgit)
 - 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [erans/bucketvcs](https://github.com/erans/bucketvcs)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [awslabs/git-remote-s3](https://github.com/awslabs/git-remote-s3)
+- 🍴 👤 [jaredpalmer](https://github.com/jaredpalmer) Forked [tobi/walgit](https://github.com/tobi/walgit) to [jaredpalmer/walgit](https://github.com/jaredpalmer/walgit)
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [mikehaertel/minrx](https://github.com/mikehaertel/minrx)
@@ -105,6 +111,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mksh](https://github.com/mksh)
 - 🌟 👤 [mksh](https://github.com/mksh) Starred [dbreunig/scaffold-docs-skill](https://github.com/dbreunig/scaffold-docs-skill)
   > A skill for writing technical documentation for human readers, iteratively, with author reviews at e...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC)
+  > Modern VNC Server and client, web based and secure
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [selkies-project/selkies](https://github.com/selkies-project/selkies)
+  > Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Ho...
 
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym)
@@ -156,7 +168,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 14:30:09 UTC*
+*Last updated at 2026-08-24 15:26:26 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
