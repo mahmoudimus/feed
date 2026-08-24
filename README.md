@@ -39,6 +39,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [djspiewak](https://github.com/djspiewak) Forked [bazelbuild/bazel](https://github.com/bazelbuild/bazel) to [djspiewak/bazel](https://github.com/djspiewak/bazel)
   > a fast, scalable, multi-language and extensible build system
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [fastino-ai/GLiNER2](https://github.com/fastino-ai/GLiNER2)
+  > Unified Schema-Based Information Extraction
+
 ### [evilsocket](https://github.com/evilsocket)
 - 🍴 👤 [evilsocket](https://github.com/evilsocket) Forked [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) to [evilsocket/awesome-vehicle-security](https://github.com/evilsocket/awesome-vehicle-security)
   > 🚗  A curated list of resources for learning about vehicle security and car hacking.
@@ -46,6 +50,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [ahmadmughees/SH17dataset](https://github.com/ahmadmughees/SH17dataset)
   > SH17 dataset for PPE detection
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)
+  > Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, ...
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird) to [fengjixuchui/NoWarbird](https://github.com/fengjixuchui/NoWarbird)
@@ -104,6 +111,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [spencerbull/omarchy-omapilot](https://github.com/spencerbull/omarchy-omapilot)
   > OmaPilot - the native AI starting point for Omarchy Quattro
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [mayaramyadav/sudoku-solver](https://github.com/mayaramyadav/sudoku-solver)
+  > An open-source Sudoku Solver that quickly solves Sudoku puzzles using optimized algorithms and clean...
+
 ### [liclac](https://github.com/liclac)
 - 🍴 👤 [liclac](https://github.com/liclac) Forked [Frostie314159/mac-parser](https://github.com/Frostie314159/mac-parser) to [liclac/mac-parser](https://github.com/liclac/mac-parser)
   > A crate for parsing mac addreses.
@@ -153,6 +164,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > https://openjdk.org/projects/jdk-updates
 
 ### [smourier](https://github.com/smourier)
+- 🚀 👤 [smourier](https://github.com/smourier) Made [smourier/tabsh](https://github.com/smourier/tabsh) public
+  > A Windows command shell where TAB navigates the file system and Windows shell namespace instead of m...
 - 🍴 👤 [smourier](https://github.com/smourier) Forked [xoofx/kalk](https://github.com/xoofx/kalk) to [smourier/kalk](https://github.com/smourier/kalk)
   > kalk is a powerful command line calculator app for developers.
 
@@ -178,7 +191,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 16:21:16 UTC*
+*Last updated at 2026-08-24 17:20:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
