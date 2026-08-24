@@ -31,9 +31,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [aslushnikov](https://github.com/aslushnikov) Forked [nuxt/nuxt](https://github.com/nuxt/nuxt) to [aslushnikov/nuxt](https://github.com/aslushnikov/nuxt)
   > the full-stack Vue framework
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird) to [fengjixuchui/NoWarbird](https://github.com/fengjixuchui/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [sapdragon/hint-break](https://github.com/sapdragon/hint-break) to [fengjixuchui/hint-break](https://github.com/fengjixuchui/hint-break)
+  > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [momo5502/vmtrace](https://github.com/momo5502/vmtrace) to [fengjixuchui/vmtrace](https://github.com/fengjixuchui/vmtrace)
+  > 🔬 Guest execution and tracing using the Windows Hypervisor Platform
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [hfiref0x/ETWX](https://github.com/hfiref0x/ETWX) to [fengjixuchui/ETWX](https://github.com/fengjixuchui/ETWX)
+  > ETW Explorer
+
 ### [heinermann](https://github.com/heinermann)
 - 🍴 👤 [heinermann](https://github.com/heinermann) Forked [joxeankoret/diaphora](https://github.com/joxeankoret/diaphora) to [heinermann/diaphora](https://github.com/heinermann/diaphora)
   > Diaphora, the most advanced Free and Open Source program diffing tool.
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [mikehaertel/minrx](https://github.com/mikehaertel/minrx)
+  > Minimal matcher for POSIX Extended Regular Expressions
 
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [therezor/card-craft](https://github.com/therezor/card-craft)
@@ -67,13 +81,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [rust-lang/project-safe-transmute](https://github.com/rust-lang/project-safe-transmute)
   > Project group working on the "safe transmute" feature
 
+### [windelbouwman](https://github.com/windelbouwman)
+- 🌟 👤 [windelbouwman](https://github.com/windelbouwman) Starred [mame/quine-relay](https://github.com/mame/quine-relay)
+  > An uroboros program with 100+ programming languages
+
 
 <!-- nav -->
 [← 2026-08-23](archive/2026/08/23.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 07:47:22 UTC*
+*Last updated at 2026-08-24 08:33:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
