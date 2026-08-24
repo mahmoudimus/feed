@@ -40,6 +40,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 🔬 Guest execution and tracing using the Windows Hypervisor Platform
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [hfiref0x/ETWX](https://github.com/hfiref0x/ETWX) to [fengjixuchui/ETWX](https://github.com/fengjixuchui/ETWX)
   > ETW Explorer
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [jz0/tvm-devirt](https://github.com/jz0/tvm-devirt) to [fengjixuchui/tvm-devirt](https://github.com/fengjixuchui/tvm-devirt)
+  > Static devirtualizer for Tencent VM
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [zer0condition/GoodmansKernel](https://github.com/zer0condition/GoodmansKernel) to [fengjixuchui/GoodmansKernel](https://github.com/fengjixuchui/GoodmansKernel)
+  > Run unsigned kernel payloads in a signed kernel driver via wasm3. No JIT/W^x (HVCI/etc., compliant)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [virtualesp/UnrealDbg-VT-engine](https://github.com/virtualesp/UnrealDbg-VT-engine) to [fengjixuchui/UnrealDbg-VT-engine](https://github.com/fengjixuchui/UnrealDbg-VT-engine)
+  > open-source debugger built on top of the VT (Virtualization Technology) engine leveraging Intel VT-x...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [virtualesp/Hijack-AntiCheatExpert](https://github.com/virtualesp/Hijack-AntiCheatExpert) to [fengjixuchui/Hijack-AntiCheatExpert](https://github.com/fengjixuchui/Hijack-AntiCheatExpert)
+  > 劫持ACE反作弊进程 Hijack ACE anti-cheat process
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [jz0/HyperionDecrypter](https://github.com/jz0/HyperionDecrypter) to [fengjixuchui/HyperionDecrypter](https://github.com/fengjixuchui/HyperionDecrypter)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [jz0/NZXT-D3D11Hook](https://github.com/jz0/NZXT-D3D11Hook) to [fengjixuchui/NZXT-D3D11Hook](https://github.com/fengjixuchui/NZXT-D3D11Hook)
+  > IDXGISwapChain::Present hook using NZXT Cam software
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [jz0/source2-basehook](https://github.com/jz0/source2-basehook) to [fengjixuchui/source2-basehook](https://github.com/fengjixuchui/source2-basehook)
+  > Internal base for Source2 games
 
 ### [heinermann](https://github.com/heinermann)
 - 🍴 👤 [heinermann](https://github.com/heinermann) Forked [joxeankoret/diaphora](https://github.com/joxeankoret/diaphora) to [heinermann/diaphora](https://github.com/heinermann/diaphora)
@@ -91,7 +104,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 08:33:13 UTC*
+*Last updated at 2026-08-24 09:33:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
