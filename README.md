@@ -31,6 +31,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [aslushnikov](https://github.com/aslushnikov) Forked [nuxt/nuxt](https://github.com/nuxt/nuxt) to [aslushnikov/nuxt](https://github.com/aslushnikov/nuxt)
   > the full-stack Vue framework
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [ahmadmughees/SH17dataset](https://github.com/ahmadmughees/SH17dataset)
+  > SH17 dataset for PPE detection
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird) to [fengjixuchui/NoWarbird](https://github.com/fengjixuchui/NoWarbird)
   > NoWarbird - Warbird devirtualization project
@@ -54,6 +58,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [jz0/source2-basehook](https://github.com/jz0/source2-basehook) to [fengjixuchui/source2-basehook](https://github.com/fengjixuchui/source2-basehook)
   > Internal base for Source2 games
 
+### [firmai](https://github.com/firmai)
+- 🌟 👤 [firmai](https://github.com/firmai) Starred [sovai-research/cafe](https://github.com/sovai-research/cafe)
+  > CAFÉ: Causal Adaptive Factor Estimation — zero-config, CPU-first, point-in-time missing-value imputa...
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [cloud-droid-hub/Duck-Detector](https://github.com/cloud-droid-hub/Duck-Detector)
   > Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, a...
@@ -74,6 +82,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [therezor/card-craft](https://github.com/therezor/card-craft)
   > A first-person Minecraft-flavoured survival game for the M5Stack Cardputer (ESP32-S3)
+
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [spencerbull/omarchy-omapilot](https://github.com/spencerbull/omarchy-omapilot)
+  > OmaPilot - the native AI starting point for Omarchy Quattro
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
@@ -103,6 +115,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [lifting-bits/remill](https://github.com/lifting-bits/remill)
   > Library for lifting machine code to LLVM bitcode
 
+### [rocky](https://github.com/rocky)
+- 🌟 👤 [rocky](https://github.com/rocky) Starred [libcdio/libcdio-cli](https://github.com/libcdio/libcdio-cli)
+  > Utility programs to work with CD/DVD, ISO 9660 and UDF files.
+
 ### [shipilev](https://github.com/shipilev)
 - 🍴 👤 [shipilev](https://github.com/shipilev) Forked [openjdk/jdk27u](https://github.com/openjdk/jdk27u) to [shipilev/jdk27u](https://github.com/shipilev/jdk27u)
   > https://openjdk.org/projects/jdk-updates
@@ -129,7 +145,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 12:20:47 UTC*
+*Last updated at 2026-08-24 13:40:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
