@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [gabryboy12-ai/coreinit-nx](https://github.com/gabryboy12-ai/coreinit-nx)
 
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [therezor/card-craft](https://github.com/therezor/card-craft)
+  > A first-person Minecraft-flavoured survival game for the M5Stack Cardputer (ESP32-S3)
+
 ### [mksh](https://github.com/mksh)
 - 🌟 👤 [mksh](https://github.com/mksh) Starred [dbreunig/scaffold-docs-skill](https://github.com/dbreunig/scaffold-docs-skill)
   > A skill for writing technical documentation for human readers, iteratively, with author reviews at e...
@@ -29,7 +33,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 02:14:47 UTC*
+*Last updated at 2026-08-24 03:42:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
