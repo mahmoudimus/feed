@@ -54,13 +54,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [jz0/source2-basehook](https://github.com/jz0/source2-basehook) to [fengjixuchui/source2-basehook](https://github.com/fengjixuchui/source2-basehook)
   > Internal base for Source2 games
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [cloud-droid-hub/Duck-Detector](https://github.com/cloud-droid-hub/Duck-Detector)
+  > Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, a...
+
 ### [heinermann](https://github.com/heinermann)
 - 🍴 👤 [heinermann](https://github.com/heinermann) Forked [joxeankoret/diaphora](https://github.com/joxeankoret/diaphora) to [heinermann/diaphora](https://github.com/heinermann/diaphora)
   > Diaphora, the most advanced Free and Open Source program diffing tool.
 
+### [jaredpalmer](https://github.com/jaredpalmer)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [tobi/walgit](https://github.com/tobi/walgit)
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [mikehaertel/minrx](https://github.com/mikehaertel/minrx)
   > Minimal matcher for POSIX Extended Regular Expressions
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [jedisct1/llvm-project](https://github.com/jedisct1/llvm-project)
+  > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [therezor/card-craft](https://github.com/therezor/card-craft)
@@ -75,6 +84,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > https://github.com/DuarteSantos8/openGym
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [google/sam](https://github.com/google/sam)
   > SAM Sovereign Agent Mesh
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [wafer-ai/gpu-perf-engineering-resources](https://github.com/wafer-ai/gpu-perf-engineering-resources)
+  > A curated resource list for learning AI performance engineering, from GPU fundamentals to production...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
@@ -104,7 +117,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 09:33:41 UTC*
+*Last updated at 2026-08-24 10:25:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
