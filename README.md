@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [HarukaMa](https://github.com/HarukaMa) Starred [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
   > PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 
+### [JeffLi1993](https://github.com/JeffLi1993)
+- 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [marin-community/marin](https://github.com/marin-community/marin)
   > Open-source framework for the research and development of foundation models.
@@ -117,6 +121,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Modern VNC Server and client, web based and secure
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [selkies-project/selkies](https://github.com/selkies-project/selkies)
   > Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Ho...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark)
+  > DeepSeek v4 Flash EXL3 on one DGX Spark
 
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym)
@@ -146,6 +152,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [shipilev](https://github.com/shipilev) Forked [openjdk/jdk27u](https://github.com/openjdk/jdk27u) to [shipilev/jdk27u](https://github.com/shipilev/jdk27u)
   > https://openjdk.org/projects/jdk-updates
 
+### [smourier](https://github.com/smourier)
+- 🍴 👤 [smourier](https://github.com/smourier) Forked [xoofx/kalk](https://github.com/xoofx/kalk) to [smourier/kalk](https://github.com/smourier/kalk)
+  > kalk is a powerful command line calculator app for developers.
+
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [rust-lang/project-safe-transmute](https://github.com/rust-lang/project-safe-transmute)
   > Project group working on the "safe transmute" feature
@@ -168,7 +178,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 15:26:26 UTC*
+*Last updated at 2026-08-24 16:21:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
