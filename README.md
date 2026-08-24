@@ -35,6 +35,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [aslushnikov](https://github.com/aslushnikov) Forked [nuxt/nuxt](https://github.com/nuxt/nuxt) to [aslushnikov/nuxt](https://github.com/aslushnikov/nuxt)
   > the full-stack Vue framework
 
+### [danieldietrich](https://github.com/danieldietrich)
+- 🌟 👤 [danieldietrich](https://github.com/danieldietrich) Starred [TypeFox/agent-skills](https://github.com/TypeFox/agent-skills)
+  > Collection of agent skills for technologies used at TypeFox
+
 ### [djspiewak](https://github.com/djspiewak)
 - 🍴 👤 [djspiewak](https://github.com/djspiewak) Forked [bazelbuild/bazel](https://github.com/bazelbuild/bazel) to [djspiewak/bazel](https://github.com/djspiewak/bazel)
   > a fast, scalable, multi-language and extensible build system
@@ -81,6 +85,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [sovai-research/cafe](https://github.com/sovai-research/cafe)
   > CAFÉ: Causal Adaptive Factor Estimation — zero-config, CPU-first, point-in-time missing-value imputa...
 
+### [ftomassetti](https://github.com/ftomassetti)
+- 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [espocrm/espocrm](https://github.com/espocrm/espocrm)
+  > EspoCRM – Open Source CRM Application
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [cloud-droid-hub/Duck-Detector](https://github.com/cloud-droid-hub/Duck-Detector)
   > Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, a...
@@ -119,6 +127,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [liclac](https://github.com/liclac) Forked [Frostie314159/mac-parser](https://github.com/Frostie314159/mac-parser) to [liclac/mac-parser](https://github.com/liclac/mac-parser)
   > A crate for parsing mac addreses.
 
+### [mimoo](https://github.com/mimoo)
+- 🍴 👤 [mimoo](https://github.com/mimoo) Forked [tamarin-prover/tamarin-prover](https://github.com/tamarin-prover/tamarin-prover) to [mimoo/tamarin-prover](https://github.com/mimoo/tamarin-prover)
+  > Main source code repository of the Tamarin prover for security protocol verification.
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
   > A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR an...
@@ -134,6 +146,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Ho...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark)
   > DeepSeek v4 Flash EXL3 on one DGX Spark
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [poncippg-spec/Free-Solace-ImGui-Interface](https://github.com/poncippg-spec/Free-Solace-ImGui-Interface)
+  > Free offline Windows interface built with C++20, Dear ImGui, Win32, and DirectX 11.
 
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym)
@@ -191,7 +205,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 18:20:56 UTC*
+*Last updated at 2026-08-24 22:13:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
