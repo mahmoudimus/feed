@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [gabryboy12-ai/coreinit-nx](https://github.com/gabryboy12-ai/coreinit-nx)
 
+### [heinermann](https://github.com/heinermann)
+- 🍴 👤 [heinermann](https://github.com/heinermann) Forked [joxeankoret/diaphora](https://github.com/joxeankoret/diaphora) to [heinermann/diaphora](https://github.com/heinermann/diaphora)
+  > Diaphora, the most advanced Free and Open Source program diffing tool.
+
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [therezor/card-craft](https://github.com/therezor/card-craft)
   > A first-person Minecraft-flavoured survival game for the M5Stack Cardputer (ESP32-S3)
@@ -33,7 +37,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 03:42:14 UTC*
+*Last updated at 2026-08-24 04:33:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
