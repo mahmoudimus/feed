@@ -31,6 +31,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [aslushnikov](https://github.com/aslushnikov) Forked [nuxt/nuxt](https://github.com/nuxt/nuxt) to [aslushnikov/nuxt](https://github.com/aslushnikov/nuxt)
   > the full-stack Vue framework
 
+### [evilsocket](https://github.com/evilsocket)
+- 🍴 👤 [evilsocket](https://github.com/evilsocket) Forked [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) to [evilsocket/awesome-vehicle-security](https://github.com/evilsocket/awesome-vehicle-security)
+  > 🚗  A curated list of resources for learning about vehicle security and car hacking.
+
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [ahmadmughees/SH17dataset](https://github.com/ahmadmughees/SH17dataset)
   > SH17 dataset for PPE detection
@@ -72,6 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [jaredpalmer](https://github.com/jaredpalmer)
 - 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [tobi/walgit](https://github.com/tobi/walgit)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [erans/bucketvcs](https://github.com/erans/bucketvcs)
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [mikehaertel/minrx](https://github.com/mikehaertel/minrx)
@@ -82,10 +87,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [therezor/card-craft](https://github.com/therezor/card-craft)
   > A first-person Minecraft-flavoured survival game for the M5Stack Cardputer (ESP32-S3)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [robonuggets/gauntlet-loop](https://github.com/robonuggets/gauntlet-loop)
+  > Turn any goal into a short prompt that makes your agent set a real quality bar, run builder and crit...
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [spencerbull/omarchy-omapilot](https://github.com/spencerbull/omarchy-omapilot)
   > OmaPilot - the native AI starting point for Omarchy Quattro
+
+### [liclac](https://github.com/liclac)
+- 🍴 👤 [liclac](https://github.com/liclac) Forked [Frostie314159/mac-parser](https://github.com/Frostie314159/mac-parser) to [liclac/mac-parser](https://github.com/liclac/mac-parser)
+  > A crate for parsing mac addreses.
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
@@ -145,7 +156,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 13:40:07 UTC*
+*Last updated at 2026-08-24 14:30:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
