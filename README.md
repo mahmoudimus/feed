@@ -75,6 +75,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [therezor/card-craft](https://github.com/therezor/card-craft)
   > A first-person Minecraft-flavoured survival game for the M5Stack Cardputer (ESP32-S3)
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
+  > A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR an...
+
 ### [mksh](https://github.com/mksh)
 - 🌟 👤 [mksh](https://github.com/mksh) Starred [dbreunig/scaffold-docs-skill](https://github.com/dbreunig/scaffold-docs-skill)
   > A skill for writing technical documentation for human readers, iteratively, with author reviews at e...
@@ -117,7 +121,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 10:25:33 UTC*
+*Last updated at 2026-08-24 11:16:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
