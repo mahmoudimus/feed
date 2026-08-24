@@ -30,6 +30,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym)
   > https://github.com/DuarteSantos8/openGym
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [google/sam](https://github.com/google/sam)
+  > SAM Sovereign Agent Mesh
+
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [rust-lang/project-safe-transmute](https://github.com/rust-lang/project-safe-transmute)
+  > Project group working on the "safe transmute" feature
 
 
 <!-- nav -->
@@ -37,7 +43,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 04:33:13 UTC*
+*Last updated at 2026-08-24 05:27:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
