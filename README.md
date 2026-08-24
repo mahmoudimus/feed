@@ -111,6 +111,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [rust-lang/project-safe-transmute](https://github.com/rust-lang/project-safe-transmute)
   > Project group working on the "safe transmute" feature
 
+### [uakarsh](https://github.com/uakarsh)
+- 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
+  > A Datacenter Scale Distributed Inference Serving Framework
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [whoisqwerz/pocket_disasm](https://github.com/whoisqwerz/pocket_disasm)
+  > Multi-session IDALib MCP router for coding agents. Analyze multiple binaries in parallel with IDA-co...
+
 ### [windelbouwman](https://github.com/windelbouwman)
 - 🌟 👤 [windelbouwman](https://github.com/windelbouwman) Starred [mame/quine-relay](https://github.com/mame/quine-relay)
   > An uroboros program with 100+ programming languages
@@ -121,7 +129,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 11:16:13 UTC*
+*Last updated at 2026-08-24 12:20:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
