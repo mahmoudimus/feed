@@ -32,9 +32,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac...
 
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🍴 👤 [jeremyckahn](https://github.com/jeremyckahn) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [jeremyckahn/opencode](https://github.com/jeremyckahn/opencode)
+  > The open source coding agent.
+- 🍴 👤 [jeremyckahn](https://github.com/jeremyckahn) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [jeremyckahn/llama.cpp](https://github.com/jeremyckahn/llama.cpp)
+  > LLM inference in C/C++
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [namazso/browsegit](https://github.com/namazso/browsegit)
   > Static single-page git repository browser
+
+### [parasyte](https://github.com/parasyte)
+- 🌟 👤 [parasyte](https://github.com/parasyte) Starred [parasyte/the-clink](https://github.com/parasyte/the-clink)
+  > Containerize pi.dev and llama.cpp.
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography)
@@ -65,7 +75,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 11:15:13 UTC*
+*Last updated at 2026-08-25 12:21:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
