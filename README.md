@@ -20,14 +20,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [ShallowFeather/hitcon101-2026](https://github.com/ShallowFeather/hitcon101-2026) to [fengjixuchui/hitcon101-2026](https://github.com/fengjixuchui/hitcon101-2026)
   > HITCON 101 2026 Unity, IL2CPP and Lua reversing labs
 
+### [ftomassetti](https://github.com/ftomassetti)
+- 🍴 👤 [ftomassetti](https://github.com/ftomassetti) Forked [espocrm/cla](https://github.com/espocrm/cla) to [ftomassetti/espocrm-cla](https://github.com/ftomassetti/espocrm-cla)
+  > EspoCRM Contributors License Agreements
+
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography)
   > ✏︎ Curated list about digital typography 🔥
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts)
   > Curated list of fonts and everything
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [rclone/rclone](https://github.com/rclone/rclone)
+  > "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi...
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [cixtech/cix-linux-main](https://github.com/cixtech/cix-linux-main)
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [patbaumgartner/mytunes](https://github.com/patbaumgartner/mytunes)
+  > DevTunes FM inspired radio player — Spring Boot compiled to WebAssembly by GraalVM Web Image, runnin...
+
+### [zhkl0228](https://github.com/zhkl0228)
+- 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
+  > Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 
 
 <!-- nav -->
@@ -35,7 +49,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 06:23:11 UTC*
+*Last updated at 2026-08-25 07:33:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
