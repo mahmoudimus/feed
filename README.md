@@ -12,9 +12,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [bwhaley](https://github.com/bwhaley) Forked [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) to [bwhaley/sentry-javascript](https://github.com/bwhaley/sentry-javascript)
   > Official Sentry SDKs for JavaScript
 
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [jenslys/opencode-gemini-auth](https://github.com/jenslys/opencode-gemini-auth)
-  > Gemini auth plugin for opencode
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [0xROOTPLS/stackrb](https://github.com/0xROOTPLS/stackrb) to [fengjixuchui/stackrb](https://github.com/fengjixuchui/stackrb)
+  > x64 PIC payload that resolves kernel32 through ntdll's LdrpModuleBaseAddressIndex red-black tree
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [cixtech/cix-linux-main](https://github.com/cixtech/cix-linux-main)
 
 
 <!-- nav -->
@@ -22,7 +25,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 02:10:09 UTC*
+*Last updated at 2026-08-25 03:37:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
