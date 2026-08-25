@@ -36,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [ftomassetti](https://github.com/ftomassetti) Forked [espocrm/cla](https://github.com/espocrm/cla) to [ftomassetti/espocrm-cla](https://github.com/ftomassetti/espocrm-cla)
   > EspoCRM Contributors License Agreements
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
+
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac...
@@ -51,6 +55,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Static single-page git repository browser
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
   > My AI learning system.
+
+### [myusuf3](https://github.com/myusuf3)
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin)
+  > A Kubernetes device plugin to schedule generic Linux devices
 
 ### [parasyte](https://github.com/parasyte)
 - 🌟 👤 [parasyte](https://github.com/parasyte) Starred [parasyte/the-clink](https://github.com/parasyte/the-clink)
@@ -89,7 +97,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 13:38:39 UTC*
+*Last updated at 2026-08-25 14:32:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
