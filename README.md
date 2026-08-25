@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [optimalone/build-your-own-coding-agent](https://github.com/optimalone/build-your-own-coding-agent)
+  > Source code for the Build Your Own Coding Agent book
+
+### [ThomasVitale](https://github.com/ThomasVitale)
+- 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview)
+  > A standard Crossplane UI dashboard. 
+
 ### [bwhaley](https://github.com/bwhaley)
 - 🍴 👤 [bwhaley](https://github.com/bwhaley) Forked [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) to [bwhaley/sentry-javascript](https://github.com/bwhaley/sentry-javascript)
   > Official Sentry SDKs for JavaScript
@@ -41,10 +49,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [namazso/browsegit](https://github.com/namazso/browsegit)
   > Static single-page git repository browser
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
+  > My AI learning system.
 
 ### [parasyte](https://github.com/parasyte)
 - 🌟 👤 [parasyte](https://github.com/parasyte) Starred [parasyte/the-clink](https://github.com/parasyte/the-clink)
   > Containerize pi.dev and llama.cpp.
+
+### [pdroalves](https://github.com/pdroalves)
+- 🍴 👤 [pdroalves](https://github.com/pdroalves) Forked [Klein187/uo-offline](https://github.com/Klein187/uo-offline) to [pdroalves/uo-offline](https://github.com/pdroalves/uo-offline)
+  >  "Offline single-player Ultima Online on Linux , Steam Deck and Windows with a custom PlayerBots sys...
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography)
@@ -75,7 +89,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 12:21:41 UTC*
+*Last updated at 2026-08-25 13:38:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
