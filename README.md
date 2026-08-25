@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview)
   > A standard Crossplane UI dashboard. 
 
+### [albar965](https://github.com/albar965)
+- 🌟 👤 [albar965](https://github.com/albar965) Starred [Denzy7/littlenavmap-git_PKGBUILD](https://github.com/Denzy7/littlenavmap-git_PKGBUILD)
+  > PKGBUILD to build littlenavmap using system libraries (git)
+
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) to [probelabs/visa-vulnerability-agentic-harness](https://github.com/probelabs/visa-vulnerability-agentic-harness)
   > Visa Vulnerability Agentic Harness
@@ -105,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 17:20:59 UTC*
+*Last updated at 2026-08-25 18:20:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
