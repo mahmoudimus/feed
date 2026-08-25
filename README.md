@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [optimalone/build-your-own-coding-agent](https://github.com/optimalone/build-your-own-coding-agent)
   > Source code for the Build Your Own Coding Agent book
 
+### [JakeWharton](https://github.com/JakeWharton)
+- 🌟 👤 [JakeWharton](https://github.com/JakeWharton) Starred [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+  > Lint checks to aid with a healthy adoption of Compose
+
 ### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/sentry-emojicode](https://github.com/JoshuaKGoldberg/sentry-emojicode)
   > Prototype hackweek Sentry SDK for Emojicode — not an official Sentry SDK
@@ -88,6 +92,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [rclone/rclone](https://github.com/rclone/rclone)
   > "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi...
 
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [branden-thompson/watchpost](https://github.com/branden-thompson/watchpost)
+  > Terminal-native live weather station: NWS forecasts and alerts, marine, wildfire, and NOAA Weather R...
+
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [cixtech/cix-linux-main](https://github.com/cixtech/cix-linux-main)
 
@@ -95,9 +103,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [patbaumgartner/mytunes](https://github.com/patbaumgartner/mytunes)
   > DevTunes FM inspired radio player — Spring Boot compiled to WebAssembly by GraalVM Web Image, runnin...
 
+### [zakkak](https://github.com/zakkak)
+- 🍴 👤 [zakkak](https://github.com/zakkak) Forked [Sanne/incus-spawn-templates](https://github.com/Sanne/incus-spawn-templates) to [zakkak/incus-spawn-templates](https://github.com/zakkak/incus-spawn-templates)
+  > Some experimental templates for incus-spawn
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [cions/leveldb-cli](https://github.com/cions/leveldb-cli)
   > A command-line interface for LevelDB
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [dolthub/dumbodb](https://github.com/dolthub/dumbodb)
+  > Dumbo - Version Controlled Document Database
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [dolthub/doltlite](https://github.com/dolthub/doltlite)
+  > DoltLite - Version Controlled SQLite 
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ekalinin/awsping](https://github.com/ekalinin/awsping)
+  > Console tool to check the latency to each Amazon EC2 region
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
+  > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 
 ### [zhkl0228](https://github.com/zhkl0228)
 - 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
@@ -109,7 +129,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 18:20:38 UTC*
+*Last updated at 2026-08-25 20:14:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
