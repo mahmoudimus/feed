@@ -68,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [jeremyckahn](https://github.com/jeremyckahn) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [jeremyckahn/llama.cpp](https://github.com/jeremyckahn/llama.cpp)
   > LLM inference in C/C++
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)
+  > JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [namazso/browsegit](https://github.com/namazso/browsegit)
   > Static single-page git repository browser
@@ -129,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 20:14:33 UTC*
+*Last updated at 2026-08-25 21:15:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
