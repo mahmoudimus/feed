@@ -27,6 +27,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [bwhaley](https://github.com/bwhaley)
 - 🍴 👤 [bwhaley](https://github.com/bwhaley) Forked [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) to [bwhaley/sentry-javascript](https://github.com/bwhaley/sentry-javascript)
   > Official Sentry SDKs for JavaScript
+- 🌟 👤 [bwhaley](https://github.com/bwhaley) Starred [rishi-opensource/vim-claude-code](https://github.com/rishi-opensource/vim-claude-code)
+  > Claude CLI integration for Vim, enabling AI-powered coding workflows.
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [0xROOTPLS/stackrb](https://github.com/0xROOTPLS/stackrb) to [fengjixuchui/stackrb](https://github.com/fengjixuchui/stackrb)
@@ -63,6 +65,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Static single-page git repository browser
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
   > My AI learning system.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [laude-institute/headlong](https://github.com/laude-institute/headlong)
+  > An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, ...
 
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin)
@@ -101,7 +105,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 16:21:47 UTC*
+*Last updated at 2026-08-25 17:20:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
