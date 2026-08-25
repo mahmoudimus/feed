@@ -20,6 +20,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [ShallowFeather/hitcon101-2026](https://github.com/ShallowFeather/hitcon101-2026) to [fengjixuchui/hitcon101-2026](https://github.com/fengjixuchui/hitcon101-2026)
   > HITCON 101 2026 Unity, IL2CPP and Lua reversing labs
 
+### [rougier](https://github.com/rougier)
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography)
+  > ✏︎ Curated list about digital typography 🔥
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts)
+  > Curated list of fonts and everything
+
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [cixtech/cix-linux-main](https://github.com/cixtech/cix-linux-main)
 
@@ -29,7 +35,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 05:21:23 UTC*
+*Last updated at 2026-08-25 06:23:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
