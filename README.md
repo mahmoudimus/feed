@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [ftomassetti](https://github.com/ftomassetti) Forked [espocrm/cla](https://github.com/espocrm/cla) to [ftomassetti/espocrm-cla](https://github.com/ftomassetti/espocrm-cla)
   > EspoCRM Contributors License Agreements
 
+### [hit9](https://github.com/hit9)
+- 🌟 👤 [hit9](https://github.com/hit9) Starred [tw93/Mole](https://github.com/tw93/Mole)
+  > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac...
+
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography)
   > ✏︎ Curated list about digital typography 🔥
@@ -49,7 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 07:33:58 UTC*
+*Last updated at 2026-08-25 08:26:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
