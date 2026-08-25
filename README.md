@@ -12,9 +12,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [optimalone/build-your-own-coding-agent](https://github.com/optimalone/build-your-own-coding-agent)
   > Source code for the Build Your Own Coding Agent book
 
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/sentry-emojicode](https://github.com/JoshuaKGoldberg/sentry-emojicode)
+  > Prototype hackweek Sentry SDK for Emojicode — not an official Sentry SDK
+
 ### [ThomasVitale](https://github.com/ThomasVitale)
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview)
   > A standard Crossplane UI dashboard. 
+
+### [buger](https://github.com/buger)
+- 🍴 👤 [buger](https://github.com/buger) Forked [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) to [probelabs/visa-vulnerability-agentic-harness](https://github.com/probelabs/visa-vulnerability-agentic-harness)
+  > Visa Vulnerability Agentic Harness
 
 ### [bwhaley](https://github.com/bwhaley)
 - 🍴 👤 [bwhaley](https://github.com/bwhaley) Forked [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) to [bwhaley/sentry-javascript](https://github.com/bwhaley/sentry-javascript)
@@ -97,7 +105,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 14:32:36 UTC*
+*Last updated at 2026-08-25 15:31:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
