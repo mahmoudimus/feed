@@ -72,10 +72,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [parasyte](https://github.com/parasyte) Starred [parasyte/the-clink](https://github.com/parasyte/the-clink)
   > Containerize pi.dev and llama.cpp.
 
-### [pdroalves](https://github.com/pdroalves)
-- 🍴 👤 [pdroalves](https://github.com/pdroalves) Forked [Klein187/uo-offline](https://github.com/Klein187/uo-offline) to [pdroalves/uo-offline](https://github.com/pdroalves/uo-offline)
-  >  "Offline single-player Ultima Online on Linux , Steam Deck and Windows with a custom PlayerBots sys...
-
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography)
   > ✏︎ Curated list about digital typography 🔥
@@ -105,7 +101,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 15:31:10 UTC*
+*Last updated at 2026-08-25 16:21:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
