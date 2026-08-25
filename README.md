@@ -20,6 +20,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [ShallowFeather/hitcon101-2026](https://github.com/ShallowFeather/hitcon101-2026) to [fengjixuchui/hitcon101-2026](https://github.com/fengjixuchui/hitcon101-2026)
   > HITCON 101 2026 Unity, IL2CPP and Lua reversing labs
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [gociii/odroid-images](https://github.com/gociii/odroid-images)
+  > Linux Debian minimal (no GUI) images built with up-to-date kernels primarily for the odroid-u3 & odr...
+
 ### [ftomassetti](https://github.com/ftomassetti)
 - 🍴 👤 [ftomassetti](https://github.com/ftomassetti) Forked [espocrm/cla](https://github.com/espocrm/cla) to [ftomassetti/espocrm-cla](https://github.com/ftomassetti/espocrm-cla)
   > EspoCRM Contributors License Agreements
@@ -53,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 08:26:45 UTC*
+*Last updated at 2026-08-25 09:22:35 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
