@@ -26,6 +26,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [gabryboy12-ai/coreinit-nx](https://github.com/gabryboy12-ai/coreinit-nx)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [getkern/kern](https://github.com/getkern/kern)
+  > A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-g...
 
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [zedless-editor/zedless](https://github.com/zedless-editor/zedless)
@@ -199,13 +201,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [windelbouwman](https://github.com/windelbouwman) Starred [mame/quine-relay](https://github.com/mame/quine-relay)
   > An uroboros program with 100+ programming languages
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
+  > Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, cou...
+
 
 <!-- nav -->
 [← 2026-08-23](archive/2026/08/23.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-24 22:13:03 UTC*
+*Last updated at 2026-08-24 23:12:12 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
