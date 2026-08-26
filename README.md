@@ -18,12 +18,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [JamilHsu/ProjectDivaController](https://github.com/JamilHsu/ProjectDivaController)
   > Use iPad/tablet as a controller to play Hatsune Miku: Project Diva
 
-### [TomasVotruba](https://github.com/TomasVotruba)
-- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
-  > Open Source realtime backend in 1 file
-- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [henrygd/beszel](https://github.com/henrygd/beszel)
-  > Lightweight server monitoring with historical data, docker stats, and alerts.
-
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
   > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
@@ -40,10 +34,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [alexlafroscia/ripgrep-js](https://github.com/alexlafroscia/ripgrep-js)
   > A Node.js wrapper around ripgrep
-
-### [frol](https://github.com/frol)
-- 🌟 👤 [frol](https://github.com/frol) Starred [jatinsahijwani/nep641-ts](https://github.com/jatinsahijwani/nep641-ts)
-  > TypeScript implementation of NEP-641: offchain authorizations for NEAR smart contracts
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [lyu0805/OpenBrowser](https://github.com/lyu0805/OpenBrowser)
@@ -64,6 +54,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [byo-software/ReferenceAssemblyGenerator](https://github.com/byo-software/ReferenceAssemblyGenerator)
   > A dotnet tool to generate reference assemblies
+
+### [ingydotnet](https://github.com/ingydotnet)
+- 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [atgreen/cl-clojure](https://github.com/atgreen/cl-clojure)
+  > Common Lisp / Clojure interop via OpenLDK
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [ThinkOffApp/CarWatch](https://github.com/ThinkOffApp/CarWatch)
@@ -134,6 +128,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [jsvana/bkg.club](https://github.com/jsvana/bkg.club)
 
+### [shanselman](https://github.com/shanselman)
+- 🌟 👤 [shanselman](https://github.com/shanselman) Starred [karkarl/colophon](https://github.com/karkarl/colophon)
+  > Live, editable design systems in your repo — a Copilot CLI canvas extension that designers and devel...
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [ekala-project/ekapkgs-cli](https://github.com/ekala-project/ekapkgs-cli)
   > Official CLI for use with ekapkgs
@@ -174,7 +172,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 16:07:23 UTC*
+*Last updated at 2026-08-26 18:46:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
