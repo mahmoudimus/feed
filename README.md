@@ -27,14 +27,31 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Run mac apps on linux
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [ekryski/morpheus](https://github.com/ekryski/morpheus) to [johndpope/morpheus](https://github.com/johndpope/morpheus)
   > Run mac apps on linux
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [starc007/ui-components](https://github.com/starc007/ui-components)
+  > Motion components for React.  Copy, paste, done.
 
 ### [mimoo](https://github.com/mimoo)
 - 🍴 👤 [mimoo](https://github.com/mimoo) Forked [kmilner/tamarin-rs](https://github.com/kmilner/tamarin-rs) to [mimoo/tamarin-rs](https://github.com/mimoo/tamarin-rs)
   > Rust port of the Tamarin Prover
 
+### [stepancheg](https://github.com/stepancheg)
+- 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) to [stepancheg/rust-rdkafka](https://github.com/stepancheg/rust-rdkafka)
+  > A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka
+
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [PacktPublishing/Python-Data-Analysis-4E](https://github.com/PacktPublishing/Python-Data-Analysis-4E)
   > Python Data Analysis, 4E, published by Packt
+
+### [yangdanny97](https://github.com/yangdanny97)
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [canva-public/pyrefly.bzl](https://github.com/canva-public/pyrefly.bzl)
+
+### [zardus](https://github.com/zardus)
+- 🍴 👤 [zardus](https://github.com/zardus) Forked [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench) to [zardus/decbench](https://github.com/zardus/decbench)
+  > DecBench: An experimental living benchmark to measure how close we are to perfect decompilation on b...
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker)
+  > Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!
 
 
 <!-- nav -->
@@ -42,7 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 03:42:05 UTC*
+*Last updated at 2026-08-26 04:27:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
