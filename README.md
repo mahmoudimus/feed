@@ -31,9 +31,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > the hacker sends a binary SMS to the target's phone.  The SMS contains a special payload executed by...
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [idamcp/idamcp](https://github.com/idamcp/idamcp)
 
+### [dgryski](https://github.com/dgryski)
+- 🍴 👤 [dgryski](https://github.com/dgryski) Forked [tinygo-org/macos-minimal-sdk](https://github.com/tinygo-org/macos-minimal-sdk) to [dgryski/macos-minimal-sdk](https://github.com/dgryski/macos-minimal-sdk)
+  > Minimal but open SDK for developing small command line tools.
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [alexlafroscia/ripgrep-js](https://github.com/alexlafroscia/ripgrep-js)
   > A Node.js wrapper around ripgrep
+
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [tailscale/tailcat](https://github.com/tailscale/tailcat)
+  > like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [lyu0805/OpenBrowser](https://github.com/lyu0805/OpenBrowser)
@@ -121,6 +129,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [longbridge/gpui-shell-longbridge](https://github.com/longbridge/gpui-shell-longbridge)
   > An example for use gpui-shell to connect Longbridge OpenAPI.
 
+### [progrium](https://github.com/progrium)
+- 🌟 👤 [progrium](https://github.com/progrium) Starred [pixel-point/toolcraft](https://github.com/pixel-point/toolcraft)
+  > A starter kit and UI library for building custom design apps with AI.
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
@@ -135,6 +147,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [ekala-project/ekapkgs-cli](https://github.com/ekala-project/ekapkgs-cli)
   > Official CLI for use with ekapkgs
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [tailscale/tailcat](https://github.com/tailscale/tailcat)
+  > like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) to [stepancheg/rust-rdkafka](https://github.com/stepancheg/rust-rdkafka)
@@ -165,6 +179,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Free, open-source external monitor control for macOS: a lightweight menu bar app with sharp HiDPI/Re...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
   > AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selecti...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [no-session/pstack](https://github.com/no-session/pstack)
+  > The solo founder's AI engineering stack. Fork of gstack, rebuilt for bootstrappers, indie hackers, a...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [goccy/llamawasm2go](https://github.com/goccy/llamawasm2go)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [goccy/go-llama](https://github.com/goccy/go-llama)
+  > llama.cpp in pure Go
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [goccy/wasm2go](https://github.com/goccy/wasm2go)
+  > AOT compiler that translates a WebAssembly binary into standalone Go source code with Plan9 Assembly
 
 
 <!-- nav -->
@@ -172,7 +193,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 18:46:08 UTC*
+*Last updated at 2026-08-26 21:23:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
