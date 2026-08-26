@@ -32,10 +32,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mimoo](https://github.com/mimoo) Forked [kmilner/tamarin-rs](https://github.com/kmilner/tamarin-rs) to [mimoo/tamarin-rs](https://github.com/mimoo/tamarin-rs)
   > Rust port of the Tamarin Prover
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LMCache/LMCache](https://github.com/LMCache/LMCache)
-  > LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
-
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [PacktPublishing/Python-Data-Analysis-4E](https://github.com/PacktPublishing/Python-Data-Analysis-4E)
   > Python Data Analysis, 4E, published by Packt
@@ -46,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 02:16:21 UTC*
+*Last updated at 2026-08-26 03:42:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
