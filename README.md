@@ -86,6 +86,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mimoo](https://github.com/mimoo) Forked [kmilner/tamarin-rs](https://github.com/kmilner/tamarin-rs) to [mimoo/tamarin-rs](https://github.com/mimoo/tamarin-rs)
   > Rust port of the Tamarin Prover
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [xboot/xboot](https://github.com/xboot/xboot)
+  > The extensible bootloader for embedded system with application engine, write once, run everywhere.
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [Vector35/debugger](https://github.com/Vector35/debugger)
+  > Binary Ninja debugger
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [msoos/cryptominisat](https://github.com/msoos/cryptominisat)
+  > An advanced SAT solver
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [stanford-centaur/pono](https://github.com/stanford-centaur/pono)
+  > Pono: A flexible and extensible SMT-based model checker
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+  > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
+
 ### [stepancheg](https://github.com/stepancheg)
 - 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) to [stepancheg/rust-rdkafka](https://github.com/stepancheg/rust-rdkafka)
   > A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka
@@ -112,7 +130,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 11:18:09 UTC*
+*Last updated at 2026-08-26 12:23:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
