@@ -67,6 +67,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker)
   > Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [TheRealYT/git-knife](https://github.com/TheRealYT/git-knife)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [didriksg/Crisp](https://github.com/didriksg/Crisp)
+  > Free, open-source external monitor control for macOS: a lightweight menu bar app with sharp HiDPI/Re...
 
 
 <!-- nav -->
@@ -74,7 +76,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 07:35:11 UTC*
+*Last updated at 2026-08-26 08:27:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
