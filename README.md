@@ -18,6 +18,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [henrygd/beszel](https://github.com/henrygd/beszel)
   > Lightweight server monitoring with historical data, docker stats, and alerts.
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
+  > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [elie222/rakazo](https://github.com/elie222/rakazo)
   > Open-source Grok Bot alternative. Choose your own model and sandbox.
@@ -45,6 +49,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Run mac apps on linux
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [starc007/ui-components](https://github.com/starc007/ui-components)
   > Motion components for React.  Copy, paste, done.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [boona13/mykonos-island-voxels](https://github.com/boona13/mykonos-island-voxels)
+  > A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES mod...
+
+### [mikehearn](https://github.com/mikehearn)
+- 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [themartiano/try-omarchy](https://github.com/themartiano/try-omarchy)
+  > Try Omarchy on Apple Silicon without any setup.
+
+### [mikelalcon](https://github.com/mikelalcon)
+- 🍴 👤 [mikelalcon](https://github.com/mikelalcon) Forked [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) to [mikelalcon/go-modern-guidelines](https://github.com/mikelalcon/go-modern-guidelines)
+  > Help AI coding agents write modern Go
 
 ### [mimoo](https://github.com/mimoo)
 - 🍴 👤 [mimoo](https://github.com/mimoo) Forked [kmilner/tamarin-rs](https://github.com/kmilner/tamarin-rs) to [mimoo/tamarin-rs](https://github.com/mimoo/tamarin-rs)
@@ -76,7 +90,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 08:27:42 UTC*
+*Last updated at 2026-08-26 09:28:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
