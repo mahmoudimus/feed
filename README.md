@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [JamilHsu/ProjectDivaControllerServer](https://github.com/JamilHsu/ProjectDivaControllerServer)
+  > Turn your Android tablet into an arcade controller
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [JamilHsu/ProjectDivaController](https://github.com/JamilHsu/ProjectDivaController)
+  > Use iPad/tablet as a controller to play Hatsune Miku: Project Diva
+
 ### [NinjaLikesCheez](https://github.com/NinjaLikesCheez)
 - 🌟 👤 [NinjaLikesCheez](https://github.com/NinjaLikesCheez) Starred [ldelvoye/smorg](https://github.com/ldelvoye/smorg)
   > Keyboard-driven terminal dashboard, one tab per connected integration
@@ -51,6 +57,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Motion components for React.  Copy, paste, done.
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [boona13/mykonos-island-voxels](https://github.com/boona13/mykonos-island-voxels)
   > A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES mod...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [iduu/grokbot-animation](https://github.com/iduu/grokbot-animation)
+  > Unofficial 2D SVG bot animation lab, visual timeline editor, and framework-free Web Component.
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [iduu/grokbot-animation](https://github.com/iduu/grokbot-animation) to [johndpope/grokbot-animation](https://github.com/johndpope/grokbot-animation)
+  > Unofficial 2D SVG bot animation lab, visual timeline editor, and framework-free Web Component.
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) to [scrya-com/OpenGrokBot](https://github.com/scrya-com/OpenGrokBot)
+  > Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with eve...
 
 ### [mikehearn](https://github.com/mikehearn)
 - 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [themartiano/try-omarchy](https://github.com/themartiano/try-omarchy)
@@ -90,7 +102,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 09:28:00 UTC*
+*Last updated at 2026-08-26 10:22:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
