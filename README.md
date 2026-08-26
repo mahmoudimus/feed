@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
   > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [alexlafroscia/ripgrep-js](https://github.com/alexlafroscia/ripgrep-js)
+  > A Node.js wrapper around ripgrep
+
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [jatinsahijwani/nep641-ts](https://github.com/jatinsahijwani/nep641-ts)
   > TypeScript implementation of NEP-641: offchain authorizations for NEAR smart contracts
@@ -95,14 +99,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An advanced SAT solver
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [stanford-centaur/pono](https://github.com/stanford-centaur/pono)
   > Pono: A flexible and extensible SMT-based model checker
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker)
+  > cwe_checker finds vulnerable patterns in binary executables
+
+### [moriyoshi](https://github.com/moriyoshi)
+- 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+  > Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD ...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark) to [mrexodia/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/mrexodia/Qwen3.8-27B-SGLang-DGX-Spark)
+  > Qwen3.8 27B on SGLang for DGX Spark
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [longbridge/gpui-shell-longbridge](https://github.com/longbridge/gpui-shell-longbridge)
+  > An example for use gpui-shell to connect Longbridge OpenAPI.
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
-
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [stablyai/orca](https://github.com/stablyai/orca)
-  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) to [stepancheg/rust-rdkafka](https://github.com/stepancheg/rust-rdkafka)
@@ -113,6 +127,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [PacktPublishing/Python-Data-Analysis-4E](https://github.com/PacktPublishing/Python-Data-Analysis-4E)
   > Python Data Analysis, 4E, published by Packt
+
+### [williballenthin](https://github.com/williballenthin)
+- 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [momo5502/sogen](https://github.com/momo5502/sogen) to [williballenthin/sogen](https://github.com/williballenthin/sogen)
+  > 🪅 Windows & Linux userspace emulator 
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [canva-public/pyrefly.bzl](https://github.com/canva-public/pyrefly.bzl)
@@ -130,7 +148,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 12:23:32 UTC*
+*Last updated at 2026-08-26 13:43:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
