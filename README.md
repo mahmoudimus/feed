@@ -37,6 +37,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [stepancheg](https://github.com/stepancheg)
 - 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) to [stepancheg/rust-rdkafka](https://github.com/stepancheg/rust-rdkafka)
   > A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka
+- 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) to [stepancheg/zstd-rs](https://github.com/stepancheg/zstd-rs)
+  > A rust binding for the zstd compression library.
 
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [PacktPublishing/Python-Data-Analysis-4E](https://github.com/PacktPublishing/Python-Data-Analysis-4E)
@@ -59,7 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 04:27:43 UTC*
+*Last updated at 2026-08-26 05:21:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
