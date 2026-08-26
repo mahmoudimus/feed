@@ -1,157 +1,24 @@
-# Daily GitHub Activity (2026-08-25)
+# Daily GitHub Activity (2026-08-26)
 
 <!-- nav -->
-[← 2026-08-24](archive/2026/08/24.md)
+[← 2026-08-25](archive/2026/08/25.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Clivern](https://github.com/Clivern)
-- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [optimalone/build-your-own-coding-agent](https://github.com/optimalone/build-your-own-coding-agent)
-  > Source code for the Build Your Own Coding Agent book
-
-### [JakeWharton](https://github.com/JakeWharton)
-- 🌟 👤 [JakeWharton](https://github.com/JakeWharton) Starred [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-  > Lint checks to aid with a healthy adoption of Compose
-
-### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
-- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/sentry-emojicode](https://github.com/JoshuaKGoldberg/sentry-emojicode)
-  > Prototype hackweek Sentry SDK for Emojicode — not an official Sentry SDK
-
-### [ThomasVitale](https://github.com/ThomasVitale)
-- 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview)
-  > A standard Crossplane UI dashboard. 
-
-### [albar965](https://github.com/albar965)
-- 🌟 👤 [albar965](https://github.com/albar965) Starred [Denzy7/littlenavmap-git_PKGBUILD](https://github.com/Denzy7/littlenavmap-git_PKGBUILD)
-  > PKGBUILD to build littlenavmap using system libraries (git)
-
-### [asciimoo](https://github.com/asciimoo)
-- 🌟 👤 [asciimoo](https://github.com/asciimoo) Starred [nburns/hister-safari](https://github.com/nburns/hister-safari)
-  > Unofficial Safari port of asciimoo/hister
-
-### [badrishc](https://github.com/badrishc)
-- 🌟 👤 [badrishc](https://github.com/badrishc) Starred [microsoft/garnet](https://github.com/microsoft/garnet)
-  > Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput an...
-
-### [buger](https://github.com/buger)
-- 🍴 👤 [buger](https://github.com/buger) Forked [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) to [probelabs/visa-vulnerability-agentic-harness](https://github.com/probelabs/visa-vulnerability-agentic-harness)
-  > Visa Vulnerability Agentic Harness
-
-### [bwhaley](https://github.com/bwhaley)
-- 🍴 👤 [bwhaley](https://github.com/bwhaley) Forked [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) to [bwhaley/sentry-javascript](https://github.com/bwhaley/sentry-javascript)
-  > Official Sentry SDKs for JavaScript
-- 🌟 👤 [bwhaley](https://github.com/bwhaley) Starred [rishi-opensource/vim-claude-code](https://github.com/rishi-opensource/vim-claude-code)
-  > Claude CLI integration for Vim, enabling AI-powered coding workflows.
-
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [0xROOTPLS/stackrb](https://github.com/0xROOTPLS/stackrb) to [fengjixuchui/stackrb](https://github.com/fengjixuchui/stackrb)
-  > x64 PIC payload that resolves kernel32 through ntdll's LdrpModuleBaseAddressIndex red-black tree
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [DawnCarol/microarch](https://github.com/DawnCarol/microarch) to [fengjixuchui/microarch](https://github.com/fengjixuchui/microarch)
-- 🌟 👤 [fengjixuchui](https://github.com/fengjixuchui) Starred [DawnCarol/microarch](https://github.com/DawnCarol/microarch)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [ShallowFeather/hitcon101-2026](https://github.com/ShallowFeather/hitcon101-2026) to [fengjixuchui/hitcon101-2026](https://github.com/fengjixuchui/hitcon101-2026)
-  > HITCON 101 2026 Unity, IL2CPP and Lua reversing labs
-
-### [frol](https://github.com/frol)
-- 🌟 👤 [frol](https://github.com/frol) Starred [gociii/odroid-images](https://github.com/gociii/odroid-images)
-  > Linux Debian minimal (no GUI) images built with up-to-date kernels primarily for the odroid-u3 & odr...
-
-### [ftomassetti](https://github.com/ftomassetti)
-- 🍴 👤 [ftomassetti](https://github.com/ftomassetti) Forked [espocrm/cla](https://github.com/espocrm/cla) to [ftomassetti/espocrm-cla](https://github.com/ftomassetti/espocrm-cla)
-  > EspoCRM Contributors License Agreements
-
-### [gamous](https://github.com/gamous)
-- 🌟 👤 [gamous](https://github.com/gamous) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
-  > NoWarbird - Warbird devirtualization project
-
-### [hit9](https://github.com/hit9)
-- 🌟 👤 [hit9](https://github.com/hit9) Starred [tw93/Mole](https://github.com/tw93/Mole)
-  > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac...
-
-### [illnyang](https://github.com/illnyang)
-- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [smdn/Smdn.Reflection.ReverseGenerating](https://github.com/smdn/Smdn.Reflection.ReverseGenerating)
-  > .NET libraries and tools to reverse-generate C# code from type and member information using reflecti...
-
-### [jeremyckahn](https://github.com/jeremyckahn)
-- 🍴 👤 [jeremyckahn](https://github.com/jeremyckahn) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [jeremyckahn/opencode](https://github.com/jeremyckahn/opencode)
-  > The open source coding agent.
-- 🍴 👤 [jeremyckahn](https://github.com/jeremyckahn) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [jeremyckahn/llama.cpp](https://github.com/jeremyckahn/llama.cpp)
-  > LLM inference in C/C++
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)
-  > JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
-
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [namazso/browsegit](https://github.com/namazso/browsegit)
-  > Static single-page git repository browser
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
-  > My AI learning system.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [laude-institute/headlong](https://github.com/laude-institute/headlong)
-  > An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, ...
-
-### [myusuf3](https://github.com/myusuf3)
-- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin)
-  > A Kubernetes device plugin to schedule generic Linux devices
-
-### [notfoundry](https://github.com/notfoundry)
-- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [cyberful/cyberful](https://github.com/cyberful/cyberful)
-  > Cyberful is an open-source AI Red Team for discovering, exploiting, verifying, and remediating vulne...
-
-### [parasyte](https://github.com/parasyte)
-- 🌟 👤 [parasyte](https://github.com/parasyte) Starred [parasyte/the-clink](https://github.com/parasyte/the-clink)
-  > Containerize pi.dev and llama.cpp.
-
-### [rougier](https://github.com/rougier)
-- 🌟 👤 [rougier](https://github.com/rougier) Starred [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography)
-  > ✏︎ Curated list about digital typography 🔥
-- 🌟 👤 [rougier](https://github.com/rougier) Starred [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts)
-  > Curated list of fonts and everything
-- 🌟 👤 [rougier](https://github.com/rougier) Starred [rclone/rclone](https://github.com/rclone/rclone)
-  > "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi...
-
-### [rwjblue](https://github.com/rwjblue)
-- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [branden-thompson/watchpost](https://github.com/branden-thompson/watchpost)
-  > Terminal-native live weather station: NWS forecasts and alerts, marine, wildfire, and NOAA Weather R...
-
-### [spotlightishere](https://github.com/spotlightishere)
-- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [cixtech/cix-linux-main](https://github.com/cixtech/cix-linux-main)
-
-### [thomasdarimont](https://github.com/thomasdarimont)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [patbaumgartner/mytunes](https://github.com/patbaumgartner/mytunes)
-  > DevTunes FM inspired radio player — Spring Boot compiled to WebAssembly by GraalVM Web Image, runnin...
-
-### [zakkak](https://github.com/zakkak)
-- 🍴 👤 [zakkak](https://github.com/zakkak) Forked [Sanne/incus-spawn-templates](https://github.com/Sanne/incus-spawn-templates) to [zakkak/incus-spawn-templates](https://github.com/zakkak/incus-spawn-templates)
-  > Some experimental templates for incus-spawn
-
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [cions/leveldb-cli](https://github.com/cions/leveldb-cli)
-  > A command-line interface for LevelDB
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [dolthub/dumbodb](https://github.com/dolthub/dumbodb)
-  > Dumbo - Version Controlled Document Database
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [dolthub/doltlite](https://github.com/dolthub/doltlite)
-  > DoltLite - Version Controlled SQLite 
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [ekalinin/awsping](https://github.com/ekalinin/awsping)
-  > Console tool to check the latency to each Amazon EC2 region
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
-  > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
-  > Keep your coding agent up to date with the latest web best practices
-
-### [zhkl0228](https://github.com/zhkl0228)
-- 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
-  > Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LMCache/LMCache](https://github.com/LMCache/LMCache)
+  > LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
 
 
 <!-- nav -->
-[← 2026-08-24](archive/2026/08/24.md)
+[← 2026-08-25](archive/2026/08/25.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 23:14:41 UTC*
+*Last updated at 2026-08-26 00:32:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
