@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥ Coding agent with the IDE wired in
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [JamilHsu/ProjectDivaControllerServer](https://github.com/JamilHsu/ProjectDivaControllerServer)
   > Turn your Android tablet into an arcade controller
@@ -23,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
   > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
+
+### [bitranox](https://github.com/bitranox)
+- 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/lsdsk](https://github.com/bitranox/lsdsk)
+  > Groups disks by the controller they hang off, grades every link against what both ends could do, rea...
 
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping](https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping)
@@ -123,6 +131,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [jsvana/bkg.club](https://github.com/jsvana/bkg.club)
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [ekala-project/ekapkgs-cli](https://github.com/ekala-project/ekapkgs-cli)
+  > Official CLI for use with ekapkgs
+
 ### [stepancheg](https://github.com/stepancheg)
 - 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [fede1024/rust-rdkafka](https://github.com/fede1024/rust-rdkafka) to [stepancheg/rust-rdkafka](https://github.com/stepancheg/rust-rdkafka)
   > A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka
@@ -150,6 +165,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [TheRealYT/git-knife](https://github.com/TheRealYT/git-knife)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [didriksg/Crisp](https://github.com/didriksg/Crisp)
   > Free, open-source external monitor control for macOS: a lightweight menu bar app with sharp HiDPI/Re...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills)
+  > AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selecti...
 
 
 <!-- nav -->
@@ -157,7 +174,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 14:32:18 UTC*
+*Last updated at 2026-08-26 16:07:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
