@@ -14,10 +14,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [JamilHsu/ProjectDivaController](https://github.com/JamilHsu/ProjectDivaController)
   > Use iPad/tablet as a controller to play Hatsune Miku: Project Diva
 
-### [NinjaLikesCheez](https://github.com/NinjaLikesCheez)
-- 🌟 👤 [NinjaLikesCheez](https://github.com/NinjaLikesCheez) Starred [ldelvoye/smorg](https://github.com/ldelvoye/smorg)
-  > Keyboard-driven terminal dashboard, one tab per connected integration
-
 ### [TomasVotruba](https://github.com/TomasVotruba)
 - 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
   > Open Source realtime backend in 1 file
@@ -27,6 +23,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
   > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
+
+### [cra0](https://github.com/cra0)
+- 🌟 👤 [cra0](https://github.com/cra0) Starred [X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping](https://github.com/X-3306/Exploit-Mobile-Phone-SIM-Card-for-Eavesdropping)
+  > the hacker sends a binary SMS to the target's phone.  The SMS contains a special payload executed by...
+- 🌟 👤 [cra0](https://github.com/cra0) Starred [idamcp/idamcp](https://github.com/idamcp/idamcp)
 
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [alexlafroscia/ripgrep-js](https://github.com/alexlafroscia/ripgrep-js)
@@ -78,6 +79,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) to [scrya-com/OpenGrokBot](https://github.com/scrya-com/OpenGrokBot)
   > Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with eve...
 
+### [mathiasbynens](https://github.com/mathiasbynens)
+- 🚀 👤 [mathiasbynens](https://github.com/mathiasbynens) Made [node-unicode/unicode-18.0.0](https://github.com/node-unicode/unicode-18.0.0) public
+  > JavaScript-compatible Unicode data. Arrays of code points, arrays of symbols, and regular expression...
+
 ### [mikehearn](https://github.com/mikehearn)
 - 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [themartiano/try-omarchy](https://github.com/themartiano/try-omarchy)
   > Try Omarchy on Apple Silicon without any setup.
@@ -85,10 +90,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mikelalcon](https://github.com/mikelalcon)
 - 🍴 👤 [mikelalcon](https://github.com/mikelalcon) Forked [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) to [mikelalcon/go-modern-guidelines](https://github.com/mikelalcon/go-modern-guidelines)
   > Help AI coding agents write modern Go
-
-### [mimoo](https://github.com/mimoo)
-- 🍴 👤 [mimoo](https://github.com/mimoo) Forked [kmilner/tamarin-rs](https://github.com/kmilner/tamarin-rs) to [mimoo/tamarin-rs](https://github.com/mimoo/tamarin-rs)
-  > Rust port of the Tamarin Prover
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [xboot/xboot](https://github.com/xboot/xboot)
@@ -110,6 +111,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark) to [mrexodia/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/mrexodia/Qwen3.8-27B-SGLang-DGX-Spark)
   > Qwen3.8 27B on SGLang for DGX Spark
 
+### [myusuf3](https://github.com/myusuf3)
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
+  > Your own search engine
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [longbridge/gpui-shell-longbridge](https://github.com/longbridge/gpui-shell-longbridge)
   > An example for use gpui-shell to connect Longbridge OpenAPI.
@@ -123,6 +128,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka
 - 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) to [stepancheg/zstd-rs](https://github.com/stepancheg/zstd-rs)
   > A rust binding for the zstd compression library.
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [JCrete/jcrete2026](https://github.com/JCrete/jcrete2026)
+  > JCrete 2026
 
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [PacktPublishing/Python-Data-Analysis-4E](https://github.com/PacktPublishing/Python-Data-Analysis-4E)
@@ -148,7 +157,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 13:43:16 UTC*
+*Last updated at 2026-08-26 14:32:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
