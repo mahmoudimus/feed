@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [NinjaLikesCheez](https://github.com/NinjaLikesCheez)
+- 🌟 👤 [NinjaLikesCheez](https://github.com/NinjaLikesCheez) Starred [ldelvoye/smorg](https://github.com/ldelvoye/smorg)
+  > Keyboard-driven terminal dashboard, one tab per connected integration
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [elie222/rakazo](https://github.com/elie222/rakazo)
+  > Open-source Grok Bot alternative. Choose your own model and sandbox.
+
 ### [idavehuwei](https://github.com/idavehuwei)
 - 🍴 👤 [idavehuwei](https://github.com/idavehuwei) Forked [HavenWoW/BFA-HavenCore](https://github.com/HavenWoW/BFA-HavenCore) to [idavehuwei/BFA-HavenCore](https://github.com/idavehuwei/BFA-HavenCore)
   > BFA-HavenCore is a open-source project for World of Warcraft, currently supporting the 8.3.7 (build ...
@@ -47,10 +55,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [canva-public/pyrefly.bzl](https://github.com/canva-public/pyrefly.bzl)
 
-### [zardus](https://github.com/zardus)
-- 🍴 👤 [zardus](https://github.com/zardus) Forked [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench) to [zardus/decbench](https://github.com/zardus/decbench)
-  > DecBench: An experimental living benchmark to measure how close we are to perfect decompilation on b...
-
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker)
   > Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!
@@ -61,7 +65,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 05:21:22 UTC*
+*Last updated at 2026-08-26 06:24:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
