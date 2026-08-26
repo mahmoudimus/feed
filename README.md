@@ -28,6 +28,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
   > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [jatinsahijwani/nep641-ts](https://github.com/jatinsahijwani/nep641-ts)
+  > TypeScript implementation of NEP-641: offchain authorizations for NEAR smart contracts
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [lyu0805/OpenBrowser](https://github.com/lyu0805/OpenBrowser)
+  > 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register)
+  > Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [elie222/rakazo](https://github.com/elie222/rakazo)
   > Open-source Grok Bot alternative. Choose your own model and sandbox.
@@ -102,7 +112,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-26 10:22:06 UTC*
+*Last updated at 2026-08-26 11:18:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
