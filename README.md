@@ -28,6 +28,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [albar965](https://github.com/albar965) Starred [Denzy7/littlenavmap-git_PKGBUILD](https://github.com/Denzy7/littlenavmap-git_PKGBUILD)
   > PKGBUILD to build littlenavmap using system libraries (git)
 
+### [asciimoo](https://github.com/asciimoo)
+- 🌟 👤 [asciimoo](https://github.com/asciimoo) Starred [nburns/hister-safari](https://github.com/nburns/hister-safari)
+  > Unofficial Safari port of asciimoo/hister
+
+### [badrishc](https://github.com/badrishc)
+- 🌟 👤 [badrishc](https://github.com/badrishc) Starred [microsoft/garnet](https://github.com/microsoft/garnet)
+  > Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput an...
+
 ### [buger](https://github.com/buger)
 - 🍴 👤 [buger](https://github.com/buger) Forked [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) to [probelabs/visa-vulnerability-agentic-harness](https://github.com/probelabs/visa-vulnerability-agentic-harness)
   > Visa Vulnerability Agentic Harness
@@ -62,6 +70,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac...
 
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [smdn/Smdn.Reflection.ReverseGenerating](https://github.com/smdn/Smdn.Reflection.ReverseGenerating)
+  > .NET libraries and tools to reverse-generate C# code from type and member information using reflecti...
+
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🍴 👤 [jeremyckahn](https://github.com/jeremyckahn) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [jeremyckahn/opencode](https://github.com/jeremyckahn/opencode)
   > The open source coding agent.
@@ -83,6 +95,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin)
   > A Kubernetes device plugin to schedule generic Linux devices
+
+### [notfoundry](https://github.com/notfoundry)
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [cyberful/cyberful](https://github.com/cyberful/cyberful)
+  > Cyberful is an open-source AI Red Team for discovering, exploiting, verifying, and remediating vulne...
 
 ### [parasyte](https://github.com/parasyte)
 - 🌟 👤 [parasyte](https://github.com/parasyte) Starred [parasyte/the-clink](https://github.com/parasyte/the-clink)
@@ -122,6 +138,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Console tool to check the latency to each Amazon EC2 region
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
   > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
+  > Keep your coding agent up to date with the latest web best practices
 
 ### [zhkl0228](https://github.com/zhkl0228)
 - 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
@@ -133,7 +151,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-25 21:15:14 UTC*
+*Last updated at 2026-08-25 23:14:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
