@@ -15,6 +15,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [tiesen243/effect-tanstack-query](https://github.com/tiesen243/effect-tanstack-query)
   > Effortlessly bridge Effect HTTP API clients with TanStack Query. Enjoy end-to-end type safety, zero-...
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [cloudflare/capnweb](https://github.com/cloudflare/capnweb)
+  > JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [Mowokuma/Griffin--Notes](https://github.com/Mowokuma/Griffin--Notes)
@@ -32,15 +34,27 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [Onely7/local_data_studio](https://github.com/Onely7/local_data_studio)
   > A local data studio for JSONL/JSON/CSV/TSV/Parquet: scalable previews, image inspection, DuckDB SQL,...
 
-### [fcakyon](https://github.com/fcakyon)
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
-  > Skills for Designers and Engineers.
-- 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [Hansade2005/doc-creation-hub](https://github.com/Hansade2005/doc-creation-hub) to [fcakyon/doc-creation-hub-source](https://github.com/fcakyon/doc-creation-hub-source)
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [Hansade2005/doc-creation-hub](https://github.com/Hansade2005/doc-creation-hub)
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [experientiallabs/experiential](https://github.com/experientiallabs/experiential)
+  > An open source model gateway that provides one control plane across closed, open-source, local, and ...
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [34306/vphone-aio](https://github.com/34306/vphone-aio) to [fengjixuchui/vphone-aio](https://github.com/fengjixuchui/vphone-aio)
+  > 1 script run the vphone
 
 ### [ftomassetti](https://github.com/ftomassetti)
 - 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
   > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush)
+  > Make it safe to serve untrusted SVG files
+- 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush) to [gabrielfalcao/svg-hush](https://github.com/gabrielfalcao/svg-hush)
+  > Make it safe to serve untrusted SVG files
+- 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [cloudflare/freighter](https://github.com/cloudflare/freighter) to [gabrielfalcao/freighter](https://github.com/gabrielfalcao/freighter)
+  > A fast, modular, and operationally boring Rust private registry implementation.
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [cloudflare/rustracing](https://github.com/cloudflare/rustracing)
+  > OpenTracing API for Rust
 
 ### [gtker](https://github.com/gtker)
 - 🌟 👤 [gtker](https://github.com/gtker) Starred [Tigule/Alpha](https://github.com/Tigule/Alpha)
@@ -48,25 +62,50 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gtker](https://github.com/gtker) Starred [The-Alpha-Project/alpha-core](https://github.com/The-Alpha-Project/alpha-core)
   > 0.5.3 experimental emulator written in Python.
 
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [thammegowda/pigzpp](https://github.com/thammegowda/pigzpp)
-  > pigz++: modernizing pigz
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)
+  > A coding agent for open models like Kimi K3
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [i25959341/avatar-harness](https://github.com/i25959341/avatar-harness)
+  > Avatar Harness runs local talking-head models as LiveKit voice avatars
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [i25959341/avatar-harness](https://github.com/i25959341/avatar-harness) to [johndpope/avatar-harness](https://github.com/johndpope/avatar-harness)
+  > Avatar Harness runs local talking-head models as LiveKit voice avatars
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [codeaashu/grokbot-shim](https://github.com/codeaashu/grokbot-shim) to [johndpope/grokbot-shim](https://github.com/johndpope/grokbot-shim)
+  > Run Grok Bot locally with a computer desktop and configurable Codex or OpenAI-compatible models.
 
 ### [kmelve](https://github.com/kmelve)
 - 🌟 👤 [kmelve](https://github.com/kmelve) Starred [sanity-labs/design-system-agent-tester](https://github.com/sanity-labs/design-system-agent-tester)
   > Test how well agent's use your design system
 
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [music-theories/nimtortoise](https://github.com/music-theories/nimtortoise)
+  > Nim Tortoise Language Server
+
 ### [mahmoud](https://github.com/mahmoud)
 - 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
   > 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
+
+### [mar0x](https://github.com/mar0x)
+- 🍴 👤 [mar0x](https://github.com/mar0x) Forked [arduino/compile-sketches](https://github.com/arduino/compile-sketches) to [mar0x/compile-sketches](https://github.com/mar0x/compile-sketches)
+  > GitHub Actions action that checks whether Arduino sketches compile and produces a report of data fro...
 
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [block/buzz](https://github.com/block/buzz)
   > A hive mind communication platform
 
-### [mrexodia](https://github.com/mrexodia)
-- 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp) public
-  > ⚠️ Experimental ⚠️ Official Hex-Rays IDA MCP Server.
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [martin-ladecky/spring-io-2026](https://github.com/martin-ladecky/spring-io-2026)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Rhoban/bam](https://github.com/Rhoban/bam)
+  > Identify and simulate extended friction models for servo-actuators
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
+  > A Tiny biped duck robot 🦆
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim)
+  > NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and ...
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [flachesis/gemini-rust](https://github.com/flachesis/gemini-rust)
+  > A comprehensive Rust client library for Google's Gemini.
 
 ### [zuowang](https://github.com/zuowang)
 - 🌟 👤 [zuowang](https://github.com/zuowang) Starred [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
@@ -78,7 +117,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-27 13:13:01 UTC*
+*Last updated at 2026-08-27 23:17:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
