@@ -12,13 +12,53 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker)
   > A tool to unlobotomize your NVIDIA card!
 
+### [NormXU](https://github.com/NormXU)
+- 🌟 👤 [NormXU](https://github.com/NormXU) Starred [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)
+  > Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready T...
+
 ### [Razzue](https://github.com/Razzue)
 - 🌟 👤 [Razzue](https://github.com/Razzue) Starred [Applet-LLC/OpenInputBridge](https://github.com/Applet-LLC/OpenInputBridge)
   > Clean-room, original-protocol-compatible reimplementation of the Interception keyboard/mouse kernel ...
 
+### [Trollicus](https://github.com/Trollicus)
+- 🌟 👤 [Trollicus](https://github.com/Trollicus) Starred [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah)
+  > A WiFi security auditing software mainly based on aircrack-ng tools suite
+
+### [asalih](https://github.com/asalih)
+- 🌟 👤 [asalih](https://github.com/asalih) Starred [mandiant/capa](https://github.com/mandiant/capa)
+  > The FLARE team's open-source tool to identify capabilities in executable files.
+
+### [elliotchance](https://github.com/elliotchance)
+- 🍴 👤 [elliotchance](https://github.com/elliotchance) Forked [jtprogru/obsidian-vault-full-statistics-plugin](https://github.com/jtprogru/obsidian-vault-full-statistics-plugin) to [elliotchance/obsidian-vault-full-statistics-plugin](https://github.com/elliotchance/obsidian-vault-full-statistics-plugin)
+  > Status bar item with vault full statistics such as number of notes, links, tags and quality of vault...
+
 ### [ericop](https://github.com/ericop)
 - 🌟 👤 [ericop](https://github.com/ericop) Starred [keithclark/ZzFXM](https://github.com/keithclark/ZzFXM)
   > A super small music generator for use in size-limited JavaScript productions
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [yeasy/ai_security_guide](https://github.com/yeasy/ai_security_guide) to [fengjixuchui/ai_security_guide](https://github.com/fengjixuchui/ai_security_guide)
+  > 从原理到实践，全面掌握大语言模型安全攻防之道
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [yeasy/harness_engineering_guide](https://github.com/yeasy/harness_engineering_guide) to [fengjixuchui/harness_engineering_guide](https://github.com/fengjixuchui/harness_engineering_guide)
+  > 智能体 = 大模型 + Harness。深入剖析 Harness 工程原理、设计、实现与实践！
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [yeasy/llm_internals](https://github.com/yeasy/llm_internals) to [fengjixuchui/llm_internals](https://github.com/fengjixuchui/llm_internals)
+  > 深入剖析大语言模型架构、原理到训练部署 | How LLM works, including Design, Architecture and Training details.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [yeasy/openclaw_guide](https://github.com/yeasy/openclaw_guide) to [fengjixuchui/openclaw_guide](https://github.com/fengjixuchui/openclaw_guide)
+  > OpenClaw 入门和实战，安装、使用、配置到实现原理 | OpenClaw Guide
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [yeasy/agentic_ai_guide](https://github.com/yeasy/agentic_ai_guide) to [fengjixuchui/agentic_ai_guide](https://github.com/fengjixuchui/agentic_ai_guide)
+  > 智能体（Agentic AI）最前沿技术的深入剖析。读者需要有一定计算机和人工智能基础。
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [yeasy/ai_beginner_guide](https://github.com/yeasy/ai_beginner_guide) to [fengjixuchui/ai_beginner_guide](https://github.com/fengjixuchui/ai_beginner_guide)
+  > 普通人看的 AI 入门。从零开始，掌握人工智能的最新工具与实践技能 | AI Book for Beginners
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [yeasy/prompt_engineering_guide](https://github.com/yeasy/prompt_engineering_guide) to [fengjixuchui/prompt_engineering_guide](https://github.com/fengjixuchui/prompt_engineering_guide)
+  > 从入门到精通：掌握与大语言模型高效对话的艺术 | Master the art of talking with LLM
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [yeasy/context_engineering_guide](https://github.com/yeasy/context_engineering_guide) to [fengjixuchui/context_engineering_guide](https://github.com/fengjixuchui/context_engineering_guide)
+  > 从理论到实践，掌握 AI 时代最核心的大模型工程能力
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [yeasy/claude_guide](https://github.com/yeasy/claude_guide) to [fengjixuchui/claude_guide](https://github.com/fengjixuchui/claude_guide)
+  > 从零开始，系统掌握 Anthropic Claude 的核心能力与最佳实践
+
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
+  > Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and th...
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [codewithbalaji/Spotify-Clone](https://github.com/codewithbalaji/Spotify-Clone)
@@ -28,10 +68,36 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [Glydric/Rulibre](https://github.com/Glydric/Rulibre)
   > Calibre tui viewer written in rust 
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [LAME-Projects/stratum-c2](https://github.com/LAME-Projects/stratum-c2)
+  > Cloud dead-drop C2 framework — RSA-4096 + AES-256-GCM, 5 cloud providers, Rust-only agents, P2P mesh...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+  > Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+  > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
+
+### [jentfoo](https://github.com/jentfoo)
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [tailscale/tailcat](https://github.com/tailscale/tailcat)
+  > like netcat, but over Tailscale's data plane, without Tailscale's control plane
+
+### [juks](https://github.com/juks)
+- 🌟 👤 [juks](https://github.com/juks) Starred [Aist/max2tg](https://github.com/Aist/max2tg)
+  > Пересылка сообщений из мессенджера Max (max.ru) в Telegram в реальном времени — с возможностью отвеч...
+
 ### [lgastako](https://github.com/lgastako)
-- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [browep/self-improving-agent-harness](https://github.com/browep/self-improving-agent-harness)
-  > A Common Lisp research harness for controlled self-improving agent experiments.
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [enloop-md/enloop](https://github.com/enloop-md/enloop)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [simontreanor/Pyfun](https://github.com/simontreanor/Pyfun)
+  > F#-inspired functional language that compiles to readable Python. ADTs, exhaustive matching, type in...
+
+### [moriyoshi](https://github.com/moriyoshi)
+- 🌟 👤 [moriyoshi](https://github.com/moriyoshi) Starred [nestrilabs/gpui-wgpu](https://github.com/nestrilabs/gpui-wgpu)
+  > GPUI fork using WGPU
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+  > A spy satellite simulator in your browser, except the data is real. Live open source spatial intelli...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [plby/HopfProblem](https://github.com/plby/HopfProblem)
@@ -40,6 +106,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [kelviq/tare](https://github.com/kelviq/tare)
   > Ask Claude Code where your usage went. Token audit, limit diagnosis and usage forensics — built from...
+
+### [prasser](https://github.com/prasser)
+- 🌟 👤 [prasser](https://github.com/prasser) Starred [BIH-MI/safe-data-for-safe-medication](https://github.com/BIH-MI/safe-data-for-safe-medication)
+  > Pipeline for anonymizing and evaluating medication safety data.
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
@@ -52,13 +122,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [remear](https://github.com/remear)
 - 🌟 👤 [remear](https://github.com/remear) Starred [elyosh/OpenTIE](https://github.com/elyosh/OpenTIE)
 
+### [sfinktah](https://github.com/sfinktah)
+- 🌟 👤 [sfinktah](https://github.com/sfinktah) Starred [JetBrains/ideavim](https://github.com/JetBrains/ideavim)
+  > IdeaVim – A Vim engine for JetBrains IDEs
+
+### [szegedi](https://github.com/szegedi)
+- 🍴 👤 [szegedi](https://github.com/szegedi) Forked [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) to [szegedi/opentelemetry-specification](https://github.com/szegedi/opentelemetry-specification)
+  > Specifications for OpenTelemetry
+
+### [zserge](https://github.com/zserge)
+- 🌟 👤 [zserge](https://github.com/zserge) Starred [cactus-compute/cactus](https://github.com/cactus-compute/cactus)
+  > Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots. 
+
 
 <!-- nav -->
 [← 2026-08-27](archive/2026/08/27.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-28 07:18:51 UTC*
+*Last updated at 2026-08-28 19:40:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
