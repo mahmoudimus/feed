@@ -1,123 +1,64 @@
-# Daily GitHub Activity (2026-08-27)
+# Daily GitHub Activity (2026-08-28)
 
 <!-- nav -->
-[← 2026-08-26](archive/2026/08/26.md)
+[← 2026-08-27](archive/2026/08/27.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [JeffLi1993](https://github.com/JeffLi1993)
-- 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [LodyAI/Lody](https://github.com/LodyAI/Lody)
-  > Share coding agents with your team on phone and desktop
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker)
+  > A tool to unlobotomize your NVIDIA card!
 
-### [Stanzilla](https://github.com/Stanzilla)
-- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [tiesen243/effect-tanstack-query](https://github.com/tiesen243/effect-tanstack-query)
-  > Effortlessly bridge Effect HTTP API clients with TanStack Query. Enjoy end-to-end type safety, zero-...
-- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [cloudflare/capnweb](https://github.com/cloudflare/capnweb)
-  > JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+### [Razzue](https://github.com/Razzue)
+- 🌟 👤 [Razzue](https://github.com/Razzue) Starred [Applet-LLC/OpenInputBridge](https://github.com/Applet-LLC/OpenInputBridge)
+  > Clean-room, original-protocol-compatible reimplementation of the Interception keyboard/mouse kernel ...
 
-### [archercreat](https://github.com/archercreat)
-- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [Mowokuma/Griffin--Notes](https://github.com/Mowokuma/Griffin--Notes)
-  > My notes about the stub.dll obfuscator.
-
-### [cmc](https://github.com/cmc)
-- 🍴 👤 [cmc](https://github.com/cmc) Forked [vllm-project/vllm](https://github.com/vllm-project/vllm) to [cmc/vllm](https://github.com/cmc/vllm)
-  > A high-throughput and memory-efficient inference and serving engine for LLMs
-
-### [donvito](https://github.com/donvito)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [voxel51/fiftyone](https://github.com/voxel51/fiftyone)
-  > Refine high-quality datasets and visual AI models
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [argilla-io/argilla](https://github.com/argilla-io/argilla)
-  > Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [Onely7/local_data_studio](https://github.com/Onely7/local_data_studio)
-  > A local data studio for JSONL/JSON/CSV/TSV/Parquet: scalable previews, image inspection, DuckDB SQL,...
-
-### [dustinblackman](https://github.com/dustinblackman)
-- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [experientiallabs/experiential](https://github.com/experientiallabs/experiential)
-  > An open source model gateway that provides one control plane across closed, open-source, local, and ...
-
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [34306/vphone-aio](https://github.com/34306/vphone-aio) to [fengjixuchui/vphone-aio](https://github.com/fengjixuchui/vphone-aio)
-  > 1 script run the vphone
-
-### [ftomassetti](https://github.com/ftomassetti)
-- 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
-  > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
+### [ericop](https://github.com/ericop)
+- 🌟 👤 [ericop](https://github.com/ericop) Starred [keithclark/ZzFXM](https://github.com/keithclark/ZzFXM)
+  > A super small music generator for use in size-limited JavaScript productions
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
-- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush)
-  > Make it safe to serve untrusted SVG files
-- 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [cloudflare/svg-hush](https://github.com/cloudflare/svg-hush) to [gabrielfalcao/svg-hush](https://github.com/gabrielfalcao/svg-hush)
-  > Make it safe to serve untrusted SVG files
-- 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [cloudflare/freighter](https://github.com/cloudflare/freighter) to [gabrielfalcao/freighter](https://github.com/gabrielfalcao/freighter)
-  > A fast, modular, and operationally boring Rust private registry implementation.
-- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [cloudflare/rustracing](https://github.com/cloudflare/rustracing)
-  > OpenTracing API for Rust
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [codewithbalaji/Spotify-Clone](https://github.com/codewithbalaji/Spotify-Clone)
+  > A Spotify clone built with React JS and Tailwind CSS
+- 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [codewithbalaji/Spotify-Clone](https://github.com/codewithbalaji/Spotify-Clone) to [gabrielfalcao/Spotify-Clone](https://github.com/gabrielfalcao/Spotify-Clone)
+  > A Spotify clone built with React JS and Tailwind CSS
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [Glydric/Rulibre](https://github.com/Glydric/Rulibre)
+  > Calibre tui viewer written in rust 
 
-### [gtker](https://github.com/gtker)
-- 🌟 👤 [gtker](https://github.com/gtker) Starred [Tigule/Alpha](https://github.com/Tigule/Alpha)
-  > Documenting an alpha version of World of Warcraft
-- 🌟 👤 [gtker](https://github.com/gtker) Starred [The-Alpha-Project/alpha-core](https://github.com/The-Alpha-Project/alpha-core)
-  > 0.5.3 experimental emulator written in Python.
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [browep/self-improving-agent-harness](https://github.com/browep/self-improving-agent-harness)
+  > A Common Lisp research harness for controlled self-improving agent experiments.
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [enloop-md/enloop](https://github.com/enloop-md/enloop)
 
-### [h2non](https://github.com/h2non)
-- 🌟 👤 [h2non](https://github.com/h2non) Starred [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)
-  > A coding agent for open models like Kimi K3
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [plby/HopfProblem](https://github.com/plby/HopfProblem)
+  > A formalization of the resolution of the Hopf problem: the six-sphere admits a complex manifold stru...
 
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [i25959341/avatar-harness](https://github.com/i25959341/avatar-harness)
-  > Avatar Harness runs local talking-head models as LiveKit voice avatars
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [i25959341/avatar-harness](https://github.com/i25959341/avatar-harness) to [johndpope/avatar-harness](https://github.com/johndpope/avatar-harness)
-  > Avatar Harness runs local talking-head models as LiveKit voice avatars
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [codeaashu/grokbot-shim](https://github.com/codeaashu/grokbot-shim) to [johndpope/grokbot-shim](https://github.com/johndpope/grokbot-shim)
-  > Run Grok Bot locally with a computer desktop and configurable Codex or OpenAI-compatible models.
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [kelviq/tare](https://github.com/kelviq/tare)
+  > Ask Claude Code where your usage went. Token audit, limit diagnosis and usage forensics — built from...
 
-### [kmelve](https://github.com/kmelve)
-- 🌟 👤 [kmelve](https://github.com/kmelve) Starred [sanity-labs/design-system-agent-tester](https://github.com/sanity-labs/design-system-agent-tester)
-  > Test how well agent's use your design system
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
+  > AI Observability & Evaluation
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [ClickHouse/ClickStack](https://github.com/ClickHouse/ClickStack)
+  > ClickStack - the open-source observability stack for OpenTelemetry at scale
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+  > OpenTelemetry Collector
 
-### [lucidrains](https://github.com/lucidrains)
-- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [music-theories/nimtortoise](https://github.com/music-theories/nimtortoise)
-  > Nim Tortoise Language Server
-
-### [mahmoud](https://github.com/mahmoud)
-- 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
-  > 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
-
-### [mar0x](https://github.com/mar0x)
-- 🍴 👤 [mar0x](https://github.com/mar0x) Forked [arduino/compile-sketches](https://github.com/arduino/compile-sketches) to [mar0x/compile-sketches](https://github.com/mar0x/compile-sketches)
-  > GitHub Actions action that checks whether Arduino sketches compile and produces a report of data fro...
-
-### [mingrammer](https://github.com/mingrammer)
-- 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [block/buzz](https://github.com/block/buzz)
-  > A hive mind communication platform
-
-### [thomasdarimont](https://github.com/thomasdarimont)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [martin-ladecky/spring-io-2026](https://github.com/martin-ladecky/spring-io-2026)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Rhoban/bam](https://github.com/Rhoban/bam)
-  > Identify and simulate extended friction models for servo-actuators
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
-  > A Tiny biped duck robot 🦆
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim)
-  > NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and ...
-
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [flachesis/gemini-rust](https://github.com/flachesis/gemini-rust)
-  > A comprehensive Rust client library for Google's Gemini.
-
-### [zuowang](https://github.com/zuowang)
-- 🌟 👤 [zuowang](https://github.com/zuowang) Starred [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-  > Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+### [remear](https://github.com/remear)
+- 🌟 👤 [remear](https://github.com/remear) Starred [elyosh/OpenTIE](https://github.com/elyosh/OpenTIE)
 
 
 <!-- nav -->
-[← 2026-08-26](archive/2026/08/26.md)
+[← 2026-08-27](archive/2026/08/27.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-27 23:17:25 UTC*
+*Last updated at 2026-08-28 07:18:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
