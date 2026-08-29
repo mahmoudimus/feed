@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [adamk33n3r](https://github.com/adamk33n3r) Forked [jon-makinen/cursor-local-remote](https://github.com/jon-makinen/cursor-local-remote) to [adamk33n3r/cursor-local-remote](https://github.com/adamk33n3r/cursor-local-remote)
   > Like Claude Code remote but for Cursor
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
+  > An analysis and static deobfuscation of codedefender.io protected samples. 
+
 ### [byoungdale](https://github.com/byoungdale)
 - 🍴 👤 [byoungdale](https://github.com/byoungdale) Forked [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) to [byoungdale/hermes-agent](https://github.com/byoungdale/hermes-agent)
   > The agent that grows with you
@@ -23,13 +27,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [dibyendumajumdar](https://github.com/dibyendumajumdar) Forked [TanGeeGo/ImagingSimulation](https://github.com/TanGeeGo/ImagingSimulation) to [BeamFour/ImagingSimulation](https://github.com/BeamFour/ImagingSimulation)
   > This is the official Pytorch implementation of "Optical aberrations Correction in Postprocessing usi...
 
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [zackb/tether](https://github.com/zackb/tether)
+  > Linux + iPhone Continuity / iMessage / SMS
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [BRuteLogic/unKover](https://github.com/BRuteLogic/unKover)
   > 403 Access Bypass Tester
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [noahware/pe](https://github.com/noahware/pe) to [fengjixuchui/pe](https://github.com/fengjixuchui/pe)
-  > portable executable file parser written in modern c++
+  > portable executable file parser written in modern c++ (20)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis) to [fengjixuchui/IDA-FastAnalysis](https://github.com/fengjixuchui/IDA-FastAnalysis)
   > IDA Pro plugin that speeds up the initial binary auto analysis through a caching technique
 
@@ -73,6 +81,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [luin](https://github.com/luin) Forked [jonahchen1221/battle-city-online](https://github.com/jonahchen1221/battle-city-online) to [luin/battle-city-online](https://github.com/luin/battle-city-online)
   > NES 坦克大战复刻：1-4 人局域网合作（TypeScript + Canvas + Node，服务器权威）
 
+### [mimoo](https://github.com/mimoo)
+- 🌟 👤 [mimoo](https://github.com/mimoo) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
+  > Beautiful, Modern & Opinionated Linux
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thebabush/pi-memento](https://github.com/thebabush/pi-memento)
   > Agents that edit their own memory: nested context transactions for the pi coding agent. Commit, comp...
@@ -82,6 +94,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [binius-zk/binius64](https://github.com/binius-zk/binius64)
   > Binary Proofs, Blazing Fast
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [adithya-s-k/RL_Envs_101](https://github.com/adithya-s-k/RL_Envs_101)
+  > Building and Scaling RL environments in the age of LLMs
+
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [zackb/tether](https://github.com/zackb/tether)
+  > Linux + iPhone Continuity / iMessage / SMS
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [jkcoxson/idevice](https://github.com/jkcoxson/idevice)
+  > A library to interact with services exposed by iOS
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)
+  > A cross-platform protocol library to communicate with iOS devices
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [danielpaulus/go-ios](https://github.com/danielpaulus/go-ios)
+  > This is an operating system independent implementation of iOS device features. You can run UI tests,...
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
+  > Pure python3 implementation for working with iDevices (iPhone, etc...).
+
+### [proofit404](https://github.com/proofit404)
+- 🌟 👤 [proofit404](https://github.com/proofit404) Starred [raysan5/raylib](https://github.com/raysan5/raylib)
+  > A simple and easy-to-use library to enjoy videogames programming
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
@@ -93,13 +123,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [h0mbre/Lucid](https://github.com/h0mbre/Lucid)
   > An educational Bochs-based snapshot fuzzer project
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
+  > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Include...
+
 ### [sysrex](https://github.com/sysrex)
 - 🌟 👤 [sysrex](https://github.com/sysrex) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
   > Beautiful, Modern & Opinionated Linux
-
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [anthropics/oncall-kit](https://github.com/anthropics/oncall-kit)
-  > Starter kit for a Claude-assisted on-call: mines your incident history into triage playbooks, sets u...
 
 
 <!-- nav -->
@@ -107,7 +137,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-29 17:57:39 UTC*
+*Last updated at 2026-08-29 20:16:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
