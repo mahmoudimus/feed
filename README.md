@@ -27,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [dibyendumajumdar](https://github.com/dibyendumajumdar) Forked [TanGeeGo/ImagingSimulation](https://github.com/TanGeeGo/ImagingSimulation) to [BeamFour/ImagingSimulation](https://github.com/BeamFour/ImagingSimulation)
   > This is the official Pytorch implementation of "Optical aberrations Correction in Postprocessing usi...
 
+### [dthree](https://github.com/dthree)
+- 🌟 👤 [dthree](https://github.com/dthree) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
+  > Beautiful, Modern & Opinionated Linux
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [zackb/tether](https://github.com/zackb/tether)
   > Linux + iPhone Continuity / iMessage / SMS
@@ -60,10 +64,26 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [diffusionstudio/skills](https://github.com/diffusionstudio/skills)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [diffusionstudio/skills](https://github.com/diffusionstudio/skills) to [johndpope/skills](https://github.com/johndpope/skills)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [zTomz/Lapse](https://github.com/zTomz/Lapse) to [johndpope/Lapse](https://github.com/johndpope/Lapse)
+  > Lapse is a compact Windows companion that automatically measures active PC time and keeps a tiny, se...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [johndpope/Lapse](https://github.com/johndpope/Lapse)
+  > Lapse is a compact Windows companion that automatically measures active PC time and keeps a tiny, se...
+
+### [johnmccabe](https://github.com/johnmccabe)
+- 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [0xfe/ragmail](https://github.com/0xfe/ragmail)
+  > Search and analyze decades of email
+- 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [awslabs/threat-composer](https://github.com/awslabs/threat-composer)
+  > A simple threat modeling tool to help humans to reduce time-to-value when threat modeling
+- 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [vivekhaldar/seed](https://github.com/vivekhaldar/seed)
+  > A seed agent: the smallest starting point from which an agent can grow
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
   > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [liclac](https://github.com/liclac)
 - 🍴 👤 [liclac](https://github.com/liclac) Forked [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) to [liclac/embedded-graphics](https://github.com/liclac/embedded-graphics)
@@ -84,12 +104,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mimoo](https://github.com/mimoo)
 - 🌟 👤 [mimoo](https://github.com/mimoo) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
   > Beautiful, Modern & Opinionated Linux
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thebabush/pi-memento](https://github.com/thebabush/pi-memento)
-  > Agents that edit their own memory: nested context transactions for the pi coding agent. Commit, comp...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binius-zk/binius64](https://github.com/binius-zk/binius64)
-  > Binary Proofs, Blazing Fast
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [binius-zk/binius64](https://github.com/binius-zk/binius64)
@@ -122,6 +136,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [h0mbre/Lucid](https://github.com/h0mbre/Lucid)
   > An educational Bochs-based snapshot fuzzer project
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Anderson00/Qt-NodesTool](https://github.com/Anderson00/Qt-NodesTool)
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
@@ -137,7 +152,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-29 20:16:52 UTC*
+*Last updated at 2026-08-29 22:51:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
