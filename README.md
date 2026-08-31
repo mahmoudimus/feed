@@ -12,16 +12,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [DinoChiesa](https://github.com/DinoChiesa) Forked [cecli-dev/cecli](https://github.com/cecli-dev/cecli) to [DinoChiesa/cecli](https://github.com/DinoChiesa/cecli)
   > cecli - a neat cli assistant
 
+### [Fox2Code](https://github.com/Fox2Code)
+- 🌟 👤 [Fox2Code](https://github.com/Fox2Code) Starred [LorexValkin/UNBSE](https://github.com/LorexValkin/UNBSE)
+  > Unblivion Script Extender
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [alex-remade/infinite-tv](https://github.com/alex-remade/infinite-tv)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [tailscale/tailcat](https://github.com/tailscale/tailcat)
   > like netcat, but over Tailscale's data plane, without Tailscale's control plane
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)
   > Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just o...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
+  > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [LionelJouin/PiP-Tool](https://github.com/LionelJouin/PiP-Tool) to [fengjixuchui/PiP-Tool](https://github.com/fengjixuchui/PiP-Tool)
-  > PiP tool is a software to use the Picture in Picture mode on Windows. This feature allows you to wat...
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+  > Write HTML. Render video. Built for agents.
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [diffusionstudio/editor](https://github.com/diffusionstudio/editor)
+  > Turn your agent into a professional video editor
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr)
@@ -35,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [evilele/iEDR](https://github.com/evilele/iEDR)
   > A minimized non-intrusive version of EDR Introspection
 
+### [ianopolous](https://github.com/ianopolous)
+- 🍴 👤 [ianopolous](https://github.com/ianopolous) Forked [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) to [ianopolous/eylenburg.github.io](https://github.com/ianopolous/eylenburg.github.io)
+  > Website with comprehensive comparisons, histories, and other information across many areas of comput...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [wasmerio/examples](https://github.com/wasmerio/examples)
   > Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust ...
@@ -47,9 +59,34 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [PullMyBoots/X-MinimaxH3](https://github.com/PullMyBoots/X-MinimaxH3)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [blendi-remade/interdimensional-game](https://github.com/blendi-remade/interdimensional-game)
 
+### [laurci](https://github.com/laurci)
+- 🍴 👤 [laurci](https://github.com/laurci) Forked [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) to [laurci/ladybird](https://github.com/laurci/ladybird)
+  > Truly independent web browser
+
+### [liclac](https://github.com/liclac)
+- 🌟 👤 [liclac](https://github.com/liclac) Starred [m4b/scroll](https://github.com/m4b/scroll)
+  > Scroll - making scrolling through buffers fun since 2016
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara)
   > IDA pro plugin to find crypto constants (and more)
+
+### [mksh](https://github.com/mksh)
+- 🌟 👤 [mksh](https://github.com/mksh) Starred [thepartly/pgroles](https://github.com/thepartly/pgroles)
+  > Declarative PostgreSQL role graph manager. Define roles, memberships, object privileges, and default...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thalium/aegis](https://github.com/thalium/aegis)
+  > x86-64 test generator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thalium/aegis-binit](https://github.com/thalium/aegis-binit)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
+  > DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [thu-pacman/Puro-Megatron](https://github.com/thu-pacman/Puro-Megatron)
+  > Megatron-LM adapted for Puro-2B
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lassejlv/termy](https://github.com/lassejlv/termy)
+  > The terminal, at full speed ⚡
 
 ### [paulirish](https://github.com/paulirish)
 - 🍴 👤 [paulirish](https://github.com/paulirish) Forked [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) to [paulirish/carlo](https://github.com/paulirish/carlo)
@@ -62,18 +99,30 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
   > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [splintersfury/driver_analyzer](https://github.com/splintersfury/driver_analyzer)
+  > Scalable Windows kernel driver vulnerability analysis pipeline — Karton + MWDB + Ghidra, with dashbo...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [splintersfury/DriverAtlas](https://github.com/splintersfury/DriverAtlas)
+  > Windows kernel driver structural analysis toolkit — PE scanner, framework classifier, and corpus man...
+
+### [shanselman](https://github.com/shanselman)
+- 🍴 👤 [shanselman](https://github.com/shanselman) Forked [craigloewen-msft/Omarchy-wsl](https://github.com/craigloewen-msft/Omarchy-wsl) to [shanselman/Omarchy-wsl](https://github.com/shanselman/Omarchy-wsl)
+  > Omarchy WSL
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [stephancill/pfwc](https://github.com/stephancill/pfwc)
+  > Protocol for Wallet Connection specification and txlink Wagmi connector proof of concept
 
 ### [veorq](https://github.com/veorq)
 - 🌟 👤 [veorq](https://github.com/veorq) Starred [bro256/Awesome-PQC-Resources](https://github.com/bro256/Awesome-PQC-Resources)
   > A curated list of PQC (Post Quantum Cryptography) resources
 
-### [xhochy](https://github.com/xhochy)
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/mo-future-feedstock](https://github.com/conda-forge/mo-future-feedstock) to [xhochy/mo-future-feedstock](https://github.com/xhochy/mo-future-feedstock)
-  > A conda-smithy repository for mo-future.
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x)
+  > DOSBox-X fork of the DOSBox project
 
-### [yegor256](https://github.com/yegor256)
-- 🌟 👤 [yegor256](https://github.com/yegor256) Starred [objectionary/sabj25](https://github.com/objectionary/sabj25)
-  > Full-coverage JMH benchmarks for the Java 25 Stream API, run across six JDK vendors
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [moona3k/mlx-qwen3-asr](https://github.com/moona3k/mlx-qwen3-asr)
+  > Qwen3-ASR speech recognition on Apple Silicon via MLX
 
 ### [zhefox](https://github.com/zhefox)
 - 🌟 👤 [zhefox](https://github.com/zhefox) Starred [browser-use/video-use](https://github.com/browser-use/video-use)
@@ -81,13 +130,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zhefox](https://github.com/zhefox) Starred [alex-remade/infinite-tv](https://github.com/alex-remade/infinite-tv)
 - 🍴 👤 [zhefox](https://github.com/zhefox) Forked [alex-remade/infinite-tv](https://github.com/alex-remade/infinite-tv) to [zhefox/infinite-tv](https://github.com/zhefox/infinite-tv)
 
+### [zuowang](https://github.com/zuowang)
+- 🌟 👤 [zuowang](https://github.com/zuowang) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+  > 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+- 🌟 👤 [zuowang](https://github.com/zuowang) Starred [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
+  > 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+
 
 <!-- nav -->
 [← 2026-08-30](archive/2026/08/30.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-31 10:10:37 UTC*
+*Last updated at 2026-08-31 17:44:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
