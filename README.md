@@ -47,12 +47,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [epi052/feroxbuster](https://github.com/epi052/feroxbuster)
   > A fast, simple, recursive content discovery tool written in Rust.
 
-### [fcakyon](https://github.com/fcakyon)
-- 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [oblien/openship](https://github.com/oblien/openship) to [fcakyon/openship](https://github.com/fcakyon/openship)
-  > Self-hosted deployment platform
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
-  > Open Source realtime backend in 1 file
-
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [zackb/tether](https://github.com/zackb/tether)
   > Linux + iPhone Continuity / iMessage / SMS
@@ -60,6 +54,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [unschlagbar/pyronyx](https://github.com/unschlagbar/pyronyx)
   > Next gen Rust Vulkan bindings
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [reactor-team/infinite-livestream](https://github.com/reactor-team/infinite-livestream)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [reactor-team/infinite-livestream](https://github.com/reactor-team/infinite-livestream) to [johndpope/infinite-livestream](https://github.com/johndpope/infinite-livestream)
 
 ### [johnmccabe](https://github.com/johnmccabe)
 - 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck)
@@ -268,13 +266,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [staringispolite](https://github.com/staringispolite) Starred [stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck)
   > Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to is...
 
+### [zacharywhitley](https://github.com/zacharywhitley)
+- 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [utilityai/llama-cpp-rs](https://github.com/utilityai/llama-cpp-rs) to [zacharywhitley/llama-cpp-rs](https://github.com/zacharywhitley/llama-cpp-rs)
+
 
 <!-- nav -->
 [← 2026-08-29](archive/2026/08/29.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-30 21:41:51 UTC*
+*Last updated at 2026-08-30 23:59:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
