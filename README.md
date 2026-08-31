@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Fox2Code](https://github.com/Fox2Code) Starred [LorexValkin/UNBSE](https://github.com/LorexValkin/UNBSE)
   > Unblivion Script Extender
 
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [k-fish/ember-contextual-states](https://github.com/k-fish/ember-contextual-states)
+  > An ember addon which is a simple mix of contextual components and state machines.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [alex-remade/infinite-tv](https://github.com/alex-remade/infinite-tv)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [tailscale/tailcat](https://github.com/tailscale/tailcat)
@@ -25,11 +29,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli)
   > ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 
+### [TomasVotruba](https://github.com/TomasVotruba)
+- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [bboreham/fun-with-asts](https://github.com/bboreham/fun-with-asts)
+  > Examples of small tools using the Go Abstract Syntax Tree package
+
+### [bwhaley](https://github.com/bwhaley)
+- 🌟 👤 [bwhaley](https://github.com/bwhaley) Starred [stategraph/stategraph](https://github.com/stategraph/stategraph)
+  > Terraform without the state file bottleneck
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
   > Write HTML. Render video. Built for agents.
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [diffusionstudio/editor](https://github.com/diffusionstudio/editor)
   > Turn your agent into a professional video editor
+
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [yuhp/opencode-models-discovery](https://github.com/yuhp/opencode-models-discovery)
+  > A universal OpenCode plugin for dynamic model discovery with flexible configuration for OpenAI-compa...
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr)
@@ -47,6 +63,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [ianopolous](https://github.com/ianopolous) Forked [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) to [ianopolous/eylenburg.github.io](https://github.com/ianopolous/eylenburg.github.io)
   > Website with comprehensive comparisons, histories, and other information across many areas of comput...
 
+### [inmcm](https://github.com/inmcm)
+- 🌟 👤 [inmcm](https://github.com/inmcm) Starred [YosysHQ/picorv32](https://github.com/YosysHQ/picorv32)
+  > PicoRV32 - A Size-Optimized RISC-V CPU
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [wasmerio/examples](https://github.com/wasmerio/examples)
   > Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust ...
@@ -58,6 +78,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > beUI for Flutter — animated widgets ported from beui.dev
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [PullMyBoots/X-MinimaxH3](https://github.com/PullMyBoots/X-MinimaxH3)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [blendi-remade/interdimensional-game](https://github.com/blendi-remade/interdimensional-game)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Yixuan-Ding-ZJU/LayerRecall](https://github.com/Yixuan-Ding-ZJU/LayerRecall)
+  > Official implementation of "LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consiste...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Yixuan-Ding-ZJU/LayerRecall](https://github.com/Yixuan-Ding-ZJU/LayerRecall) to [johndpope/LayerRecall](https://github.com/johndpope/LayerRecall)
+  > Official implementation of "LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consiste...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [alex-remade/infinite-tv](https://github.com/alex-remade/infinite-tv)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [alex-remade/infinite-tv](https://github.com/alex-remade/infinite-tv) to [johndpope/infinite-tv](https://github.com/johndpope/infinite-tv)
+
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [kpumuk/envameleon](https://github.com/kpumuk/envameleon)
+  > Hide the first process environment shown by Linux without changing Ruby's ENV
 
 ### [laurci](https://github.com/laurci)
 - 🍴 👤 [laurci](https://github.com/laurci) Forked [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) to [laurci/ladybird](https://github.com/laurci/ladybird)
@@ -112,6 +142,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [stephancill/pfwc](https://github.com/stephancill/pfwc)
   > Protocol for Wallet Connection specification and txlink Wagmi connector proof of concept
 
+### [tabjy](https://github.com/tabjy)
+- 🌟 👤 [tabjy](https://github.com/tabjy) Starred [tailscale/tailcat](https://github.com/tailscale/tailcat)
+  > like netcat, but over Tailscale's data plane, without Tailscale's control plane
+
 ### [veorq](https://github.com/veorq)
 - 🌟 👤 [veorq](https://github.com/veorq) Starred [bro256/Awesome-PQC-Resources](https://github.com/bro256/Awesome-PQC-Resources)
   > A curated list of PQC (Post Quantum Cryptography) resources
@@ -142,7 +176,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-08-31 17:44:23 UTC*
+*Last updated at 2026-08-31 22:06:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
