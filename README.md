@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [JLLeitschuh](https://github.com/JLLeitschuh)
+- 🍴 👤 [JLLeitschuh](https://github.com/JLLeitschuh) Forked [premailer/css_parser](https://github.com/premailer/css_parser) to [JLLeitschuh/css_parser](https://github.com/JLLeitschuh/css_parser)
+  > Ruby CSS Parser
+
+### [andyleejordan](https://github.com/andyleejordan)
+- 🌟 👤 [andyleejordan](https://github.com/andyleejordan) Starred [localsend/localsend](https://github.com/localsend/localsend)
+  > An open-source cross-platform alternative to AirDrop
+
 ### [colby57](https://github.com/colby57)
 - 🌟 👤 [colby57](https://github.com/colby57) Starred [Evelynkaz/x64dbg-mcp](https://github.com/Evelynkaz/x64dbg-mcp)
   > x64dbg-mcp write by AI (haha)
@@ -17,6 +25,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Deployment kit: Qwen3.8-27B EXL3 3.5bpw target + DFlash2 EXL3 5.0bpw speculative draft — launcher, c...
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [ovg-project/kvcached](https://github.com/ovg-project/kvcached)
   > Virtualized Elastic KV Cache for Dynamic GPU Sharing and Beyond
+
+### [eddsteel](https://github.com/eddsteel)
+- 🍴 👤 [eddsteel](https://github.com/eddsteel) Forked [qmk/qmk_userspace](https://github.com/qmk/qmk_userspace) to [eddsteel/qmk_userspace](https://github.com/eddsteel/qmk_userspace)
+  > Userspace for the open-source QMK keyboard firmware.
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [rootdr-backup/Reconner](https://github.com/rootdr-backup/Reconner)
@@ -70,6 +82,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johanbrandhorst](https://github.com/johanbrandhorst) Forked [aevans0001/ha-intermatic-connect](https://github.com/aevans0001/ha-intermatic-connect) to [johanbrandhorst/ha-intermatic-connect](https://github.com/johanbrandhorst/ha-intermatic-connect)
   > Unofficial Home Assistant integration for Intermatic Connect Wi-Fi timers
 
+### [johndpope](https://github.com/johndpope)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [suihe1/short-drama-production](https://github.com/suihe1/short-drama-production) to [johndpope/short-drama-production](https://github.com/johndpope/short-drama-production)
+  > AI 短剧生产总控 / 短剧skill：专业导演与分镜、MiniMax H3、CompShare、声音资产、粗剪与 QC，默认 16:9。
+
 ### [kevaundray](https://github.com/kevaundray)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [han0110/provoor](https://github.com/han0110/provoor)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [han0110/provoor-runs](https://github.com/han0110/provoor-runs)
@@ -83,9 +99,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [miyakogi](https://github.com/miyakogi)
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
   > simple terminal UI for git commands
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sam-paech/auto-antislop](https://github.com/sam-paech/auto-antislop)
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tailscale/tailcat](https://github.com/tailscale/tailcat)
@@ -144,6 +157,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [svc64](https://github.com/svc64) Starred [better-rail/app](https://github.com/better-rail/app)
   > An alternative mobile client for Israel Railways
 
+### [tabjy](https://github.com/tabjy)
+- 🌟 👤 [tabjy](https://github.com/tabjy) Starred [koalaauto/KoalaMirror](https://github.com/koalaauto/KoalaMirror)
+  > Full Android on your car screen — a real second display on the factory Android Auto head unit. Any a...
+- 🌟 👤 [tabjy](https://github.com/tabjy) Starred [erxm/AADisplay](https://github.com/erxm/AADisplay)
+  > Displaying Any App on Android Auto: A Nested Approach Based on VirtualDisplay.
+- 🍴 👤 [tabjy](https://github.com/tabjy) Forked [erxm/AADisplay](https://github.com/erxm/AADisplay) to [tabjy/AADisplay](https://github.com/tabjy/AADisplay)
+  > Displaying Any App on Android Auto: A Nested Approach Based on VirtualDisplay.
+
 ### [tuhdo](https://github.com/tuhdo)
 - 🌟 👤 [tuhdo](https://github.com/tuhdo) Starred [OrRon/EpicInfographics](https://github.com/OrRon/EpicInfographics)
   > A simple skill that will make your Agent create beautiful Infographics
@@ -172,7 +193,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-01 20:13:33 UTC*
+*Last updated at 2026-09-01 22:52:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
