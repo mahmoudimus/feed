@@ -38,11 +38,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [frol](https://github.com/frol) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
   > Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Win...
 
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [kikkupico/ambientcss](https://github.com/kikkupico/ambientcss)
+  > A physics-based lighting system for CSS. Define a light source, and every shadow, highlight and surf...
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [dolthub/dolt](https://github.com/dolthub/dolt)
   > Dolt – Git for Data
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [gastownhall/gascity](https://github.com/gastownhall/gascity)
   > Orchestration-builder SDK for multi-agent coding workflows
+
+### [inmcm](https://github.com/inmcm)
+- 🌟 👤 [inmcm](https://github.com/inmcm) Starred [opencomputeproject/OCP-Security-SOLID](https://github.com/opencomputeproject/OCP-Security-SOLID)
+  > Standardization of security requirements for datacenter products
 
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [Mah3Sec/ForgeGuardian](https://github.com/Mah3Sec/ForgeGuardian)
@@ -58,6 +66,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jkbrzt](https://github.com/jkbrzt) Starred [ehmo/gum](https://github.com/ehmo/gum)
   > CLI and MCP server for discovering and calling Google APIs from agents and scripts.
 
+### [johanbrandhorst](https://github.com/johanbrandhorst)
+- 🍴 👤 [johanbrandhorst](https://github.com/johanbrandhorst) Forked [aevans0001/ha-intermatic-connect](https://github.com/aevans0001/ha-intermatic-connect) to [johanbrandhorst/ha-intermatic-connect](https://github.com/johanbrandhorst/ha-intermatic-connect)
+  > Unofficial Home Assistant integration for Intermatic Connect Wi-Fi timers
+
 ### [kevaundray](https://github.com/kevaundray)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [han0110/provoor](https://github.com/han0110/provoor)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [han0110/provoor-runs](https://github.com/han0110/provoor-runs)
@@ -67,6 +79,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The Open Source Disassembler
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [CalebFenton/simplify](https://github.com/CalebFenton/simplify)
   > Android virtual machine and deobfuscator
+
+### [miyakogi](https://github.com/miyakogi)
+- 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
+  > simple terminal UI for git commands
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sam-paech/auto-antislop](https://github.com/sam-paech/auto-antislop)
@@ -82,6 +98,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [facebookresearch/project_superdex](https://github.com/facebookresearch/project_superdex)
   > SuperDex brings together a purpose-built physics engine, robotics authoring tools, and a scalable re...
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [lasrod/assurance-forge](https://github.com/lasrod/assurance-forge)
+  > A tool to create assurance cases or safety cases
 
 ### [phauer](https://github.com/phauer)
 - 🌟 👤 [phauer](https://github.com/phauer) Starred [commercetools/commercetools-ai-plugins](https://github.com/commercetools/commercetools-ai-plugins)
@@ -94,12 +112,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)
   > Secure, Fast, and Extensible Sandbox runtime for AI agents.
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [zackees/reld](https://github.com/zackees/reld)
+  > relink. reweld. reload. — a cross-platform incremental linker built for the inner dev loop, not rele...
+
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [wagiminator/CH32X035-USB-PD-Tester](https://github.com/wagiminator/CH32X035-USB-PD-Tester)
+  > USB Power Delivery Testing Device and Variable Power Supply
+
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🚀 👤 [sbycrosz](https://github.com/sbycrosz) Made [sbycrosz/sample-mobile-deploy](https://github.com/sbycrosz/sample-mobile-deploy) public
+
+### [shagu](https://github.com/shagu)
+- 🌟 👤 [shagu](https://github.com/shagu) Starred [shagu/firetube](https://github.com/shagu/firetube)
+  > YouTube TV as a kiosk app in Firefox for SteamOS
 
 ### [shanselman](https://github.com/shanselman)
 - 🌟 👤 [shanselman](https://github.com/shanselman) Starred [kmanan/StreamDeckTeams](https://github.com/kmanan/StreamDeckTeams)
   > Free Microsoft Teams meeting controls for Elgato Stream Deck on Windows
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [slice/machete](https://github.com/slice/machete)
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [tweag/rules_s3](https://github.com/tweag/rules_s3)
@@ -109,9 +144,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [svc64](https://github.com/svc64) Starred [better-rail/app](https://github.com/better-rail/app)
   > An alternative mobile client for Israel Railways
 
+### [tuhdo](https://github.com/tuhdo)
+- 🌟 👤 [tuhdo](https://github.com/tuhdo) Starred [OrRon/EpicInfographics](https://github.com/OrRon/EpicInfographics)
+  > A simple skill that will make your Agent create beautiful Infographics
+- 🍴 👤 [tuhdo](https://github.com/tuhdo) Forked [OrRon/EpicInfographics](https://github.com/OrRon/EpicInfographics) to [tuhdo/EpicInfographics](https://github.com/tuhdo/EpicInfographics)
+  > A simple skill that will make your Agent create beautiful Infographics
+
 ### [vertical-blank](https://github.com/vertical-blank)
 - 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [KallistiOS/KallistiOS](https://github.com/KallistiOS/KallistiOS)
   > A homebrew SDK/pseudo-operating system for the Sega Dreamcast. This repository is a mirror of the of...
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [AlexBlackmore/roms](https://github.com/AlexBlackmore/roms)
+- 🍴 👤 [xyproto](https://github.com/xyproto) Forked [AlexBlackmore/roms](https://github.com/AlexBlackmore/roms) to [xyproto/roms](https://github.com/xyproto/roms)
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [JetBrains/skills](https://github.com/JetBrains/skills)
@@ -127,7 +172,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-01 17:01:26 UTC*
+*Last updated at 2026-09-01 20:13:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/08) directory.*
 <!-- /archive-link -->
