@@ -14,6 +14,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [NVlabs/Eagle](https://github.com/NVlabs/Eagle)
   > Eagle: Frontier Vision-Language Models with Data-Centric Strategies
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [carloslfu/slotstream](https://github.com/carloslfu/slotstream)
+  > Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming ...
+
 ### [anzz1](https://github.com/anzz1)
 - 🍴 👤 [anzz1](https://github.com/anzz1) Forked [LostCityRS/Engine-TS](https://github.com/LostCityRS/Engine-TS) to [anzz1/Engine-TS](https://github.com/anzz1/Engine-TS)
   > RS engine behavior in TypeScript
@@ -50,12 +54,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [droe](https://github.com/droe) Starred [droe/binja-bpf](https://github.com/droe/binja-bpf)
   > BPF Plugin for Binary Ninja
 
+### [edmcman](https://github.com/edmcman)
+- 🍴 👤 [edmcman](https://github.com/edmcman) Forked [0xD0GF00D/DocumentSASS](https://github.com/0xD0GF00D/DocumentSASS) to [edmcman/DocumentSASS](https://github.com/edmcman/DocumentSASS)
+  > Unofficial description of the CUDA assembly (SASS) instruction sets.
+
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [spf13/go-skills](https://github.com/spf13/go-skills)
 
 ### [fnuecke](https://github.com/fnuecke)
 - 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [rainmakerv3/BB_Launcher](https://github.com/rainmakerv3/BB_Launcher)
   > Dedicated launcher/mod manager combo app for Bloodborne on shadPS4
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [elixirbeats/abletoolz](https://github.com/elixirbeats/abletoolz)
+  > Tools for editing and analyzing Ableton Live sets
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [josh0xA/darkdump](https://github.com/josh0xA/darkdump)
@@ -72,6 +84,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [justaugustus](https://github.com/justaugustus) Forked [bloomberg/blazingmq-sdk-python](https://github.com/bloomberg/blazingmq-sdk-python) to [justaugustus/blazingmq-sdk-python](https://github.com/justaugustus/blazingmq-sdk-python)
   > Python SDK for BlazingMQ, a modern high-performance open source message queuing system.
 
+### [laomobk](https://github.com/laomobk)
+- 🌟 👤 [laomobk](https://github.com/laomobk) Starred [tyron12233/CodeAssist](https://github.com/tyron12233/CodeAssist)
+  > An IDE for building Android applicatons on Android.
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll)
   > :electron: O-MVLL is a code obfuscation tool based on LLVM for native code (Android and iOS).
@@ -81,6 +97,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Local-first search across your workspace, built for humans and AI agents.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
   > GLM-5.3 Flash EXL3 for 2x DGX Sparks
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/atlas](https://github.com/alesha-pro/atlas)
+  > Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distribut...
+
+### [myusuf3](https://github.com/myusuf3)
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [stashed/stash](https://github.com/stashed/stash)
+  > 🛅 Backup your Kubernetes Stateful Applications
+
+### [nathanfaucett](https://github.com/nathanfaucett)
+- 🌟 👤 [nathanfaucett](https://github.com/nathanfaucett) Starred [n0-computer/iroh](https://github.com/n0-computer/iroh)
+  > IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef)
@@ -144,13 +170,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [google/longfellow-zk](https://github.com/google/longfellow-zk)
   > Implementation of the Google Zero-Knowledge library for Identity Protocols.
 
+### [veorq](https://github.com/veorq)
+- 🌟 👤 [veorq](https://github.com/veorq) Starred [google/mantis](https://github.com/google/mantis)
+  > A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously fin...
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [osolmaz/pi-workflows](https://github.com/osolmaz/pi-workflows)
+  > Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [persiyanov/herdr-reviewr](https://github.com/persiyanov/herdr-reviewr)
+  > A code-review + file-viewer sidebar for herdr — comment on an agent's diff, send it back. Plus a rea...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [plannotator/herdr-annotate](https://github.com/plannotator/herdr-annotate)
+  > Annotate terminal text, review documents and agent replies in Herdr, and send the feedback straight ...
+
 
 <!-- nav -->
 [← 2026-09-01](archive/2026/09/01.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-02 18:11:23 UTC*
+*Last updated at 2026-09-02 21:24:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
