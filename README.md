@@ -14,9 +14,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [NVlabs/Eagle](https://github.com/NVlabs/Eagle)
   > Eagle: Frontier Vision-Language Models with Data-Centric Strategies
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [planetscale/skills](https://github.com/planetscale/skills)
+  > Skills that help you configure and get the most out of PlanetScale
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [planetscale/database-skills](https://github.com/planetscale/database-skills)
+  > Skills for AI agents working with databases
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [DannyMac180/fable-advisor](https://github.com/DannyMac180/fable-advisor)
+  > Claude Fable as an orchestrator for Opus, GPT and Grok
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [carloslfu/slotstream](https://github.com/carloslfu/slotstream)
   > Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming ...
+
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [Digitelektro/BackfireHelix](https://github.com/Digitelektro/BackfireHelix)
+  > Backfire helix 3D scaffolds for weather satellites reception
 
 ### [anzz1](https://github.com/anzz1)
 - 🍴 👤 [anzz1](https://github.com/anzz1) Forked [LostCityRS/Engine-TS](https://github.com/LostCityRS/Engine-TS) to [anzz1/Engine-TS](https://github.com/anzz1/Engine-TS)
@@ -88,17 +100,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [laomobk](https://github.com/laomobk) Starred [tyron12233/CodeAssist](https://github.com/tyron12233/CodeAssist)
   > An IDE for building Android applicatons on Android.
 
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [mooreneural/lacuna](https://github.com/mooreneural/lacuna)
+  > Finds cryptic binding pockets that are invisible in a single static structure. Generates a conformat...
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll)
   > :electron: O-MVLL is a code obfuscation tool based on LLVM for native code (Android and iOS).
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
-  > Local-first search across your workspace, built for humans and AI agents.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
-  > GLM-5.3 Flash EXL3 for 2x DGX Sparks
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/atlas](https://github.com/alesha-pro/atlas)
-  > Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distribut...
 
 ### [myusuf3](https://github.com/myusuf3)
 - 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [stashed/stash](https://github.com/stashed/stash)
@@ -188,7 +196,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-02 21:24:06 UTC*
+*Last updated at 2026-09-02 23:39:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
