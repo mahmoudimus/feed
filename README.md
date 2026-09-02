@@ -8,19 +8,35 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [AndrasKovacs](https://github.com/AndrasKovacs)
-- 🌟 👤 [AndrasKovacs](https://github.com/AndrasKovacs) Starred [raphael-sterbac/elaboration-universes](https://github.com/raphael-sterbac/elaboration-universes)
-  > Elaboration of cumulative universe hierarchies
-
 ### [NormXU](https://github.com/NormXU)
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [joeynyc/awesome-microduck](https://github.com/joeynyc/awesome-microduck)
   > A curated list of software, simulators, policies, agent tools and coverage for the Pollen Robotics /...
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [NVlabs/Eagle](https://github.com/NVlabs/Eagle)
   > Eagle: Frontier Vision-Language Models with Data-Centric Strategies
 
+### [anzz1](https://github.com/anzz1)
+- 🍴 👤 [anzz1](https://github.com/anzz1) Forked [LostCityRS/Engine-TS](https://github.com/LostCityRS/Engine-TS) to [anzz1/Engine-TS](https://github.com/anzz1/Engine-TS)
+  > RS engine behavior in TypeScript
+
+### [artem](https://github.com/artem)
+- 🌟 👤 [artem](https://github.com/artem) Starred [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS)
+  >  A high-performance distributed file system designed to address the challenges of AI training and in...
+
+### [bduisenov](https://github.com/bduisenov)
+- 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [umputun/revmux](https://github.com/umputun/revmux)
+  > Multi-agent code review, supervised and auditable
+
+### [dark-panda](https://github.com/dark-panda)
+- 🍴 👤 [dark-panda](https://github.com/dark-panda) Forked [turbot/steampipe-plugin-cloudflare](https://github.com/turbot/steampipe-plugin-cloudflare) to [dark-panda/steampipe-plugin-cloudflare](https://github.com/dark-panda/steampipe-plugin-cloudflare)
+  > Use SQL to instantly query accounts, zones and more from Cloudflare. Open source CLI. No DB required...
+
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
   > The Free Software Media System - Server Backend & API
+
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
+  > An AI prompt optimizer for writing better prompts and getting better AI results.
 
 ### [dowobeha](https://github.com/dowobeha)
 - 🍴 👤 [dowobeha](https://github.com/dowobeha) Forked [chankfonts/Teachers-fonts](https://github.com/chankfonts/Teachers-fonts) to [dowobeha/Teachers-fonts](https://github.com/dowobeha/Teachers-fonts)
@@ -49,16 +65,30 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [tailscale/tailcat](https://github.com/tailscale/tailcat)
   > like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
-### [heinermann](https://github.com/heinermann)
-- 🍴 👤 [heinermann](https://github.com/heinermann) Forked [BadMagic100/ArchipelagoDebugClient](https://github.com/BadMagic100/ArchipelagoDebugClient) to [heinermann/ArchipelagoDebugClient](https://github.com/heinermann/ArchipelagoDebugClient)
-  > A cross-platform debugging client for use by Archipelago developers, written in C# and Avalonia.
-
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Danzer1xxxxChan/H3-World](https://github.com/Danzer1xxxxChan/H3-World) to [johndpope/H3-World](https://github.com/johndpope/H3-World)
+
+### [justaugustus](https://github.com/justaugustus)
+- 🍴 👤 [justaugustus](https://github.com/justaugustus) Forked [bloomberg/blazingmq-sdk-python](https://github.com/bloomberg/blazingmq-sdk-python) to [justaugustus/blazingmq-sdk-python](https://github.com/justaugustus/blazingmq-sdk-python)
+  > Python SDK for BlazingMQ, a modern high-performance open source message queuing system.
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [open-obfuscator/o-mvll](https://github.com/open-obfuscator/o-mvll)
   > :electron: O-MVLL is a code obfuscation tool based on LLVM for native code (Android and iOS).
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
+  > Local-first search across your workspace, built for humans and AI agents.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
+  > GLM-5.3 Flash EXL3 for 2x DGX Sparks
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef)
+  > Continual learning infra for self-improving agents
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [benoitc/erlang_wasm](https://github.com/benoitc/erlang_wasm)
+  > A WebAssembly runtime implemented in Erlang/OTP
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce)
+  > GPUI – Community Edition
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [dagster-io/dagster](https://github.com/dagster-io/dagster)
@@ -92,6 +122,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ret2libc](https://github.com/ret2libc) Starred [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
   > A library for mechanistic interpretability of GPT-style language models
 
+### [shanselman](https://github.com/shanselman)
+- 🌟 👤 [shanselman](https://github.com/shanselman) Starred [jongio/skills](https://github.com/jongio/skills)
+  > A plugin of cross-agent skills for AI coding agents — GitHub Copilot, Claude, and Codex — installabl...
+
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [lambda-fairy/rust-errno](https://github.com/lambda-fairy/rust-errno)
   > :boom: Cross-platform interface to the `errno` variable
@@ -116,7 +150,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-02 14:46:29 UTC*
+*Last updated at 2026-09-02 18:11:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
