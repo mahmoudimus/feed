@@ -85,6 +85,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A simple and transparent reinforcement learning library. No black boxes, no boilerplate, compilable ...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Ra4ster/Deepity](https://github.com/Ra4ster/Deepity)
   > (WIP) Ultra-fast, SIMD-accelerated Predictive Coding (PC) model library in bare-metal C++
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [tabulai/metal-graph](https://github.com/tabulai/metal-graph)
+  > Metal-native graph analytics for Apple Silicon
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [Gleek/org-timegrid](https://github.com/Gleek/org-timegrid)
@@ -121,7 +123,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-03 21:31:15 UTC*
+*Last updated at 2026-09-03 23:36:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
