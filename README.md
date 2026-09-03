@@ -15,6 +15,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [GabLeRoux](https://github.com/GabLeRoux) Starred [freenet/freenet-core](https://github.com/freenet/freenet-core)
   > Declare your digital independence
 
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [ovg-project/kvcached](https://github.com/ovg-project/kvcached)
+  > Virtualized Elastic KV Cache for Dynamic GPU Sharing and Beyond
+
 ### [Skytrias](https://github.com/Skytrias)
 - 🌟 👤 [Skytrias](https://github.com/Skytrias) Starred [blob1807/odin_sqlite3_bindings](https://github.com/blob1807/odin_sqlite3_bindings)
   > Odin Binding for SQLite3
@@ -24,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ThomasVitale](https://github.com/ThomasVitale)
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [llmmanorg/llmman](https://github.com/llmmanorg/llmman)
   > llmman manages OCI models
+
+### [anzz1](https://github.com/anzz1)
+- 🍴 👤 [anzz1](https://github.com/anzz1) Forked [LostCityRS/Content](https://github.com/LostCityRS/Content) to [anzz1/LC-Content](https://github.com/anzz1/LC-Content)
+  > Historical preservation
 
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [sacca97/blerp](https://github.com/sacca97/blerp)
@@ -49,15 +57,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [sxyyds/fluxcap](https://github.com/sxyyds/fluxcap) to [fengjixuchui/fluxcap](https://github.com/fengjixuchui/fluxcap)
   > Low-latency Windows screen capture: WGC + Desktop Duplication, GPU encoding, cross-process texture b...
 
-### [fnuecke](https://github.com/fnuecke)
-- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
-  > A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft...
-
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [endrazine/wsolver](https://github.com/endrazine/wsolver)
   > Find memory corruption vulnerabilities in stripped binaries — no source code required. Lifts ELF to ...
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [BytePioneer-AI/codex-host](https://github.com/BytePioneer-AI/codex-host)
   > Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。
+
+### [johndpope](https://github.com/johndpope)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [internetphysics/live-classroom](https://github.com/internetphysics/live-classroom) to [johndpope/live-classroom](https://github.com/johndpope/live-classroom)
+  > A live TV channel that teaches whatever you type — LLM-planned lessons rendered just-in-time as 1970...
 
 ### [laomobk](https://github.com/laomobk)
 - 🌟 👤 [laomobk](https://github.com/laomobk) Starred [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor)
@@ -81,6 +89,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [Gleek/org-timegrid](https://github.com/Gleek/org-timegrid)
   > An SVG week calendar for Emacs, backed by Org files. Drag to create, move and resize; a read-only da...
+
+### [rwjblue](https://github.com/rwjblue)
+- 🍴 👤 [rwjblue](https://github.com/rwjblue) Forked [wavelog/WaveLogGate](https://github.com/wavelog/WaveLogGate) to [rwjblue/WaveLogGate](https://github.com/rwjblue/WaveLogGate)
+  > WLGate, the CAT-Bridge for WSJT-* and FLRig to Wavelog
 
 ### [svc64](https://github.com/svc64)
 - 🌟 👤 [svc64](https://github.com/svc64) Starred [jart/dropbear](https://github.com/jart/dropbear)
@@ -109,7 +121,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-03 18:56:32 UTC*
+*Last updated at 2026-09-03 21:31:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
