@@ -8,15 +8,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [BaseMax](https://github.com/BaseMax)
-- 🍴 👤 [BaseMax](https://github.com/BaseMax) Forked [gapdays/gapdays2026-fall](https://github.com/gapdays/gapdays2026-fall) to [MaxFork/gapdays2026-fall](https://github.com/MaxFork/gapdays2026-fall)
-
 ### [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt)
 - 🌟 👤 [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt) Starred [srynsh/SimLoss-Image-Captioning](https://github.com/srynsh/SimLoss-Image-Captioning)
 
 ### [GabLeRoux](https://github.com/GabLeRoux)
 - 🌟 👤 [GabLeRoux](https://github.com/GabLeRoux) Starred [freenet/freenet-core](https://github.com/freenet/freenet-core)
   > Declare your digital independence
+
+### [Skytrias](https://github.com/Skytrias)
+- 🌟 👤 [Skytrias](https://github.com/Skytrias) Starred [blob1807/odin_sqlite3_bindings](https://github.com/blob1807/odin_sqlite3_bindings)
+  > Odin Binding for SQLite3
+- 🍴 👤 [Skytrias](https://github.com/Skytrias) Forked [blob1807/odin_sqlite3_bindings](https://github.com/blob1807/odin_sqlite3_bindings) to [Skytrias/odin_sqlite3_bindings](https://github.com/Skytrias/odin_sqlite3_bindings)
+  > Odin Binding for SQLite3
 
 ### [ThomasVitale](https://github.com/ThomasVitale)
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [llmmanorg/llmman](https://github.com/llmmanorg/llmman)
@@ -46,6 +49,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [sxyyds/fluxcap](https://github.com/sxyyds/fluxcap) to [fengjixuchui/fluxcap](https://github.com/fengjixuchui/fluxcap)
   > Low-latency Windows screen capture: WGC + Desktop Duplication, GPU encoding, cross-process texture b...
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [endrazine/wsolver](https://github.com/endrazine/wsolver)
+  > Find memory corruption vulnerabilities in stripped binaries — no source code required. Lifts ELF to ...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [BytePioneer-AI/codex-host](https://github.com/BytePioneer-AI/codex-host)
+  > Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。
+
 ### [laomobk](https://github.com/laomobk)
 - 🌟 👤 [laomobk](https://github.com/laomobk) Starred [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor)
   > A multifunctional Android code editor library. (aka CodeEditor)
@@ -54,6 +63,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [chenglou/sotaku](https://github.com/chenglou/sotaku)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [rexmhall09/TUFF](https://github.com/rexmhall09/TUFF)
   > Turbo Ultimate Field Fare is a MacOS app that lets users run models like Qwen, Gemma, and GPT-OSS mo...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Dar-rius/zeroRL](https://github.com/Dar-rius/zeroRL)
+  > A simple and transparent reinforcement learning library. No black boxes, no boilerplate, compilable ...
 
 ### [pvillard31](https://github.com/pvillard31)
 - 🍴 👤 [pvillard31](https://github.com/pvillard31) Forked [Snowflake-Labs/nifihub](https://github.com/Snowflake-Labs/nifihub) to [pvillard31/nifihub](https://github.com/pvillard31/nifihub)
@@ -75,14 +86,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [mratsim/sglang-qwen38fn-sm120-turbo](https://github.com/mratsim/sglang-qwen38fn-sm120-turbo)
   > Qwen3.8-Flash-Next optimized for 1x RTX Pro 6000
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [SentineLabs/Memloader](https://github.com/SentineLabs/Memloader)
+  > Memory Loader Open Source Project by Sentinel-Labs.
+
 ### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [fzakaria/selfdb](https://github.com/fzakaria/selfdb)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [xgo-dev/llgo](https://github.com/xgo-dev/llgo)
-  > A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python an...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [tailscale/tailcat](https://github.com/tailscale/tailcat)
-  > like netcat, but over Tailscale's data plane, without Tailscale's control plane
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [kingroryg/turbokv](https://github.com/kingroryg/turbokv)
-  > A fast, simple, and embedded key-value store for Rust.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [DataDog/datadog-sbom-generator](https://github.com/DataDog/datadog-sbom-generator)
 
 
 <!-- nav -->
@@ -90,7 +99,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-03 11:47:56 UTC*
+*Last updated at 2026-09-03 15:20:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
