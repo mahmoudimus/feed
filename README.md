@@ -49,6 +49,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [sxyyds/fluxcap](https://github.com/sxyyds/fluxcap) to [fengjixuchui/fluxcap](https://github.com/fengjixuchui/fluxcap)
   > Low-latency Windows screen capture: WGC + Desktop Duplication, GPU encoding, cross-process texture b...
 
+### [fnuecke](https://github.com/fnuecke)
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)
+  > A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft...
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [endrazine/wsolver](https://github.com/endrazine/wsolver)
   > Find memory corruption vulnerabilities in stripped binaries — no source code required. Lifts ELF to ...
@@ -58,6 +62,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [laomobk](https://github.com/laomobk)
 - 🌟 👤 [laomobk](https://github.com/laomobk) Starred [Rosemoe/sora-editor](https://github.com/Rosemoe/sora-editor)
   > A multifunctional Android code editor library. (aka CodeEditor)
+- 🍴 👤 [laomobk](https://github.com/laomobk) Forked [tyron12233/CodeAssist](https://github.com/tyron12233/CodeAssist) to [laomobk/CodeAssist-libGDX](https://github.com/laomobk/CodeAssist-libGDX)
+  > An IDE for building Android applicatons on Android.
+
+### [myusuf3](https://github.com/myusuf3)
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [context-labs/cloudflared-operator](https://github.com/context-labs/cloudflared-operator)
+  > Cloudflare Tunnel's K8s Operator
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [chenglou/sotaku](https://github.com/chenglou/sotaku)
@@ -65,13 +75,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Turbo Ultimate Field Fare is a MacOS app that lets users run models like Qwen, Gemma, and GPT-OSS mo...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Dar-rius/zeroRL](https://github.com/Dar-rius/zeroRL)
   > A simple and transparent reinforcement learning library. No black boxes, no boilerplate, compilable ...
-
-### [pvillard31](https://github.com/pvillard31)
-- 🍴 👤 [pvillard31](https://github.com/pvillard31) Forked [Snowflake-Labs/nifihub](https://github.com/Snowflake-Labs/nifihub) to [pvillard31/nifihub](https://github.com/pvillard31/nifihub)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Ra4ster/Deepity](https://github.com/Ra4ster/Deepity)
+  > (WIP) Ultra-fast, SIMD-accelerated Predictive Coding (PC) model library in bare-metal C++
 
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [Gleek/org-timegrid](https://github.com/Gleek/org-timegrid)
   > An SVG week calendar for Emacs, backed by Org files. Drag to create, move and resize; a read-only da...
+
+### [svc64](https://github.com/svc64)
+- 🌟 👤 [svc64](https://github.com/svc64) Starred [jart/dropbear](https://github.com/jart/dropbear)
+  > the apex market taker
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [openmobilehub/mcp-apps-shopping-demo](https://github.com/openmobilehub/mcp-apps-shopping-demo)
@@ -90,16 +103,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [SentineLabs/Memloader](https://github.com/SentineLabs/Memloader)
   > Memory Loader Open Source Project by Sentinel-Labs.
 
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [DataDog/datadog-sbom-generator](https://github.com/DataDog/datadog-sbom-generator)
-
 
 <!-- nav -->
 [← 2026-09-02](archive/2026/09/02.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-03 15:20:36 UTC*
+*Last updated at 2026-09-03 18:56:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
