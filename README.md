@@ -32,6 +32,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [erezsh](https://github.com/erezsh) Forked [geographika/mappyfile](https://github.com/geographika/mappyfile) to [erezsh/mappyfile](https://github.com/erezsh/mappyfile)
   > A pure Python MapFile parser for working with MapServer
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [MaaXYZ/EmulatorExtras](https://github.com/MaaXYZ/EmulatorExtras)
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend)
   > Build, Validate, Route, Authenticate and Mock using OpenAPI
@@ -51,6 +54,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Open data and scalable training for long-horizon video world models.
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Junchao-cs/SolarWM](https://github.com/Junchao-cs/SolarWM)
   > Open data and scalable training for long-horizon video world models.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Danzer1xxxxChan/H3-World](https://github.com/Danzer1xxxxChan/H3-World)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [wildminder/awesome-minimax-H3](https://github.com/wildminder/awesome-minimax-H3)
+  > Awesome MiniMax-H3
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [hughhowey/neo](https://github.com/hughhowey/neo)
@@ -76,6 +82,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Xientraa/Discord-Humble-Bundle-Notifier](https://github.com/Xientraa/Discord-Humble-Bundle-Notifier)
   > Get Discord webhook notifications when a new Humble Bundle or Humble Choice releases.
 
+### [pfalcon](https://github.com/pfalcon)
+- 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [FlashAlpha-lab/awesome-options-analytics](https://github.com/FlashAlpha-lab/awesome-options-analytics)
+  > A curated list of options analytics tools, APIs, libraries, papers, and educational resources for qu...
+
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [doy/vt100-rust](https://github.com/doy/vt100-rust)
+
+### [sdras](https://github.com/sdras)
+- 🍴 👤 [sdras](https://github.com/sdras) Forked [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) to [sdras/webmcp](https://github.com/sdras/webmcp)
+  > 🤖 WebMCP
+
 ### [wl4g](https://github.com/wl4g)
 - 🌟 👤 [wl4g](https://github.com/wl4g) Starred [wl4g/authguard](https://github.com/wl4g/authguard)
   > An Universal IAM authorization service
@@ -86,7 +103,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-04 18:37:34 UTC*
+*Last updated at 2026-09-04 21:06:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
