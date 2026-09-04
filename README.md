@@ -15,6 +15,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [HarukaMa](https://github.com/HarukaMa)
 - 🍴 👤 [HarukaMa](https://github.com/HarukaMa) Forked [solokeys/solo2](https://github.com/solokeys/solo2) to [HarukaMa/solo2](https://github.com/HarukaMa/solo2)
   > Solo 2 firmware in Rust
+- 🌟 👤 [HarukaMa](https://github.com/HarukaMa) Starred [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
+  > Self-hosted game stream host for Moonlight.
+
+### [anzz1](https://github.com/anzz1)
+- 🍴 👤 [anzz1](https://github.com/anzz1) Forked [LostCityRS/Client-TS](https://github.com/LostCityRS/Client-TS) to [anzz1/LC-Client-TS](https://github.com/anzz1/LC-Client-TS)
+  > Client source port to TypeScript
+
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [Liquid4All/ifstruct](https://github.com/Liquid4All/ifstruct)
 
 ### [ebagdasa](https://github.com/ebagdasa)
 - 🌟 👤 [ebagdasa](https://github.com/ebagdasa) Starred [google-parfait/ztab](https://github.com/google-parfait/ztab)
@@ -38,6 +47,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) to [johndpope/shuohao-skills](https://github.com/johndpope/shuohao-skills)
   > AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character ...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Junchao-cs/SolarWM](https://github.com/Junchao-cs/SolarWM) to [johndpope/SolarWM](https://github.com/johndpope/SolarWM)
+  > Open data and scalable training for long-horizon video world models.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Junchao-cs/SolarWM](https://github.com/Junchao-cs/SolarWM)
+  > Open data and scalable training for long-horizon video world models.
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [hughhowey/neo](https://github.com/hughhowey/neo)
@@ -46,12 +59,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [apache/echarts](https://github.com/apache/echarts)
   > Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
-### [lucidrains](https://github.com/lucidrains)
-- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [kushal2000/play2perfect](https://github.com/kushal2000/play2perfect)
-  > Official code release for Play2Perfect: a 2-stage RL pipeline for contact-rich assembly (arXiv 2606....
-- 🍴 👤 [lucidrains](https://github.com/lucidrains) Forked [kushal2000/play2perfect](https://github.com/kushal2000/play2perfect) to [lucidrains/play2perfect](https://github.com/lucidrains/play2perfect)
-  > Official code release for Play2Perfect: a 2-stage RL pipeline for contact-rich assembly (arXiv 2606....
 
 ### [mikehearn](https://github.com/mikehearn)
 - 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [gepa-ai/gepa](https://github.com/gepa-ai/gepa)
@@ -79,7 +86,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-04 15:15:56 UTC*
+*Last updated at 2026-09-04 18:37:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
