@@ -43,9 +43,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [pydantic/httpx2](https://github.com/pydantic/httpx2)
   > A next generation HTTP client for Python. 🦋
 
+### [hsiafan](https://github.com/hsiafan)
+- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [appshubcc/Bettbox](https://github.com/appshubcc/Bettbox)
+  > Another Better Mihomo Client
+- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [2dust/v2rayN](https://github.com/2dust/v2rayN)
+  > A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [KaringX/clashmi](https://github.com/KaringX/clashmi)
+  > Clash Mihomo for iOS/MacOS/Android/Windows/Linux
+
 ### [izuzak](https://github.com/izuzak)
 - 🍴 👤 [izuzak](https://github.com/izuzak) Forked [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) to [izuzak/gitoxide](https://github.com/izuzak/gitoxide)
   > An idiomatic, lean, fast & safe pure Rust implementation of Git
+
+### [jlfwong](https://github.com/jlfwong)
+- 🍴 👤 [jlfwong](https://github.com/jlfwong) Forked [devongovett/dprint-node](https://github.com/devongovett/dprint-node) to [jlfwong/dprint-node](https://github.com/jlfwong/dprint-node)
+  > A node API for the dprint TypeScript and JavaScript code formatter
 
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) to [johndpope/shuohao-skills](https://github.com/johndpope/shuohao-skills)
@@ -70,6 +82,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [gepa-ai/gepa](https://github.com/gepa-ai/gepa)
   > Optimize prompts, code, and more with AI-powered Reflective Optimization
 
+### [mimoo](https://github.com/mimoo)
+- 🍴 👤 [mimoo](https://github.com/mimoo) Forked [anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) to [mimoo/fermats-last-theorem](https://github.com/mimoo/fermats-last-theorem)
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [trymirai/uzu](https://github.com/trymirai/uzu)
   > A high-performance inference engine for AI models
@@ -77,10 +92,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [marin-community/marin](https://github.com/marin-community/marin)
   > Open-source framework for the research and development of foundation models.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [swairshah/bb-handsfree](https://github.com/swairshah/bb-handsfree)
+  > Use bb with voice. gpt-realtime model does everything in bb.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NVlabs/CuTe](https://github.com/NVlabs/CuTe)
+  > Reference implementation and examples of the CuTe Layout representation and algebra.
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Xientraa/Discord-Humble-Bundle-Notifier](https://github.com/Xientraa/Discord-Humble-Bundle-Notifier)
   > Get Discord webhook notifications when a new Humble Bundle or Humble Choice releases.
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [razvandimescu/numa](https://github.com/razvandimescu/numa)
+  > Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides
 
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [FlashAlpha-lab/awesome-options-analytics](https://github.com/FlashAlpha-lab/awesome-options-analytics)
@@ -93,17 +114,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [sdras](https://github.com/sdras) Forked [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) to [sdras/webmcp](https://github.com/sdras/webmcp)
   > 🤖 WebMCP
 
-### [wl4g](https://github.com/wl4g)
-- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [wl4g/authguard](https://github.com/wl4g/authguard)
-  > An Universal IAM authorization service
-
 
 <!-- nav -->
 [← 2026-09-03](archive/2026/09/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-04 21:06:07 UTC*
+*Last updated at 2026-09-04 23:29:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
