@@ -8,40 +8,62 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .agents directory.
+
 ### [HarukaMa](https://github.com/HarukaMa)
 - 🍴 👤 [HarukaMa](https://github.com/HarukaMa) Forked [solokeys/solo2](https://github.com/solokeys/solo2) to [HarukaMa/solo2](https://github.com/HarukaMa/solo2)
   > Solo 2 firmware in Rust
 
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [mojtabafalleh/Asm2IR](https://github.com/mojtabafalleh/Asm2IR) to [fengjixuchui/Asm2IR](https://github.com/fengjixuchui/Asm2IR)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [mojtabafalleh/anti_emulaion_unicorn](https://github.com/mojtabafalleh/anti_emulaion_unicorn) to [fengjixuchui/anti_emulaion_unicorn](https://github.com/fengjixuchui/anti_emulaion_unicorn)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [mojtabafalleh/emulator](https://github.com/mojtabafalleh/emulator) to [fengjixuchui/emulator1](https://github.com/fengjixuchui/emulator1)
-  > A simple emulator for Windows designed for reverse engineering, testing binary files, and execution ...
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [mojtabafalleh/MBA-Simplifier](https://github.com/mojtabafalleh/MBA-Simplifier) to [fengjixuchui/MBA-Simplifier](https://github.com/fengjixuchui/MBA-Simplifier)
-  > MBA-Simplifier by emulation using unicorn 
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [wx626810/NptBreakPoint](https://github.com/wx626810/NptBreakPoint) to [fengjixuchui/NptBreakPoint](https://github.com/fengjixuchui/NptBreakPoint)
-  > AMD NPT stealth breakpoint / anti-anti-debug research framework
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) to [fengjixuchui/FalconFlank](https://github.com/fengjixuchui/FalconFlank)
-  > Crowdstrike Falcon 0day Privilege Escalation Vulnerability
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Sage-Mage23/page_walk](https://github.com/Sage-Mage23/page_walk) to [fengjixuchui/page_walk](https://github.com/fengjixuchui/page_walk)
-  > Anticheat pagewalking for memory backing
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [TopSoftdeveloper/UnpackThemida](https://github.com/TopSoftdeveloper/UnpackThemida) to [fengjixuchui/UnpackThemida](https://github.com/fengjixuchui/UnpackThemida)
-  > Dynamic Themida unpacker and import fixer for Themida/WinLicense 2.x and 3.x.
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [TopSoftdeveloper/Bypass-SetWindowDisplayAffinity](https://github.com/TopSoftdeveloper/Bypass-SetWindowDisplayAffinity) to [fengjixuchui/Bypass-SetWindowDisplayAffinity](https://github.com/fengjixuchui/Bypass-SetWindowDisplayAffinity)
-  > Bypass Window Capture Protection on Windows, Bypass SetWindowDisplayAffinity in driver level without...
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [TopSoftdeveloper/DriverInstallResearch](https://github.com/TopSoftdeveloper/DriverInstallResearch) to [fengjixuchui/DriverInstallResearch](https://github.com/fengjixuchui/DriverInstallResearch)
+### [ebagdasa](https://github.com/ebagdasa)
+- 🌟 👤 [ebagdasa](https://github.com/ebagdasa) Starred [google-parfait/ztab](https://github.com/google-parfait/ztab)
+
+### [erezsh](https://github.com/erezsh)
+- 🍴 👤 [erezsh](https://github.com/erezsh) Forked [geographika/mappyfile](https://github.com/geographika/mappyfile) to [erezsh/mappyfile](https://github.com/erezsh/mappyfile)
+  > A pure Python MapFile parser for working with MapServer
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend)
+  > Build, Validate, Route, Authenticate and Mock using OpenAPI
+
+### [hit9](https://github.com/hit9)
+- 🌟 👤 [hit9](https://github.com/hit9) Starred [pydantic/httpx2](https://github.com/pydantic/httpx2)
+  > A next generation HTTP client for Python. 🦋
+
+### [izuzak](https://github.com/izuzak)
+- 🍴 👤 [izuzak](https://github.com/izuzak) Forked [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) to [izuzak/gitoxide](https://github.com/izuzak/gitoxide)
+  > An idiomatic, lean, fast & safe pure Rust implementation of Git
 
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) to [johndpope/shuohao-skills](https://github.com/johndpope/shuohao-skills)
   > AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character ...
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [hughhowey/neo](https://github.com/hughhowey/neo)
+  > A novel-writing tool created by a novelist.
+
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [apache/echarts](https://github.com/apache/echarts)
   > Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [kushal2000/play2perfect](https://github.com/kushal2000/play2perfect)
+  > Official code release for Play2Perfect: a 2-stage RL pipeline for contact-rich assembly (arXiv 2606....
+- 🍴 👤 [lucidrains](https://github.com/lucidrains) Forked [kushal2000/play2perfect](https://github.com/kushal2000/play2perfect) to [lucidrains/play2perfect](https://github.com/lucidrains/play2perfect)
+  > Official code release for Play2Perfect: a 2-stage RL pipeline for contact-rich assembly (arXiv 2606....
+
+### [mikehearn](https://github.com/mikehearn)
+- 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [gepa-ai/gepa](https://github.com/gepa-ai/gepa)
+  > Optimize prompts, code, and more with AI-powered Reflective Optimization
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [trymirai/uzu](https://github.com/trymirai/uzu)
   > A high-performance inference engine for AI models
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+  > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [marin-community/marin](https://github.com/marin-community/marin)
+  > Open-source framework for the research and development of foundation models.
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Xientraa/Discord-Humble-Bundle-Notifier](https://github.com/Xientraa/Discord-Humble-Bundle-Notifier)
@@ -57,7 +79,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-04 11:49:04 UTC*
+*Last updated at 2026-09-04 15:15:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
