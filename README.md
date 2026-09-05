@@ -8,9 +8,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [michaelfaith/mfaith-create](https://github.com/michaelfaith/mfaith-create)
+  > Quickstart-friendly repo template with comprehensive, opinionated tooling.
+
 ### [Xe](https://github.com/Xe)
 - 🍴 👤 [Xe](https://github.com/Xe) Forked [arcjet/gravity](https://github.com/arcjet/gravity) to [TecharoHQ/gravity](https://github.com/TecharoHQ/gravity)
   > Gravity is a host generator for WebAssembly Components. It currently targets Wazero, a zero dependen...
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [TecharoHQ/mobile-request-classifier](https://github.com/TecharoHQ/mobile-request-classifier)
+  > A classifier package for mobile phone requests
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Qmeimei10086/pte-dbg](https://github.com/Qmeimei10086/pte-dbg) to [fengjixuchui/pte-dbg](https://github.com/fengjixuchui/pte-dbg)
@@ -19,6 +25,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Rusty Hypervisor - Windows UEFI Blue Pill Type-1 Hypervisor in Rust (Codename: Illusion)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [DeathShotXD/0xM0nCrush](https://github.com/DeathShotXD/0xM0nCrush) to [fengjixuchui/0xM0nCrush](https://github.com/fengjixuchui/0xM0nCrush)
   > Kernel-mode process terminator using a signed BYOVD driver. Works on all Windows 10/11. No offsets, ...
+
+### [fnuecke](https://github.com/fnuecke)
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [sebbbi/NoGraphicsAPI](https://github.com/sebbbi/NoGraphicsAPI)
+  > Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my "No Graph...
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [taurusxin/ncmdump](https://github.com/taurusxin/ncmdump)
+  > 转换网易云音乐 ncm 到 mp3 / flac. Convert Netease Cloud Music ncm files to mp3/flac files.
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
@@ -34,6 +48,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [kevaundray](https://github.com/kevaundray)
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [Layr-Labs/eip8200-challenges](https://github.com/Layr-Labs/eip8200-challenges) to [kevaundray/eip8200-challenges-layr](https://github.com/kevaundray/eip8200-challenges-layr)
+- 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [pirapira/stateless-pancaketh](https://github.com/pirapira/stateless-pancaketh)
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [aorumbayev/awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy)
@@ -48,8 +63,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Storefront and manager for plugins that provide useful new widgets and features for Omarchy (https:/...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [exploitbench/exploitbench](https://github.com/exploitbench/exploitbench)
-  > ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ByteRay-AI/drift-corpus](https://github.com/ByteRay-AI/drift-corpus)
+  > Drift Corpus : repository of Windows Kernel patch diffs.
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [sebbbi/NoGraphicsAPI](https://github.com/sebbbi/NoGraphicsAPI)
+  > Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my "No Graph...
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🍴 👤 [nitrohorse](https://github.com/nitrohorse) Forked [Xientraa/Discord-Humble-Bundle-Notifier](https://github.com/Xientraa/Discord-Humble-Bundle-Notifier) to [nitrohorse/Discord-Humble-Bundle-Notifier](https://github.com/nitrohorse/Discord-Humble-Bundle-Notifier)
@@ -82,7 +101,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-05 18:38:13 UTC*
+*Last updated at 2026-09-05 20:46:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
