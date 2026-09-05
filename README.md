@@ -27,6 +27,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [kevaundray](https://github.com/kevaundray)
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [Layr-Labs/eip8200-challenges](https://github.com/Layr-Labs/eip8200-challenges) to [kevaundray/eip8200-challenges-layr](https://github.com/kevaundray/eip8200-challenges-layr)
 
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [aorumbayev/awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy)
+  > ⚡A curated list of awesome omarchy resources
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr)
+  >  Native speech-to-text for Linux - Fast, accurate, private, and hackable system-wide dictation
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [rosakodu/omarchy-dock](https://github.com/rosakodu/omarchy-dock)
+  > Plugin Dock for Omarchy
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [SirJul1337/omarchy-lock-explorer](https://github.com/SirJul1337/omarchy-lock-explorer)
+  > Lock screen designs for Omarchy with a picker to preview and switch between them
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [brianblakely/omarchy-plugins](https://github.com/brianblakely/omarchy-plugins)
+  > Storefront and manager for plugins that provide useful new widgets and features for Omarchy (https:/...
+
 ### [mbrt](https://github.com/mbrt)
 - 🌟 👤 [mbrt](https://github.com/mbrt) Starred [humanlayer/skills](https://github.com/humanlayer/skills)
 
@@ -51,13 +63,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [openxla/xla](https://github.com/openxla/xla)
   > A machine learning compiler for GPUs, CPUs, and ML accelerators
 
+### [vit9696](https://github.com/vit9696)
+- 🍴 👤 [vit9696](https://github.com/vit9696) Forked [PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) to [vit9696/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor](https://github.com/vit9696/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor)
+  > This custom integration provides a way to present a live view of a map for Xiaomi (Roborock/Viomi/Ro...
+
 
 <!-- nav -->
 [← 2026-09-04](archive/2026/09/04.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-05 13:39:35 UTC*
+*Last updated at 2026-09-05 16:19:52 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
