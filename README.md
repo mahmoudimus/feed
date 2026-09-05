@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Xe](https://github.com/Xe)
+- 🍴 👤 [Xe](https://github.com/Xe) Forked [arcjet/gravity](https://github.com/arcjet/gravity) to [TecharoHQ/gravity](https://github.com/TecharoHQ/gravity)
+  > Gravity is a host generator for WebAssembly Components. It currently targets Wazero, a zero dependen...
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Qmeimei10086/pte-dbg](https://github.com/Qmeimei10086/pte-dbg) to [fengjixuchui/pte-dbg](https://github.com/fengjixuchui/pte-dbg)
   > 基于pte-hook的调试器保护工具
@@ -16,13 +20,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [DeathShotXD/0xM0nCrush](https://github.com/DeathShotXD/0xM0nCrush) to [fengjixuchui/0xM0nCrush](https://github.com/fengjixuchui/0xM0nCrush)
   > Kernel-mode process terminator using a signed BYOVD driver. Works on all Windows 10/11. No offsets, ...
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+  > Hindsight: Agent Memory That Learns
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
+  > Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
+  > Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other har...
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [reindertpelsma/nvkvm-pv](https://github.com/reindertpelsma/nvkvm-pv)
   > Paravirtual NVIDIA GPU for KVM guests — run unmodified CUDA, PyTorch and Vulkan inside a VM at host ...
-
-### [johndpope](https://github.com/johndpope)
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [abbasmammadov/VFM](https://github.com/abbasmammadov/VFM) to [johndpope/VFM](https://github.com/johndpope/VFM)
-  > Official Implementation of "Variational Flow Maps: Make Some Noise for One-Step Conditional Generati...
 
 ### [kevaundray](https://github.com/kevaundray)
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [Layr-Labs/eip8200-challenges](https://github.com/Layr-Labs/eip8200-challenges) to [kevaundray/eip8200-challenges-layr](https://github.com/kevaundray/eip8200-challenges-layr)
@@ -39,8 +47,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [brianblakely/omarchy-plugins](https://github.com/brianblakely/omarchy-plugins)
   > Storefront and manager for plugins that provide useful new widgets and features for Omarchy (https:/...
 
-### [mbrt](https://github.com/mbrt)
-- 🌟 👤 [mbrt](https://github.com/mbrt) Starred [humanlayer/skills](https://github.com/humanlayer/skills)
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [exploitbench/exploitbench](https://github.com/exploitbench/exploitbench)
+  > ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug,...
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🍴 👤 [nitrohorse](https://github.com/nitrohorse) Forked [Xientraa/Discord-Humble-Bundle-Notifier](https://github.com/Xientraa/Discord-Humble-Bundle-Notifier) to [nitrohorse/Discord-Humble-Bundle-Notifier](https://github.com/nitrohorse/Discord-Humble-Bundle-Notifier)
@@ -73,7 +82,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-05 16:19:52 UTC*
+*Last updated at 2026-09-05 18:38:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
