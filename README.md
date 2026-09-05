@@ -8,6 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt)
+- 🌟 👤 [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt) Starred [srikarv1/deepresearchagent](https://github.com/srikarv1/deepresearchagent)
+
 ### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [michaelfaith/mfaith-create](https://github.com/michaelfaith/mfaith-create)
   > Quickstart-friendly repo template with comprehensive, opinionated tooling.
@@ -17,6 +20,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Gravity is a host generator for WebAssembly Components. It currently targets Wazero, a zero dependen...
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [TecharoHQ/mobile-request-classifier](https://github.com/TecharoHQ/mobile-request-classifier)
   > A classifier package for mobile phone requests
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [ua-parser/uap-rust](https://github.com/ua-parser/uap-rust)
+  > Rust implementations of regex prefiltering and ua-parser
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Qmeimei10086/pte-dbg](https://github.com/Qmeimei10086/pte-dbg) to [fengjixuchui/pte-dbg](https://github.com/fengjixuchui/pte-dbg)
@@ -46,6 +51,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [reindertpelsma/nvkvm-pv](https://github.com/reindertpelsma/nvkvm-pv)
   > Paravirtual NVIDIA GPU for KVM guests — run unmodified CUDA, PyTorch and Vulkan inside a VM at host ...
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [AMAP-ML/DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator)
+  > Democratizing Native Audio-Video Generation at 2K Resolution
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [ModelTC/Minimax-H3-Turbo](https://github.com/ModelTC/Minimax-H3-Turbo)
+  > Distill Minimax-H3 into 4 steps
+
 ### [kevaundray](https://github.com/kevaundray)
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [Layr-Labs/eip8200-challenges](https://github.com/Layr-Labs/eip8200-challenges) to [kevaundray/eip8200-challenges-layr](https://github.com/kevaundray/eip8200-challenges-layr)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [pirapira/stateless-pancaketh](https://github.com/pirapira/stateless-pancaketh)
@@ -62,9 +73,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [brianblakely/omarchy-plugins](https://github.com/brianblakely/omarchy-plugins)
   > Storefront and manager for plugins that provide useful new widgets and features for Omarchy (https:/...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ByteRay-AI/drift-corpus](https://github.com/ByteRay-AI/drift-corpus)
-  > Drift Corpus : repository of Windows Kernel patch diffs.
+### [myusuf3](https://github.com/myusuf3)
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure)
+  > Fiance unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [sebbbi/NoGraphicsAPI](https://github.com/sebbbi/NoGraphicsAPI)
@@ -101,7 +112,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-05 20:46:56 UTC*
+*Last updated at 2026-09-05 22:24:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
