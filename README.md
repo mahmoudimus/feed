@@ -11,10 +11,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator)
   > Use Astra as orchestrator and Luna as implementor
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
+  > Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 
 ### [duk-37](https://github.com/duk-37)
 - 🌟 👤 [duk-37](https://github.com/duk-37) Starred [JonET/monksynth](https://github.com/JonET/monksynth)
   > A monophonic vocal synthesizer using FOF synthesis, inspired by Delay Lama
+
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
+  > Beautiful, Modern & Opinionated Linux
 
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [freakynit/serverbox-app](https://github.com/freakynit/serverbox-app)
@@ -30,14 +36,26 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Scan Claude sessions to learn what your coding agent's up to.
 - 🌟 👤 [ludoch](https://github.com/ludoch) Starred [ShoeBoom/tailboot](https://github.com/ShoeBoom/tailboot)
 
-### [mbr](https://github.com/mbr)
-- 🍴 👤 [mbr](https://github.com/mbr) Forked [hallo-alex/squeezelite-esp32](https://github.com/hallo-alex/squeezelite-esp32) to [mbr/squeezelite-esp32](https://github.com/mbr/squeezelite-esp32)
-  > ESP32 Music streaming based on Squeezelite, with support for multi-room sync, AirPlay, Bluetooth, Ha...
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retrowave3/emulite](https://github.com/retrowave3/emulite)
   > Emulation framework for Android & iOS native libraries
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustasMasiulis/jsdmp](https://github.com/JustasMasiulis/jsdmp)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pavel-fokin/percept](https://github.com/pavel-fokin/percept)
+  > A cognitive architecture for AI agents: typed projections, mental models, and memory
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+
+### [nathanfaucett](https://github.com/nathanfaucett)
+- 🌟 👤 [nathanfaucett](https://github.com/nathanfaucett) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse)
+  > Any version of any nixpkgs package, from one flake input
+
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [scastiel/kado](https://github.com/scastiel/kado)
+  > Kadō — A privacy-first habit tracker for iPhone and iPad.
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [34306/vphone-web](https://github.com/34306/vphone-web)
@@ -66,7 +84,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-06 13:13:55 UTC*
+*Last updated at 2026-09-06 16:30:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
