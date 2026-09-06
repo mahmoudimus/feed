@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [DamienCassou](https://github.com/DamienCassou) Forked [fivefilters/ftr-site-config](https://github.com/fivefilters/ftr-site-config) to [DamienCassou/ftr-site-config](https://github.com/DamienCassou/ftr-site-config)
   > Site-specific article extraction rules to aid content extractors, feed readers, and 'read later' app...
 
+### [antifuchs](https://github.com/antifuchs)
+- 🌟 👤 [antifuchs](https://github.com/antifuchs) Starred [TravellingEngineer/barney](https://github.com/TravellingEngineer/barney)
+  > Content Journey - Package Tool
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator)
   > Use Astra as orchestrator and Luna as implementor
@@ -32,9 +36,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [ByteRay-AI/drift-corpus](https://github.com/ByteRay-AI/drift-corpus)
   > Drift Corpus : repository of Windows Kernel patch diffs.
 
-### [jdtsmith](https://github.com/jdtsmith)
-- 🌟 👤 [jdtsmith](https://github.com/jdtsmith) Starred [ptylr/LibreArm](https://github.com/ptylr/LibreArm)
-  > LibreArm is designed to work with Bluetooth blood pressure monitors such as the QardioArm. Connect d...
+### [johndpope](https://github.com/johndpope)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Anujatk1999/open-media](https://github.com/Anujatk1999/open-media) to [johndpope/open-media](https://github.com/johndpope/open-media)
 
 ### [ludoch](https://github.com/ludoch)
 - 🚀 👤 [ludoch](https://github.com/ludoch) Made [trudaine/trudaine.github.io](https://github.com/trudaine/trudaine.github.io) public
@@ -72,6 +75,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [NeverSight/NeverC](https://github.com/NeverSight/NeverC)
   > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
 
+### [ret2libc](https://github.com/ret2libc)
+- 🌟 👤 [ret2libc](https://github.com/ret2libc) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
+
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [german-national-wallet/de-eudi-wallet-backend](https://github.com/german-national-wallet/de-eudi-wallet-backend)
 
@@ -85,7 +92,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-06 20:53:51 UTC*
+*Last updated at 2026-09-06 22:29:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
