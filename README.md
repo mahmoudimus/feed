@@ -28,23 +28,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
   > Beautiful, Modern & Opinionated Linux
 
-### [frol](https://github.com/frol)
-- 🌟 👤 [frol](https://github.com/frol) Starred [freakynit/serverbox-app](https://github.com/freakynit/serverbox-app)
-  > Serverbox is an open-source, agentless desktop control panel for Linux servers. It connects over SSH...
-
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [ByteRay-AI/drift-corpus](https://github.com/ByteRay-AI/drift-corpus)
   > Drift Corpus : repository of Windows Kernel patch diffs.
+
+### [jdtsmith](https://github.com/jdtsmith)
+- 🌟 👤 [jdtsmith](https://github.com/jdtsmith) Starred [ptylr/LibreArm](https://github.com/ptylr/LibreArm)
+  > LibreArm is designed to work with Bluetooth blood pressure monitors such as the QardioArm. Connect d...
 
 ### [ludoch](https://github.com/ludoch)
 - 🚀 👤 [ludoch](https://github.com/ludoch) Made [trudaine/trudaine.github.io](https://github.com/trudaine/trudaine.github.io) public
 - 🌟 👤 [ludoch](https://github.com/ludoch) Starred [gageml/gage](https://github.com/gageml/gage)
   > Scan Claude sessions to learn what your coding agent's up to.
 - 🌟 👤 [ludoch](https://github.com/ludoch) Starred [ShoeBoom/tailboot](https://github.com/ShoeBoom/tailboot)
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QuixiAI/open-gpu-kernel-modules](https://github.com/QuixiAI/open-gpu-kernel-modules)
-  > P2P support for nvidia consumer cards
 
 ### [nathanfaucett](https://github.com/nathanfaucett)
 - 🌟 👤 [nathanfaucett](https://github.com/nathanfaucett) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
@@ -53,6 +49,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [fzakaria/nixpkgs-multiverse](https://github.com/fzakaria/nixpkgs-multiverse)
   > Any version of any nixpkgs package, from one flake input
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [moonbitlang/workflow](https://github.com/moonbitlang/workflow)
+  > Engine-agnostic multi-agent workflow orchestration with journaled replay/resume, in MoonBit
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [blaggacao/frappix](https://github.com/blaggacao/frappix)
+  > Frappe on Nix
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NorfairKing/hopinion](https://github.com/NorfairKing/hopinion)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NorfairKing/nix-ci-eval](https://github.com/NorfairKing/nix-ci-eval)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cachix/nix-flake-lock](https://github.com/cachix/nix-flake-lock)
+  > Fast, high-level parsing, canonical serialization, and graph operations for Nix flake.lock files,
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [scastiel/kado](https://github.com/scastiel/kado)
@@ -71,10 +75,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [german-national-wallet/de-eudi-wallet-backend](https://github.com/german-national-wallet/de-eudi-wallet-backend)
 
-### [trieu](https://github.com/trieu)
-- 🌟 👤 [trieu](https://github.com/trieu) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
-  > Local-first search across your workspace, built for humans and AI agents.
-
 ### [vvaltchev](https://github.com/vvaltchev)
 - 🌟 👤 [vvaltchev](https://github.com/vvaltchev) Starred [erans/hyprmon](https://github.com/erans/hyprmon)
   > TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile managemen...
@@ -85,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-06 18:42:05 UTC*
+*Last updated at 2026-09-06 20:53:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
