@@ -26,10 +26,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [ludoch](https://github.com/ludoch)
 - 🚀 👤 [ludoch](https://github.com/ludoch) Made [trudaine/trudaine.github.io](https://github.com/trudaine/trudaine.github.io) public
+- 🌟 👤 [ludoch](https://github.com/ludoch) Starred [gageml/gage](https://github.com/gageml/gage)
+  > Scan Claude sessions to learn what your coding agent's up to.
+- 🌟 👤 [ludoch](https://github.com/ludoch) Starred [ShoeBoom/tailboot](https://github.com/ShoeBoom/tailboot)
+
+### [mbr](https://github.com/mbr)
+- 🍴 👤 [mbr](https://github.com/mbr) Forked [hallo-alex/squeezelite-esp32](https://github.com/hallo-alex/squeezelite-esp32) to [mbr/squeezelite-esp32](https://github.com/mbr/squeezelite-esp32)
+  > ESP32 Music streaming based on Squeezelite, with support for multi-room sync, AirPlay, Bluetooth, Ha...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retrowave3/emulite](https://github.com/retrowave3/emulite)
   > Emulation framework for Android & iOS native libraries
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustasMasiulis/jsdmp](https://github.com/JustasMasiulis/jsdmp)
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [34306/vphone-web](https://github.com/34306/vphone-web)
@@ -41,11 +49,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [NeverSight/NeverC](https://github.com/NeverSight/NeverC)
   > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
 
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [jmou/cgithub](https://github.com/jmou/cgithub)
-  > Lightweight GitHub alternative frontend
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [fzakaria/trynix](https://github.com/fzakaria/trynix)
-  > Boot anything nixpkgs ever shipped, in your browser.
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [german-national-wallet/de-eudi-wallet-backend](https://github.com/german-national-wallet/de-eudi-wallet-backend)
+
+### [trieu](https://github.com/trieu)
+- 🌟 👤 [trieu](https://github.com/trieu) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
+  > Local-first search across your workspace, built for humans and AI agents.
 
 ### [vvaltchev](https://github.com/vvaltchev)
 - 🌟 👤 [vvaltchev](https://github.com/vvaltchev) Starred [erans/hyprmon](https://github.com/erans/hyprmon)
@@ -57,7 +66,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-06 09:46:43 UTC*
+*Last updated at 2026-09-06 13:13:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
