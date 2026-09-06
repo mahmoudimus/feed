@@ -8,11 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [DamienCassou](https://github.com/DamienCassou)
+- 🍴 👤 [DamienCassou](https://github.com/DamienCassou) Forked [fivefilters/ftr-site-config](https://github.com/fivefilters/ftr-site-config) to [DamienCassou/ftr-site-config](https://github.com/DamienCassou/ftr-site-config)
+  > Site-specific article extraction rules to aid content extractors, feed readers, and 'read later' app...
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator)
   > Use Astra as orchestrator and Luna as implementor
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
   > Pi extension for async subagent delegation with truncation, artifacts, and session sharing
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)
+  > Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signin...
 
 ### [duk-37](https://github.com/duk-37)
 - 🌟 👤 [duk-37](https://github.com/duk-37) Starred [JonET/monksynth](https://github.com/JonET/monksynth)
@@ -37,13 +43,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ludoch](https://github.com/ludoch) Starred [ShoeBoom/tailboot](https://github.com/ShoeBoom/tailboot)
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retrowave3/emulite](https://github.com/retrowave3/emulite)
-  > Emulation framework for Android & iOS native libraries
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustasMasiulis/jsdmp](https://github.com/JustasMasiulis/jsdmp)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pavel-fokin/percept](https://github.com/pavel-fokin/percept)
-  > A cognitive architecture for AI agents: typed projections, mental models, and memory
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
-  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QuixiAI/open-gpu-kernel-modules](https://github.com/QuixiAI/open-gpu-kernel-modules)
+  > P2P support for nvidia consumer cards
 
 ### [nathanfaucett](https://github.com/nathanfaucett)
 - 🌟 👤 [nathanfaucett](https://github.com/nathanfaucett) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
@@ -84,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-06 16:30:57 UTC*
+*Last updated at 2026-09-06 18:42:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
