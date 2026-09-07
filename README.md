@@ -8,13 +8,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Shinn-Home/InvisibleHook](https://github.com/Shinn-Home/InvisibleHook) to [fengjixuchui/InvisibleHook](https://github.com/fengjixuchui/InvisibleHook)
-  > Invisible hook code，support win10 19043~win11 26H1
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [n8n-io/n8n](https://github.com/n8n-io/n8n) to [fengjixuchui/n8n](https://github.com/fengjixuchui/n8n)
-  > Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [anomalyco/opencode](https://github.com/anomalyco/opencode) to [fengjixuchui/opencode](https://github.com/fengjixuchui/opencode)
-  > The open source coding agent.
+### [laomobk](https://github.com/laomobk)
+- 🍴 👤 [laomobk](https://github.com/laomobk) Forked [libgdx/gdx-liftoff](https://github.com/libgdx/gdx-liftoff) to [laomobk/gdx-liftoff](https://github.com/laomobk/gdx-liftoff)
+  > A modern setup tool for libGDX Gradle projects
+
+### [mikehearn](https://github.com/mikehearn)
+- 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [theduke/smartedit](https://github.com/theduke/smartedit)
+  > Enable AI agents to efficiently explore and edit source code, improving token efficiency, cost and s...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [redhat-et/ripwire](https://github.com/redhat-et/ripwire)
@@ -28,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [helblazer811/Diffusion-Explorer](https://github.com/helblazer811/Diffusion-Explorer)
   > Interactive visualizations of the geometric intuition behind diffusion models.
 
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
+  > LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千...
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [smartcrabai/seher](https://github.com/smartcrabai/seher)
   > CLI and SDK for routing prompts to the highest-priority available coding agent
@@ -38,7 +42,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-07 05:21:40 UTC*
+*Last updated at 2026-09-07 10:51:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
