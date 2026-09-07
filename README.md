@@ -8,9 +8,39 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [KIC](https://github.com/KIC)
+- 🌟 👤 [KIC](https://github.com/KIC) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+  > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...
+
 ### [bwhaley](https://github.com/bwhaley)
 - 🌟 👤 [bwhaley](https://github.com/bwhaley) Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
   > Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c...
+
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [jscott3201/rusty-bacnet](https://github.com/jscott3201/rusty-bacnet)
+  > BACnet 2020 - Rust core with full Rust and Python API
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [3000IQPlay/obfuscator-list](https://github.com/3000IQPlay/obfuscator-list)
+  > List of all the somewhat popular and non-popular Java obfuscators on the Internet.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [retrowave3/emulite](https://github.com/retrowave3/emulite)
+  > Emulation framework for Android & iOS native libraries
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
+  > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
+  > Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
+  > Kubernetes controller for GitHub Actions self-hosted runners
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [gabrielfalcao/gitpay](https://github.com/gabrielfalcao/gitpay)
+  > Bounties for solving issues
+
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [jondkinney/hyprpin](https://github.com/jondkinney/hyprpin)
+  > Keeps chosen windows visible when you switch away from their workspace -- compositor-level picture-i...
 
 ### [laomobk](https://github.com/laomobk)
 - 🍴 👤 [laomobk](https://github.com/laomobk) Forked [libgdx/gdx-liftoff](https://github.com/libgdx/gdx-liftoff) to [laomobk/gdx-liftoff](https://github.com/laomobk/gdx-liftoff)
@@ -33,10 +63,32 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Interactive visualizations of the geometric intuition behind diffusion models.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [PrimeIntellect-ai/nano-rlm](https://github.com/PrimeIntellect-ai/nano-rlm)
   > Minimal RLM harness
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [microsoft/tgrep](https://github.com/microsoft/tgrep)
+  > Trigram-indexed grep with a client/server architecture for fast regex search in large codebases loca...
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [siriokds/GearSF7000-devel](https://github.com/siriokds/GearSF7000-devel)
+- 🍴 👤 [ocornut](https://github.com/ocornut) Forked [siriokds/GearSF7000-devel](https://github.com/siriokds/GearSF7000-devel) to [ocornut/GearSF7000-devel](https://github.com/ocornut/GearSF7000-devel)
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [songquanpeng/one-api](https://github.com/songquanpeng/one-api)
   > LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千...
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
+  > Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+  > Convert PS5 executables to run natively on Linux
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [OrbitCurve/firmware-reverse-engineering](https://github.com/OrbitCurve/firmware-reverse-engineering)
+  > A full claude and codex skillsets for firmware reverse engineering.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [pr0v3rbs/FirmAE](https://github.com/pr0v3rbs/FirmAE)
+  > Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [retrowave3/emulite](https://github.com/retrowave3/emulite)
+  > Emulation framework for Android & iOS native libraries
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [sledgeh4w/chomper](https://github.com/sledgeh4w/chomper)
+  > A lightweight emulation framework for emulating cryptographic algorithms in iOS executables and libr...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg)
+  > Allows you to emulate an Android native library, and an experimental  iOS emulation
 
 ### [sdras](https://github.com/sdras)
 - 🍴 👤 [sdras](https://github.com/sdras) Forked [react/react](https://github.com/react/react) to [sdras/react](https://github.com/sdras/react)
@@ -47,6 +99,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > CLI and SDK for routing prompts to the highest-priority available coding agent
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [raycast/utils](https://github.com/raycast/utils)
   > Set of utilities to streamline building Raycast extensions
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [cue-lang/cuelang.org](https://github.com/cue-lang/cuelang.org)
+  > Source for the https://cuelang.org site. Raise issues at https://github.com/cue-lang/cue/issues
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [cue-lang/contrib-tools-trybot](https://github.com/cue-lang/contrib-tools-trybot)
+  > An empty repository within which we run GerritHub CL test runs
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [apple/tree-sitter-pkl](https://github.com/apple/tree-sitter-pkl)
+  > Tree-sitter parser for Pkl
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [neovim-treesitter/nvim-treesitter-queries-cue](https://github.com/neovim-treesitter/nvim-treesitter-queries-cue)
+  > Neovim tree-sitter queries for cue
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [rkyv/rkyv](https://github.com/rkyv/rkyv)
+  > Zero-copy deserialization framework for Rust
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Tryanks/cpython-go](https://github.com/Tryanks/cpython-go)
+  > Pure Go CPython interpreter, transpiled with ccgo (modernc.org)
 
 
 <!-- nav -->
@@ -54,7 +118,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-07 16:09:14 UTC*
+*Last updated at 2026-09-07 20:13:15 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
