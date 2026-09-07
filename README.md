@@ -12,13 +12,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
   > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [Kizzuwatnaa/DLSS5-Autopilot](https://github.com/Kizzuwatnaa/DLSS5-Autopilot)
+  > One-click DLSS5-Feeder setup for Windows games. Scans your library, verifies GPU compatibility, and ...
+
 ### [bwhaley](https://github.com/bwhaley)
 - 🌟 👤 [bwhaley](https://github.com/bwhaley) Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
   > Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c...
 
-### [donvito](https://github.com/donvito)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [jscott3201/rusty-bacnet](https://github.com/jscott3201/rusty-bacnet)
-  > BACnet 2020 - Rust core with full Rust and Python API
+### [edwinsoen](https://github.com/edwinsoen)
+- 🌟 👤 [edwinsoen](https://github.com/edwinsoen) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
+  > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [3000IQPlay/obfuscator-list](https://github.com/3000IQPlay/obfuscator-list)
@@ -90,9 +94,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg)
   > Allows you to emulate an Android native library, and an experimental  iOS emulation
 
+### [robconery](https://github.com/robconery)
+- 🍴 👤 [robconery](https://github.com/robconery) Forked [nateherkai/AIS-OS](https://github.com/nateherkai/AIS-OS) to [robconery/AIS-OS](https://github.com/robconery/AIS-OS)
+  > AI Operating System starter kit for Claude Code and Codex. Five skills: /onboard, /audit, /link, /le...
+
 ### [sdras](https://github.com/sdras)
 - 🍴 👤 [sdras](https://github.com/sdras) Forked [react/react](https://github.com/react/react) to [sdras/react](https://github.com/sdras/react)
   > The library for web and native user interfaces.
+
+### [yanex](https://github.com/yanex)
+- 🍴 👤 [yanex](https://github.com/yanex) Forked [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) to [marta-file-manager/SwiftTerm](https://github.com/marta-file-manager/SwiftTerm)
+  > Xterm/VT100 Terminal emulator in Swift
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [smartcrabai/seher](https://github.com/smartcrabai/seher)
@@ -111,6 +123,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Zero-copy deserialization framework for Rust
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [Tryanks/cpython-go](https://github.com/Tryanks/cpython-go)
   > Pure Go CPython interpreter, transpiled with ccgo (modernc.org)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust)
+  > Common Expression Language interpreter written in Rust
 
 
 <!-- nav -->
@@ -118,7 +132,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-07 20:13:15 UTC*
+*Last updated at 2026-09-07 23:05:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
