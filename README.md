@@ -27,12 +27,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [bytecodealliance/endive](https://github.com/bytecodealliance/endive)
   > The JVM native WebAssembly runtime
 
-### [chrislusf](https://github.com/chrislusf)
-- 🍴 👤 [chrislusf](https://github.com/chrislusf) Forked [seaweedfs/seaweedfs-csi-driver](https://github.com/seaweedfs/seaweedfs-csi-driver) to [chrislusf/seaweedfs-csi-driver](https://github.com/chrislusf/seaweedfs-csi-driver)
-  > SeaweedFS CSI Driver https://github.com/seaweedfs/seaweedfs
-- 🍴 👤 [chrislusf](https://github.com/chrislusf) Forked [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) to [chrislusf/seaweedfs-operator](https://github.com/chrislusf/seaweedfs-operator)
-  > seaweedfs kubernetes operator
-
 ### [claucece](https://github.com/claucece)
 - 🌟 👤 [claucece](https://github.com/claucece) Starred [lervag/vimtex](https://github.com/lervag/vimtex)
   > VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
@@ -71,6 +65,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [saileaxh/iida-dfs](https://github.com/saileaxh/iida-dfs)
   > Machine-learning-based function similarity analysis that helps you quickly locate matching functions...
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [yromano/cqr](https://github.com/yromano/cqr)
+  > Conformalized Quantile Regression
+
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [tmcdos/ramdisk](https://github.com/tmcdos/ramdisk)
   > Replacement (GUI + windows service) for ImDisk Toolkit - by using Arsenal Image Mounter as a driver ...
@@ -97,10 +95,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [nyarlat0/bdh-cq-llm](https://github.com/nyarlat0/bdh-cq-llm) to [johndpope/bdh-cq-llm](https://github.com/johndpope/bdh-cq-llm)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Puneetas015/bdh-cq-latent-reasoning](https://github.com/Puneetas015/bdh-cq-latent-reasoning)
   > A research implementation of BDH-CQ exploring recurrent latent reasoning as an alternative to token-...
-
-### [mekanix](https://github.com/mekanix)
-- 🍴 👤 [mekanix](https://github.com/mekanix) Forked [maolan/editor](https://github.com/maolan/editor) to [mekanix/maolan-editor](https://github.com/mekanix/maolan-editor)
-  > Maolan Audio Editor
 
 ### [mksh](https://github.com/mksh)
 - 🌟 👤 [mksh](https://github.com/mksh) Starred [mcpherrinm/ancientroots](https://github.com/mcpherrinm/ancientroots)
@@ -139,9 +133,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Vincentwei1021/video-talkcraft](https://github.com/Vincentwei1021/video-talkcraft)
   > Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explaine...
 
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [sambhav/pycelld](https://github.com/sambhav/pycelld)
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [immanuwell/pktz](https://github.com/immanuwell/pktz)
   > pktz - eBPF-powered network traffic monitor - per process, per connection, live
+
+### [stepancheg](https://github.com/stepancheg)
+- 🚀 👤 [stepancheg](https://github.com/stepancheg) Made [stepancheg/dotslash-registry](https://github.com/stepancheg/dotslash-registry) public
+  > Prepared dotslash binaries
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [christian-posta/keycloak-aauth-extension](https://github.com/christian-posta/keycloak-aauth-extension)
@@ -167,7 +168,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-08 19:02:51 UTC*
+*Last updated at 2026-09-08 22:05:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
