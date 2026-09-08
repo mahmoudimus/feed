@@ -12,21 +12,36 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Generhr](https://github.com/Generhr) Starred [Arziel1992/Z-S-Overview-Customizer](https://github.com/Arziel1992/Z-S-Overview-Customizer)
   > This app is designed to be an out-of-game friendly and easy to use solution for the creation and edi...
 
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
+  > Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists se...
+
 ### [NinjaLikesCheez](https://github.com/NinjaLikesCheez)
 - 🌟 👤 [NinjaLikesCheez](https://github.com/NinjaLikesCheez) Starred [casey/just](https://github.com/casey/just)
   > 🤖 Just a command runner
+
+### [Stanzilla](https://github.com/Stanzilla)
+- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [SamSaffron/op-cache](https://github.com/SamSaffron/op-cache) to [Stanzilla/op-cache](https://github.com/Stanzilla/op-cache)
 
 ### [ThomasVitale](https://github.com/ThomasVitale)
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [bytecodealliance/endive](https://github.com/bytecodealliance/endive)
   > The JVM native WebAssembly runtime
 
+### [claucece](https://github.com/claucece)
+- 🌟 👤 [claucece](https://github.com/claucece) Starred [lervag/vimtex](https://github.com/lervag/vimtex)
+  > VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
+
+### [dthree](https://github.com/dthree)
+- 🌟 👤 [dthree](https://github.com/dthree) Starred [AEPKILL/devtools-detector](https://github.com/AEPKILL/devtools-detector)
+  > Detect if DevTools is open
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [golang101/golang101](https://github.com/golang101/golang101)
   > Go语言101 : 一个与时俱进的Go编程知识库
 
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Tcotl/AgentCapture](https://github.com/Tcotl/AgentCapture) to [fengjixuchui/AgentCapture](https://github.com/fengjixuchui/AgentCapture)
-  > 嵌入式蜜罐与 AI Agent 反制平台：23 种 Agent 指纹识别 + 功能性伪装收编 + 对话式 C2 + 交互式 SSH 蜜罐与会话回放，实测五款主流 Agent 全部反制上线。
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+  > Write HTML. Render video. Built for agents.
 
 ### [firmai](https://github.com/firmai)
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [MinishLab/semble](https://github.com/MinishLab/semble)
@@ -65,10 +80,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Puneetas015/bdh-cq-latent-reasoning](https://github.com/Puneetas015/bdh-cq-latent-reasoning)
   > A research implementation of BDH-CQ exploring recurrent latent reasoning as an alternative to token-...
 
-### [mbr](https://github.com/mbr)
-- 🍴 👤 [mbr](https://github.com/mbr) Forked [BerriAI/litellm](https://github.com/BerriAI/litellm) to [mbr/litellm](https://github.com/mbr/litellm)
-  > The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) ...
-
 ### [mksh](https://github.com/mksh)
 - 🌟 👤 [mksh](https://github.com/mksh) Starred [mcpherrinm/ancientroots](https://github.com/mcpherrinm/ancientroots)
 
@@ -85,10 +96,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An awesome curated knowledge-base about atomic systems
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
   > A library of agent skills for CAD, CAE and CAM
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [huggingface/Repo2RLEnv](https://github.com/huggingface/Repo2RLEnv)
+  > Convert any Repo into an RL Environment 
+
+### [phonowell](https://github.com/phonowell)
+- 🌟 👤 [phonowell](https://github.com/phonowell) Starred [LBEILC/RhineLabUI](https://github.com/LBEILC/RhineLabUI)
+  > Rhine Lab archive interface built with TypeScript and Three.js
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright)
   > pyright fork with various type checking improvements, improved vscode support and pylance features b...
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
+  > Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [immanuwell/pktz](https://github.com/immanuwell/pktz)
@@ -105,6 +124,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Learn PyTorch by building your own. (inspired from Harvard's TinyTorch)
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [Delgan/loguru](https://github.com/Delgan/loguru)
   > Python logging made (stupidly) simple
+- 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
 
 ### [zakkak](https://github.com/zakkak)
 - 🌟 👤 [zakkak](https://github.com/zakkak) Starred [assafdori/bypass-mdm](https://github.com/assafdori/bypass-mdm)
@@ -116,7 +137,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-08 11:49:13 UTC*
+*Last updated at 2026-09-08 15:28:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
