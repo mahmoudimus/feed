@@ -27,9 +27,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [bytecodealliance/endive](https://github.com/bytecodealliance/endive)
   > The JVM native WebAssembly runtime
 
+### [chrislusf](https://github.com/chrislusf)
+- 🍴 👤 [chrislusf](https://github.com/chrislusf) Forked [seaweedfs/seaweedfs-csi-driver](https://github.com/seaweedfs/seaweedfs-csi-driver) to [chrislusf/seaweedfs-csi-driver](https://github.com/chrislusf/seaweedfs-csi-driver)
+  > SeaweedFS CSI Driver https://github.com/seaweedfs/seaweedfs
+- 🍴 👤 [chrislusf](https://github.com/chrislusf) Forked [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) to [chrislusf/seaweedfs-operator](https://github.com/chrislusf/seaweedfs-operator)
+  > seaweedfs kubernetes operator
+
 ### [claucece](https://github.com/claucece)
 - 🌟 👤 [claucece](https://github.com/claucece) Starred [lervag/vimtex](https://github.com/lervag/vimtex)
   > VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
+
+### [claytron](https://github.com/claytron)
+- 🌟 👤 [claytron](https://github.com/claytron) Starred [snirt/agenmux](https://github.com/snirt/agenmux)
+  > Monitor AI coding agents in tmux — sidebar + status line: https://snirt.github.io/agenmux/
 
 ### [dthree](https://github.com/dthree)
 - 🌟 👤 [dthree](https://github.com/dthree) Starred [AEPKILL/devtools-detector](https://github.com/AEPKILL/devtools-detector)
@@ -65,6 +75,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [tmcdos/ramdisk](https://github.com/tmcdos/ramdisk)
   > Replacement (GUI + windows service) for ImDisk Toolkit - by using Arsenal Image Mounter as a driver ...
 
+### [ingydotnet](https://github.com/ingydotnet)
+- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [paintparty/jus](https://github.com/paintparty/jus) to [ingydotnet/jus](https://github.com/ingydotnet/jus)
+  > TUI app for Clojure dialects
+
+### [jaredpalmer](https://github.com/jaredpalmer)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [vercel-labs/phase](https://github.com/vercel-labs/phase)
+  > Lifecycle-aware UI performance layer for the web
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [ScottStevenson/SuperAstra](https://github.com/ScottStevenson/SuperAstra)
   > Change SNES games with AI while you play them.
@@ -79,6 +97,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [nyarlat0/bdh-cq-llm](https://github.com/nyarlat0/bdh-cq-llm) to [johndpope/bdh-cq-llm](https://github.com/johndpope/bdh-cq-llm)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Puneetas015/bdh-cq-latent-reasoning](https://github.com/Puneetas015/bdh-cq-latent-reasoning)
   > A research implementation of BDH-CQ exploring recurrent latent reasoning as an alternative to token-...
+
+### [mekanix](https://github.com/mekanix)
+- 🍴 👤 [mekanix](https://github.com/mekanix) Forked [maolan/editor](https://github.com/maolan/editor) to [mekanix/maolan-editor](https://github.com/mekanix/maolan-editor)
+  > Maolan Audio Editor
 
 ### [mksh](https://github.com/mksh)
 - 🌟 👤 [mksh](https://github.com/mksh) Starred [mcpherrinm/ancientroots](https://github.com/mcpherrinm/ancientroots)
@@ -109,6 +131,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
   > Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [ZXShady/enchantum](https://github.com/ZXShady/enchantum)
+  > Faster enum reflection for C++17 since I don't want to wait for C++26 reflection.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar)
+  > A security scanner for your LLM agentic workflows
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Vincentwei1021/video-talkcraft](https://github.com/Vincentwei1021/video-talkcraft)
+  > Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explaine...
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [immanuwell/pktz](https://github.com/immanuwell/pktz)
   > pktz - eBPF-powered network traffic monitor - per process, per connection, live
@@ -137,7 +167,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-08 15:28:51 UTC*
+*Last updated at 2026-09-08 19:02:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
