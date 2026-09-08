@@ -12,12 +12,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Generhr](https://github.com/Generhr) Starred [Arziel1992/Z-S-Overview-Customizer](https://github.com/Arziel1992/Z-S-Overview-Customizer)
   > This app is designed to be an out-of-game friendly and easy to use solution for the creation and edi...
 
-### [Xe](https://github.com/Xe)
-- 🌟 👤 [Xe](https://github.com/Xe) Starred [mattias800/prosper](https://github.com/mattias800/prosper)
-  > A user-space PlayStation 5 to PC compatibility layer for Linux, Windows, and macOS.
+### [NinjaLikesCheez](https://github.com/NinjaLikesCheez)
+- 🌟 👤 [NinjaLikesCheez](https://github.com/NinjaLikesCheez) Starred [casey/just](https://github.com/casey/just)
+  > 🤖 Just a command runner
 
-### [fcakyon](https://github.com/fcakyon)
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [speridlabs/eneas](https://github.com/speridlabs/eneas)
+### [ThomasVitale](https://github.com/ThomasVitale)
+- 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [bytecodealliance/endive](https://github.com/bytecodealliance/endive)
+  > The JVM native WebAssembly runtime
+
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [golang101/golang101](https://github.com/golang101/golang101)
+  > Go语言101 : 一个与时俱进的Go编程知识库
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Tcotl/AgentCapture](https://github.com/Tcotl/AgentCapture) to [fengjixuchui/AgentCapture](https://github.com/fengjixuchui/AgentCapture)
+  > 嵌入式蜜罐与 AI Agent 反制平台：23 种 Agent 指纹识别 + 功能性伪装收编 + 对话式 C2 + 交互式 SSH 蜜罐与会话回放，实测五款主流 Agent 全部反制上线。
+
+### [firmai](https://github.com/firmai)
+- 🌟 👤 [firmai](https://github.com/firmai) Starred [MinishLab/semble](https://github.com/MinishLab/semble)
+  > Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [Sadpainy/Stuxnet](https://github.com/Sadpainy/Stuxnet)
@@ -26,6 +39,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A better and stronger spiritual successor to BZip2.
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [jeffkaufman/whistle-synth](https://github.com/jeffkaufman/whistle-synth)
   > zero-crossing based pitch detection for whistling
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [1034063174/DisassembleVmp](https://github.com/1034063174/DisassembleVmp)
+  > VMP分析工具
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [saileaxh/iida-dfs](https://github.com/saileaxh/iida-dfs)
+  > Machine-learning-based function similarity analysis that helps you quickly locate matching functions...
+
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [tmcdos/ramdisk](https://github.com/tmcdos/ramdisk)
+  > Replacement (GUI + windows service) for ImDisk Toolkit - by using Arsenal Image Mounter as a driver ...
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [ScottStevenson/SuperAstra](https://github.com/ScottStevenson/SuperAstra)
@@ -38,14 +61,54 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Implementation of BDH-CQ: In-Context Learning with Recurrent Latent Reasoning, proposed by Pathway R...
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [chris-lee-mc/bdh-cq](https://github.com/chris-lee-mc/bdh-cq)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [nyarlat0/bdh-cq-llm](https://github.com/nyarlat0/bdh-cq-llm)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [nyarlat0/bdh-cq-llm](https://github.com/nyarlat0/bdh-cq-llm) to [johndpope/bdh-cq-llm](https://github.com/johndpope/bdh-cq-llm)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Puneetas015/bdh-cq-latent-reasoning](https://github.com/Puneetas015/bdh-cq-latent-reasoning)
+  > A research implementation of BDH-CQ exploring recurrent latent reasoning as an alternative to token-...
+
+### [mbr](https://github.com/mbr)
+- 🍴 👤 [mbr](https://github.com/mbr) Forked [BerriAI/litellm](https://github.com/BerriAI/litellm) to [mbr/litellm](https://github.com/mbr/litellm)
+  > The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) ...
+
+### [mksh](https://github.com/mksh)
+- 🌟 👤 [mksh](https://github.com/mksh) Starred [mcpherrinm/ancientroots](https://github.com/mcpherrinm/ancientroots)
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lochie/torph](https://github.com/lochie/torph)
+  > Dependency-free animated text component.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
+  > Weighs the soul of incoming HTTP requests to stop AI crawlers
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
+  > MiniCPM5: SOTA on-device LLMs, small yet powerful.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [doublewordai/inference-lab](https://github.com/doublewordai/inference-lab)
+  > High-performance LLM inference simulator for analyzing serving systems
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Malix-Labs/Awesome-Atomic](https://github.com/Malix-Labs/Awesome-Atomic)
+  > An awesome curated knowledge-base about atomic systems
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+  > A library of agent skills for CAD, CAE and CAM
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright)
   > pyright fork with various type checking improvements, improved vscode support and pylance features b...
 
-### [shanselman](https://github.com/shanselman)
-- 🌟 👤 [shanselman](https://github.com/shanselman) Starred [ddeverill/SteamlessController](https://github.com/ddeverill/SteamlessController)
-  > Support for the 2026 Steam Controller in non-Steam games
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [immanuwell/pktz](https://github.com/immanuwell/pktz)
+  > pktz - eBPF-powered network traffic monitor - per process, per connection, live
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [christian-posta/keycloak-aauth-extension](https://github.com/christian-posta/keycloak-aauth-extension)
+  > An implementation of AAuth for Keycloak. Load it as an SPI extension, targeted at 26.2.5
+- 🍴 👤 [thomasdarimont](https://github.com/thomasdarimont) Forked [christian-posta/keycloak-aauth-extension](https://github.com/christian-posta/keycloak-aauth-extension) to [thomasdarimont/keycloak-aauth-extension](https://github.com/thomasdarimont/keycloak-aauth-extension)
+  > An implementation of AAuth for Keycloak. Load it as an SPI extension, targeted at 26.2.5
+
+### [uakarsh](https://github.com/uakarsh)
+- 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [TrenTorch/TrenTorch](https://github.com/TrenTorch/TrenTorch)
+  > Learn PyTorch by building your own. (inspired from Harvard's TinyTorch)
+- 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [Delgan/loguru](https://github.com/Delgan/loguru)
+  > Python logging made (stupidly) simple
+
+### [zakkak](https://github.com/zakkak)
+- 🌟 👤 [zakkak](https://github.com/zakkak) Starred [assafdori/bypass-mdm](https://github.com/assafdori/bypass-mdm)
+  > Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3
 
 
 <!-- nav -->
@@ -53,7 +116,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-08 06:37:37 UTC*
+*Last updated at 2026-09-08 11:49:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
