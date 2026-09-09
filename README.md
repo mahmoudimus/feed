@@ -11,9 +11,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [artem](https://github.com/artem)
 - 🌟 👤 [artem](https://github.com/artem) Starred [janestreet/asic-puzzle-2026](https://github.com/janestreet/asic-puzzle-2026)
 
-### [donvito](https://github.com/donvito)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [donvito/local-evals](https://github.com/donvito/local-evals)
-  > An eval app which runs locally and uses local models or any OpenAI-compatible API
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
+  > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Supersonic/TLPE](https://github.com/Supersonic/TLPE)
+  > CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that all...
 
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
@@ -50,6 +52,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [korwabs/playwright-trace-mcp](https://github.com/korwabs/playwright-trace-mcp) to [johndpope/playwright-trace-mcp](https://github.com/johndpope/playwright-trace-mcp)
   > advanced playwright mcp by adding trace viewer function
 
+### [justaugustus](https://github.com/justaugustus)
+- 🚀 👤 [justaugustus](https://github.com/justaugustus) Made [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) public
+  > A GoogleTest-compatible C++ mocking library using monkey patching to mock free functions, static fun...
+
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [NorfairKing/hopinion](https://github.com/NorfairKing/hopinion)
 
@@ -58,8 +64,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambig...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RealNeGate/Cuik](https://github.com/RealNeGate/Cuik)
-  > A Modern C11 compiler (STILL EARLY)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/Dragons-vs-VMs](https://github.com/Fare9/Dragons-vs-VMs)
+  > Scripts, notes, and other files about the analysis of VMProtect with Dragon Tales
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/dragon-tales-web](https://github.com/Fare9/dragon-tales-web)
+  > Website with dragon-tales documentation and manual
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/My-Symbolic-Execution](https://github.com/Fare9/My-Symbolic-Execution)
+  > My repository to store all the examples I do about symbolic execution
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahware/emu](https://github.com/noahware/emu)
+  > ARM64 instruction emulator written in modern c++.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [sorkila/lockpaw](https://github.com/sorkila/lockpaw)
@@ -71,6 +83,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [axiosoph/librecode](https://github.com/axiosoph/librecode)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [davatron5000/microlighter](https://github.com/davatron5000/microlighter)
   > A zero-dep syntax highlighter that uses the CSS Highlights API
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [l0ng-ai/tty7](https://github.com/l0ng-ai/tty7)
+  > A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on ...
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp)
@@ -88,6 +102,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [get-bb/bb](https://github.com/get-bb/bb)
   > The agent IDE that builds itself
 
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [tsloughter/behypr](https://github.com/tsloughter/behypr)
+  > Hyrland plugin to add titlebars like BeOS/Haiku
+
 ### [tabjy](https://github.com/tabjy)
 - 🌟 👤 [tabjy](https://github.com/tabjy) Starred [tanaes/whopping_Voron_mods](https://github.com/tanaes/whopping_Voron_mods)
 
@@ -98,10 +116,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [wincent](https://github.com/wincent)
 - 🍴 👤 [wincent](https://github.com/wincent) Forked [beancount/fava](https://github.com/beancount/fava) to [wincent/fava](https://github.com/wincent/fava)
   > Fava - web interface for Beancount
-
-### [xyproto](https://github.com/xyproto)
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [lavenderdotpet/LibreQuake](https://github.com/lavenderdotpet/LibreQuake)
-  > A free and open source Quake remake with art under the BSD license 
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update)
@@ -115,7 +129,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-09 18:04:39 UTC*
+*Last updated at 2026-09-09 21:18:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
