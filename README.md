@@ -11,6 +11,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [artem](https://github.com/artem)
 - 🌟 👤 [artem](https://github.com/artem) Starred [janestreet/asic-puzzle-2026](https://github.com/janestreet/asic-puzzle-2026)
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [donvito/local-evals](https://github.com/donvito/local-evals)
+  > An eval app which runs locally and uses local models or any OpenAI-compatible API
+
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs)
   > Git extension for versioning large files
@@ -32,6 +36,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > generate CobaltStrike's cross-platform payload
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [zibo-chen/SubnetDesk](https://github.com/zibo-chen/SubnetDesk)
   > LAN-only remote desktop based on RustDesk
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [Fooyao/authTokenCheck](https://github.com/Fooyao/authTokenCheck)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
+  > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [j4m3z0r/bluetti-monitor](https://github.com/j4m3z0r/bluetti-monitor)
@@ -42,6 +49,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > advanced playwright mcp by adding trace viewer function
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [korwabs/playwright-trace-mcp](https://github.com/korwabs/playwright-trace-mcp) to [johndpope/playwright-trace-mcp](https://github.com/johndpope/playwright-trace-mcp)
   > advanced playwright mcp by adding trace viewer function
+
+### [luc-tielen](https://github.com/luc-tielen)
+- 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [NorfairKing/hopinion](https://github.com/NorfairKing/hopinion)
 
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)
@@ -59,30 +69,37 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cull-os/carcass](https://github.com/cull-os/carcass)
   > The Cull monorepository.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [axiosoph/librecode](https://github.com/axiosoph/librecode)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [davatron5000/microlighter](https://github.com/davatron5000/microlighter)
+  > A zero-dep syntax highlighter that uses the CSS Highlights API
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp)
   > The easiest way to install and switch between multiple versions of Xcode - with a mouse click. 
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes)
   > The best command-line tool to install and switch between multiple versions of Xcode.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
+  > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Include...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [exein-io/pulsar](https://github.com/exein-io/pulsar)
+  > A modular and blazing fast runtime security tool for the IoT, powered by eBPF.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
+  > Headless IDA Pro MCP Server
 
 ### [tabjy](https://github.com/tabjy)
 - 🌟 👤 [tabjy](https://github.com/tabjy) Starred [tanaes/whopping_Voron_mods](https://github.com/tanaes/whopping_Voron_mods)
-
-### [tiran](https://github.com/tiran)
-- 🍴 👤 [tiran](https://github.com/tiran) Forked [apple/coremltools](https://github.com/apple/coremltools) to [tiran/coremltools](https://github.com/tiran/coremltools)
-  > Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 
 ### [willshiao](https://github.com/willshiao)
 - 🌟 👤 [willshiao](https://github.com/willshiao) Starred [aderusha/dewalt_wtc](https://github.com/aderusha/dewalt_wtc)
   > ESPHome component for DeWalt Wireless Tool Control using ESP32-C3 and CC1101
 
+### [wincent](https://github.com/wincent)
+- 🍴 👤 [wincent](https://github.com/wincent) Forked [beancount/fava](https://github.com/beancount/fava) to [wincent/fava](https://github.com/wincent/fava)
+  > Fava - web interface for Beancount
+
 ### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [linear/linear](https://github.com/linear/linear)
-  > Tools, SDK's and plugins for Linear
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [a2ui-project/composer](https://github.com/a2ui-project/composer)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [AgentCTL-dev/source-code](https://github.com/AgentCTL-dev/source-code)
-  > A Kubernetes control plane for fleets of conformant AI agents. agentctl provisions, configures (inte...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update)
+  > A cargo subcommand for checking and applying updates to installed executables
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [dustinblackman/cargo-run-bin](https://github.com/dustinblackman/cargo-run-bin)
+  > Build, cache, and run CLI tools scoped in Cargo.toml rather than installing globally. Stop the versi...
 
 
 <!-- nav -->
@@ -90,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-09 10:14:02 UTC*
+*Last updated at 2026-09-09 14:51:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
