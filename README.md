@@ -63,15 +63,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)
   > ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambig...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/Dragons-vs-VMs](https://github.com/Fare9/Dragons-vs-VMs)
-  > Scripts, notes, and other files about the analysis of VMProtect with Dragon Tales
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/dragon-tales-web](https://github.com/Fare9/dragon-tales-web)
-  > Website with dragon-tales documentation and manual
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/My-Symbolic-Execution](https://github.com/Fare9/My-Symbolic-Execution)
-  > My repository to store all the examples I do about symbolic execution
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahware/emu](https://github.com/noahware/emu)
-  > ARM64 instruction emulator written in modern c++.
+### [mthenw](https://github.com/mthenw)
+- 🌟 👤 [mthenw](https://github.com/mthenw) Starred [DanielRapp/doppler](https://github.com/DanielRapp/doppler)
+  > :wave: Motion detection using the doppler effect
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [sorkila/lockpaw](https://github.com/sorkila/lockpaw)
@@ -129,7 +123,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-09 21:18:45 UTC*
+*Last updated at 2026-09-09 23:36:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
