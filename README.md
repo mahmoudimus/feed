@@ -84,6 +84,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
 
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [get-bb/bb](https://github.com/get-bb/bb)
+  > The agent IDE that builds itself
+
 ### [tabjy](https://github.com/tabjy)
 - 🌟 👤 [tabjy](https://github.com/tabjy) Starred [tanaes/whopping_Voron_mods](https://github.com/tanaes/whopping_Voron_mods)
 
@@ -94,6 +98,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [wincent](https://github.com/wincent)
 - 🍴 👤 [wincent](https://github.com/wincent) Forked [beancount/fava](https://github.com/beancount/fava) to [wincent/fava](https://github.com/wincent/fava)
   > Fava - web interface for Beancount
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [lavenderdotpet/LibreQuake](https://github.com/lavenderdotpet/LibreQuake)
+  > A free and open source Quake remake with art under the BSD license 
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update)
@@ -107,7 +115,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-09 14:51:24 UTC*
+*Last updated at 2026-09-09 18:04:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
