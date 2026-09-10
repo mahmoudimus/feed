@@ -8,6 +8,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [cmc](https://github.com/cmc)
+- 🌟 👤 [cmc](https://github.com/cmc) Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
+  > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
+
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [vanhecke/homebrew-virt-manager](https://github.com/vanhecke/homebrew-virt-manager)
+  > A set of homebrew formulae to install virt-manager and virt-viewer on MAC OSX
+- 🌟 👤 [frol](https://github.com/frol) Starred [lamco-admin/lamco-rdp-server](https://github.com/lamco-admin/lamco-rdp-server)
+  > Wayland-native RDP server for Linux desktop sharing. H.264 via EGFX, VA-API/NVENC hardware encoding,...
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp)
+  > MCP server integration for DaVinci Resolve Studio
+
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [lucidrains/bdh-cq](https://github.com/lucidrains/bdh-cq) to [johndpope/bdh-cq](https://github.com/johndpope/bdh-cq)
   > Implementation of BDH-CQ: In-Context Learning with Recurrent Latent Reasoning, proposed by Pathway R...
@@ -28,9 +42,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [furkan-bayrak/lg-tv-blocklist](https://github.com/furkan-bayrak/lg-tv-blocklist)
   > Curated DNS blocklist for LG webOS TV telemetry, ads and phone-home traffic (safe + strict tiers)
 
+### [pfalcon](https://github.com/pfalcon)
+- 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
+### [tabjy](https://github.com/tabjy)
+- 🍴 👤 [tabjy](https://github.com/tabjy) Forked [FORMBOT/Voron-2.4](https://github.com/FORMBOT/Voron-2.4) to [tabjy/Voron-2.4](https://github.com/tabjy/Voron-2.4)
+
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [alexhartm/tonie-podcast-sync](https://github.com/alexhartm/tonie-podcast-sync)
   > allows synching podcast episodes to Toniebox creative tonies
+
+### [wargio](https://github.com/wargio)
+- 🌟 👤 [wargio](https://github.com/wargio) Starred [iscarelli/niimbot-web-bluetooth](https://github.com/iscarelli/niimbot-web-bluetooth)
+  > Zero-dependency Web Bluetooth driver + reverse-engineered protocol docs to print Niimbot label print...
 
 
 <!-- nav -->
@@ -38,7 +63,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-10 06:44:09 UTC*
+*Last updated at 2026-09-10 11:54:37 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
