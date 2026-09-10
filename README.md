@@ -21,6 +21,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp)
   > MCP server integration for DaVinci Resolve Studio
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [aashaexo/soundshuman](https://github.com/aashaexo/soundshuman)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [jakubkrehel/skills](https://github.com/jakubkrehel/skills)
+  > A collection of agent skills that help you build a great interface.
 
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [lucidrains/bdh-cq](https://github.com/lucidrains/bdh-cq) to [johndpope/bdh-cq](https://github.com/johndpope/bdh-cq)
@@ -46,12 +49,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
 
+### [phonowell](https://github.com/phonowell)
+- 🌟 👤 [phonowell](https://github.com/phonowell) Starred [SAOG0721/Magpie](https://github.com/SAOG0721/Magpie)
+  > Unofficial experimental Magpie fork with colour-only DLSS, FSR2 and NVIDIA RTX Video integrations
+
 ### [tabjy](https://github.com/tabjy)
 - 🍴 👤 [tabjy](https://github.com/tabjy) Forked [FORMBOT/Voron-2.4](https://github.com/FORMBOT/Voron-2.4) to [tabjy/Voron-2.4](https://github.com/tabjy/Voron-2.4)
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [alexhartm/tonie-podcast-sync](https://github.com/alexhartm/tonie-podcast-sync)
   > allows synching podcast episodes to Toniebox creative tonies
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [terraform-linters/tflint-ruleset-template](https://github.com/terraform-linters/tflint-ruleset-template)
+  > TFLint ruleset template
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [terraform-linters/tflint](https://github.com/terraform-linters/tflint)
+  > A Pluggable Terraform Linter
 
 ### [wargio](https://github.com/wargio)
 - 🌟 👤 [wargio](https://github.com/wargio) Starred [iscarelli/niimbot-web-bluetooth](https://github.com/iscarelli/niimbot-web-bluetooth)
@@ -63,7 +74,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-10 11:54:37 UTC*
+*Last updated at 2026-09-10 15:20:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
