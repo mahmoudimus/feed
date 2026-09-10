@@ -8,12 +8,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [TomasVotruba](https://github.com/TomasVotruba)
-- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [Heyosseus/sloppy](https://github.com/Heyosseus/sloppy)
-  > Laravel-aware static analysis for the code-quality patterns AI coding agents leave behind. Determini...
-- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [Adelagric/vivace](https://github.com/Adelagric/vivace)
-  > Fast, Composer-compatible installer for PHP, written in Rust
-
 ### [cmc](https://github.com/cmc)
 - 🌟 👤 [cmc](https://github.com/cmc) Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
   > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
@@ -27,6 +21,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot)
   > Chrome扩展：支持GPT（Codex） / kiro / Grok自动注册、相关反代项目（CPA/Sub）回调上传
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [yuaotian/antigravity-proxy](https://github.com/yuaotian/antigravity-proxy)
+  > 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. |...
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp)
@@ -44,6 +40,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Copy databases and update environment variables when spawning new git worktrees.
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [willhackett/wtdb](https://github.com/willhackett/wtdb) to [johndpope/wtdb](https://github.com/johndpope/wtdb)
   > Copy databases and update environment variables when spawning new git worktrees.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)
+  > AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch) to [johndpope/AutoResearch](https://github.com/johndpope/AutoResearch)
+  > AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [acadia-engineering/elm-simple-server](https://github.com/acadia-engineering/elm-simple-server)
@@ -90,7 +90,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-10 18:45:09 UTC*
+*Last updated at 2026-09-10 21:15:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
