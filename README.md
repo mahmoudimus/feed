@@ -57,6 +57,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [furkan-bayrak/lg-tv-blocklist](https://github.com/furkan-bayrak/lg-tv-blocklist)
   > Curated DNS blocklist for LG webOS TV telemetry, ads and phone-home traffic (safe + strict tiers)
 
+### [notfoundry](https://github.com/notfoundry)
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [openslop/nightshift](https://github.com/openslop/nightshift)
+  > Your repo gets better while you sleep. Nightly agent jobs and PR review for any repo.
+
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -64,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [phonowell](https://github.com/phonowell)
 - 🌟 👤 [phonowell](https://github.com/phonowell) Starred [SAOG0721/Magpie](https://github.com/SAOG0721/Magpie)
   > Unofficial experimental Magpie fork with colour-only DLSS, FSR2 and NVIDIA RTX Video integrations
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [obsidianmd/knap](https://github.com/obsidianmd/knap)
+  > A simple template language that turns data into Markdown.
 
 ### [tabjy](https://github.com/tabjy)
 - 🍴 👤 [tabjy](https://github.com/tabjy) Forked [FORMBOT/Voron-2.4](https://github.com/FORMBOT/Voron-2.4) to [tabjy/Voron-2.4](https://github.com/tabjy/Voron-2.4)
@@ -90,7 +98,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-10 21:15:53 UTC*
+*Last updated at 2026-09-10 23:29:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
