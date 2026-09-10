@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [TomasVotruba](https://github.com/TomasVotruba)
+- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [Heyosseus/sloppy](https://github.com/Heyosseus/sloppy)
+  > Laravel-aware static analysis for the code-quality patterns AI coding agents leave behind. Determini...
+- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [Adelagric/vivace](https://github.com/Adelagric/vivace)
+  > Fast, Composer-compatible installer for PHP, written in Rust
+
 ### [cmc](https://github.com/cmc)
 - 🌟 👤 [cmc](https://github.com/cmc) Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
   > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
@@ -18,12 +24,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [frol](https://github.com/frol) Starred [lamco-admin/lamco-rdp-server](https://github.com/lamco-admin/lamco-rdp-server)
   > Wayland-native RDP server for Linux desktop sharing. H.264 via EGFX, VA-API/NVENC hardware encoding,...
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot)
+  > Chrome扩展：支持GPT（Codex） / kiro / Grok自动注册、相关反代项目（CPA/Sub）回调上传
+
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp)
   > MCP server integration for DaVinci Resolve Studio
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [aashaexo/soundshuman](https://github.com/aashaexo/soundshuman)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [jakubkrehel/skills](https://github.com/jakubkrehel/skills)
   > A collection of agent skills that help you build a great interface.
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
 
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [lucidrains/bdh-cq](https://github.com/lucidrains/bdh-cq) to [johndpope/bdh-cq](https://github.com/johndpope/bdh-cq)
@@ -68,13 +80,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [wargio](https://github.com/wargio) Starred [iscarelli/niimbot-web-bluetooth](https://github.com/iscarelli/niimbot-web-bluetooth)
   > Zero-dependency Web Bluetooth driver + reverse-engineered protocol docs to print Niimbot label print...
 
+### [zakkak](https://github.com/zakkak)
+- 🌟 👤 [zakkak](https://github.com/zakkak) Starred [jdx/mise](https://github.com/jdx/mise)
+  > dev tools, env vars, task runner
+
 
 <!-- nav -->
 [← 2026-09-09](archive/2026/09/09.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-10 15:20:13 UTC*
+*Last updated at 2026-09-10 18:45:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
