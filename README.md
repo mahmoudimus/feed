@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [DinoChiesa](https://github.com/DinoChiesa)
+- 🍴 👤 [DinoChiesa](https://github.com/DinoChiesa) Forked [jrblevin/markdown-mode](https://github.com/jrblevin/markdown-mode) to [DinoChiesa/markdown-mode](https://github.com/DinoChiesa/markdown-mode)
+  > Emacs Markdown Mode
+
 ### [Midi12](https://github.com/Midi12)
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [cunnie/sslip.io](https://github.com/cunnie/sslip.io)
   > Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
@@ -55,20 +59,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [jaredpalmer](https://github.com/jaredpalmer) Made [jaredpalmer/fly-dating-app](https://github.com/jaredpalmer/fly-dating-app) public
   > Born to fly. Forced to date.
 
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [xizaoqu/MOFT](https://github.com/xizaoqu/MOFT)
-  > [Neurips 2024] Video Diffusion Models are Training-free Motion Interpreter and Controller
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [xizaoqu/MOFT](https://github.com/xizaoqu/MOFT) to [johndpope/MOFT](https://github.com/johndpope/MOFT)
-  > [Neurips 2024] Video Diffusion Models are Training-free Motion Interpreter and Controller
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mayuelala/FastVMT](https://github.com/mayuelala/FastVMT)
-  > [ICLR 2026] FastVMT: This repo is the official implementation of "FastVMT: Eliminating Redundancy in...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [xizaoqu/TrajectoryAttention](https://github.com/xizaoqu/TrajectoryAttention)
-  > [ICLR 2025] Trajectory Attention For Fine-grained Video Motion Control
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [xizaoqu/TrajectoryAttention](https://github.com/xizaoqu/TrajectoryAttention) to [johndpope/TrajectoryAttention](https://github.com/johndpope/TrajectoryAttention)
-  > [ICLR 2025] Trajectory Attention For Fine-grained Video Motion Control
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [yejy53/GenClaw](https://github.com/yejy53/GenClaw)
-  > GenClaw: Code-Driven Agentic Image Generation
-
 ### [kevaundray](https://github.com/kevaundray)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs)
   > Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly s...
@@ -98,16 +88,26 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A lightweight library for xPU kernel JIT compilation
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [unstablebuild/rune](https://github.com/unstablebuild/rune)
   > the development environment for pros
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [psyclyx/stemma](https://github.com/psyclyx/stemma)
+  > Rope + eg-walker CRDT library
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)
   > macOS menu bar app showing Claude Code usage limits (session/weekly/per-model/overage) with alerts a...
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [moistfella/comic-book-downloader](https://github.com/moistfella/comic-book-downloader)
   > A simple comic book downloader. Created for personal use, shared for anyone else who may need it.
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Wilfred/difftastic](https://github.com/Wilfred/difftastic)
+  > a structural diff that understands syntax 🟥🟩
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [eza-community/eza](https://github.com/eza-community/eza)
+  > A modern alternative to ls
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate)
+  > Qalculate! library and CLI
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [twpayne/chezmoi](https://github.com/twpayne/chezmoi)
+  > Manage your dotfiles across multiple diverse machines, securely.
 
-### [paulirish](https://github.com/paulirish)
-- 🌟 👤 [paulirish](https://github.com/paulirish) Starred [nathansutton/chad](https://github.com/nathansutton/chad)
-  > chad: a local Claude-Code-style coding agent for your laptop
+### [pfalcon](https://github.com/pfalcon)
+- 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [Lucas-Joly-GH/trends-research](https://github.com/Lucas-Joly-GH/trends-research)
+  > My master's thesis research on trends in futures. Live paper trading currently running here:
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [behl-lang/behl](https://github.com/behl-lang/behl)
@@ -145,10 +145,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
   >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
 
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [crmne/fastpotify](https://github.com/crmne/fastpotify)
-  > Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spoti...
-
 ### [zuowang](https://github.com/zuowang)
 - 🌟 👤 [zuowang](https://github.com/zuowang) Starred [MinishLab/model2vec](https://github.com/MinishLab/model2vec)
   > Fast State-of-the-Art Static Embeddings
@@ -159,7 +155,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-11 21:23:45 UTC*
+*Last updated at 2026-09-11 23:36:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
