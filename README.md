@@ -8,10 +8,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [AlexsJones](https://github.com/AlexsJones)
-- 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [Sudharsanselvaraj/Token-Print](https://github.com/Sudharsanselvaraj/Token-Print)
-  > Interactive 3D visualization platform for exploring transformer architectures, tensors, and real-tim...
-
 ### [Midi12](https://github.com/Midi12)
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [cunnie/sslip.io](https://github.com/cunnie/sslip.io)
   > Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
@@ -36,6 +32,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [autogluon/fev](https://github.com/autogluon/fev)
   > Forecast evaluation library
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty)
+  > A cargo build wrapper with a live, animated status view
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [emacsattic/typst-mode](https://github.com/emacsattic/typst-mode) to [gabrielfalcao/typst-mode.el](https://github.com/gabrielfalcao/typst-mode.el)
+
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [xqy2006/jsc2js](https://github.com/xqy2006/jsc2js)
+  > Reverse V8‑generated JSC bytecode into readable (approximate) JavaScript.
+
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [OleksandrChekhovskyi/hax](https://github.com/OleksandrChekhovskyi/hax)
   > A minimalist, terminal-native coding agent written in C.
@@ -43,6 +50,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [forefy/reburp](https://github.com/forefy/reburp)
   > A Burp Suite extension that exposes the full Montoya API as a local REST API, with Swagger UI
+
+### [jaredpalmer](https://github.com/jaredpalmer)
+- 🚀 👤 [jaredpalmer](https://github.com/jaredpalmer) Made [jaredpalmer/fly-dating-app](https://github.com/jaredpalmer/fly-dating-app) public
+  > Born to fly. Forced to date.
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [xizaoqu/MOFT](https://github.com/xizaoqu/MOFT)
@@ -55,6 +66,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [ICLR 2025] Trajectory Attention For Fine-grained Video Motion Control
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [xizaoqu/TrajectoryAttention](https://github.com/xizaoqu/TrajectoryAttention) to [johndpope/TrajectoryAttention](https://github.com/johndpope/TrajectoryAttention)
   > [ICLR 2025] Trajectory Attention For Fine-grained Video Motion Control
+
+### [kevaundray](https://github.com/kevaundray)
+- 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs)
+  > Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly s...
 
 ### [kirkch](https://github.com/kirkch)
 - 🌟 👤 [kirkch](https://github.com/kirkch) Starred [Poltavtcev/dream-analyzer](https://github.com/Poltavtcev/dream-analyzer)
@@ -72,13 +87,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [medikoo](https://github.com/medikoo) Forked [jpstotz/better-adb-sync](https://github.com/jpstotz/better-adb-sync) to [medikoo/better-adb-sync](https://github.com/medikoo/better-adb-sync)
   > Completely rewritten adbsync with --exclude
 
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [robinebers/openusage](https://github.com/robinebers/openusage)
+  > Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsag...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepseek-ai/DeepSelect](https://github.com/deepseek-ai/DeepSelect)
+  > DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepseek-ai/DeepJIT](https://github.com/deepseek-ai/DeepJIT)
+  > A lightweight library for xPU kernel JIT compilation
+
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)
   > macOS menu bar app showing Claude Code usage limits (session/weekly/per-model/overage) with alerts a...
-
-### [ocornut](https://github.com/ocornut)
-- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [hasenj/layout-lab-git-log](https://github.com/hasenj/layout-lab-git-log)
-  > bench marking imgui frameworks
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [moistfella/comic-book-downloader](https://github.com/moistfella/comic-book-downloader)
+  > A simple comic book downloader. Created for personal use, shared for anyone else who may need it.
 
 ### [paulirish](https://github.com/paulirish)
 - 🌟 👤 [paulirish](https://github.com/paulirish) Starred [nathansutton/chad](https://github.com/nathansutton/chad)
@@ -116,6 +137,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [it-perspectives/keycloak-alias-guard](https://github.com/it-perspectives/keycloak-alias-guard)
   > Keycloak SPI that blocks duplicate accounts created via email aliases (+tags, Gmail dots).
 
+### [uakarsh](https://github.com/uakarsh)
+- 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
+  >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
+
 ### [zuowang](https://github.com/zuowang)
 - 🌟 👤 [zuowang](https://github.com/zuowang) Starred [MinishLab/model2vec](https://github.com/MinishLab/model2vec)
   > Fast State-of-the-Art Static Embeddings
@@ -126,7 +151,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-11 15:21:50 UTC*
+*Last updated at 2026-09-11 18:48:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
