@@ -66,6 +66,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [ICLR 2025] Trajectory Attention For Fine-grained Video Motion Control
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [xizaoqu/TrajectoryAttention](https://github.com/xizaoqu/TrajectoryAttention) to [johndpope/TrajectoryAttention](https://github.com/johndpope/TrajectoryAttention)
   > [ICLR 2025] Trajectory Attention For Fine-grained Video Motion Control
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [yejy53/GenClaw](https://github.com/yejy53/GenClaw)
+  > GenClaw: Code-Driven Agentic Image Generation
 
 ### [kevaundray](https://github.com/kevaundray)
 - 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs)
@@ -94,6 +96,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepseek-ai/DeepJIT](https://github.com/deepseek-ai/DeepJIT)
   > A lightweight library for xPU kernel JIT compilation
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [unstablebuild/rune](https://github.com/unstablebuild/rune)
+  > the development environment for pros
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage)
@@ -141,6 +145,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
   >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [crmne/fastpotify](https://github.com/crmne/fastpotify)
+  > Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spoti...
+
 ### [zuowang](https://github.com/zuowang)
 - 🌟 👤 [zuowang](https://github.com/zuowang) Starred [MinishLab/model2vec](https://github.com/MinishLab/model2vec)
   > Fast State-of-the-Art Static Embeddings
@@ -151,7 +159,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-11 18:48:16 UTC*
+*Last updated at 2026-09-11 21:23:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
