@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [HarukaMa](https://github.com/HarukaMa)
+- 🍴 👤 [HarukaMa](https://github.com/HarukaMa) Forked [ar-io/network-portal](https://github.com/ar-io/network-portal) to [HarukaMa/network-portal](https://github.com/HarukaMa/network-portal)
+  > Application for interacting with the ar.io network.
+
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [ErTasselli/OpenTerminal](https://github.com/ErTasselli/OpenTerminal)
   > A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscr...
@@ -19,6 +23,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)
   > Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible...
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [lpil/langcompilebench](https://github.com/lpil/langcompilebench)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+  > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
+  > FreeCAD MCP(Model Context Protocol) server
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [jonny-jhnson/WespConsumerPOC](https://github.com/jonny-jhnson/WespConsumerPOC) to [fengjixuchui/WespConsumerPOC](https://github.com/fengjixuchui/WespConsumerPOC)
@@ -33,10 +44,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Self-hosted bug-bounty platform — verification-first recon & DAST, continuous monitoring. Your data ...
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
   > VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, vi...
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [wpydcr/NanoAvatar](https://github.com/wpydcr/NanoAvatar)
-  > Real-time, high-quality talking avatars on a 2023 Android phone — 37 FPS, 112 ms first frame.
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [nixfred/blip](https://github.com/nixfred/blip)
@@ -58,6 +65,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > secure multiplexed execution paths for agents - zero trust, zero setup, zero latency.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Akseleu-J/atomic-ops](https://github.com/Akseleu-J/atomic-ops)
   > **Fused Gated DeltaNet‑2 (GDN‑2) kernels for TPU v5e in JAX/Pallas.**   Speeds up training by **10–3...
+
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [nightwatch75/pihole-peek](https://github.com/nightwatch75/pihole-peek)
+  > Report the DNS queries of a Pi-hole v6 client, grouped by domain — as a table, list, CSV, JSON, or a...
 
 ### [prontiol](https://github.com/prontiol)
 - 🌟 👤 [prontiol](https://github.com/prontiol) Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
@@ -98,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-12 17:29:09 UTC*
+*Last updated at 2026-09-12 19:45:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
