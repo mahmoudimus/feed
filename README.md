@@ -31,8 +31,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
   > FreeCAD MCP(Model Context Protocol) server
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [ultralytics/skills](https://github.com/ultralytics/skills)
+  > Agent skills for Ultralytics YOLO, covering models, datasets, training, tuning, inference, tracking,...
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [ultralytics/sdk](https://github.com/ultralytics/sdk)
+  > Official Python SDK for the Ultralytics Platform API
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [ultralytics/yolo26](https://github.com/ultralytics/yolo26)
+  > Ultralytics YOLO26 quickstart for detection, instance and semantic segmentation, depth estimation, c...
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [ultralytics/yolov8](https://github.com/ultralytics/yolov8)
+  > Ultralytics YOLOv8 discovery and quickstart for detection, segmentation, classification, pose, OBB, ...
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [ultralytics/yolo11](https://github.com/ultralytics/yolo11)
+  > Ultralytics YOLO11 discovery and quickstart for detection, segmentation, classification, pose, OBB, ...
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [jonny-jhnson/WespConsumerPOC](https://github.com/jonny-jhnson/WespConsumerPOC) to [fengjixuchui/WespConsumerPOC](https://github.com/fengjixuchui/WespConsumerPOC)
+
+### [hasherezade](https://github.com/hasherezade)
+- 🍴 👤 [hasherezade](https://github.com/hasherezade) Forked [nodejs/node](https://github.com/nodejs/node) to [hasherezade/node](https://github.com/hasherezade/node)
+  > Node.js JavaScript runtime ✨🐢🚀✨
 
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
@@ -49,11 +65,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [nixfred/blip](https://github.com/nixfred/blip)
   > iMessage in the Omarchy bar. Read, send, groups, blue dots — your Mac is the gateway, Linux is the c...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MZULALI/toolhost](https://github.com/MZULALI/toolhost)
-  > Let an LLM write its own tools at runtime: parsed with acorn, versioned in SQLite, run in a supervis...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DefiLeoo/YOINK](https://github.com/DefiLeoo/YOINK)
-
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [andrewgazelka/loom](https://github.com/andrewgazelka/loom)
   > Concurrent I/O in ordinary Rust functions. An effect runtime and REPL built with WebAssembly fibers.
@@ -69,6 +80,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [nightwatch75/pihole-peek](https://github.com/nightwatch75/pihole-peek)
   > Report the DNS queries of a Pi-hole v6 client, grouped by domain — as a table, list, CSV, JSON, or a...
+
+### [pims](https://github.com/pims)
+- 🌟 👤 [pims](https://github.com/pims) Starred [gregfurman/micropython-go](https://github.com/gregfurman/micropython-go)
+  > An embeddable Golang port of micropython, generated using wasm2go.
 
 ### [prontiol](https://github.com/prontiol)
 - 🌟 👤 [prontiol](https://github.com/prontiol) Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
@@ -109,7 +124,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-12 19:45:18 UTC*
+*Last updated at 2026-09-12 21:44:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
