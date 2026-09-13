@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🍴 👤 [Clivern](https://github.com/Clivern) Forked [schollz/croc](https://github.com/schollz/croc) to [Clivern/croc](https://github.com/Clivern/croc)
+  > Easily and securely send things from one computer to another :crocodile: :package:
+
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [kisasexypantera94/varmint](https://github.com/kisasexypantera94/varmint)
   > Run Windows and Linux games on Apple Silicon Macs.
@@ -15,10 +19,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [tiliondev/fortress](https://github.com/tiliondev/fortress)
   > Stealth Chromium engine that stops scrapers and browser agents from getting blocked, with one line o...
+- 🌟 👤 [KIC](https://github.com/KIC) Starred [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)
+  > Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 
 ### [Skytrias](https://github.com/Skytrias)
 - 🌟 👤 [Skytrias](https://github.com/Skytrias) Starred [metal-by-example/MetalSlug](https://github.com/metal-by-example/MetalSlug)
   > An implementation of the Slug text rasterization algorithm in Metal
+
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [LLVMParty/llvm-builds](https://github.com/LLVMParty/llvm-builds)
+  > Precompiled LLVM distributions for Linux/macOS/Windows.
 
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [paranoica/cs2-server-lagger](https://github.com/paranoica/cs2-server-lagger)
@@ -71,6 +81,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [markrwilliams](https://github.com/markrwilliams) Forked [fzakaria/trynix](https://github.com/fzakaria/trynix) to [markrwilliams/trynix](https://github.com/markrwilliams/trynix)
   > Boot anything nixpkgs ever shipped, in your browser.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aryx/codemap](https://github.com/aryx/codemap)
+  > Source code visualizer
+
 ### [myusuf3](https://github.com/myusuf3)
 - 🚀 👤 [myusuf3](https://github.com/myusuf3) Made [myusuf3/lantern](https://github.com/myusuf3/lantern) public
 
@@ -79,10 +93,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Project Titania is a complete large language model system, from transformer to transistor, simple en...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [zaidoon1/rust-rocksdb](https://github.com/zaidoon1/rust-rocksdb)
   > rust wrapper for rocksdb
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [wago-org/wago](https://github.com/wago-org/wago)
+  > a wonderfully quick, compact, and extensible webassembly runtime for go
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [JairusSW/json-as](https://github.com/JairusSW/json-as)
+  > Multi-GB/s JSON (de)serialization written in AssemblyScript utilizing elegant SIMD and SWAR algorith...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [LING71671/moon-egui](https://github.com/LING71671/moon-egui)
+  > A Lightweight Immediate-Mode GUI Library for MoonBit and WebAssembly
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [qnope/Erased](https://github.com/qnope/Erased)
+  > Erased is meant to be a fast and constexpr friendly C++ type erasure implementation
 
 ### [ret2libc](https://github.com/ret2libc)
 - 🚀 👤 [ret2libc](https://github.com/ret2libc) Made [ret2libc/mech-interp](https://github.com/ret2libc/mech-interp) public
 - 🍴 👤 [ret2libc](https://github.com/ret2libc) Forked [callummcdougall/ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0) to [ret2libc/ARENA_3.0](https://github.com/ret2libc/ARENA_3.0)
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [rustonbsd/iroh-ssh](https://github.com/rustonbsd/iroh-ssh)
+  > SSH to any machine without ip
 
 ### [tabjy](https://github.com/tabjy)
 - 🌟 👤 [tabjy](https://github.com/tabjy) Starred [MagicPhoenix/mpx-wiki](https://github.com/MagicPhoenix/mpx-wiki)
@@ -91,17 +117,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [veorq](https://github.com/veorq) Starred [alphazolam/MMDK](https://github.com/alphazolam/MMDK)
   > REFramework Moveset Mod Development Kit for Street Fighter 6
 
-### [wumb0](https://github.com/wumb0)
-- 🍴 👤 [wumb0](https://github.com/wumb0) Forked [randovania/open-prime-rando](https://github.com/randovania/open-prime-rando) to [wumb0/open-prime-rando](https://github.com/wumb0/open-prime-rando)
-  > Open Source randomizer patcher for Metroid Prime 2 and eventually 3.
-
 
 <!-- nav -->
 [← 2026-09-12](archive/2026/09/12.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-13 19:01:58 UTC*
+*Last updated at 2026-09-13 21:51:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
