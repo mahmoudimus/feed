@@ -16,6 +16,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [tiliondev/fortress](https://github.com/tiliondev/fortress)
   > Stealth Chromium engine that stops scrapers and browser agents from getting blocked, with one line o...
 
+### [Skytrias](https://github.com/Skytrias)
+- 🌟 👤 [Skytrias](https://github.com/Skytrias) Starred [metal-by-example/MetalSlug](https://github.com/metal-by-example/MetalSlug)
+  > An implementation of the Slug text rasterization algorithm in Metal
+
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [paranoica/cs2-server-lagger](https://github.com/paranoica/cs2-server-lagger)
 
@@ -29,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [shadcn/cva](https://github.com/shadcn/cva)
   > Class Variance Authority
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)
+  > 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Idov31/Silverseal](https://github.com/Idov31/Silverseal) to [fengjixuchui/Silverseal](https://github.com/fengjixuchui/Silverseal)
   > Silverseal is a Linux framework containing a bootkit, rootkit loader and a rootkit
@@ -38,6 +46,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [interference-security](https://github.com/interference-security)
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [zh54321/SharePointDumper](https://github.com/zh54321/SharePointDumper)
   > PowerShell SharePoint extraction + auditing tool for red/blue/purple teams. Enumerates all SharePoin...
+
+### [iximeow](https://github.com/iximeow)
+- 🍴 👤 [iximeow](https://github.com/iximeow) Forked [xenia-project/xenia](https://github.com/xenia-project/xenia) to [iximeow/xenia](https://github.com/iximeow/xenia)
+  > Xbox 360 Emulator Research Project
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [TaoLiveAIGC/TaoMate-H3](https://github.com/TaoLiveAIGC/TaoMate-H3)
@@ -68,6 +80,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [zaidoon1/rust-rocksdb](https://github.com/zaidoon1/rust-rocksdb)
   > rust wrapper for rocksdb
 
+### [ret2libc](https://github.com/ret2libc)
+- 🚀 👤 [ret2libc](https://github.com/ret2libc) Made [ret2libc/mech-interp](https://github.com/ret2libc/mech-interp) public
+- 🍴 👤 [ret2libc](https://github.com/ret2libc) Forked [callummcdougall/ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0) to [ret2libc/ARENA_3.0](https://github.com/ret2libc/ARENA_3.0)
+
 ### [tabjy](https://github.com/tabjy)
 - 🌟 👤 [tabjy](https://github.com/tabjy) Starred [MagicPhoenix/mpx-wiki](https://github.com/MagicPhoenix/mpx-wiki)
 
@@ -85,7 +101,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-13 16:41:57 UTC*
+*Last updated at 2026-09-13 19:01:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
