@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Skytrias](https://github.com/Skytrias)
+- 🌟 👤 [Skytrias](https://github.com/Skytrias) Starred [BuLEEto/Skald](https://github.com/BuLEEto/Skald)
+  > A declarative GUI framework for Odin. The predictability of Elm with the performance of immediate mo...
+- 🌟 👤 [Skytrias](https://github.com/Skytrias) Starred [englerj/odin-freetype](https://github.com/englerj/odin-freetype)
+  > Odin bindings for FreeType
+- 🍴 👤 [Skytrias](https://github.com/Skytrias) Forked [englerj/odin-freetype](https://github.com/englerj/odin-freetype) to [Skytrias/odin-freetype](https://github.com/Skytrias/odin-freetype)
+  > Odin bindings for FreeType
+
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [shadcn-ui/lint](https://github.com/shadcn-ui/lint)
   > An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
@@ -15,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [nolabs-ai/nono](https://github.com/nolabs-ai/nono)
   > secure multiplexed execution paths for agents - zero trust, zero setup, zero latency.
+
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [eval-exec/neomacs](https://github.com/eval-exec/neomacs)
+  > NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern d...
 
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [pgcentralfoundation/plrust](https://github.com/pgcentralfoundation/plrust)
@@ -42,6 +54,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [emcfarlane](https://github.com/emcfarlane) Forked [klauspost/connect-compress](https://github.com/klauspost/connect-compress) to [emcfarlane/connect-compress](https://github.com/emcfarlane/connect-compress)
   > connect-go improved compression
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499)
+  > Android version CVE-2026-43499 tester
+
 ### [firmai](https://github.com/firmai)
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [uscuni/urban_taxonomy](https://github.com/uscuni/urban_taxonomy)
   > Morphometric taxonomy of Central Europe
@@ -61,16 +79,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [davefano/omarchy-trackpad-plus](https://github.com/davefano/omarchy-trackpad-plus)
   > Fine-grained, per-device trackpad controls and pointer-feel tuning for Omarchy.
 
-### [lovasoa](https://github.com/lovasoa)
-- 🍴 👤 [lovasoa](https://github.com/lovasoa) Forked [kraj/musl](https://github.com/kraj/musl) to [lovasoa/musl](https://github.com/lovasoa/musl)
-  > musl - an implementation of the standard library for Linux-based systems - ( Downstream )
-
 ### [mhils](https://github.com/mhils)
 - 🌟 👤 [mhils](https://github.com/mhils) Starred [google/safer_cffi](https://github.com/google/safer_cffi)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [truefoundry/trueforge](https://github.com/truefoundry/trueforge)
   > The open-source agent harness - the runtime layer that turns an LLM into a working agent.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [shadcn-ui/lint](https://github.com/shadcn-ui/lint)
+  > An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)
+  > Turn your coding agents into research agents
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SakanaAI/pc-alm](https://github.com/SakanaAI/pc-alm)
+  > PC-ALM
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade)
@@ -88,9 +108,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [phonowell](https://github.com/phonowell) Starred [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)
   > YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [tenequm/pond](https://github.com/tenequm/pond)
-  > Lossless storage and search for AI agent sessions, across every agentic client.
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [duncankmckinnon/thirdeye](https://github.com/duncankmckinnon/thirdeye)
+  > trace : store : search : analyze local agent interactions
 
 ### [simonmasson](https://github.com/simonmasson)
 - 🍴 👤 [simonmasson](https://github.com/simonmasson) Forked [kassandraoftroy/derive-railgun-keys](https://github.com/kassandraoftroy/derive-railgun-keys) to [simonmasson/derive-railgun-keys](https://github.com/simonmasson/derive-railgun-keys)
@@ -113,7 +133,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-14 19:39:26 UTC*
+*Last updated at 2026-09-14 22:48:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
