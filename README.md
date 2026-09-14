@@ -1,129 +1,24 @@
-# Daily GitHub Activity (2026-09-13)
+# Daily GitHub Activity (2026-09-14)
 
 <!-- nav -->
-[← 2026-09-12](archive/2026/09/12.md)
+[← 2026-09-13](archive/2026/09/13.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Clivern](https://github.com/Clivern)
-- 🍴 👤 [Clivern](https://github.com/Clivern) Forked [schollz/croc](https://github.com/schollz/croc) to [Clivern/croc](https://github.com/Clivern/croc)
-  > Easily and securely send things from one computer to another :crocodile: :package:
-
-### [Gcenx](https://github.com/Gcenx)
-- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [kisasexypantera94/varmint](https://github.com/kisasexypantera94/varmint)
-  > Run Windows and Linux games on Apple Silicon Macs.
-
-### [KIC](https://github.com/KIC)
-- 🌟 👤 [KIC](https://github.com/KIC) Starred [tiliondev/fortress](https://github.com/tiliondev/fortress)
-  > Stealth Chromium engine that stops scrapers and browser agents from getting blocked, with one line o...
-- 🌟 👤 [KIC](https://github.com/KIC) Starred [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm)
-  > Run a 1-billion parameter LLM on a $10 board with 256MB RAM
-
-### [Skytrias](https://github.com/Skytrias)
-- 🌟 👤 [Skytrias](https://github.com/Skytrias) Starred [metal-by-example/MetalSlug](https://github.com/metal-by-example/MetalSlug)
-  > An implementation of the Slug text rasterization algorithm in Metal
-
-### [archercreat](https://github.com/archercreat)
-- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [LLVMParty/llvm-builds](https://github.com/LLVMParty/llvm-builds)
-  > Precompiled LLVM distributions for Linux/macOS/Windows.
-
-### [cra0](https://github.com/cra0)
-- 🌟 👤 [cra0](https://github.com/cra0) Starred [paranoica/cs2-server-lagger](https://github.com/paranoica/cs2-server-lagger)
-
-### [djspiewak](https://github.com/djspiewak)
-- 🍴 👤 [djspiewak](https://github.com/djspiewak) Forked [local-inference-lab/lil](https://github.com/local-inference-lab/lil) to [djspiewak/lil](https://github.com/djspiewak/lil)
-  > Typed local and Spark/RDMA vLLM launcher for Local Inference Lab
-
-### [dustinblackman](https://github.com/dustinblackman)
-- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [microsoft/playwright](https://github.com/microsoft/playwright)
-  > Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and We...
-- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [shadcn/cva](https://github.com/shadcn/cva)
-  > Class Variance Authority
-
 ### [fangpenlin](https://github.com/fangpenlin)
-- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)
-  > 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
-
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Idov31/Silverseal](https://github.com/Idov31/Silverseal) to [fengjixuchui/Silverseal](https://github.com/fengjixuchui/Silverseal)
-  > Silverseal is a Linux framework containing a bootkit, rootkit loader and a rootkit
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [winterknife/EVENSTAR](https://github.com/winterknife/EVENSTAR) to [fengjixuchui/EVENSTAR](https://github.com/fengjixuchui/EVENSTAR)
-  > Intel 64/Windows low-level experiments
-
-### [interference-security](https://github.com/interference-security)
-- 🌟 👤 [interference-security](https://github.com/interference-security) Starred [zh54321/SharePointDumper](https://github.com/zh54321/SharePointDumper)
-  > PowerShell SharePoint extraction + auditing tool for red/blue/purple teams. Enumerates all SharePoin...
-
-### [iximeow](https://github.com/iximeow)
-- 🍴 👤 [iximeow](https://github.com/iximeow) Forked [xenia-project/xenia](https://github.com/xenia-project/xenia) to [iximeow/xenia](https://github.com/iximeow/xenia)
-  > Xbox 360 Emulator Research Project
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [TaoLiveAIGC/TaoMate-H3](https://github.com/TaoLiveAIGC/TaoMate-H3)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [zhouzhenghong-gt/Tri-Prompting-Page](https://github.com/zhouzhenghong-gt/Tri-Prompting-Page)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [henry123-boy/SpaTrackerV2](https://github.com/henry123-boy/SpaTrackerV2)
-  > [ICCV 2025] SpatialTrackerV2: 3D Point Tracking Made Easy
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [SingleZombie/AFLDM](https://github.com/SingleZombie/AFLDM)
-  > [CVPR 2025 Oral] Alias-free Latent Diffusion Models (official implementation)
-
-### [kovyrin](https://github.com/kovyrin)
-- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [joshuaswarren/remnic](https://github.com/joshuaswarren/remnic)
-  > Open-source memory and context for user-aware agents: scoped memory, provenance, retrieval quality, ...
-
-### [lucidrains](https://github.com/lucidrains)
-- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [OpenWAM-Official/OpenWAM](https://github.com/OpenWAM-Official/OpenWAM)
-  > Official repository for "OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model...
-
-### [markrwilliams](https://github.com/markrwilliams)
-- 🍴 👤 [markrwilliams](https://github.com/markrwilliams) Forked [fzakaria/trynix](https://github.com/fzakaria/trynix) to [markrwilliams/trynix](https://github.com/markrwilliams/trynix)
-  > Boot anything nixpkgs ever shipped, in your browser.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aryx/codemap](https://github.com/aryx/codemap)
-  > Source code visualizer
-
-### [myusuf3](https://github.com/myusuf3)
-- 🚀 👤 [myusuf3](https://github.com/myusuf3) Made [myusuf3/lantern](https://github.com/myusuf3/lantern) public
-
-### [nathanfaucett](https://github.com/nathanfaucett)
-- 🌟 👤 [nathanfaucett](https://github.com/nathanfaucett) Starred [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
-  > the official Rust and C implementations of the BLAKE3 cryptographic hash function
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [penberg/titania](https://github.com/penberg/titania)
-  > Project Titania is a complete large language model system, from transformer to transistor, simple en...
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [zaidoon1/rust-rocksdb](https://github.com/zaidoon1/rust-rocksdb)
-  > rust wrapper for rocksdb
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [wago-org/wago](https://github.com/wago-org/wago)
-  > a wonderfully quick, compact, and extensible webassembly runtime for go
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [JairusSW/json-as](https://github.com/JairusSW/json-as)
-  > Multi-GB/s JSON (de)serialization written in AssemblyScript utilizing elegant SIMD and SWAR algorith...
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [LING71671/moon-egui](https://github.com/LING71671/moon-egui)
-  > A Lightweight Immediate-Mode GUI Library for MoonBit and WebAssembly
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [qnope/Erased](https://github.com/qnope/Erased)
-  > Erased is meant to be a fast and constexpr friendly C++ type erasure implementation
-
-### [ret2libc](https://github.com/ret2libc)
-- 🚀 👤 [ret2libc](https://github.com/ret2libc) Made [ret2libc/mech-interp](https://github.com/ret2libc/mech-interp) public
-- 🍴 👤 [ret2libc](https://github.com/ret2libc) Forked [callummcdougall/ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0) to [ret2libc/ARENA_3.0](https://github.com/ret2libc/ARENA_3.0)
-
-### [tabjy](https://github.com/tabjy)
-- 🌟 👤 [tabjy](https://github.com/tabjy) Starred [MagicPhoenix/mpx-wiki](https://github.com/MagicPhoenix/mpx-wiki)
-
-### [veorq](https://github.com/veorq)
-- 🌟 👤 [veorq](https://github.com/veorq) Starred [alphazolam/MMDK](https://github.com/alphazolam/MMDK)
-  > REFramework Moveset Mod Development Kit for Street Fighter 6
+- 🚀 👤 [fangpenlin](https://github.com/fangpenlin) Made [LaunchPlatform/beanhub-mcp](https://github.com/LaunchPlatform/beanhub-mcp) public
+  > Public MCP manifest files for AI agent platforms
 
 
 <!-- nav -->
-[← 2026-09-12](archive/2026/09/12.md)
+[← 2026-09-13](archive/2026/09/13.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-13 23:42:50 UTC*
+*Last updated at 2026-09-14 01:57:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
