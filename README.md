@@ -88,6 +88,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [myusuf3](https://github.com/myusuf3)
 - 🚀 👤 [myusuf3](https://github.com/myusuf3) Made [myusuf3/lantern](https://github.com/myusuf3/lantern) public
 
+### [nathanfaucett](https://github.com/nathanfaucett)
+- 🌟 👤 [nathanfaucett](https://github.com/nathanfaucett) Starred [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
+  > the official Rust and C implementations of the BLAKE3 cryptographic hash function
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [penberg/titania](https://github.com/penberg/titania)
   > Project Titania is a complete large language model system, from transformer to transistor, simple en...
@@ -106,10 +110,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [ret2libc](https://github.com/ret2libc) Made [ret2libc/mech-interp](https://github.com/ret2libc/mech-interp) public
 - 🍴 👤 [ret2libc](https://github.com/ret2libc) Forked [callummcdougall/ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0) to [ret2libc/ARENA_3.0](https://github.com/ret2libc/ARENA_3.0)
 
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [rustonbsd/iroh-ssh](https://github.com/rustonbsd/iroh-ssh)
-  > SSH to any machine without ip
-
 ### [tabjy](https://github.com/tabjy)
 - 🌟 👤 [tabjy](https://github.com/tabjy) Starred [MagicPhoenix/mpx-wiki](https://github.com/MagicPhoenix/mpx-wiki)
 
@@ -123,7 +123,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-13 21:51:59 UTC*
+*Last updated at 2026-09-13 23:42:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
