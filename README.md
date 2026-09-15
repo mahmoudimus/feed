@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [artem](https://github.com/artem) Starred [google/xls](https://github.com/google/xls)
   > XLS: Accelerated HW Synthesis
 
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [klauspost/connect-compress](https://github.com/klauspost/connect-compress)
+  > connect-go improved compression
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [decrypthub/IOSDecryptHub](https://github.com/decrypthub/IOSDecryptHub) to [fengjixuchui/IOSDecryptHub](https://github.com/fengjixuchui/IOSDecryptHub)
   >  IOSDecryptHub See the truth at runtime. https://ios.decrypthub.com/
@@ -45,6 +49,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
   > Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [peymanmortazavi/csv-zero](https://github.com/peymanmortazavi/csv-zero)
+  > Zero Allocation, SIMD-accelerated CSV iterator and emitter in Zig
+- 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [jedisct1/zig-aegis-raf](https://github.com/jedisct1/zig-aegis-raf) public
+  > High-performance encrypted storage with random access.
+
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [zhongyi-zhou/toolgrad](https://github.com/zhongyi-zhou/toolgrad)
   > ToolGrad: Efficient Tool-use Dataset Generation with Textual “Gradients” (ACL 26 Finding)
@@ -59,9 +69,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [radareorg/radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe)
   > Access radare2 via pipe from any programming language!
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
+  > DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
+
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [robinovitch61/webtoon-dl](https://github.com/robinovitch61/webtoon-dl)
   > A webtoon comic downloader for the command line/terminal
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [alam00000/bentopdf](https://github.com/alam00000/bentopdf)
+  > The Privacy First PDF Toolkit
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime)
@@ -73,23 +89,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [randombit/whats-my-name](https://github.com/randombit/whats-my-name)
   > Name constraint test suite
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [horsicq/dieOS](https://github.com/horsicq/dieOS)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+  > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [conao3/nix-msb](https://github.com/conao3/nix-msb)
+  > Nix tooling for running OCI images inside microsandbox microVMs
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [tinylabscom/mvm](https://github.com/tinylabscom/mvm)
+  > Manage secure microVMs — one command from zero to secure sessions, locally and remotely.
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+  > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
+
 ### [slightknack](https://github.com/slightknack)
 - 🌟 👤 [slightknack](https://github.com/slightknack) Starred [siraben/psi-code](https://github.com/siraben/psi-code)
   > The portable coding agent
-
-### [xyproto](https://github.com/xyproto)
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [fragglet/dos-compilers](https://github.com/fragglet/dos-compilers)
-  > 16-bit DOS C compilers
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [igor-couto/pixel-flags](https://github.com/igor-couto/pixel-flags)
-  > A collection of tiny pixel art flags. This repository contains 204 country flag PNG icons 
-
-### [zacharywhitley](https://github.com/zacharywhitley)
-- 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [cqframework/clinical_quality_language](https://github.com/cqframework/clinical_quality_language) to [tegmentum/clinical_quality_language](https://github.com/tegmentum/clinical_quality_language)
-  > Clinical Quality Language (CQL) is an HL7 specification for the expression of clinical knowledge tha...
-
-### [zakkak](https://github.com/zakkak)
-- 🌟 👤 [zakkak](https://github.com/zakkak) Starred [asciinema/asciinema](https://github.com/asciinema/asciinema)
-  > Terminal session recorder, streamer and player 📹
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [rust-vmm/rust-vmm](https://github.com/rust-vmm/rust-vmm)
@@ -99,6 +116,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Monkey patch, test, and trace Python by attaching bindings to call sites, without modifying the code...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
   > Write Cloudflare Workers in 100% Rust via WebAssembly
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Eigenwise/eigenwise-toolshed](https://github.com/Eigenwise/eigenwise-toolshed)
+  > Six Claude Code plugins for the work that keeps coming back: repo maps, conditional rules, ticketed ...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Eigenwise/tesseron-rust](https://github.com/Eigenwise/tesseron-rust)
+  > Rust SDK for the Tesseron protocol (crate tesseron)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Eigenwise/tesseron](https://github.com/Eigenwise/tesseron)
+  > Expose typed web-app actions to MCP-compatible AI agents over WebSocket. TypeScript SDK + matching M...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [raine/claude-code-proxy](https://github.com/raine/claude-code-proxy)
+  > Use Claude Code with your ChatGPT, Kimi, Cursor or Grok subscription via a local Anthropic-compatibl...
+
+### [zzzeek](https://github.com/zzzeek)
+- 🌟 👤 [zzzeek](https://github.com/zzzeek) Starred [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme)
+  > E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as r...
 
 
 <!-- nav -->
@@ -106,7 +135,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-15 12:17:32 UTC*
+*Last updated at 2026-09-15 17:21:02 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
