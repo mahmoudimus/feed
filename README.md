@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [artem](https://github.com/artem) Starred [google/xls](https://github.com/google/xls)
   > XLS: Accelerated HW Synthesis
 
+### [chrislusf](https://github.com/chrislusf)
+- 🌟 👤 [chrislusf](https://github.com/chrislusf) Starred [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus)
+  > YTsaurus is a scalable and fault-tolerant open-source big data platform.
+
 ### [ebagdasa](https://github.com/ebagdasa)
 - 🌟 👤 [ebagdasa](https://github.com/ebagdasa) Starred [GraceBrigham/Janus](https://github.com/GraceBrigham/Janus)
 
@@ -41,6 +45,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Sadpainy/Stuxnet](https://github.com/Sadpainy/Stuxnet) to [fengjixuchui/Stuxnet](https://github.com/fengjixuchui/Stuxnet)
   > Stuxnet, Here reproduced by me, Only researchs for educations purposes. It set work on Windows XP an...
 
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
+  > Self-hosted game stream host for Moonlight.
+
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [nexus-xyz/nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) to [gabrielfalcao/nexus-zkvm](https://github.com/gabrielfalcao/nexus-zkvm)
   > The Nexus zkVM: The zero-knowledge virtual machine
@@ -51,12 +59,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
   > Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [peymanmortazavi/csv-zero](https://github.com/peymanmortazavi/csv-zero)
-  > Zero Allocation, SIMD-accelerated CSV iterator and emitter in Zig
-- 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [jedisct1/zig-aegis-raf](https://github.com/jedisct1/zig-aegis-raf) public
-  > High-performance encrypted storage with random access.
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [zhongyi-zhou/toolgrad](https://github.com/zhongyi-zhou/toolgrad)
@@ -71,6 +73,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A minimalistic and high-performance SAT solver
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [radareorg/radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe)
   > Access radare2 via pipe from any programming language!
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks) to [mrexodia/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/mrexodia/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
+  > DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [audn-ai/refusal-benchmark](https://github.com/audn-ai/refusal-benchmark)
+  > 519+ harmful prompts to detect how abliterated AI models are
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [robinovitch61/webtoon-dl](https://github.com/robinovitch61/webtoon-dl)
@@ -115,13 +123,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [systemofapwne/keycloak-turnstile](https://github.com/systemofapwne/keycloak-turnstile)
   > A Keycloak plugin enables Cloudflare Turnstile support.
 
+### [wargio](https://github.com/wargio)
+- 🌟 👤 [wargio](https://github.com/wargio) Starred [NarYuki/Dextop](https://github.com/NarYuki/Dextop)
+  > Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment dir...
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [esaunoya/macos-hosts-autoswitch](https://github.com/esaunoya/macos-hosts-autoswitch)
+  > Location-aware /etc/hosts for macOS: one hostname that points to a host's LAN IP at home and its Tai...
+
 ### [zwass](https://github.com/zwass)
 - 🌟 👤 [zwass](https://github.com/zwass) Starred [RedHate/Unbricking-inMusic-Products](https://github.com/RedHate/Unbricking-inMusic-Products)
   > information on how to unbrick inMusic brand products.
-
-### [zzzeek](https://github.com/zzzeek)
-- 🌟 👤 [zzzeek](https://github.com/zzzeek) Starred [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme)
-  > E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as r...
 
 
 <!-- nav -->
@@ -129,7 +141,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-15 20:31:47 UTC*
+*Last updated at 2026-09-15 23:15:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
