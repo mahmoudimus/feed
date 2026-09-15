@@ -12,9 +12,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [artem](https://github.com/artem) Starred [google/xls](https://github.com/google/xls)
   > XLS: Accelerated HW Synthesis
 
-### [emcfarlane](https://github.com/emcfarlane)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [klauspost/connect-compress](https://github.com/klauspost/connect-compress)
-  > connect-go improved compression
+### [ebagdasa](https://github.com/ebagdasa)
+- 🌟 👤 [ebagdasa](https://github.com/ebagdasa) Starred [GraceBrigham/Janus](https://github.com/GraceBrigham/Janus)
+
+### [etrepum](https://github.com/etrepum)
+- 🍴 👤 [etrepum](https://github.com/etrepum) Forked [facebook/astryx](https://github.com/facebook/astryx) to [etrepum/astryx](https://github.com/etrepum/astryx)
+  > An open source design system that's fully customizable and agent ready
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [decrypthub/IOSDecryptHub](https://github.com/decrypthub/IOSDecryptHub) to [fengjixuchui/IOSDecryptHub](https://github.com/fengjixuchui/IOSDecryptHub)
@@ -69,10 +72,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [radareorg/radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe)
   > Access radare2 via pipe from any programming language!
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
-  > DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
-
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [robinovitch61/webtoon-dl](https://github.com/robinovitch61/webtoon-dl)
   > A webtoon comic downloader for the command line/terminal
@@ -108,22 +107,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [slightknack](https://github.com/slightknack) Starred [siraben/psi-code](https://github.com/siraben/psi-code)
   > The portable coding agent
 
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [rust-vmm/rust-vmm](https://github.com/rust-vmm/rust-vmm)
-  > The rust-vmm monorepo
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [ai-on-gke/slice-controller](https://github.com/ai-on-gke/slice-controller)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [GrahamDumpleton/wrapture](https://github.com/GrahamDumpleton/wrapture)
-  > Monkey patch, test, and trace Python by attaching bindings to call sites, without modifying the code...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs)
-  > Write Cloudflare Workers in 100% Rust via WebAssembly
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [Eigenwise/eigenwise-toolshed](https://github.com/Eigenwise/eigenwise-toolshed)
-  > Six Claude Code plugins for the work that keeps coming back: repo maps, conditional rules, ticketed ...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [Eigenwise/tesseron-rust](https://github.com/Eigenwise/tesseron-rust)
-  > Rust SDK for the Tesseron protocol (crate tesseron)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [Eigenwise/tesseron](https://github.com/Eigenwise/tesseron)
-  > Expose typed web-app actions to MCP-compatible AI agents over WebSocket. TypeScript SDK + matching M...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [raine/claude-code-proxy](https://github.com/raine/claude-code-proxy)
-  > Use Claude Code with your ChatGPT, Kimi, Cursor or Grok subscription via a local Anthropic-compatibl...
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [kathari00/keycloak-theme-editor](https://github.com/kathari00/keycloak-theme-editor)
+  > Visual editor for creating Keycloak login themes
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [salliver/AUTHFIT-Keycloak-theme-live-editor](https://github.com/salliver/AUTHFIT-Keycloak-theme-live-editor)
+  > Keycloak login theme with a live, no-code branding editor — style your login page (colors, gradients...
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [systemofapwne/keycloak-turnstile](https://github.com/systemofapwne/keycloak-turnstile)
+  > A Keycloak plugin enables Cloudflare Turnstile support.
+
+### [zwass](https://github.com/zwass)
+- 🌟 👤 [zwass](https://github.com/zwass) Starred [RedHate/Unbricking-inMusic-Products](https://github.com/RedHate/Unbricking-inMusic-Products)
+  > information on how to unbrick inMusic brand products.
 
 ### [zzzeek](https://github.com/zzzeek)
 - 🌟 👤 [zzzeek](https://github.com/zzzeek) Starred [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme)
@@ -135,7 +129,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-15 17:21:02 UTC*
+*Last updated at 2026-09-15 20:31:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
