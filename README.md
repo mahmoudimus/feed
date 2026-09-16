@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [AndrasKovacs](https://github.com/AndrasKovacs) Starred [well-typed/haskell-debugger](https://github.com/well-typed/haskell-debugger)
   > A modern step-through debugger for GHC Haskell
 
+### [DinoChiesa](https://github.com/DinoChiesa)
+- 🌟 👤 [DinoChiesa](https://github.com/DinoChiesa) Starred [google/agents-cli](https://github.com/google/agents-cli)
+  > The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploy...
+
 ### [GrandpaGameHacker](https://github.com/GrandpaGameHacker)
 - 🌟 👤 [GrandpaGameHacker](https://github.com/GrandpaGameHacker) Starred [KillaBoi/BrokenPipe](https://github.com/KillaBoi/BrokenPipe)
   > Steam Client Service Local Privilege Escalation Vulnerability
@@ -22,11 +26,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [distribution/distribution](https://github.com/distribution/distribution)
   > The toolkit to pack, ship, store, and deliver container content
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [dzshzx/codexcomp](https://github.com/dzshzx/codexcomp)
+  > Local Responses proxy for Codex CLI: folds gpt-5.5 518n-2 reasoning truncation (516 degradation) via...
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent)
   > A training-free multi-agent framework for recursive self-improvement in new environments through bro...
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
   > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server,...
+
+### [andyleejordan](https://github.com/andyleejordan)
+- 🌟 👤 [andyleejordan](https://github.com/andyleejordan) Starred [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop)
+  > Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for deve...
 
 ### [artem](https://github.com/artem)
 - 🌟 👤 [artem](https://github.com/artem) Starred [Zenofex/SoC-BootROMs](https://github.com/Zenofex/SoC-BootROMs)
@@ -47,6 +59,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eonarheim](https://github.com/eonarheim) Starred [Shmellyorc/Void](https://github.com/Shmellyorc/Void)
   > A modular, extensible 2D game framework for .NET.
 
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
+  > The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [tiantianGPU/reg-factory](https://github.com/tiantianGPU/reg-factory)
+  > 天天卡网
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [0NG/snow-A-nalysis](https://github.com/0NG/snow-A-nalysis)
+
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [oooscoos/Benzi](https://github.com/oooscoos/Benzi)
   > Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps si...
@@ -60,10 +83,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Independent multi-segment MiniMax H3 Motion Director for ComfyUI
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [seitanism/ComfyUI-H3-Motion-Context-MultiRef](https://github.com/seitanism/ComfyUI-H3-Motion-Context-MultiRef)
   > Minimax H3 nodes and workflows for video extension, one-shot music videos, v2v motion transfer and c...
-
-### [kyle-elliott-tob](https://github.com/kyle-elliott-tob)
-- 🍴 👤 [kyle-elliott-tob](https://github.com/kyle-elliott-tob) Forked [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) to [trail-of-forks/ladybird](https://github.com/trail-of-forks/ladybird)
-  > Truly independent web browser
 
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [rizinorg/rizin](https://github.com/rizinorg/rizin)
@@ -118,7 +137,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-16 20:31:45 UTC*
+*Last updated at 2026-09-16 23:19:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
