@@ -8,6 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AndrasKovacs](https://github.com/AndrasKovacs)
+- 🌟 👤 [AndrasKovacs](https://github.com/AndrasKovacs) Starred [wasabi315/choice](https://github.com/wasabi315/choice)
+
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [xregistry/codegen](https://github.com/xregistry/codegen)
 
@@ -51,6 +54,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [EmergenceAI/Emergence-World](https://github.com/EmergenceAI/Emergence-World)
   > Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.
 
+### [mbrt](https://github.com/mbrt)
+- 🌟 👤 [mbrt](https://github.com/mbrt) Starred [gastownhall/beads](https://github.com/gastownhall/beads)
+  > Beads - A memory upgrade for your coding agent
+
 ### [mksh](https://github.com/mksh)
 - 🌟 👤 [mksh](https://github.com/mksh) Starred [laurent22/joplin](https://github.com/laurent22/joplin)
   > Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Andro...
@@ -65,17 +72,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mversic/disjoint_impls](https://github.com/mversic/disjoint_impls)
   > Support for variety of disjoint impls distinguished by associated types
 
-### [qiyuangong](https://github.com/qiyuangong)
-- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
-  > the runtime your coding agents live on
-- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
-  > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
-- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
-  > Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for b...
-- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
-  > Secure and fast microVMs for serverless computing.
-- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [aisa-group/PostTrainBench](https://github.com/aisa-group/PostTrainBench)
-  > Measuring how well CLI agents like Claude Code or Codex CLI can post-train base LLMs on a single H10...
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)
+  > An open-source background agents coding system
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [0xjohnnydev/airlift](https://github.com/0xjohnnydev/airlift)
+  > AirLift — paired-Mac AirTraffic/ATAirlock sandbox escape for iOS 27.0
 
 ### [tiran](https://github.com/tiran)
 - 🍴 👤 [tiran](https://github.com/tiran) Forked [ogx-ai/ogx](https://github.com/ogx-ai/ogx) to [tiran/ogx](https://github.com/tiran/ogx)
@@ -89,13 +92,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [xrash](https://github.com/xrash) Starred [egoist/tsup](https://github.com/egoist/tsup)
   > The simplest and fastest way to bundle your TypeScript libraries.
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)
+  > OpenTUI is a library to build terminal user interfaces (TUI)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [typesafe-ai/typesafe-sdk-python](https://github.com/typesafe-ai/typesafe-sdk-python)
+  > The official Python library for the TypeSafe API
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [typesafe-ai/system-one-adapter-python](https://github.com/typesafe-ai/system-one-adapter-python)
+  > Drop-in TypeSafeClient replacement backed by LLM APIs
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [typesafe-ai/skills](https://github.com/typesafe-ai/skills)
+  > Agent skills for building with TypeSafe's System One API
+
 
 <!-- nav -->
 [← 2026-09-16](archive/2026/09/16.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-17 13:50:22 UTC*
+*Last updated at 2026-09-17 17:46:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
