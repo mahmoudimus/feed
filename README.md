@@ -26,10 +26,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
 
-### [emcfarlane](https://github.com/emcfarlane)
-- 🍴 👤 [emcfarlane](https://github.com/emcfarlane) Forked [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) to [emcfarlane/PX4-Autopilot](https://github.com/emcfarlane/PX4-Autopilot)
-  > PX4 Autopilot Software
-
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [laveeshb/linux-kernel-internals](https://github.com/laveeshb/linux-kernel-internals) to [fengjixuchui/linux-kernel-internals1](https://github.com/fengjixuchui/linux-kernel-internals1)
   > Documentation of Linux kernel design decisions, internals, and rationale
@@ -49,10 +45,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Sweaterdog/J-Space-Explorer](https://github.com/Sweaterdog/J-Space-Explorer)
   > Explore the J Space of local models
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel)
+  > AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video work...
 
 ### [justaugustus](https://github.com/justaugustus)
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [GeauxJD/newsletter-bot](https://github.com/GeauxJD/newsletter-bot)
   > Collects updates from OpenSSF meetings and projects to generate a Community Newsletter.
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+  > AI agents running research on single-GPU nanochat training automatically
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [EmergenceAI/Emergence-World](https://github.com/EmergenceAI/Emergence-World)
@@ -70,8 +70,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Andro...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pithings/advocaat](https://github.com/pithings/advocaat)
-  > A small, type-safe client for asking AI questions about your data, powered by TypeSafe Jev. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JoshuaSP/open-jev](https://github.com/JoshuaSP/open-jev)
+  > Typed JSON inference with DiffusionGemma, with Every and Jev benchmark results
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mversic/rust-spec](https://github.com/mversic/rust-spec)
@@ -89,13 +89,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
   > AI agents can now use real Android and iOS apps, just like a human.
 
+### [sintaxi](https://github.com/sintaxi)
+- 🍴 👤 [sintaxi](https://github.com/sintaxi) Forked [publicsuffix/list](https://github.com/publicsuffix/list) to [sintaxi/list](https://github.com/sintaxi/list)
+  > The Public Suffix List
+
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [0xjohnnydev/airlift](https://github.com/0xjohnnydev/airlift)
   > AirLift — paired-Mac AirTraffic/ATAirlock sandbox escape for iOS 27.0
-
-### [williballenthin](https://github.com/williballenthin)
-- 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [markjaquith/cowtree](https://github.com/markjaquith/cowtree) to [williballenthin/cowtree](https://github.com/williballenthin/cowtree)
-  > Create space-efficient Git worktrees on macOS using APFS copy-on-write clones. Compact existing work...
 
 ### [xrash](https://github.com/xrash)
 - 🌟 👤 [xrash](https://github.com/xrash) Starred [egoist/tsup](https://github.com/egoist/tsup)
@@ -105,33 +105,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)
-  > OpenTUI is a library to build terminal user interfaces (TUI)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [typesafe-ai/typesafe-sdk-python](https://github.com/typesafe-ai/typesafe-sdk-python)
-  > The official Python library for the TypeSafe API
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [typesafe-ai/system-one-adapter-python](https://github.com/typesafe-ai/system-one-adapter-python)
-  > Drop-in TypeSafeClient replacement backed by LLM APIs
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [typesafe-ai/skills](https://github.com/typesafe-ai/skills)
-  > Agent skills for building with TypeSafe's System One API
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
-  > cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [NVlabs/cutile-rs](https://github.com/NVlabs/cutile-rs)
-  > cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [neowu/vz](https://github.com/neowu/vz)
-  > A lightweight virtual machine tool for macOS, rust version
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [google/agents-cli](https://github.com/google/agents-cli)
-  > The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploy...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [huggingface/hf-hub](https://github.com/huggingface/hf-hub)
-  > Rust client for the huggingface hub aiming for minimal subset of features over `huggingface-hub` pyt...
-
 
 <!-- nav -->
 [← 2026-09-16](archive/2026/09/16.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-17 20:38:19 UTC*
+*Last updated at 2026-09-17 23:10:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
