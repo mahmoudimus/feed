@@ -50,9 +50,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Sweaterdog/J-Space-Explorer](https://github.com/Sweaterdog/J-Space-Explorer)
   > Explore the J Space of local models
 
+### [justaugustus](https://github.com/justaugustus)
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [GeauxJD/newsletter-bot](https://github.com/GeauxJD/newsletter-bot)
+  > Collects updates from OpenSSF meetings and projects to generate a Community Newsletter.
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [EmergenceAI/Emergence-World](https://github.com/EmergenceAI/Emergence-World)
   > Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.
+
+### [marbemac](https://github.com/marbemac)
+- 🌟 👤 [marbemac](https://github.com/marbemac) Starred [TeamWarp/effect-mq](https://github.com/TeamWarp/effect-mq)
 
 ### [mbrt](https://github.com/mbrt)
 - 🌟 👤 [mbrt](https://github.com/mbrt) Starred [gastownhall/beads](https://github.com/gastownhall/beads)
@@ -61,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mksh](https://github.com/mksh)
 - 🌟 👤 [mksh](https://github.com/mksh) Starred [laurent22/joplin](https://github.com/laurent22/joplin)
   > Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Andro...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pithings/advocaat](https://github.com/pithings/advocaat)
+  > A small, type-safe client for asking AI questions about your data, powered by TypeSafe Jev. 
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mversic/rust-spec](https://github.com/mversic/rust-spec)
@@ -75,14 +86,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)
   > An open-source background agents coding system
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
+  > AI agents can now use real Android and iOS apps, just like a human.
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [0xjohnnydev/airlift](https://github.com/0xjohnnydev/airlift)
   > AirLift — paired-Mac AirTraffic/ATAirlock sandbox escape for iOS 27.0
-
-### [tiran](https://github.com/tiran)
-- 🍴 👤 [tiran](https://github.com/tiran) Forked [ogx-ai/ogx](https://github.com/ogx-ai/ogx) to [tiran/ogx](https://github.com/tiran/ogx)
-  > Open GenAI Stack
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [markjaquith/cowtree](https://github.com/markjaquith/cowtree) to [williballenthin/cowtree](https://github.com/williballenthin/cowtree)
@@ -91,6 +100,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xrash](https://github.com/xrash)
 - 🌟 👤 [xrash](https://github.com/xrash) Starred [egoist/tsup](https://github.com/egoist/tsup)
   > The simplest and fastest way to bundle your TypeScript libraries.
+
+### [yangdanny97](https://github.com/yangdanny97)
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)
@@ -101,6 +114,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Drop-in TypeSafeClient replacement backed by LLM APIs
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [typesafe-ai/skills](https://github.com/typesafe-ai/skills)
   > Agent skills for building with TypeSafe's System One API
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
+  > cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [NVlabs/cutile-rs](https://github.com/NVlabs/cutile-rs)
+  > cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [neowu/vz](https://github.com/neowu/vz)
+  > A lightweight virtual machine tool for macOS, rust version
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [google/agents-cli](https://github.com/google/agents-cli)
+  > The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploy...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [huggingface/hf-hub](https://github.com/huggingface/hf-hub)
+  > Rust client for the huggingface hub aiming for minimal subset of features over `huggingface-hub` pyt...
 
 
 <!-- nav -->
@@ -108,7 +131,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-17 17:46:48 UTC*
+*Last updated at 2026-09-17 20:38:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
