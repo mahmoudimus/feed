@@ -8,9 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [BaseMax](https://github.com/BaseMax)
-- 🍴 👤 [BaseMax](https://github.com/BaseMax) Forked [github-linguist/linguist](https://github.com/github-linguist/linguist) to [BaseMax/linguist](https://github.com/BaseMax/linguist)
-  > Language Savant. If your repository's language is being reported incorrectly, send us a pull request...
+### [John-K](https://github.com/John-K)
+- 🌟 👤 [John-K](https://github.com/John-K) Starred [qemus/qemu-vmvga](https://github.com/qemus/qemu-vmvga)
+  > Virtual graphics adapter for QEMU with GPU acceleration.
 
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts)
@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [MiniMax-AI/minimax-code](https://github.com/MiniMax-AI/minimax-code)
   > An open-source coding agent for your terminal, powered by MiniMax.
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [ScriptedAlchemy/pstack-codex](https://github.com/ScriptedAlchemy/pstack-codex)
+  > Codex-native port of Lauren Tan's pstack: 47 skills, 23 playbooks, agent personas, multi-agent workf...
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [TecharoHQ/reputationdb](https://github.com/TecharoHQ/reputationdb)
   > The IP reputation database source for Anubis
@@ -32,9 +36,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
   > Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu...
 
-### [emcfarlane](https://github.com/emcfarlane)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [aardappel/goose](https://github.com/aardappel/goose)
-  > The Goose Programming Language
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [marcosd4h/wesp-research](https://github.com/marcosd4h/wesp-research) to [fengjixuchui/wesp-research](https://github.com/fengjixuchui/wesp-research)
@@ -66,6 +70,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID)
   > reverse engineering Gemini's SynthID detection
 
+### [inmcm](https://github.com/inmcm)
+- 🌟 👤 [inmcm](https://github.com/inmcm) Starred [agra-uni-bremen/virtual-breadboard](https://github.com/agra-uni-bremen/virtual-breadboard)
+  > Virtual Breadboard / PCB simulation for Prototyping and Educational Purposes
+
+### [jaredpalmer](https://github.com/jaredpalmer)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
+  > tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
   > i. am. speed.
@@ -75,6 +87,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Type-Safe Decoding for Autoregressive LLMs
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [XGEN-Labs/XGEN-JING](https://github.com/XGEN-Labs/XGEN-JING)
 
+### [kmelve](https://github.com/kmelve)
+- 🍴 👤 [kmelve](https://github.com/kmelve) Forked [RostiMelk/knob](https://github.com/RostiMelk/knob) to [kmelve/knob](https://github.com/kmelve/knob)
+
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)
+  > Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
+
 ### [koxudaxi](https://github.com/koxudaxi)
 - 🍴 👤 [koxudaxi](https://github.com/koxudaxi) Forked [pauleveritt/ds4](https://github.com/pauleveritt/ds4) to [koxudaxi/ds4](https://github.com/koxudaxi/ds4)
   > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
@@ -82,6 +101,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [lovablelabs/oj](https://github.com/lovablelabs/oj)
   > An experimental Rust-native build tool for React apps.
+
+### [marcelkozik](https://github.com/marcelkozik)
+- 🌟 👤 [marcelkozik](https://github.com/marcelkozik) Starred [AlturosDestinations/Alturos.Yolo](https://github.com/AlturosDestinations/Alturos.Yolo)
+  > C# Yolo Darknet Wrapper (real-time object detection)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lobsters/lobsters](https://github.com/lobsters/lobsters) to [mrexodia/lobsters](https://github.com/mrexodia/lobsters)
@@ -94,6 +117,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniM...
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [youssofal/MTPLX](https://github.com/youssofal/MTPLX)
   > The fastest way to run Qwen 3.8 Flash Next and Qwen 3.8 27B on a Mac: 125 tok/s in OpenCode on an M5...
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+  > Free, simple, fast interactive diagrams for any GitHub repository
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [claration/Impactor](https://github.com/claration/Impactor)
@@ -113,6 +138,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [svc64](https://github.com/svc64)
 - 🍴 👤 [svc64](https://github.com/svc64) Forked [jkcoxson/netmuxd](https://github.com/jkcoxson/netmuxd) to [svc64/netmuxd](https://github.com/svc64/netmuxd)
   > A complete reimplementation of Apple's usbmuxd, complete with network support.
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [panva/oauth4webapi](https://github.com/panva/oauth4webapi)
+  > Low-Level OAuth 2 / OpenID Connect Client API for JavaScript Runtimes
 
 ### [tiran](https://github.com/tiran)
 - 🍴 👤 [tiran](https://github.com/tiran) Forked [Dao-AILab/causal-conv1d](https://github.com/Dao-AILab/causal-conv1d) to [tiran/causal-conv1d](https://github.com/tiran/causal-conv1d)
@@ -145,7 +174,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-18 15:23:38 UTC*
+*Last updated at 2026-09-18 18:41:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
