@@ -32,6 +32,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [TecharoHQ/reputationdb](https://github.com/TecharoHQ/reputationdb)
   > The IP reputation database source for Anubis
 
+### [asalih](https://github.com/asalih)
+- 🌟 👤 [asalih](https://github.com/asalih) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+
+### [bwhaley](https://github.com/bwhaley)
+- 🌟 👤 [bwhaley](https://github.com/bwhaley) Starred [mmjang/herdr-omni](https://github.com/mmjang/herdr-omni)
+  > One search for Herdr workspaces, actions, and live or saved Codex & Claude sessions. Fuzzy-find by n...
+- 🍴 👤 [bwhaley](https://github.com/bwhaley) Forked [mmjang/herdr-omni](https://github.com/mmjang/herdr-omni) to [bwhaley/herdr-omni](https://github.com/bwhaley/herdr-omni)
+  > One search for Herdr workspaces, actions, and live or saved Codex & Claude sessions. Fuzzy-find by n...
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
   > Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu...
@@ -47,18 +57,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Useful Information
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [0vercl0k/lockmem-rs](https://github.com/0vercl0k/lockmem-rs) to [fengjixuchui/lockmem-rs](https://github.com/fengjixuchui/lockmem-rs)
   > Lock virtual memory regions of an arbitrary process into its working set.
-
-### [frol](https://github.com/frol)
-- 🌟 👤 [frol](https://github.com/frol) Starred [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce)
-  > GPUI – Community Edition
-- 🌟 👤 [frol](https://github.com/frol) Starred [dequelabs/axe-core](https://github.com/dequelabs/axe-core)
-  > Accessibility engine for automated Web UI testing
-- 🌟 👤 [frol](https://github.com/frol) Starred [cameroncooke/AXe](https://github.com/cameroncooke/AXe)
-  > AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
-- 🌟 👤 [frol](https://github.com/frol) Starred [dimanovikov/datadiff](https://github.com/dimanovikov/datadiff)
-  > Semantic diff for JSON, YAML, CSV, TOML and XML that plugs into git diff. Ignores key order and form...
-- 🌟 👤 [frol](https://github.com/frol) Starred [kingwingfly/scrcap](https://github.com/kingwingfly/scrcap)
-  > A Rust screen capture crate for Windows/macOS/Linux.
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [Killbokx/vaunguard-deobfuscator](https://github.com/Killbokx/vaunguard-deobfuscator)
@@ -77,6 +75,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jaredpalmer](https://github.com/jaredpalmer)
 - 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
   > tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [geo-tp/Cardputer-Game-Station-Emulators](https://github.com/geo-tp/Cardputer-Game-Station-Emulators)
+  > Emulators  running NES, SNES, GameBoy, GameGear, Master System, Megadrive, Neo Geo Pocket, WonderSwa...
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
@@ -147,6 +149,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [tiran](https://github.com/tiran) Forked [Dao-AILab/causal-conv1d](https://github.com/Dao-AILab/causal-conv1d) to [tiran/causal-conv1d](https://github.com/tiran/causal-conv1d)
   > Causal depthwise conv1d in CUDA, with a PyTorch interface
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
+  > Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [samuelcolvin/cloudkv](https://github.com/samuelcolvin/cloudkv)
+  > key/value store for Python based on Cloudflare workers
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [joelanders/gearmulator-md-mm](https://github.com/joelanders/gearmulator-md-mm)
   > Emulations of Elektron's Machinedrum + Monomachine. My fork of TUS's gearmulator. Please don't bug t...
@@ -174,7 +182,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-18 18:41:30 UTC*
+*Last updated at 2026-09-18 21:18:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
