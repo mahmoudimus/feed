@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [DinoChiesa](https://github.com/DinoChiesa)
+- 🍴 👤 [DinoChiesa](https://github.com/DinoChiesa) Forked [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) to [DinoChiesa/magic-modules](https://github.com/DinoChiesa/magic-modules)
+  > Add Google Cloud Platform support to Terraform
+
 ### [John-K](https://github.com/John-K)
 - 🌟 👤 [John-K](https://github.com/John-K) Starred [qemus/qemu-vmvga](https://github.com/qemus/qemu-vmvga)
   > Virtual graphics adapter for QEMU with GPU acceleration.
@@ -24,10 +28,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [MiniMax-AI/minimax-code](https://github.com/MiniMax-AI/minimax-code)
   > An open-source coding agent for your terminal, powered by MiniMax.
 
-### [Stanzilla](https://github.com/Stanzilla)
-- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [ScriptedAlchemy/pstack-codex](https://github.com/ScriptedAlchemy/pstack-codex)
-  > Codex-native port of Lauren Tan's pstack: 47 skills, 23 playbooks, agent personas, multi-agent workf...
-
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [TecharoHQ/reputationdb](https://github.com/TecharoHQ/reputationdb)
   > The IP reputation database source for Anubis
@@ -39,8 +39,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [bwhaley](https://github.com/bwhaley)
 - 🌟 👤 [bwhaley](https://github.com/bwhaley) Starred [mmjang/herdr-omni](https://github.com/mmjang/herdr-omni)
   > One search for Herdr workspaces, actions, and live or saved Codex & Claude sessions. Fuzzy-find by n...
-- 🍴 👤 [bwhaley](https://github.com/bwhaley) Forked [mmjang/herdr-omni](https://github.com/mmjang/herdr-omni) to [bwhaley/herdr-omni](https://github.com/bwhaley/herdr-omni)
-  > One search for Herdr workspaces, actions, and live or saved Codex & Claude sessions. Fuzzy-find by n...
+- 🌟 👤 [bwhaley](https://github.com/bwhaley) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
+  > Your own search engine
 
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
@@ -134,9 +134,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [secdev/scapy](https://github.com/secdev/scapy)
   > Scapy: the Python-based interactive packet manipulation program & library.
 
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
-
 ### [svc64](https://github.com/svc64)
 - 🍴 👤 [svc64](https://github.com/svc64) Forked [jkcoxson/netmuxd](https://github.com/jkcoxson/netmuxd) to [svc64/netmuxd](https://github.com/svc64/netmuxd)
   > A complete reimplementation of Apple's usbmuxd, complete with network support.
@@ -182,7 +179,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-18 21:18:56 UTC*
+*Last updated at 2026-09-18 23:41:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
