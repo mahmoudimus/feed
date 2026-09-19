@@ -46,6 +46,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [alibaba-damo-academy/damo-radar](https://github.com/alibaba-damo-academy/damo-radar)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
+  > The Photoshop alternative for Mac
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)
   > Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI...
@@ -55,6 +59,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, in...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cachix/factorseal](https://github.com/cachix/factorseal)
   > Factorseal is a local secrets vault for Linux, macOS, and Windows.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [binarynonsense/comic-book-reader](https://github.com/binarynonsense/comic-book-reader)
@@ -79,10 +84,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rwjblue](https://github.com/rwjblue)
 - 🍴 👤 [rwjblue](https://github.com/rwjblue) Forked [ham2k/extensions](https://github.com/ham2k/extensions) to [rwjblue/extensions](https://github.com/rwjblue/extensions)
   > Standalone official Ham2K extensions, published to catalog.ham2k.net
-
-### [samuelcolvin](https://github.com/samuelcolvin)
-- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [fugue-labs/monty-go](https://github.com/fugue-labs/monty-go)
-  > Pure-Go wrapper for Pydantic Monty Python interpreter via WASM + wazero
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [shazow/apron](https://github.com/shazow/apron)
@@ -115,7 +116,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-19 17:32:36 UTC*
+*Last updated at 2026-09-19 19:40:46 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
