@@ -15,9 +15,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Kesin11](https://github.com/Kesin11)
 - 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [githubnext/localjev](https://github.com/githubnext/localjev)
 
+### [KiFilterFiberContext](https://github.com/KiFilterFiberContext)
+- 🌟 👤 [KiFilterFiberContext](https://github.com/KiFilterFiberContext) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
+  > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
+
+### [NormXU](https://github.com/NormXU)
+- 🌟 👤 [NormXU](https://github.com/NormXU) Starred [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev)
+  > A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed d...
+- 🌟 👤 [NormXU](https://github.com/NormXU) Starred [milind-soni/tiptour-macos](https://github.com/milind-soni/tiptour-macos)
+  > Open-Source fast local computer use
+
 ### [bwhaley](https://github.com/bwhaley)
 - 🍴 👤 [bwhaley](https://github.com/bwhaley) Forked [asciimoo/hister](https://github.com/asciimoo/hister) to [bwhaley/hister](https://github.com/bwhaley/hister)
   > Your own search engine
+
+### [dbkegley](https://github.com/dbkegley)
+- 🍴 👤 [dbkegley](https://github.com/dbkegley) Forked [helix-editor/helix](https://github.com/helix-editor/helix) to [dbkegley/helix](https://github.com/dbkegley/helix)
+  > A post-modern modal text editor.
 
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts)
@@ -42,6 +56,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cachix/factorseal](https://github.com/cachix/factorseal)
   > Factorseal is a local secrets vault for Linux, macOS, and Windows.
 
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [binarynonsense/comic-book-reader](https://github.com/binarynonsense/comic-book-reader)
+  > ACBR - A comic book reader and converter for CBZ, CBR, CB7, EPUB, FB2, MOBI 7 and PDF files (Windows...
+
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [kernc/backtesting.py](https://github.com/kernc/backtesting.py)
   > 🔎 📈 🐍 💰  Backtest trading strategies in Python.
@@ -58,9 +76,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [alibaba/atrex-kernel-agent](https://github.com/alibaba/atrex-kernel-agent)
   > An end-to-end agent project for GPU kernel implementation, analysis, profiling, and iterative optimi...
 
+### [rwjblue](https://github.com/rwjblue)
+- 🍴 👤 [rwjblue](https://github.com/rwjblue) Forked [ham2k/extensions](https://github.com/ham2k/extensions) to [rwjblue/extensions](https://github.com/rwjblue/extensions)
+  > Standalone official Ham2K extensions, published to catalog.ham2k.net
+
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [fugue-labs/monty-go](https://github.com/fugue-labs/monty-go)
+  > Pure-Go wrapper for Pydantic Monty Python interpreter via WASM + wazero
+
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [shazow/apron](https://github.com/shazow/apron)
   > Bottomless chat app for any headless backend with a simple websocket protocol.
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [rcarmo/go-pherence](https://github.com/rcarmo/go-pherence)
+  > Minimal tensor computation framework in pure Go with SIMD assembly, inspired by tinygrad
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [lunadialsys/NightshadeLua](https://github.com/lunadialsys/NightshadeLua)
@@ -87,7 +115,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-19 14:55:17 UTC*
+*Last updated at 2026-09-19 17:32:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
