@@ -12,6 +12,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [AndrasKovacs](https://github.com/AndrasKovacs) Starred [dakra/ghostel](https://github.com/dakra/ghostel)
   > Terminal emulator powered by libghostty
 
+### [Kesin11](https://github.com/Kesin11)
+- 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [githubnext/localjev](https://github.com/githubnext/localjev)
+
 ### [bwhaley](https://github.com/bwhaley)
 - 🍴 👤 [bwhaley](https://github.com/bwhaley) Forked [asciimoo/hister](https://github.com/asciimoo/hister) to [bwhaley/hister](https://github.com/bwhaley/hister)
   > Your own search engine
@@ -29,13 +32,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [alibaba-damo-academy/damo-radar](https://github.com/alibaba-damo-academy/damo-radar)
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiniMax-AI/minimax-code](https://github.com/MiniMax-AI/minimax-code)
-  > An open-source coding agent for your terminal, powered by MiniMax.
-
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)
   > Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [moonbitlang/openseek_tui](https://github.com/moonbitlang/openseek_tui)
+  > OpenSeek interactive terminal UI (openseek_tui): drives the headless openseek engine over its JSONL ...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens)
+  > Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, in...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cachix/factorseal](https://github.com/cachix/factorseal)
+  > Factorseal is a local secrets vault for Linux, macOS, and Windows.
 
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [kernc/backtesting.py](https://github.com/kernc/backtesting.py)
@@ -52,6 +57,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [alibaba/atrex-kernel-agent](https://github.com/alibaba/atrex-kernel-agent)
   > An end-to-end agent project for GPU kernel implementation, analysis, profiling, and iterative optimi...
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [shazow/apron](https://github.com/shazow/apron)
+  > Bottomless chat app for any headless backend with a simple websocket protocol.
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [lunadialsys/NightshadeLua](https://github.com/lunadialsys/NightshadeLua)
@@ -72,18 +81,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [apache/tvm](https://github.com/apache/tvm) to [zacharywhitley/tvm](https://github.com/zacharywhitley/tvm)
   > Open Machine Learning Compiler Framework
 
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [google/go-lru](https://github.com/google/go-lru)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [Choochmeque/autocxx](https://github.com/Choochmeque/autocxx)
-  > Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
-
 
 <!-- nav -->
 [← 2026-09-18](archive/2026/09/18.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-19 11:40:40 UTC*
+*Last updated at 2026-09-19 14:55:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
