@@ -8,24 +8,34 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [Xe](https://github.com/Xe)
-- 🌟 👤 [Xe](https://github.com/Xe) Starred [avencera/speakrs](https://github.com/avencera/speakrs)
-  > Speaker diarization in Rust. 312–912x realtime on Apple Silicon, 50–121x on CUDA. Matches pyannote a...
+### [AndrasKovacs](https://github.com/AndrasKovacs)
+- 🌟 👤 [AndrasKovacs](https://github.com/AndrasKovacs) Starred [dakra/ghostel](https://github.com/dakra/ghostel)
+  > Terminal emulator powered by libghostty
 
 ### [bwhaley](https://github.com/bwhaley)
 - 🍴 👤 [bwhaley](https://github.com/bwhaley) Forked [asciimoo/hister](https://github.com/asciimoo/hister) to [bwhaley/hister](https://github.com/bwhaley/hister)
   > Your own search engine
 
+### [imrehg](https://github.com/imrehg)
+- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts)
+  > Transcripts of Clojure-related talks
+- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [helix-editor/helix](https://github.com/helix-editor/helix)
+  > A post-modern modal text editor.
+
 ### [inmcm](https://github.com/inmcm)
 - 🌟 👤 [inmcm](https://github.com/inmcm) Starred [github/spec-kit](https://github.com/github/spec-kit)
   > 💫 Toolkit to help you get started with Spec-Driven Development
 
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [incoai/splash](https://github.com/incoai/splash)
-  > A local inference engine for Apple silicon, built around the model.
-
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [alibaba-damo-academy/damo-radar](https://github.com/alibaba-damo-academy/damo-radar)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiniMax-AI/minimax-code](https://github.com/MiniMax-AI/minimax-code)
+  > An open-source coding agent for your terminal, powered by MiniMax.
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)
+  > Zero-shot text classification over plain HTTP — no API key, no account. One Cloudflare Worker, a CLI...
 
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [kernc/backtesting.py](https://github.com/kernc/backtesting.py)
@@ -38,6 +48,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Catch code issues before they catch you.
 - 🌟 👤 [pims](https://github.com/pims) Starred [featherless-ai/simple-jev](https://github.com/featherless-ai/simple-jev)
   > Turn any open model into a classifier/jev endpoint
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [alibaba/atrex-kernel-agent](https://github.com/alibaba/atrex-kernel-agent)
+  > An end-to-end agent project for GPU kernel implementation, analysis, profiling, and iterative optimi...
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [lunadialsys/NightshadeLua](https://github.com/lunadialsys/NightshadeLua)
@@ -58,13 +72,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [apache/tvm](https://github.com/apache/tvm) to [zacharywhitley/tvm](https://github.com/zacharywhitley/tvm)
   > Open Machine Learning Compiler Framework
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [google/go-lru](https://github.com/google/go-lru)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Choochmeque/autocxx](https://github.com/Choochmeque/autocxx)
+  > Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers
+
 
 <!-- nav -->
 [← 2026-09-18](archive/2026/09/18.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-19 06:46:57 UTC*
+*Last updated at 2026-09-19 11:40:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
