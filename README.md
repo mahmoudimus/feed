@@ -46,9 +46,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [alibaba-damo-academy/damo-radar](https://github.com/alibaba-damo-academy/damo-radar)
 
+### [lvh](https://github.com/lvh)
+- 🍴 👤 [lvh](https://github.com/lvh) Forked [praetorian-inc/titus](https://github.com/praetorian-inc/titus) to [lvh/titus](https://github.com/lvh/titus)
+  > High-performance secrets scanner. CLI, Go library, Burp Suite extension, and Chrome extension. 487 d...
+
+### [minirop](https://github.com/minirop)
+- 🍴 👤 [minirop](https://github.com/minirop) Forked [bahamas10/c-md5](https://github.com/bahamas10/c-md5) to [minirop/c-md5](https://github.com/minirop/c-md5)
+  > C implementation of the md5 checksum algorithm
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
   > The Photoshop alternative for Mac
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu)
+  > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)
@@ -80,6 +90,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [alibaba/atrex-kernel-agent](https://github.com/alibaba/atrex-kernel-agent)
   > An end-to-end agent project for GPU kernel implementation, analysis, profiling, and iterative optimi...
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu)
+  > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 
 ### [rwjblue](https://github.com/rwjblue)
 - 🍴 👤 [rwjblue](https://github.com/rwjblue) Forked [ham2k/extensions](https://github.com/ham2k/extensions) to [rwjblue/extensions](https://github.com/rwjblue/extensions)
@@ -116,7 +130,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-19 19:40:46 UTC*
+*Last updated at 2026-09-19 21:51:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
