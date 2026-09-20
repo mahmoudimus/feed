@@ -55,6 +55,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface — text-to-music generat...
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [inikolax/remiqora](https://github.com/inikolax/remiqora) to [johndpope/remiqora](https://github.com/johndpope/remiqora)
   > Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface — text-to-music generat...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [sepiablue-ai/ComfyUI-MiniMax-H3-W4A4-VSA](https://github.com/sepiablue-ai/ComfyUI-MiniMax-H3-W4A4-VSA)
+  > MiniMax H3 Ref2VA acceleration with FC1 ConvRot W4A4 and Streaming VSA for ComfyUI
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
+  > A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System...
 
 ### [justaugustus](https://github.com/justaugustus)
 - 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
@@ -65,6 +69,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Modification around SCETool to turn it into a library.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xangel82/Athena-Engine](https://github.com/xangel82/Athena-Engine)
   > LLM Engine for DGX Spark 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
+  > tiny Jev-like family of decision models built on top of Qwen3 you can train and run on your own
+
+### [mthenw](https://github.com/mthenw)
+- 🌟 👤 [mthenw](https://github.com/mthenw) Starred [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)
+  > Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [rit3zh/expo-ios-popover](https://github.com/rit3zh/expo-ios-popover)
@@ -72,7 +82,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
-  > tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your MacBook
+  > tiny Jev-like family of decision models built on top of Qwen3 you can train and run on your own
 - 🌟 👤 [pims](https://github.com/pims) Starred [moritzkremb/jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser)
   > Control a real browser by voice. Jev (TypeSafe System One) decides intent + target in ~300 ms per sp...
 - 🌟 👤 [pims](https://github.com/pims) Starred [bnsd55/jevmlx](https://github.com/bnsd55/jevmlx)
@@ -81,6 +91,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
   > .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [AldazActivator/airlift-rw](https://github.com/AldazActivator/airlift-rw)
 
 ### [samuelcolvin](https://github.com/samuelcolvin)
 - 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [kubet/azdaja](https://github.com/kubet/azdaja)
@@ -104,13 +115,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HullaBrian/capa-cpp](https://github.com/HullaBrian/capa-cpp)
   > Targeted C++ reimplementation of CAPA
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [andrei-drexler/ironwail](https://github.com/andrei-drexler/ironwail)
+  > High-performance QuakeSpasm fork
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Novum/vkQuake](https://github.com/Novum/vkQuake)
+  > Vulkan Quake port based on QuakeSpasm
+
 
 <!-- nav -->
 [← 2026-09-19](archive/2026/09/19.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-20 16:34:09 UTC*
+*Last updated at 2026-09-20 19:08:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
