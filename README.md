@@ -26,13 +26,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ericop](https://github.com/ericop) Starred [redya-dev/Rainbow-Survivors](https://github.com/redya-dev/Rainbow-Survivors)
 - 🍴 👤 [ericop](https://github.com/ericop) Forked [redya-dev/Rainbow-Survivors](https://github.com/redya-dev/Rainbow-Survivors) to [ericop/Rainbow-Survivors](https://github.com/ericop/Rainbow-Survivors)
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg) to [fengjixuchui/antidbg1](https://github.com/fengjixuchui/antidbg1)
+  > A stealthy, fully syscalled C/C++ userland anti-debugging library for Windows, designed to protect s...
+
 ### [fmeum](https://github.com/fmeum)
 - 🍴 👤 [fmeum](https://github.com/fmeum) Forked [grpc/grpc](https://github.com/grpc/grpc) to [fmeum/grpc](https://github.com/fmeum/grpc)
   > C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [446599/ccodex-rotate](https://github.com/446599/ccodex-rotate)
+  > Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-st...
+
 ### [hsiafan](https://github.com/hsiafan)
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [tevelee/SwiftUI-Flow](https://github.com/tevelee/SwiftUI-Flow)
   > Flow Layout implemented in SwiftUI
+
+### [imrehg](https://github.com/imrehg)
+- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [airbytehq/abctl](https://github.com/airbytehq/abctl)
+  > Airbyte's CLI for managing local Airbyte installations
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [SHSharkar/MCP-Mathematics](https://github.com/SHSharkar/MCP-Mathematics)
@@ -44,11 +56,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [inikolax/remiqora](https://github.com/inikolax/remiqora) to [johndpope/remiqora](https://github.com/johndpope/remiqora)
   > Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface — text-to-music generat...
 
+### [justaugustus](https://github.com/justaugustus)
+- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+  > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [LittleBigRefresh/scetool](https://github.com/LittleBigRefresh/scetool) to [mrexodia/scetool](https://github.com/mrexodia/scetool)
   > Modification around SCETool to turn it into a library.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xangel82/Athena-Engine](https://github.com/xangel82/Athena-Engine)
   > LLM Engine for DGX Spark 
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [rit3zh/expo-ios-popover](https://github.com/rit3zh/expo-ios-popover)
+  > 🎯 Native iOS popovers for React Native & Expo
 
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
@@ -61,6 +81,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
   > .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [kubet/azdaja](https://github.com/kubet/azdaja)
+  > Minimal harness-agnostic recursive language model layer — one binary, Python + llm()
 
 ### [tiran](https://github.com/tiran)
 - 🍴 👤 [tiran](https://github.com/tiran) Forked [Quansight/torch-abi-audit](https://github.com/Quansight/torch-abi-audit) to [tiran/torch-abi-audit](https://github.com/tiran/torch-abi-audit)
@@ -76,13 +100,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [vvaltchev](https://github.com/vvaltchev) Starred [superninjv/airpods-helper](https://github.com/superninjv/airpods-helper)
   > Native Apple AirPods support for Linux
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HullaBrian/capa-cpp](https://github.com/HullaBrian/capa-cpp)
+  > Targeted C++ reimplementation of CAPA
+
 
 <!-- nav -->
 [← 2026-09-19](archive/2026/09/19.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-20 12:41:27 UTC*
+*Last updated at 2026-09-20 16:34:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
