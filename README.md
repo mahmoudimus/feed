@@ -25,6 +25,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [milind-soni/tiptour-macos](https://github.com/milind-soni/tiptour-macos)
   > Open-Source fast local computer use
 
+### [Xyl2k](https://github.com/Xyl2k)
+- 🌟 👤 [Xyl2k](https://github.com/Xyl2k) Starred [arkup/arkDasm](https://github.com/arkup/arkDasm)
+  > Interactive disassembler for PE32+ executables and debugger for x64 Windows
+
 ### [bwhaley](https://github.com/bwhaley)
 - 🍴 👤 [bwhaley](https://github.com/bwhaley) Forked [asciimoo/hister](https://github.com/asciimoo/hister) to [bwhaley/hister](https://github.com/bwhaley/hister)
   > Your own search engine
@@ -59,6 +63,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The Photoshop alternative for Mac
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu)
   > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [YuGiMob/pi-hashline-edit-pro](https://github.com/YuGiMob/pi-hashline-edit-pro)
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mrmps/classifier-dev](https://github.com/mrmps/classifier-dev)
@@ -105,6 +110,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [rcarmo/go-pherence](https://github.com/rcarmo/go-pherence)
   > Minimal tensor computation framework in pure Go with SIMD assembly, inspired by tinygrad
 
+### [simonw](https://github.com/simonw)
+- 🍴 👤 [simonw](https://github.com/simonw) Forked [click-contrib/click-default-group](https://github.com/click-contrib/click-default-group) to [simonw-private/click-default-group](https://github.com/simonw-private/click-default-group)
+  > Extends click.Group to invoke a command without explicit subcommand name.
+
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [lunadialsys/NightshadeLua](https://github.com/lunadialsys/NightshadeLua)
   > Somewhat-coarse managed bindings to the Lua programming language, for .NET.
@@ -130,7 +139,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-19 21:51:01 UTC*
+*Last updated at 2026-09-19 23:42:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
