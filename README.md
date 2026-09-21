@@ -106,7 +106,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xangel82/Athena-Engine](https://github.com/xangel82/Athena-Engine)
   > LLM Engine for DGX Spark 
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
-  > tiny Jev-like family of decision models built on top of Qwen3 you can train and run on your own
+  > tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
 
 ### [mthenw](https://github.com/mthenw)
 - 🌟 👤 [mthenw](https://github.com/mthenw) Starred [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)
@@ -122,7 +122,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
-  > tiny Jev-like family of decision models built on top of Qwen3 you can train and run on your own
+  > tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
 - 🌟 👤 [pims](https://github.com/pims) Starred [moritzkremb/jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser)
   > Control a real browser by voice. Jev (TypeSafe System One) decides intent + target in ~300 ms per sp...
 - 🌟 👤 [pims](https://github.com/pims) Starred [bnsd55/jevmlx](https://github.com/bnsd55/jevmlx)
@@ -140,6 +140,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [simonw](https://github.com/simonw)
 - 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/llm-keys-ui](https://github.com/simonw/llm-keys-ui) public
   > LLM web UI for setting keys
+
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [bendlang/bend](https://github.com/bendlang/bend)
+  > Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com...
 
 ### [tiran](https://github.com/tiran)
 - 🍴 👤 [tiran](https://github.com/tiran) Forked [Quansight/torch-abi-audit](https://github.com/Quansight/torch-abi-audit) to [tiran/torch-abi-audit](https://github.com/tiran/torch-abi-audit)
@@ -171,7 +175,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-20 21:58:29 UTC*
+*Last updated at 2026-09-20 23:49:16 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
