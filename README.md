@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [43081j/ai-policy](https://github.com/43081j/ai-policy)
   > A collection of AI contribution policies which can be copied into other projects.
 
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [tataranovich/superhet-4-bands](https://github.com/tataranovich/superhet-4-bands)
+  > SW 4 bands DIY receiver
+
 ### [anzz1](https://github.com/anzz1)
 - 🌟 👤 [anzz1](https://github.com/anzz1) Starred [Rinnegatamante/Crash-Team-Racing-High-Octane](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane)
   > Advanced sourceport of Crash Team Racing for PSVita, PC and Web Browser.
@@ -32,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [Aitum/obs-aitum-stream-suite](https://github.com/Aitum/obs-aitum-stream-suite)
+
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
+  > tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
 
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)
@@ -119,6 +127,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
   > RustFS is an open-source, S3-compatible high-performance object storage system supporting migration ...
 
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [google/ax](https://github.com/google/ax)
+  > Google's open agentic orchestration runtime
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis)
+  > OpenMinis — The AI Agent app across platforms. Fully free and open source.
+
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent)
   > :computer: :key: ssh-agent for TPMs
@@ -126,9 +140,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [jolt-lang/jolt](https://github.com/jolt-lang/jolt) to [clojurestar/jolt](https://github.com/clojurestar/jolt)
   > A Clojure compiler implemented on top of Chez Scheme
+- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [seancorfield/honeysql](https://github.com/seancorfield/honeysql) to [ingydotnet/honeysql](https://github.com/ingydotnet/honeysql)
+  > Turn Clojure data structures into SQL
 
 ### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [claucece/Practical-Cryptography](https://github.com/claucece/Practical-Cryptography)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [systemslibrarian/crypto-lab-aegis-gate](https://github.com/systemslibrarian/crypto-lab-aegis-gate) to [dip-proto/crypto-lab-aegis-gate](https://github.com/dip-proto/crypto-lab-aegis-gate)
   > Browser-based AEGIS-256 authenticated encryption demo (draft-irtf-cfrg-aegis-aead-18). AES round fun...
 
@@ -140,9 +155,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [janishar/h3c-studio](https://github.com/janishar/h3c-studio) to [johndpope/h3c-studio](https://github.com/johndpope/h3c-studio)
   > Local web UI for h3.c — native Metal video/audio generation with MiniMax-H3 on Apple Silicon, no PyT...
 
+### [kevyonan](https://github.com/kevyonan)
+- 🌟 👤 [kevyonan](https://github.com/kevyonan) Starred [mettemfurfur000/blockengine](https://github.com/mettemfurfur000/blockengine)
+  > Tiny silly game engine in C
+
+### [mihaip](https://github.com/mihaip)
+- 🍴 👤 [mihaip](https://github.com/mihaip) Forked [nadavrot/arpfloat](https://github.com/nadavrot/arpfloat) to [mihaip/arpfloat](https://github.com/mihaip/arpfloat)
+  > An arbitrary-precision floating-point library in Rust
+
 ### [mitsuakki](https://github.com/mitsuakki)
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [rizinorg/rz-ghidra](https://github.com/rizinorg/rz-ghidra)
   > Deep ghidra decompiler and sleigh disassembler integration for rizin
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+
+### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)
+  > Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hewigovens/jayjay](https://github.com/hewigovens/jayjay)
@@ -167,13 +198,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [google/ax](https://github.com/google/ax)
-  > Google's open agentic orchestrator
+  > Google's open agentic orchestration runtime
 - 🌟 👤 [pims](https://github.com/pims) Starred [obie/feelings](https://github.com/obie/feelings)
   > Probabilistic conditionals for Ruby: Feelings(message).like?("genuinely urgent")
+
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [rwjblue/ham2k-n1rwj-extensions](https://github.com/rwjblue/ham2k-n1rwj-extensions)
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [google/artemis](https://github.com/google/artemis)
+  > ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-en...
 
 ### [skx](https://github.com/skx)
 - 🌟 👤 [skx](https://github.com/skx) Starred [ha1tch/zen80](https://github.com/ha1tch/zen80)
   > A Z80 and Z80N emulator written in Go.
+
+### [uakarsh](https://github.com/uakarsh)
+- 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [google/ax](https://github.com/google/ax)
+  > Google's open agentic orchestration runtime
 
 ### [zhefox](https://github.com/zhefox)
 - 🍴 👤 [zhefox](https://github.com/zhefox) Forked [zai-org/ZCode](https://github.com/zai-org/ZCode) to [zhefox/ZCode](https://github.com/zhefox/ZCode)
@@ -185,7 +227,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-21 14:37:08 UTC*
+*Last updated at 2026-09-21 19:47:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
