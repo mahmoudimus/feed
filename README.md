@@ -8,28 +8,176 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AlexsJones](https://github.com/AlexsJones)
+- 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
+  > Agent Substrate: the core system
+- 🍴 👤 [AlexsJones](https://github.com/AlexsJones) Forked [agent-substrate/substrate](https://github.com/agent-substrate/substrate) to [AlexsJones/substrate](https://github.com/AlexsJones/substrate)
+  > Agent Substrate: the core system
+
+### [Hellblazer](https://github.com/Hellblazer)
+- 🌟 👤 [Hellblazer](https://github.com/Hellblazer) Starred [kerryrm/systemANE](https://github.com/kerryrm/systemANE)
+  > Proof of concept using Apple's Neural Engine as a "System One" Decision Engine that escalates to App...
+
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [43081j/ai-policy](https://github.com/43081j/ai-policy)
+  > A collection of AI contribution policies which can be copied into other projects.
+
+### [anzz1](https://github.com/anzz1)
+- 🌟 👤 [anzz1](https://github.com/anzz1) Starred [Rinnegatamante/Crash-Team-Racing-High-Octane](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane)
+  > Advanced sourceport of Crash Team Racing for PSVita, PC and Web Browser.
+
+### [boyney123](https://github.com/boyney123)
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+  > Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No M...
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [Aitum/obs-aitum-stream-suite](https://github.com/Aitum/obs-aitum-stream-suite)
+
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)
+  > Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -     ...
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [vgeorgiev90/CallStackSpoof](https://github.com/vgeorgiev90/CallStackSpoof) to [fengjixuchui/CallStackSpoof1](https://github.com/fengjixuchui/CallStackSpoof1)
   > Example of call stack spoofing trough the construction of syntetic frames and stack manipulation
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [entropykit/entropia](https://github.com/entropykit/entropia) to [fengjixuchui/entropia](https://github.com/fengjixuchui/entropia)
+  > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [noahware/kernemul](https://github.com/noahware/kernemul) to [fengjixuchui/kernemul](https://github.com/fengjixuchui/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [noahware/armcall](https://github.com/noahware/armcall) to [fengjixuchui/armcall](https://github.com/fengjixuchui/armcall)
+  > ARM64 Windows direct syscall library.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [noahware/emu](https://github.com/noahware/emu) to [fengjixuchui/emu](https://github.com/fengjixuchui/emu)
+  > ARM64 instruction emulator written in modern c++.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [LLVMParty/RemillWorkshop](https://github.com/LLVMParty/RemillWorkshop) to [fengjixuchui/RemillWorkshop](https://github.com/fengjixuchui/RemillWorkshop)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Spuckwaffel/DMALib](https://github.com/Spuckwaffel/DMALib) to [fengjixuchui/DMALib](https://github.com/fengjixuchui/DMALib)
+  > A small DMA library making your life with your DMA easier
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Zibgame/Stealth-Hypervisor](https://github.com/Zibgame/Stealth-Hypervisor) to [fengjixuchui/Stealth-Hypervisor](https://github.com/fengjixuchui/Stealth-Hypervisor)
+  > Type-1 UEFI Stealth hypervisor for Windows x64 with VM introspection and guest memory access.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [codingheavenleak/better-voyager](https://github.com/codingheavenleak/better-voyager) to [fengjixuchui/better-voyager](https://github.com/fengjixuchui/better-voyager)
+  > Authenticated Hypervisor Toolkit for commercial enterprising.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Zibgame/AntiDebugger-Win64](https://github.com/Zibgame/AntiDebugger-Win64) to [fengjixuchui/AntiDebugger-Win64](https://github.com/fengjixuchui/AntiDebugger-Win64)
+  > Lightweight C/C++ anti-debugging library for Windows 🛡️ Detects debuggers, breakpoints, and anomalie...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [adamvalves/tpm-mmio-hv](https://github.com/adamvalves/tpm-mmio-hv) to [fengjixuchui/tpm-mmio-hv](https://github.com/fengjixuchui/tpm-mmio-hv)
+  > TPM 2.0 MMIO Hypervisor Virtualization & Interception Framework
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MSNightmare/BigDiskBuster](https://github.com/MSNightmare/BigDiskBuster) to [fengjixuchui/BigDiskBuster](https://github.com/fengjixuchui/BigDiskBuster)
+  > Windows Defender Update Denial of Service Vulnerability
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftARMAssembler/Undetected-Easy](https://github.com/MicrosoftARMAssembler/Undetected-Easy) to [fengjixuchui/Undetected-Easy](https://github.com/fengjixuchui/Undetected-Easy)
+  > Undetected Easy (UDE) is a detection scanner for finding detections before they catch you, using rev...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftARMAssembler/Mouse-Synthesis](https://github.com/MicrosoftARMAssembler/Mouse-Synthesis) to [fengjixuchui/Mouse-Synthesis](https://github.com/fengjixuchui/Mouse-Synthesis)
+  > Kernel mouse movement synthesis bypassing ETW by injecting HIDs above the entire driver stack.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftARMAssembler/Divinity](https://github.com/MicrosoftARMAssembler/Divinity) to [fengjixuchui/Divinity](https://github.com/fengjixuchui/Divinity)
+  > Windows kernel framework for legitimate backed memory injection into kernel and user mode.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftARMAssembler/PatchGuard-Blocker](https://github.com/MicrosoftARMAssembler/PatchGuard-Blocker) to [fengjixuchui/PatchGuard-Blocker](https://github.com/fengjixuchui/PatchGuard-Blocker)
+  > Blocks PatchGuard routines by intercepting their exceptions through shadow-mapped physical page hook...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftARMAssembler/NMI-Blocker](https://github.com/MicrosoftARMAssembler/NMI-Blocker) to [fengjixuchui/NMI-Blocker](https://github.com/fengjixuchui/NMI-Blocker)
+  > Kernel-mode IDT hook that blocks NMIs on every active processor at hardware level.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftARMAssembler/Nocturnal-HV](https://github.com/MicrosoftARMAssembler/Nocturnal-HV) to [fengjixuchui/Nocturnal-HV](https://github.com/fengjixuchui/Nocturnal-HV)
+  > Nocturnal-HV is a Simple Type 2 SVM Hypervisor
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftARMAssembler/Kunai-Driverless](https://github.com/MicrosoftARMAssembler/Kunai-Driverless) to [fengjixuchui/Kunai-Driverless](https://github.com/fengjixuchui/Kunai-Driverless)
+  > Kunai Driverless is a Valorant External using a Driverless to Read/Write Memory
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftARMAssembler/Divinity-Fortnite-Internal](https://github.com/MicrosoftARMAssembler/Divinity-Fortnite-Internal) to [fengjixuchui/Divinity-Fortnite-Internal](https://github.com/fengjixuchui/Divinity-Fortnite-Internal)
+  > Fortnite Internal Cheat that had instant kill and bullet TP
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftARMAssembler/Peach-Framework](https://github.com/MicrosoftARMAssembler/Peach-Framework) to [fengjixuchui/Peach-Framework](https://github.com/fengjixuchui/Peach-Framework)
+  > Simple C++ Rendering Framework for DX11-DX12
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/NSI-MAC-Spoofing](https://github.com/MicrosoftMacroAssembler/NSI-MAC-Spoofing) to [fengjixuchui/NSI-MAC-Spoofing](https://github.com/fengjixuchui/NSI-MAC-Spoofing)
+  > MAC address spoofer using NSI completion routine hooking
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/Minimalist-Driver](https://github.com/MicrosoftMacroAssembler/Minimalist-Driver) to [fengjixuchui/Minimalist-Driver](https://github.com/fengjixuchui/Minimalist-Driver)
+  > Minimalist was a spoofing driver using a Registry Callback inspired by me
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/Driver-Steganography](https://github.com/MicrosoftMacroAssembler/Driver-Steganography) to [fengjixuchui/Driver-Steganography](https://github.com/fengjixuchui/Driver-Steganography)
+  > Hides kernel drivers inside of innocent-looking legitimate files by using steganography
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/Control-Flow-Obfuscator](https://github.com/MicrosoftMacroAssembler/Control-Flow-Obfuscator) to [fengjixuchui/Control-Flow-Obfuscator](https://github.com/fengjixuchui/Control-Flow-Obfuscator)
+  > Kernel Driver Compile-time code obfuscation library
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/Registry-Shared-Memory](https://github.com/MicrosoftMacroAssembler/Registry-Shared-Memory) to [fengjixuchui/Registry-Shared-Memory](https://github.com/fengjixuchui/Registry-Shared-Memory)
+  > Threadless Shared Memory Driver via Registry Callback and MDL for user-kernel communication.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/Kernel-Shim-Engine](https://github.com/MicrosoftMacroAssembler/Kernel-Shim-Engine) to [fengjixuchui/Kernel-Shim-Engine](https://github.com/fengjixuchui/Kernel-Shim-Engine)
+  > KSE Shim Registration for abusing patching of IAT, driver callbacks, and IRP I/O packets.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [vmstruct/riot](https://github.com/vmstruct/riot) to [fengjixuchui/riot](https://github.com/fengjixuchui/riot)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/IPC-Concept](https://github.com/MicrosoftMacroAssembler/IPC-Concept) to [fengjixuchui/IPC-Concept](https://github.com/fengjixuchui/IPC-Concept)
+  > Inter-process communication example utilizing named pipes
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/Packspod-Internal](https://github.com/MicrosoftMacroAssembler/Packspod-Internal) to [fengjixuchui/Packspod-Internal](https://github.com/fengjixuchui/Packspod-Internal)
+  > Fortnite Internal Cheat 
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/Orelia-Injector](https://github.com/MicrosoftMacroAssembler/Orelia-Injector) to [fengjixuchui/Orelia-Injector](https://github.com/fengjixuchui/Orelia-Injector)
+  > DLL Injector leveraging EAC for injection
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/SEH-Shared-Memory](https://github.com/MicrosoftMacroAssembler/SEH-Shared-Memory) to [fengjixuchui/SEH-Shared-Memory](https://github.com/fengjixuchui/SEH-Shared-Memory)
+  > POC shared memory driver using the clients exception handler as user-kernel communication. 
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/DPC-Mapper](https://github.com/MicrosoftMacroAssembler/DPC-Mapper) to [fengjixuchui/DPC-Mapper](https://github.com/fengjixuchui/DPC-Mapper)
+  > Driver manual mapper that launches a DPC on the least active core
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/IAT-Injector](https://github.com/MicrosoftMacroAssembler/IAT-Injector) to [fengjixuchui/IAT-Injector](https://github.com/fengjixuchui/IAT-Injector)
+  > IAT (Import-Address-Table) Injection from a Kernel Driver
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [unikgyd/VoWin](https://github.com/unikgyd/VoWin)
   > vowifi on windows，不必再为部署vowifi软件没有mac或者linux而困扰了
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [MddIdd/mdd-sim-gateway](https://github.com/MddIdd/mdd-sim-gateway)
+  > Self-hosted SIM/eSIM gateway for VoWiFi calling, SMS, cellular data and isolated regional egress
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [azw413/Glass](https://github.com/azw413/Glass)
+  > Glass - a fast and free IDA Pro alternative
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [vasie1337/shared-section-driver](https://github.com/vasie1337/shared-section-driver)
+  > Windows kernel driver demonstrating kernel-to-usermode communication via shared memory sections
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
+  > RustFS is an open-source, S3-compatible high-performance object storage system supporting migration ...
 
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent)
   > :computer: :key: ssh-agent for TPMs
 
+### [ingydotnet](https://github.com/ingydotnet)
+- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [jolt-lang/jolt](https://github.com/jolt-lang/jolt) to [clojurestar/jolt](https://github.com/clojurestar/jolt)
+  > A Clojure compiler implemented on top of Chez Scheme
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [claucece/Practical-Cryptography](https://github.com/claucece/Practical-Cryptography)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [systemslibrarian/crypto-lab-aegis-gate](https://github.com/systemslibrarian/crypto-lab-aegis-gate) to [dip-proto/crypto-lab-aegis-gate](https://github.com/dip-proto/crypto-lab-aegis-gate)
+  > Browser-based AEGIS-256 authenticated encryption demo (draft-irtf-cfrg-aegis-aead-18). AES round fun...
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [tgo-app-dev/vpipe](https://github.com/tgo-app-dev/vpipe)
+  > Real-time multimodal AI pipelines on Apple Silicon
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [janishar/h3c-studio](https://github.com/janishar/h3c-studio)
+  > Local web UI for h3.c — native Metal video/audio generation with MiniMax-H3 on Apple Silicon, no PyT...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [janishar/h3c-studio](https://github.com/janishar/h3c-studio) to [johndpope/h3c-studio](https://github.com/johndpope/h3c-studio)
+  > Local web UI for h3.c — native Metal video/audio generation with MiniMax-H3 on Apple Silicon, no PyT...
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [rizinorg/rz-ghidra](https://github.com/rizinorg/rz-ghidra)
+  > Deep ghidra decompiler and sleigh disassembler integration for rizin
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hewigovens/jayjay](https://github.com/hewigovens/jayjay)
+  > A native macOS GUI for Jujutsu (jj) — DAG graph, side-by-side diffs, interdiff, conflict resolution....
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
+  > tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ryuzcorp/laya-sdk](https://github.com/ryuzcorp/laya-sdk)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ryuzcorp/paranorm](https://github.com/ryuzcorp/paranorm)
+  > Effect SQL on steroids: author database schemas in YAML, infer typed database interfaces, apply sche...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ryuzcorp/oxide](https://github.com/ryuzcorp/oxide)
+  > The backend unframework: Call the server from the client like a function.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ryuzcorp/noite](https://github.com/ryuzcorp/noite)
+  > Tiny self-hostable PaaS for celld.
+
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [GalacticHamster/Humble-Comic-Library](https://github.com/GalacticHamster/Humble-Comic-Library)
   > A local-first Chrome extension for comparing your Humble Bundle library against individual book, com...
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [DanielMartensson/ImTube](https://github.com/DanielMartensson/ImTube)
+  > Youtube player in ImGui
+
+### [pims](https://github.com/pims)
+- 🌟 👤 [pims](https://github.com/pims) Starred [google/ax](https://github.com/google/ax)
+  > Google's open agentic orchestrator
+- 🌟 👤 [pims](https://github.com/pims) Starred [obie/feelings](https://github.com/obie/feelings)
+  > Probabilistic conditionals for Ruby: Feelings(message).like?("genuinely urgent")
+
 ### [skx](https://github.com/skx)
 - 🌟 👤 [skx](https://github.com/skx) Starred [ha1tch/zen80](https://github.com/ha1tch/zen80)
   > A Z80 and Z80N emulator written in Go.
+
+### [zhefox](https://github.com/zhefox)
+- 🍴 👤 [zhefox](https://github.com/zhefox) Forked [zai-org/ZCode](https://github.com/zai-org/ZCode) to [zhefox/ZCode](https://github.com/zhefox/ZCode)
+  > Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 
 <!-- nav -->
@@ -37,7 +185,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-21 07:32:43 UTC*
+*Last updated at 2026-09-21 14:37:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
