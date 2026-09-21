@@ -1,181 +1,21 @@
-# Daily GitHub Activity (2026-09-20)
+# Daily GitHub Activity (2026-09-21)
 
 <!-- nav -->
-[← 2026-09-19](archive/2026/09/19.md)
+[← 2026-09-20](archive/2026/09/20.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [AXDOOMER](https://github.com/AXDOOMER)
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [microsoft/vscode](https://github.com/microsoft/vscode) to [AXDOOMER/vscode](https://github.com/AXDOOMER/vscode)
-  > Visual Studio Code
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [Azure/AKSFlexNode](https://github.com/Azure/AKSFlexNode) to [AXDOOMER/AKSFlexNode](https://github.com/AXDOOMER/AKSFlexNode)
-  > Connecting a node to AKS cluster from anywhere
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [Azure/azure-sdk-tools](https://github.com/Azure/azure-sdk-tools) to [AXDOOMER/azure-sdk-tools](https://github.com/AXDOOMER/azure-sdk-tools)
-  > Tools repository leveraged by the Azure SDK team.
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [Azure/azure-sdk-for-java](https://github.com/Azure/azure-sdk-for-java) to [AXDOOMER/azure-sdk-for-java](https://github.com/AXDOOMER/azure-sdk-for-java)
-  > This repository is for active development of the Azure SDK for Java. For consumers of the SDK we rec...
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [Azure/bicep](https://github.com/Azure/bicep) to [AXDOOMER/bicep](https://github.com/AXDOOMER/bicep)
-  > Bicep is a declarative language for describing and deploying Azure resources
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust) to [AXDOOMER/azure-sdk-for-rust](https://github.com/AXDOOMER/azure-sdk-for-rust)
-  > This repository is for the active development of the Azure SDK for Rust. For consumers of the SDK we...
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [microsoft/tgrep](https://github.com/microsoft/tgrep) to [AXDOOMER/tgrep](https://github.com/AXDOOMER/tgrep)
-  > Trigram-indexed grep with a client/server architecture for fast regex search in large codebases loca...
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) to [AXDOOMER/aspnetcore](https://github.com/AXDOOMER/aspnetcore)
-  > ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on ...
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [dotnet/Scaffolding](https://github.com/dotnet/Scaffolding) to [AXDOOMER/Scaffolding](https://github.com/AXDOOMER/Scaffolding)
-  > Code generators to speed up development.
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) to [AXDOOMER/kubernetes](https://github.com/AXDOOMER/kubernetes)
-  > Production-Grade Container Scheduling and Management
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [rust-lang/rust](https://github.com/rust-lang/rust) to [AXDOOMER/rust](https://github.com/AXDOOMER/rust)
-  > Empowering everyone to build reliable and efficient software.
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [oven-sh/bun](https://github.com/oven-sh/bun) to [AXDOOMER/bun](https://github.com/AXDOOMER/bun)
-  > Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- 🍴 👤 [AXDOOMER](https://github.com/AXDOOMER) Forked [astral-sh/uv](https://github.com/astral-sh/uv) to [AXDOOMER/uv](https://github.com/AXDOOMER/uv)
-  > An extremely fast Python package and project manager, written in Rust.
-
-### [Razzue](https://github.com/Razzue)
-- 🌟 👤 [Razzue](https://github.com/Razzue) Starred [FascinatinC/Wow-Dumper-fix](https://github.com/FascinatinC/Wow-Dumper-fix)
-  > A simple wow offset dumper
-
-### [donvito](https://github.com/donvito)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [kibae/onnxruntime-server](https://github.com/kibae/onnxruntime-server)
-  > ONNX Runtime Server: The ONNX Runtime Server is a server that provides TCP and HTTP/HTTPS REST APIs ...
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [mudler/LocalAI](https://github.com/mudler/LocalAI)
-  > LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any har...
-
-### [dustinblackman](https://github.com/dustinblackman)
-- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
-  > A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project...
-- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-  > The open-source CapCut alternative
-
-### [ericop](https://github.com/ericop)
-- 🌟 👤 [ericop](https://github.com/ericop) Starred [redya-dev/Rainbow-Survivors](https://github.com/redya-dev/Rainbow-Survivors)
-- 🍴 👤 [ericop](https://github.com/ericop) Forked [redya-dev/Rainbow-Survivors](https://github.com/redya-dev/Rainbow-Survivors) to [ericop/Rainbow-Survivors](https://github.com/ericop/Rainbow-Survivors)
-
-### [fengjixuchui](https://github.com/fengjixuchui)
-- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg) to [fengjixuchui/antidbg1](https://github.com/fengjixuchui/antidbg1)
-  > A stealthy, fully syscalled C/C++ userland anti-debugging library for Windows, designed to protect s...
-
-### [fmeum](https://github.com/fmeum)
-- 🍴 👤 [fmeum](https://github.com/fmeum) Forked [grpc/grpc](https://github.com/grpc/grpc) to [fmeum/grpc](https://github.com/fmeum/grpc)
-  > C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-
-### [gamous](https://github.com/gamous)
-- 🌟 👤 [gamous](https://github.com/gamous) Starred [446599/ccodex-rotate](https://github.com/446599/ccodex-rotate)
-  > Local Codex reverse proxy: rotating proxy-node pool, lazy health failover, and per-model 292 turn-st...
-- 🌟 👤 [gamous](https://github.com/gamous) Starred [Silentely/eSIM-Tools](https://github.com/Silentely/eSIM-Tools)
-  > 专为已有 Giffgaff 和 Simyo 号码的用户设计的现代化 eSIM 管理工具集，支持将物理 SIM 卡转换为 eSIM、设备更换和二维码生成。(A modern set of eSIM ma...
-
-### [hsiafan](https://github.com/hsiafan)
-- 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [tevelee/SwiftUI-Flow](https://github.com/tevelee/SwiftUI-Flow)
-  > Flow Layout implemented in SwiftUI
-
-### [imrehg](https://github.com/imrehg)
-- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [airbytehq/abctl](https://github.com/airbytehq/abctl)
-  > Airbyte's CLI for managing local Airbyte installations
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [SHSharkar/MCP-Mathematics](https://github.com/SHSharkar/MCP-Mathematics)
-  > A comprehensive Model Context Protocol (MCP) server that turns any AI assistant into a powerful math...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [matlab/matlab-mcp-server](https://github.com/matlab/matlab-mcp-server)
-  > Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP serv...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [inikolax/remiqora](https://github.com/inikolax/remiqora)
-  > Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface — text-to-music generat...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [inikolax/remiqora](https://github.com/inikolax/remiqora) to [johndpope/remiqora](https://github.com/johndpope/remiqora)
-  > Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface — text-to-music generat...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [sepiablue-ai/ComfyUI-MiniMax-H3-W4A4-VSA](https://github.com/sepiablue-ai/ComfyUI-MiniMax-H3-W4A4-VSA)
-  > MiniMax H3 Ref2VA acceleration with FC1 ConvRot W4A4 and Streaming VSA for ComfyUI
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
-  > A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System...
-
-### [justaugustus](https://github.com/justaugustus)
-- 🌟 👤 [justaugustus](https://github.com/justaugustus) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
-  > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
-
-### [lgastako](https://github.com/lgastako)
-- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [kyle-pena-nlp/jevchat](https://github.com/kyle-pena-nlp/jevchat)
-  > Turns Jev into a chatbot
-
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [LittleBigRefresh/scetool](https://github.com/LittleBigRefresh/scetool) to [mrexodia/scetool](https://github.com/mrexodia/scetool)
-  > Modification around SCETool to turn it into a library.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xangel82/Athena-Engine](https://github.com/xangel82/Athena-Engine)
-  > LLM Engine for DGX Spark 
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
-  > tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
-
-### [mthenw](https://github.com/mthenw)
-- 🌟 👤 [mthenw](https://github.com/mthenw) Starred [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)
-  > Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
-
-### [myusuf3](https://github.com/myusuf3)
-- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler)
-  > Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, wi...
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [rit3zh/expo-ios-popover](https://github.com/rit3zh/expo-ios-popover)
-  > 🎯 Native iOS popovers for React Native & Expo
-
-### [pims](https://github.com/pims)
-- 🌟 👤 [pims](https://github.com/pims) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
-  > tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
-- 🌟 👤 [pims](https://github.com/pims) Starred [moritzkremb/jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser)
-  > Control a real browser by voice. Jev (TypeSafe System One) decides intent + target in ~300 ms per sp...
-- 🌟 👤 [pims](https://github.com/pims) Starred [bnsd55/jevmlx](https://github.com/bnsd55/jevmlx)
-  > Jev-style parallel constrained decisions for any MLX model on Apple Silicon. Typed, schema-valid JSO...
-
-### [realoriginal](https://github.com/realoriginal)
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
-  > .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [AldazActivator/airlift-rw](https://github.com/AldazActivator/airlift-rw)
-
-### [samuelcolvin](https://github.com/samuelcolvin)
-- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [kubet/azdaja](https://github.com/kubet/azdaja)
-  > Minimal harness-agnostic recursive language model layer — one binary, Python + llm()
-
-### [simonw](https://github.com/simonw)
-- 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/llm-keys-ui](https://github.com/simonw/llm-keys-ui) public
-  > LLM web UI for setting keys
-
-### [stepancheg](https://github.com/stepancheg)
-- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [bendlang/bend](https://github.com/bendlang/bend)
-  > Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com...
-
-### [tiran](https://github.com/tiran)
-- 🍴 👤 [tiran](https://github.com/tiran) Forked [Quansight/torch-abi-audit](https://github.com/Quansight/torch-abi-audit) to [tiran/torch-abi-audit](https://github.com/tiran/torch-abi-audit)
-  > Audit Python extensions for PyTorch (and CPython) Stable ABI compliance.
-- 🌟 👤 [tiran](https://github.com/tiran) Starred [Quansight/torch-abi-audit](https://github.com/Quansight/torch-abi-audit)
-  > Audit Python extensions for PyTorch (and CPython) Stable ABI compliance.
-
-### [vertical-blank](https://github.com/vertical-blank)
-- 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [uehaj/jev-semgrep](https://github.com/uehaj/jev-semgrep)
-  > grep by meaning, across languages. TypeSafe Jev scores every line against a meaning; combine meaning...
-
-### [vvaltchev](https://github.com/vvaltchev)
-- 🌟 👤 [vvaltchev](https://github.com/vvaltchev) Starred [superninjv/airpods-helper](https://github.com/superninjv/airpods-helper)
-  > Native Apple AirPods support for Linux
-
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HullaBrian/capa-cpp](https://github.com/HullaBrian/capa-cpp)
-  > Targeted C++ reimplementation of CAPA
-
-### [xyproto](https://github.com/xyproto)
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [andrei-drexler/ironwail](https://github.com/andrei-drexler/ironwail)
-  > High-performance QuakeSpasm fork
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Novum/vkQuake](https://github.com/Novum/vkQuake)
-  > Vulkan Quake port based on QuakeSpasm
-
+The users you follow have no public activity today that matches the filter criteria.
 
 <!-- nav -->
-[← 2026-09-19](archive/2026/09/19.md)
+[← 2026-09-20](archive/2026/09/20.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-20 23:49:16 UTC*
+*Last updated at 2026-09-21 01:57:53 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
