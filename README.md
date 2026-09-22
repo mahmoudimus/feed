@@ -24,15 +24,27 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [KiFilterFiberContext](https://github.com/KiFilterFiberContext) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [whitecircle/halo](https://github.com/whitecircle/halo)
+  > Halo is an open-source framework built by White Circle for training large language and multimodal mo...
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [S1LV3RJ1NX/openjev](https://github.com/S1LV3RJ1NX/openjev)
   > Open System One models: typed decisions with calibrated probabilities, trainable on your own data. N...
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [blazux/qwen3.8-Flash-DGX](https://github.com/blazux/qwen3.8-Flash-DGX)
   > recipe for running Qwen3.8-Flash-Next on a single DGX Spark
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [sqliteai/blink](https://github.com/sqliteai/blink)
+  > An open-source, high-performance System One Model for one-pass typed decisions, with an embeddable C...
 
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
   > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
+  > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
+
+### [dgilling](https://github.com/dgilling)
+- 🌟 👤 [dgilling](https://github.com/dgilling) Starred [wso2/reference-methodology](https://github.com/wso2/reference-methodology)
+  > Integration projects today follow a time-consuming waterfall model, ill-suited to solving complex in...
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
@@ -52,6 +64,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
   > Protect your SSH keys with your Mac's Secure Enclave
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [JKornev/hidden](https://github.com/JKornev/hidden)
+  > 🇺🇦 Windows driver with usermode interface which can hide processes, file-system and registry objects...
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [maggiesong7/Envision4D](https://github.com/maggiesong7/Envision4D)
   > Envision4D: Envisioning Visual Futures via Feed-forward 4D Gaussian Splatting for Autonomous Driving
@@ -70,6 +86,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
+
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [General-Instinct/InstinctFlash](https://github.com/General-Instinct/InstinctFlash)
+  > High-Performance Serving Runtime for Robotics Models
 
 ### [marbemac](https://github.com/marbemac)
 - 🌟 👤 [marbemac](https://github.com/marbemac) Starred [Boring-Software-Inc/dither-kit](https://github.com/Boring-Software-Inc/dither-kit)
@@ -93,6 +113,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the origina...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
   > Lakehouse native graph engine with git-style workflows
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
+  > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
 
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
@@ -100,6 +122,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Powerful MacOS Launcher
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)
   > A coding agent for open models like Kimi K3 and GLM 5.3
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [aaif-goose/goose](https://github.com/aaif-goose/goose)
+  > an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and ...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [acsandmann/rift](https://github.com/acsandmann/rift)
@@ -126,6 +150,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code cove...
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub)
   > An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in ...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
+  > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
 
 ### [sinaa](https://github.com/sinaa)
 - 🍴 👤 [sinaa](https://github.com/sinaa) Forked [henryzt/Rhythm-Plus-Music-Game](https://github.com/henryzt/Rhythm-Plus-Music-Game) to [sinaa/Rhythm-Plus-Music-Game](https://github.com/sinaa/Rhythm-Plus-Music-Game)
@@ -160,7 +186,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-22 17:23:55 UTC*
+*Last updated at 2026-09-22 20:33:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
