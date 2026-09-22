@@ -22,6 +22,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [43081j/ai-policy](https://github.com/43081j/ai-policy)
   > A collection of AI contribution policies which can be copied into other projects.
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)
+  > Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
+  > tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
+
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [tataranovich/superhet-4-bands](https://github.com/tataranovich/superhet-4-bands)
   > SW 4 bands DIY receiver
@@ -34,12 +40,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
   > Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No M...
 
+### [byoungdale](https://github.com/byoungdale)
+- 🌟 👤 [byoungdale](https://github.com/byoungdale) Starred [byoungdale/mod_websocket_stream](https://github.com/byoungdale/mod_websocket_stream)
+  > mod_websocket_stream exchanges media between a FreeSWITCH channel and a WebSocket server.
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [Aitum/obs-aitum-stream-suite](https://github.com/Aitum/obs-aitum-stream-suite)
 
-### [emcfarlane](https://github.com/emcfarlane)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
-  > tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
+### [dthree](https://github.com/dthree)
+- 🌟 👤 [dthree](https://github.com/dthree) Starred [mindcloud-inc/embedded-universal-api-example](https://github.com/mindcloud-inc/embedded-universal-api-example)
 
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)
@@ -112,6 +121,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Driver manual mapper that launches a DPC on the least active core
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MicrosoftMacroAssembler/IAT-Injector](https://github.com/MicrosoftMacroAssembler/IAT-Injector) to [fengjixuchui/IAT-Injector](https://github.com/fengjixuchui/IAT-Injector)
   > IAT (Import-Address-Table) Injection from a Kernel Driver
+
+### [fmeum](https://github.com/fmeum)
+- 🍴 👤 [fmeum](https://github.com/fmeum) Forked [aspect-build/sandboxfs](https://github.com/aspect-build/sandboxfs) to [fmeum/sandboxfs](https://github.com/fmeum/sandboxfs)
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [unikgyd/VoWin](https://github.com/unikgyd/VoWin)
@@ -187,6 +199,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The backend unframework: Call the server from the client like a function.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ryuzcorp/noite](https://github.com/ryuzcorp/noite)
   > Tiny self-hostable PaaS for celld.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [turing-db/turingdb](https://github.com/turing-db/turingdb)
+  > TuringDB high performance in-memory column-oriented graph database engine
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [GalacticHamster/Humble-Comic-Library](https://github.com/GalacticHamster/Humble-Comic-Library)
@@ -201,6 +215,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Google's open agentic orchestration runtime
 - 🌟 👤 [pims](https://github.com/pims) Starred [obie/feelings](https://github.com/obie/feelings)
   > Probabilistic conditionals for Ruby: Feelings(message).like?("genuinely urgent")
+
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [ucsd-hacc/NSNFSSSFSFN](https://github.com/ucsd-hacc/NSNFSSSFSFN)
+  > Nearly SNFS-Speed Signature Forgery Sans Factoring N
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis)
+  > The property-based testing library for Python
 
 ### [rwjblue](https://github.com/rwjblue)
 - 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [rwjblue/ham2k-n1rwj-extensions](https://github.com/rwjblue/ham2k-n1rwj-extensions)
@@ -217,6 +241,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [google/ax](https://github.com/google/ax)
   > Google's open agentic orchestration runtime
 
+### [willshiao](https://github.com/willshiao)
+- 🌟 👤 [willshiao](https://github.com/willshiao) Starred [macrodata-labs/refiner](https://github.com/macrodata-labs/refiner)
+  > Refiner by Macrodata Labs, a data processing framework for Machine Learning large scale datasets
+
 ### [zhefox](https://github.com/zhefox)
 - 🍴 👤 [zhefox](https://github.com/zhefox) Forked [zai-org/ZCode](https://github.com/zai-org/ZCode) to [zhefox/ZCode](https://github.com/zhefox/ZCode)
   > Z.ai's coding agent harness. Powerful, intelligent, extensible.
@@ -227,7 +255,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-21 19:47:11 UTC*
+*Last updated at 2026-09-21 22:53:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
