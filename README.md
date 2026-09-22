@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [MinishLab/semble](https://github.com/MinishLab/semble)
+  > Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [rtk-ai/icm](https://github.com/rtk-ai/icm)
+  > Permanent memory for AI agents. Single binary, zero dependencies, MCP native.
+
 ### [GabLeRoux](https://github.com/GabLeRoux)
 - 🌟 👤 [GabLeRoux](https://github.com/GabLeRoux) Starred [axllent/mailpit](https://github.com/axllent/mailpit)
   > An email and SMTP testing tool with API for developers
@@ -15,6 +23,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [KiFilterFiberContext](https://github.com/KiFilterFiberContext)
 - 🌟 👤 [KiFilterFiberContext](https://github.com/KiFilterFiberContext) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [S1LV3RJ1NX/openjev](https://github.com/S1LV3RJ1NX/openjev)
+  > Open System One models: typed decisions with calibrated probabilities, trainable on your own data. N...
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [blazux/qwen3.8-Flash-DGX](https://github.com/blazux/qwen3.8-Flash-DGX)
+  > recipe for running Qwen3.8-Flash-Next on a single DGX Spark
+
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
@@ -25,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Recurse-Labs/recurse](https://github.com/Recurse-Labs/recurse) to [fengjixuchui/recurse](https://github.com/fengjixuchui/recurse)
   > AI Native IDE for reverse engineering
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
+  > A framework for building agentic apps
 
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive)
@@ -49,6 +71,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
 
+### [marbemac](https://github.com/marbemac)
+- 🌟 👤 [marbemac](https://github.com/marbemac) Starred [Boring-Software-Inc/dither-kit](https://github.com/Boring-Software-Inc/dither-kit)
+  > Composable, dithered charts for shadcn/ui — area, line, bar, pie & radar. Docs: tripwire.sh/dither-k...
+
+### [mdgriffith](https://github.com/mdgriffith)
+- 🌟 👤 [mdgriffith](https://github.com/mdgriffith) Starred [mdgriffith/ui](https://github.com/mdgriffith/ui)
+
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
   > Write HTML. Render video. Built for agents.
@@ -59,12 +88,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [cmu-sei/pharos](https://github.com/cmu-sei/pharos)
   > Automated static analysis tools for binary programs
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
+  > A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the origina...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+  > Lakehouse native graph engine with git-style workflows
+
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd)
+  > Powerful MacOS Launcher
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)
+  > A coding agent for open models like Kimi K3 and GLM 5.3
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [acsandmann/rift](https://github.com/acsandmann/rift)
   > a tiling window manager for macos
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [github/copilot-sdk](https://github.com/github/copilot-sdk)
+  > Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [actualbudget/actual](https://github.com/actualbudget/actual)
@@ -79,6 +120,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [paulirish](https://github.com/paulirish)
 - 🍴 👤 [paulirish](https://github.com/paulirish) Forked [philipwalton/modern-web-types](https://github.com/philipwalton/modern-web-types) to [paulirish/modern-web-types](https://github.com/paulirish/modern-web-types)
   > TypeScript types for new web platform APIs that aren't yet in lib.dom.
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [google/honggfuzz](https://github.com/google/honggfuzz)
+  > Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code cove...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [daniel5151/gdbstub](https://github.com/daniel5151/gdbstub)
+  > An ergonomic, featureful, and easy-to-integrate implementation of the GDB Remote Serial Protocol in ...
 
 ### [sinaa](https://github.com/sinaa)
 - 🍴 👤 [sinaa](https://github.com/sinaa) Forked [henryzt/Rhythm-Plus-Music-Game](https://github.com/henryzt/Rhythm-Plus-Music-Game) to [sinaa/Rhythm-Plus-Music-Game](https://github.com/sinaa/Rhythm-Plus-Music-Game)
@@ -113,7 +160,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-22 12:13:06 UTC*
+*Last updated at 2026-09-22 17:23:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
