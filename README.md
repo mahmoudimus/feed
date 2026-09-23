@@ -25,6 +25,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [pal1000/mesa-dist-win](https://github.com/pal1000/mesa-dist-win)
   > Pre-built Mesa3D drivers for Windows
+- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton)
+  > Steam Play for macOS
+- 🍴 👤 [Gcenx](https://github.com/Gcenx) Forked [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) to [Gcenx/NotProton](https://github.com/Gcenx/NotProton)
+  > Steam Play for macOS
 
 ### [Kesin11](https://github.com/Kesin11)
 - 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [hellogumbo/awesome-jev](https://github.com/hellogumbo/awesome-jev)
@@ -33,6 +37,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml)
   > Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decision...
+
+### [artem](https://github.com/artem)
+- 🌟 👤 [artem](https://github.com/artem) Starred [OSGeo/gdal](https://github.com/OSGeo/gdal)
+  > GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats...
 
 ### [cmc](https://github.com/cmc)
 - 🌟 👤 [cmc](https://github.com/cmc) Starred [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x)
@@ -49,18 +57,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [Kampouse/near-mock](https://github.com/Kampouse/near-mock)
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [qqqqqf-q/ai-model-fingerprint](https://github.com/qqqqqf-q/ai-model-fingerprint)
+  > AI 模型随机数分布指纹数据集 — 17 模型 / OpenRouter / 含原始响应与相似度分析
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [xqy2006/ModelTrace](https://github.com/xqy2006/ModelTrace)
+  > 主动探测模型归因
+
 ### [hit9](https://github.com/hit9)
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [pantor/inja](https://github.com/pantor/inja)
   > A Template Engine for Modern C++
 
+### [infusion](https://github.com/infusion)
+- 🌟 👤 [infusion](https://github.com/infusion) Starred [rawify/Milter.js](https://github.com/rawify/Milter.js)
+  > Milter server for asynchronous Node.js mail filters and message mutation
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) to [ioncodes/dolphin](https://github.com/ioncodes/dolphin)
   > Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with ...
-
-### [jedisct1](https://github.com/jedisct1)
-- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [jundot/omlx](https://github.com/jundot/omlx) to [jedisct1/omlx](https://github.com/jedisct1/omlx)
-  > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [claucece/Practical-Cryptography](https://github.com/claucece/Practical-Cryptography)
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [astropuzzo/ComfyUI-MiniMax-H3-Image-Studio](https://github.com/astropuzzo/ComfyUI-MiniMax-H3-Image-Studio)
@@ -154,7 +167,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-23 18:01:00 UTC*
+*Last updated at 2026-09-23 21:51:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
