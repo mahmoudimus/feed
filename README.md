@@ -39,9 +39,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hit9](https://github.com/hit9) Starred [pantor/inja](https://github.com/pantor/inja)
   > A Template Engine for Modern C++
 
+### [ioncodes](https://github.com/ioncodes)
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) to [ioncodes/dolphin](https://github.com/ioncodes/dolphin)
+  > Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with ...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [jundot/omlx](https://github.com/jundot/omlx) to [jedisct1/omlx](https://github.com/jedisct1/omlx)
   > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [claucece/Practical-Cryptography](https://github.com/claucece/Practical-Cryptography)
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [astropuzzo/ComfyUI-MiniMax-H3-Image-Studio](https://github.com/astropuzzo/ComfyUI-MiniMax-H3-Image-Studio)
+  > ComfyUI nodes and tested workflows for MiniMax H3 still-image generation, reference editing, and Qwe...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [xmarre/ComfyUI-Spectrum-MiniMax-H3](https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3)
+  > Training-free Spectrum acceleration for ComfyUI’s native MiniMax H3 audio-video model. Uses Chebyshe...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [awdqwdasdg/Comfyui-Spectrum-Qwen2.1](https://github.com/awdqwdasdg/Comfyui-Spectrum-Qwen2.1)
+  > Literal Slop.
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)
@@ -51,9 +64,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
   > Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text ...
 
+### [mar0x](https://github.com/mar0x)
+- 🍴 👤 [mar0x](https://github.com/mar0x) Forked [exeldro/obs-source-record](https://github.com/exeldro/obs-source-record) to [mar0x/obs-source-record](https://github.com/mar0x/obs-source-record)
+
 ### [mattn](https://github.com/mattn)
 - 🍴 👤 [mattn](https://github.com/mattn) Forked [picoruby/picoruby](https://github.com/picoruby/picoruby) to [mattn/picoruby](https://github.com/mattn/picoruby)
   > PicoRuby is the smallest Ruby implementation for one-chip microcontrollers
+
+### [mbr](https://github.com/mbr)
+- 🍴 👤 [mbr](https://github.com/mbr) Forked [Simsys/lxpservice-rs](https://github.com/Simsys/lxpservice-rs) to [mbr/lxpservice-rs](https://github.com/mbr/lxpservice-rs)
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Lulzx/bendc](https://github.com/Lulzx/bendc)
+  > A self-hosting compiler for Bend 2, written in Bend 2.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Lulzx/cuda-metal](https://github.com/Lulzx/cuda-metal)
+  > CUDA compiler and runtime for Apple Silicon
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Lulzx/zs3](https://github.com/Lulzx/zs3)
+  > S3-compatible storage in Zig. Zero dependencies.
 
 ### [nvgrw](https://github.com/nvgrw)
 - 🍴 👤 [nvgrw](https://github.com/nvgrw) Forked [bex-co/beancount-io](https://github.com/bex-co/beancount-io) to [nvgrw/beancount-io](https://github.com/nvgrw/beancount-io)
@@ -66,6 +93,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [GJDuck/e9afl](https://github.com/GJDuck/e9afl)
   > AFL binary instrumentation
+
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust)
+  > MessagePack implementation for Rust / msgpack.org[Rust]
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [twittner/minicbor](https://github.com/twittner/minicbor)
+  > A small CBOR codec suitable for no_std environments.
+- 🍴 👤 [samuelcolvin](https://github.com/samuelcolvin) Forked [twittner/minicbor](https://github.com/twittner/minicbor) to [samuelcolvin/minicbor](https://github.com/samuelcolvin/minicbor)
+  > A small CBOR codec suitable for no_std environments.
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)
+  > Async-first agent harness
 
 ### [skx](https://github.com/skx)
 - 🌟 👤 [skx](https://github.com/skx) Starred [ha1tch/zentools](https://github.com/ha1tch/zentools)
@@ -89,7 +128,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-23 08:01:04 UTC*
+*Last updated at 2026-09-23 13:54:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
