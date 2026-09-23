@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Auties00](https://github.com/Auties00)
+- 🍴 👤 [Auties00](https://github.com/Auties00) Forked [swiftlang/swift](https://github.com/swiftlang/swift) to [Auties00/swift](https://github.com/Auties00/swift)
+  > The Swift Programming Language
+
 ### [Clivern](https://github.com/Clivern)
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [MinishLab/semble](https://github.com/MinishLab/semble)
   > Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep+read
@@ -15,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [rtk-ai/icm](https://github.com/rtk-ai/icm)
   > Permanent memory for AI agents. Single binary, zero dependencies, MCP native.
+
+### [Fox2Code](https://github.com/Fox2Code)
+- 🌟 👤 [Fox2Code](https://github.com/Fox2Code) Starred [valen-lang/Valen](https://github.com/valen-lang/Valen)
+  > Compiler for the Valen programming language
 
 ### [GabLeRoux](https://github.com/GabLeRoux)
 - 🌟 👤 [GabLeRoux](https://github.com/GabLeRoux) Starred [axllent/mailpit](https://github.com/axllent/mailpit)
@@ -45,6 +53,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dgilling](https://github.com/dgilling)
 - 🌟 👤 [dgilling](https://github.com/dgilling) Starred [wso2/reference-methodology](https://github.com/wso2/reference-methodology)
   > Integration projects today follow a time-consuming waterfall model, ill-suited to solving complex in...
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [SentineLabs/verified-ida](https://github.com/SentineLabs/verified-ida)
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
@@ -83,6 +94,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A 2D triangle rasterizer that runs backwards, gradient-descends scene geometry, color, and opacity t...
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [VivianSobers/Differentiable-Rasterizer](https://github.com/VivianSobers/Differentiable-Rasterizer) to [johndpope/Differentiable-Rasterizer](https://github.com/johndpope/Differentiable-Rasterizer)
   > A 2D triangle rasterizer that runs backwards, gradient-descends scene geometry, color, and opacity t...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [2600th/dlss5-video-player](https://github.com/2600th/dlss5-video-player)
+  > Windows player that runs video, photos or GIFs through NVIDIA's DLSS 5 neural renderer, then compare...
 
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
@@ -176,6 +189,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [yajo](https://github.com/yajo) Starred [itbh-at/wusel](https://github.com/itbh-at/wusel)
   > Wusel - Nextcloud, woven into your desktop.
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [github/gh-aw-firewall](https://github.com/github/gh-aw-firewall)
+  > GitHub Agentic Workflows Firewall
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [github/gh-aw-threat-detection](https://github.com/github/gh-aw-threat-detection)
+  > GitHub Agentic Workflows Threat Detection
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [github/gh-aw-mcpg](https://github.com/github/gh-aw-mcpg)
+  > GitHub Agentic Workflows MCP Gateway
+
 ### [zuowang](https://github.com/zuowang)
 - 🌟 👤 [zuowang](https://github.com/zuowang) Starred [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
   > Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning...
@@ -186,7 +207,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-22 20:33:41 UTC*
+*Last updated at 2026-09-22 23:20:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
