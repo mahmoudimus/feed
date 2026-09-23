@@ -12,6 +12,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [AlexsJones](https://github.com/AlexsJones) Forked [google/ax](https://github.com/google/ax) to [AlexsJones/ax](https://github.com/AlexsJones/ax)
   > Google's open agentic orchestration runtime
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [sktime/sktime](https://github.com/sktime/sktime)
+  > A unified framework for machine learning with time series
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+  >  This project is dedicated to collecting high-quality macOS software and organizing them systematic...
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
+  > Nuclei is a fast, customizable vulnerability scanner powered by the global security community and bu...
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
+  > mailcow: dockerized - 🐮 + 🐋 = 💕
+
 ### [Gcenx](https://github.com/Gcenx)
 - 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [pal1000/mesa-dist-win](https://github.com/pal1000/mesa-dist-win)
   > Pre-built Mesa3D drivers for Windows
@@ -23,6 +33,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml)
   > Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decision...
+
+### [cmc](https://github.com/cmc)
+- 🌟 👤 [cmc](https://github.com/cmc) Starred [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x)
+  > A rewrite of YARA in Rust.
 
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
@@ -74,6 +88,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mbr](https://github.com/mbr)
 - 🍴 👤 [mbr](https://github.com/mbr) Forked [Simsys/lxpservice-rs](https://github.com/Simsys/lxpservice-rs) to [mbr/lxpservice-rs](https://github.com/mbr/lxpservice-rs)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SentineLabs/verified-ida](https://github.com/SentineLabs/verified-ida)
+  > Verified IDA is a harness for model-led reverse engineering.
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Lulzx/bendc](https://github.com/Lulzx/bendc)
   > A self-hosting compiler for Bend 2, written in Bend 2.
@@ -86,13 +104,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [nvgrw](https://github.com/nvgrw) Forked [bex-co/beancount-io](https://github.com/bex-co/beancount-io) to [nvgrw/beancount-io](https://github.com/nvgrw/beancount-io)
   > 💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS ...
 
-### [ocornut](https://github.com/ocornut)
-- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [vitaut/zmij](https://github.com/vitaut/zmij)
-  > A fast floating-point-to-string conversion library for C and C++
-
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [GJDuck/e9afl](https://github.com/GJDuck/e9afl)
   > AFL binary instrumentation
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [SentineLabs/verified-ida](https://github.com/SentineLabs/verified-ida)
+  > Verified IDA is a harness for model-led reverse engineering.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [GJDuck/e9patch](https://github.com/GJDuck/e9patch)
+  > A powerful static binary rewriting tool
 
 ### [samuelcolvin](https://github.com/samuelcolvin)
 - 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust)
@@ -110,6 +128,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [skx](https://github.com/skx) Starred [ha1tch/zentools](https://github.com/ha1tch/zentools)
   > ZX Spectrum binary format tools, with a reusable library written in Go
 
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [hellogumbo/awesome-jev](https://github.com/hellogumbo/awesome-jev)
+  > A community directory of projects built on Jev, TypeSafe AI's System One model.
+
 ### [wincent](https://github.com/wincent)
 - 🌟 👤 [wincent](https://github.com/wincent) Starred [felixge/rv](https://github.com/felixge/rv)
   > My personal code review tool.
@@ -121,6 +143,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Community maintained hardware plugin for vLLM on Apple Silicon
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
   > A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs int...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [eugeneware/ffmpeg-static](https://github.com/eugeneware/ffmpeg-static)
+  > ffmpeg static binaries for Mac OSX and Linux and Windows
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ofoxai/ofox-desktop](https://github.com/ofoxai/ofox-desktop)
+  > Ofox Desktop — All-in-One AI Tool Manager
 
 
 <!-- nav -->
@@ -128,7 +154,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-23 13:54:36 UTC*
+*Last updated at 2026-09-23 18:01:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
