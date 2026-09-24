@@ -12,6 +12,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [BaseMax](https://github.com/BaseMax) Made [BaseMax/neyx](https://github.com/BaseMax/neyx) public
   > NeyX: A lightweight, ultra-fast, feature-rich static site generator built entirely with Salam.
 
+### [Hellblazer](https://github.com/Hellblazer)
+- 🌟 👤 [Hellblazer](https://github.com/Hellblazer) Starred [eyupmiduck/ddl_utils](https://github.com/eyupmiduck/ddl_utils)
+  > utilities for postgres ddl to reduce locking nightmares
+- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [eyupmiduck/ddl_utils](https://github.com/eyupmiduck/ddl_utils) to [Hellblazer/ddl_utils](https://github.com/Hellblazer/ddl_utils)
+  > utilities for postgres ddl to reduce locking nightmares
+- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [eyupmiduck/liquibase_validation](https://github.com/eyupmiduck/liquibase_validation) to [Hellblazer/liquibase_validation](https://github.com/Hellblazer/liquibase_validation)
+  > A collection of test logic to to validate liquibase changelogs and changesets
+- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [meteorshowering/FootPrintRAGVA](https://github.com/meteorshowering/FootPrintRAGVA) to [Hellblazer/FootPrintRAGVA](https://github.com/Hellblazer/FootPrintRAGVA)
+
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [EllesmereGaming/EllesmereUI](https://github.com/EllesmereGaming/EllesmereUI) to [Stanzilla/EllesmereUI](https://github.com/Stanzilla/EllesmereUI)
   > EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and e...
@@ -30,10 +39,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [winegui/WineGUI](https://github.com/winegui/WineGUI)
   > At last, a user-friendly Wine graphical interface (mirror from Gitlab)
-
-### [emcfarlane](https://github.com/emcfarlane)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [shaise/FreeCAD_FastenersWB](https://github.com/shaise/FreeCAD_FastenersWB)
-  > A workbench to add/attach various fasteners to parts
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [RetroMessenger/retro-messenger](https://github.com/RetroMessenger/retro-messenger)
+  > MSN inspired Messenger powered by the Telegram protocol
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [mikasaw/svmb](https://github.com/mikasaw/svmb) to [fengjixuchui/svmb](https://github.com/fengjixuchui/svmb)
@@ -66,6 +73,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automa...
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)
 
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
+  > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [nlml/SHeaP](https://github.com/nlml/SHeaP)
+  > Code and models for SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians
+
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [jankeesvw/omarchy-icloud-photos](https://github.com/jankeesvw/omarchy-icloud-photos)
   > Your iCloud Photos library as a native window on Omarchy. Sync with icloudpd, browse by day, delete ...
@@ -77,6 +92,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [mrexodia/nexos-pi-provider](https://github.com/mrexodia/nexos-pi-provider) public
   > Authenticated Nexos model discovery for pi and Oh My Pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keshav-exe/mdxcn](https://github.com/keshav-exe/mdxcn)
+  > mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy ...
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [driceroland/Search](https://github.com/driceroland/Search)
+  > A small, fast WebKit browser for macOS, by Office Commun.
 
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [nestrilabs/nesbox](https://github.com/nestrilabs/nesbox)
@@ -103,6 +124,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Qemu fork with support for Apple Silicon (iOS/ macOS)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog)
   > Command line tool for generating a changelog from git tags and commit history
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [profuzzbench/profuzzbench](https://github.com/profuzzbench/profuzzbench)
+  > ProFuzzBench - A Benchmark for Stateful Protocol Fuzzing
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [stateafl/stateafl](https://github.com/stateafl/stateafl)
+  > StateAFL: A Greybox Fuzzer for Stateful Network Servers
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [docker/sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec)
+  > Docker Sandbox Kit Specification v3 — the kit descriptor grammar, the OCI artifact, the build fronte...
 
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [automagik-dev/omni](https://github.com/automagik-dev/omni)
@@ -112,6 +141,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [vstinner](https://github.com/vstinner) Forked [pypa/setuptools](https://github.com/pypa/setuptools) to [vstinner/setuptools](https://github.com/vstinner/setuptools)
   > Official project repository for the Setuptools build system
 
+### [willshiao](https://github.com/willshiao)
+- 🌟 👤 [willshiao](https://github.com/willshiao) Starred [cheng-haha/GPT-Policy](https://github.com/cheng-haha/GPT-Policy)
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [xyproto/alienpdf](https://github.com/xyproto/alienpdf)
   > Generate alien letters
@@ -119,6 +151,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A desktop app for viewing large JSON files. 
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [mowglixx/linux-parental-controls](https://github.com/mowglixx/linux-parental-controls)
   > Just a simple systemd unit to log off the kids at 22:00 until 06:30
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [francescopace/espectre](https://github.com/francescopace/espectre)
+  > Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, a...
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [bascurtiz/OrpheusDL](https://github.com/bascurtiz/OrpheusDL)
@@ -131,7 +165,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-24 15:32:58 UTC*
+*Last updated at 2026-09-24 19:33:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
