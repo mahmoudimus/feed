@@ -8,15 +8,32 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BaseMax](https://github.com/BaseMax)
+- 🚀 👤 [BaseMax](https://github.com/BaseMax) Made [BaseMax/neyx](https://github.com/BaseMax/neyx) public
+  > NeyX: A lightweight, ultra-fast, feature-rich static site generator built entirely with Salam.
+
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [EllesmereGaming/EllesmereUI](https://github.com/EllesmereGaming/EllesmereUI) to [Stanzilla/EllesmereUI](https://github.com/Stanzilla/EllesmereUI)
   > EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and e...
+
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)
+
+### [asalih](https://github.com/asalih)
+- 🌟 👤 [asalih](https://github.com/asalih) Starred [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
+  > Nuclei is a fast, customizable vulnerability scanner powered by the global security community and bu...
 
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
   > Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [winegui/WineGUI](https://github.com/winegui/WineGUI)
+  > At last, a user-friendly Wine graphical interface (mirror from Gitlab)
+
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [shaise/FreeCAD_FastenersWB](https://github.com/shaise/FreeCAD_FastenersWB)
+  > A workbench to add/attach various fasteners to parts
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [mikasaw/svmb](https://github.com/mikasaw/svmb) to [fengjixuchui/svmb](https://github.com/fengjixuchui/svmb)
@@ -47,10 +64,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Researc...
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [logicrw/awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects)
   > Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automa...
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [jankeesvw/omarchy-icloud-photos](https://github.com/jankeesvw/omarchy-icloud-photos)
   > Your iCloud Photos library as a native window on Omarchy. Sync with icloudpd, browse by day, delete ...
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [moggi-lang/moggi](https://github.com/moggi-lang/moggi)
+  > Moggi Compiler
+
+### [mrexodia](https://github.com/mrexodia)
+- 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [mrexodia/nexos-pi-provider](https://github.com/mrexodia/nexos-pi-provider) public
+  > Authenticated Nexos model discovery for pi and Oh My Pi
+
+### [pims](https://github.com/pims)
+- 🌟 👤 [pims](https://github.com/pims) Starred [nestrilabs/nesbox](https://github.com/nestrilabs/nesbox)
+  > Fast, lightweight micro virtual machine for cloud streaming — GPU included
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [containerd/overlaybd](https://github.com/containerd/overlaybd)
@@ -69,6 +99,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Some out-of-the-box hooks for pre-commit
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [pocc/pre-commit-hooks](https://github.com/pocc/pre-commit-hooks)
   > C/C++ hooks to integrate with pre-commit
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [jprx/qemu-sptm](https://github.com/jprx/qemu-sptm)
+  > Qemu fork with support for Apple Silicon (iOS/ macOS)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog)
+  > Command line tool for generating a changelog from git tags and commit history
 
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [automagik-dev/omni](https://github.com/automagik-dev/omni)
@@ -83,6 +117,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Generate alien letters
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [ErikKalkoken/janice](https://github.com/ErikKalkoken/janice)
   > A desktop app for viewing large JSON files. 
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [mowglixx/linux-parental-controls](https://github.com/mowglixx/linux-parental-controls)
+  > Just a simple systemd unit to log off the kids at 22:00 until 06:30
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [bascurtiz/OrpheusDL](https://github.com/bascurtiz/OrpheusDL)
@@ -95,7 +131,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-24 10:37:17 UTC*
+*Last updated at 2026-09-24 15:32:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
