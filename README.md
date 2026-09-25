@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [IntelLabs/IDEAS](https://github.com/IntelLabs/IDEAS)
+  > C-to-Rust translation using LLMs
+
 ### [athkdev](https://github.com/athkdev)
 - 🌟 👤 [athkdev](https://github.com/athkdev) Starred [jh3y/lid-plane](https://github.com/jh3y/lid-plane)
   > Your MacBook has the folding animation at home. A lid-angle-driven progressive blur for macOS.
@@ -17,6 +21,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [boyney123](https://github.com/boyney123)
 - 🌟 👤 [boyney123](https://github.com/boyney123) Starred [MrLesk/groma.md](https://github.com/MrLesk/groma.md)
   > groma.md - Your architecture as OKF Markdown in Git, and one C4 map you can walk. Scanned from sourc...
+
+### [buger](https://github.com/buger)
+- 🍴 👤 [buger](https://github.com/buger) Forked [omacom/omarchy](https://github.com/omacom/omarchy) to [buger/omarchy](https://github.com/buger/omarchy)
+  > Beautiful, Modern & Opinionated Linux
 
 ### [bwhaley](https://github.com/bwhaley)
 - 🌟 👤 [bwhaley](https://github.com/bwhaley) Starred [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
@@ -46,6 +54,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [acheong08/apple-corelocation-experiments](https://github.com/acheong08/apple-corelocation-experiments)
   > Research dump on how IOS Location Services work
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [git-bug/git-bug](https://github.com/git-bug/git-bug)
+  > Distributed, offline-first bug tracker integrated in git
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [jsonwebtoken/jsonwebtoken.github.io](https://github.com/jsonwebtoken/jsonwebtoken.github.io) to [jedisct1/jsonwebtoken.github.io](https://github.com/jedisct1/jsonwebtoken.github.io)
@@ -82,6 +92,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Bit-vector expression simplifier for binary analysis and deobfuscation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [jtsylve/re-mcp](https://github.com/jtsylve/re-mcp) to [mrexodia/re-mcp](https://github.com/mrexodia/re-mcp)
+  > A headless MCP server for IDA Pro and Ghidra
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc) to [mrexodia/ida_rpc](https://github.com/mrexodia/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mizchi/vibe-lang](https://github.com/mizchi/vibe-lang)
@@ -92,9 +106,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [pims](https://github.com/pims) Starred [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang)
   > Dippin: a DSL for authoring AI pipeline workflows
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [tihanyin/REx-skill](https://github.com/tihanyin/REx-skill)
+  > REx@Skill - Agentic Reverse Engineering eXecution Skill for binary vulnerability discovery
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [jtsylve/re-mcp](https://github.com/jtsylve/re-mcp)
+  > A headless MCP server for IDA Pro and Ghidra
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [PaperMC/Paper](https://github.com/PaperMC/Paper)
+  > The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inco...
+
 ### [robconery](https://github.com/robconery)
 - 🍴 👤 [robconery](https://github.com/robconery) Forked [paperclipai/paperclip](https://github.com/paperclipai/paperclip) to [robconery/paperclip](https://github.com/robconery/paperclip)
   > The open-source app everyone uses to manage agents at work
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [quarkslab/titanm](https://github.com/quarkslab/titanm)
+  > This repository contains the tools we used in our research on the Google Titan M chip
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [ietf-tools/datatracker](https://github.com/ietf-tools/datatracker)
@@ -107,6 +135,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Chrome extension to save and switch between multiple claude.ai logins
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [taiki-e/install-action](https://github.com/taiki-e/install-action)
   > GitHub Action for installing development tools (mainly from GitHub Releases).
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [google/ax](https://github.com/google/ax)
+  > Google's open agentic orchestration runtime
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [wrr/drop](https://github.com/wrr/drop)
+  > Linux sandboxing that doesn't get in your way
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [agent-substrate/env](https://github.com/agent-substrate/env)
+  > An agentic environment abstraction for Agent Substrate
 
 
 <!-- nav -->
@@ -114,7 +148,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-25 15:36:54 UTC*
+*Last updated at 2026-09-25 19:37:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
