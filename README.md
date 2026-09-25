@@ -21,6 +21,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A collection of test logic to to validate liquibase changelogs and changesets
 - 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [meteorshowering/FootPrintRAGVA](https://github.com/meteorshowering/FootPrintRAGVA) to [Hellblazer/FootPrintRAGVA](https://github.com/Hellblazer/FootPrintRAGVA)
 
+### [KiFilterFiberContext](https://github.com/KiFilterFiberContext)
+- 🌟 👤 [KiFilterFiberContext](https://github.com/KiFilterFiberContext) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
+  > Bit-vector expression simplifier for binary analysis and deobfuscation
+
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [EllesmereGaming/EllesmereUI](https://github.com/EllesmereGaming/EllesmereUI) to [Stanzilla/EllesmereUI](https://github.com/Stanzilla/EllesmereUI)
   > EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and e...
@@ -32,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [asalih](https://github.com/asalih) Starred [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
   > Nuclei is a fast, customizable vulnerability scanner powered by the global security community and bu...
 
+### [bwhaley](https://github.com/bwhaley)
+- 🌟 👤 [bwhaley](https://github.com/bwhaley) Starred [bwhaley/dell-c1765-apple-silicon](https://github.com/bwhaley/dell-c1765-apple-silicon)
+  > Native Apple-silicon printing for the Dell C1765nfw, with AirPrint support and automatic network dis...
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
   > Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -41,6 +49,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > At last, a user-friendly Wine graphical interface (mirror from Gitlab)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [RetroMessenger/retro-messenger](https://github.com/RetroMessenger/retro-messenger)
   > MSN inspired Messenger powered by the Telegram protocol
+
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [bentleywang99/ai-native-operations](https://github.com/bentleywang99/ai-native-operations)
+  > The AI-Native Operations Handbook — the authoritative source behind StackNative's AI-native consulti...
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
+  > Bit-vector expression simplifier for binary analysis and deobfuscation
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Ch0pin/rdx](https://github.com/Ch0pin/rdx)
+  > A native APK and DEX decompiler written in Rust
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [tum-fml/loco](https://github.com/tum-fml/loco)
+  > Home of LOCO, the first scene understanding dataset for logistics.
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [suojiashun/HIT-UAV-Infrared-Thermal-Dataset](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset)
+  > A high-altitude infrared thermal dataset for Unmanned Aerial Vehicle-based object detection
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [mikasaw/svmb](https://github.com/mikasaw/svmb) to [fengjixuchui/svmb](https://github.com/fengjixuchui/svmb)
@@ -73,6 +97,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automa...
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)
 
+### [h3xstream](https://github.com/h3xstream)
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [livegrep/livegrep](https://github.com/livegrep/livegrep)
+  > Interactively grep source code. Source for http://livegrep.com/
+
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
   > Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
@@ -80,6 +108,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [nlml/SHeaP](https://github.com/nlml/SHeaP)
   > Code and models for SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [wildminder/awesome-qwen-image](https://github.com/wildminder/awesome-qwen-image)
+  > Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [YujiaHu1109/SVEET](https://github.com/YujiaHu1109/SVEET)
+  > Streaming Video Editing with Easy Adaptation
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [YujiaHu1109/SVEET](https://github.com/YujiaHu1109/SVEET) to [johndpope/SVEET](https://github.com/johndpope/SVEET)
+  > Streaming Video Editing with Easy Adaptation
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [jankeesvw/omarchy-icloud-photos](https://github.com/jankeesvw/omarchy-icloud-photos)
@@ -88,6 +122,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [moggi-lang/moggi](https://github.com/moggi-lang/moggi)
   > Moggi Compiler
+
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [mrexodia/nexos-pi-provider](https://github.com/mrexodia/nexos-pi-provider) public
@@ -98,6 +135,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [driceroland/Search](https://github.com/driceroland/Search)
   > A small, fast WebKit browser for macOS, by Office Commun.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mizchi/jev-lint](https://github.com/mizchi/jev-lint)
+  > lint text in code by jev scorerer
 
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [nestrilabs/nesbox](https://github.com/nestrilabs/nesbox)
@@ -129,13 +168,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [stateafl/stateafl](https://github.com/stateafl/stateafl)
   > StateAFL: A Greybox Fuzzer for Stateful Network Servers
 
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [docker/sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec)
-  > Docker Sandbox Kit Specification v3 — the kit descriptor grammar, the OCI artifact, the build fronte...
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder)
+  > Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, w...
 
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [automagik-dev/omni](https://github.com/automagik-dev/omni)
   > Universal event-driven omnichannel platform for AI agents to communicate across any messaging platfo...
+
+### [veorq](https://github.com/veorq)
+- 🌟 👤 [veorq](https://github.com/veorq) Starred [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase)
+  > A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character...
+- 🌟 👤 [veorq](https://github.com/veorq) Starred [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo)
+  > Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)
 
 ### [vstinner](https://github.com/vstinner)
 - 🍴 👤 [vstinner](https://github.com/vstinner) Forked [pypa/setuptools](https://github.com/pypa/setuptools) to [vstinner/setuptools](https://github.com/vstinner/setuptools)
@@ -165,7 +210,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-24 19:33:19 UTC*
+*Last updated at 2026-09-24 22:46:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
