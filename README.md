@@ -29,13 +29,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [jox218-source/Alltron](https://github.com/jox218-source/Alltron)
   > Pre-alpha open-source Raspberry Pi household assistant; local timer developer preview available
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [apache/camel-karavan](https://github.com/apache/camel-karavan)
+  > Apache Camel Karavan a Low-code Data Integration Platform
 
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [steipete/webawesome](https://github.com/steipete/webawesome)
   > Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade ...
 
+### [jentfoo](https://github.com/jentfoo)
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [boxes-ltd/imaging](https://github.com/boxes-ltd/imaging)
+  > Imaging is a simple image processing package for Go
+
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [initialneil/DEGAS](https://github.com/initialneil/DEGAS) to [johndpope/DEGAS](https://github.com/johndpope/DEGAS)
+
+### [kevaundray](https://github.com/kevaundray)
+- 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [powdr-labs/evm-semantics](https://github.com/powdr-labs/evm-semantics) to [kevaundray/el-stf-semantics](https://github.com/kevaundray/el-stf-semantics)
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [bjarneo/flux](https://github.com/bjarneo/flux)
@@ -68,6 +77,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Typed decisions over text in milliseconds. A Rust inference engine and server that answers choice, s...
 - 🌟 👤 [pims](https://github.com/pims) Starred [aurorainfra/grev](https://github.com/aurorainfra/grev)
   > Thinking coreutils
+- 🌟 👤 [pims](https://github.com/pims) Starred [openlayer-ai/jevals](https://github.com/openlayer-ai/jevals)
+  > Agent evals and guardrails as Jev decisions: one request per trace, a fraction of a cent, fast enoug...
 
 ### [ranacseruet](https://github.com/ranacseruet)
 - 🌟 👤 [ranacseruet](https://github.com/ranacseruet) Starred [ranacseruet/codesamplez-tools](https://github.com/ranacseruet/codesamplez-tools)
@@ -85,6 +96,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [google-deepmind/amplio](https://github.com/google-deepmind/amplio)
   > Amplio: A Lightweight Agent Harness for Robust and Long-Horizon Runs
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [dtolnay/proc-macro2](https://github.com/dtolnay/proc-macro2)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [pacifio/atlas](https://github.com/pacifio/atlas)
+  > Source control for agents. Use multiple coding agents, track their changes and query them in one pla...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [zzet/gortex](https://github.com/zzet/gortex)
+  > High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repos...
 
 
 <!-- nav -->
@@ -92,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-26 14:47:54 UTC*
+*Last updated at 2026-09-26 18:08:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
