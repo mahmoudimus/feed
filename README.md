@@ -14,6 +14,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [BaseMax](https://github.com/BaseMax) Forked [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) to [MaxFork/graphify](https://github.com/MaxFork/graphify)
   > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [ory/fosite](https://github.com/ory/fosite)
+  > Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+  > Hindsight: Agent Memory That Learns
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+  > The open-source app everyone uses to manage agents at work
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [pulumi/pulumi-digitalocean](https://github.com/pulumi/pulumi-digitalocean)
+  > A DigitalOcean Pulumi resource package, providing multi-language access to DigitalOcean
+
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🍴 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Forked [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) to [JoshuaKGoldberg/conventional-changelog](https://github.com/JoshuaKGoldberg/conventional-changelog)
+  > Generate changelogs and release notes from a project's commit messages and metadata.
+
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [EnesCinr/twitter-mcp](https://github.com/EnesCinr/twitter-mcp)
   > A Model Context Protocol server allows to interact with Twitter, enabling posting tweets and searchi...
@@ -36,12 +50,27 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [steipete/webawesome](https://github.com/steipete/webawesome)
   > Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade ...
 
+### [illnyang](https://github.com/illnyang)
+- 🌟 👤 [illnyang](https://github.com/illnyang) Starred [nifanfa/IL2LLVM](https://github.com/nifanfa/IL2LLVM)
+  > A compiler that translates .NET IL into LLVM IR for multi-architecture native code generation
+
+### [jaredpalmer](https://github.com/jaredpalmer)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
+  > Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
+
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [boxes-ltd/imaging](https://github.com/boxes-ltd/imaging)
   > Imaging is a simple image processing package for Go
 
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [initialneil/DEGAS](https://github.com/initialneil/DEGAS) to [johndpope/DEGAS](https://github.com/johndpope/DEGAS)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
+  > A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the origina...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [ShyVortex/dlss-unlocked](https://github.com/ShyVortex/dlss-unlocked)
+  > Unlock DLSS Upscaler, Multi-Frame Generation (MFG) and DLSS Neural Rendering features on any NVIDIA ...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mrcgibb9876-hash/OptiDLSS5-UI](https://github.com/mrcgibb9876-hash/OptiDLSS5-UI)
+  > DLSS 5 Neural Rendering, set up per game. Join the Discord: discord.gg/HFZTDdSNmJ
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [graphdeco-inria/diff-gaussian-rasterization](https://github.com/graphdeco-inria/diff-gaussian-rasterization) to [johndpope/diff-gaussian-rasterization](https://github.com/johndpope/diff-gaussian-rasterization)
 
 ### [kevaundray](https://github.com/kevaundray)
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [powdr-labs/evm-semantics](https://github.com/powdr-labs/evm-semantics) to [kevaundray/el-stf-semantics](https://github.com/kevaundray/el-stf-semantics)
@@ -88,6 +117,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [redstar](https://github.com/redstar) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
   > Local-first search across your workspace, built for humans and AI agents.
 
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [google/kernel-research](https://github.com/google/kernel-research)
+
 ### [stepancheg](https://github.com/stepancheg)
 - 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [hashicorp/terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) to [stepancheg/terraform-provider-helm](https://github.com/stepancheg/terraform-provider-helm)
   > Terraform Helm provider
@@ -100,6 +132,37 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Source control for agents. Use multiple coding agents, track their changes and query them in one pla...
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [zzet/gortex](https://github.com/zzet/gortex)
   > High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repos...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [pg83/solo](https://github.com/pg83/solo)
+  > Portable Linux binaries, solved
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [NVIDIA/Personal-AI-Router](https://github.com/NVIDIA/Personal-AI-Router)
+  > Router that virtually distributes inference across connected devices in the home.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [watzon/goshot](https://github.com/watzon/goshot)
+  > 🎨 Create beautiful code screenshots with customizable styles 
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [gossamer-lang/gossamer](https://github.com/gossamer-lang/gossamer)
+  > The Gossamer programming language and tooling
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [clawkwork/clawk](https://github.com/clawkwork/clawk)
+  > Give coding agents a disposable Linux VM, not your laptop
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [orval-labs/orval](https://github.com/orval-labs/orval)
+  > orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAP...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [workos/auth.md](https://github.com/workos/auth.md)
+  > An open protocol that lets agents register for services on behalf of users — discoverable through a ...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [kenforthewin/atomic](https://github.com/kenforthewin/atomic)
+  > Self-hosted, semantically-connected personal knowledge base
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ai-on-gke/tutorials-and-examples](https://github.com/ai-on-gke/tutorials-and-examples)
+  > Repository used to store the GKE AI Labs content for "Tutorials and Examples" section
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ai-on-gke/kuberay-tpu-webhook](https://github.com/ai-on-gke/kuberay-tpu-webhook)
+  > A validating and mutating webhook to enable TPU workloads with KubeRay
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ai-on-gke/tpu-provisioner](https://github.com/ai-on-gke/tpu-provisioner)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ai-on-gke/tools](https://github.com/ai-on-gke/tools)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ai-on-gke/tpu-device-plugin](https://github.com/ai-on-gke/tpu-device-plugin)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [ai-on-gke/quick-start-guides](https://github.com/ai-on-gke/quick-start-guides)
+  > Repository used to store the GKE AI Labs content for "Tutorials and Examples" section
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
+  > Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu...
+- 🍴 👤 [zchee](https://github.com/zchee) Forked [LouisBrunner/valgrind-macos](https://github.com/LouisBrunner/valgrind-macos) to [zchee/valgrind-macos](https://github.com/zchee/valgrind-macos)
+  > A valgrind mirror with latest macOS support
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
+  > Fastest and cheapest web agent
 
 
 <!-- nav -->
@@ -107,7 +170,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-26 18:08:06 UTC*
+*Last updated at 2026-09-26 21:39:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
