@@ -46,6 +46,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)
   > ⚡️ A curated list of awesome things related to Bun
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya)
+  > Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-c...
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [thebabush/ida-colors](https://github.com/thebabush/ida-colors)
@@ -87,7 +89,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ngwg/ceasta](https://github.com/ngwg/ceasta)
-  > disassembler, decompiler and debugger in one, with a built-in mcp server — point an ai at a binary a...
+  > disassembler, decompiler and debugger in one, with a built-in mcp server: point an ai at a binary an...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
   > Bit-vector expression simplifier for binary analysis and deobfuscation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -120,6 +122,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [robconery](https://github.com/robconery) Forked [paperclipai/paperclip](https://github.com/paperclipai/paperclip) to [robconery/paperclip](https://github.com/robconery/paperclip)
   > The open-source app everyone uses to manage agents at work
 
+### [sellout](https://github.com/sellout)
+- 🍴 👤 [sellout](https://github.com/sellout) Forked [zcash/integration-tests](https://github.com/zcash/integration-tests) to [sellout/integration-tests](https://github.com/sellout/integration-tests)
+  > Integration testing for the Zcash ecosystem
+
+### [sintaxi](https://github.com/sintaxi)
+- 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
+  > Your own search engine
+
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [quarkslab/titanm](https://github.com/quarkslab/titanm)
   > This repository contains the tools we used in our research on the Google Titan M chip
@@ -127,6 +137,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [ietf-tools/datatracker](https://github.com/ietf-tools/datatracker)
   > The day-to-day front-end to the IETF database for people who work on IETF standards.
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [datadog-labs/claude-code-plugin](https://github.com/datadog-labs/claude-code-plugin)
@@ -141,6 +155,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Linux sandboxing that doesn't get in your way
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [agent-substrate/env](https://github.com/agent-substrate/env)
   > An agentic environment abstraction for Agent Substrate
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [knadh/koanf](https://github.com/knadh/koanf)
+  > Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, T...
 
 
 <!-- nav -->
@@ -148,7 +164,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-25 19:37:39 UTC*
+*Last updated at 2026-09-25 22:53:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
