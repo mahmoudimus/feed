@@ -8,6 +8,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BaseMax](https://github.com/BaseMax)
+- 🍴 👤 [BaseMax](https://github.com/BaseMax) Forked [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) to [MaxFork/codegraph](https://github.com/MaxFork/codegraph)
+  > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
+- 🍴 👤 [BaseMax](https://github.com/BaseMax) Forked [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) to [MaxFork/graphify](https://github.com/MaxFork/graphify)
+  > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...
+
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [EnesCinr/twitter-mcp](https://github.com/EnesCinr/twitter-mcp)
+  > A Model Context Protocol server allows to interact with Twitter, enabling posting tweets and searchi...
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter)
+  > Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
+
+### [artem](https://github.com/artem)
+- 🌟 👤 [artem](https://github.com/artem) Starred [facebookincubator/antlir](https://github.com/facebookincubator/antlir)
+  > ANoTher Linux Image buildeR
+- 🌟 👤 [artem](https://github.com/artem) Starred [amutable-systems/tine](https://github.com/amutable-systems/tine)
+  > Build packages, go/Rust projects, and OS images with Buck2
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [jox218-source/Alltron](https://github.com/jox218-source/Alltron)
   > Pre-alpha open-source Raspberry Pi household assistant; local timer developer preview available
@@ -26,6 +44,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mbrt](https://github.com/mbrt)
 - 🌟 👤 [mbrt](https://github.com/mbrt) Starred [bendlang/bend](https://github.com/bendlang/bend)
   > Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com...
+
+### [mingrammer](https://github.com/mingrammer)
+- 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [aldegad/sprite-gen](https://github.com/aldegad/sprite-gen)
+  > Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha clean...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Yeeb1/CTFdCLI](https://github.com/Yeeb1/CTFdCLI) to [mrexodia/CTFdCLI](https://github.com/mrexodia/CTFdCLI)
+  > Command-line interface for CTFd competitions: sync challenges, submit flags, and track progress.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Badtheorylabs/interference-search](https://github.com/Badtheorylabs/interference-search)
+  > Reason over explicit states, many branches at once: merge duplicates, cancel dead ends, advance toge...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1-3-7/disrobe](https://github.com/1-3-7/disrobe)
+  > Static decompiler, deobfuscator, and unpacker for reverse engineering and malware analysis: Python d...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [git/git](https://github.com/git/git) to [mrexodia/git](https://github.com/mrexodia/git)
+  > Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patc...
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [obra/superpowers](https://github.com/obra/superpowers)
@@ -52,6 +84,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [google-deepmind/amplio](https://github.com/google-deepmind/amplio)
   > Amplio: A Lightweight Agent Harness for Robust and Long-Horizon Runs
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [dtolnay/proc-macro2](https://github.com/dtolnay/proc-macro2)
 
 
 <!-- nav -->
@@ -59,7 +92,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-26 10:24:11 UTC*
+*Last updated at 2026-09-26 14:47:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
