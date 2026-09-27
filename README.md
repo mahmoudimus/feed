@@ -8,13 +8,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
-- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [es-tooling/eslint-plugin-unicorn-x](https://github.com/es-tooling/eslint-plugin-unicorn-x)
-  > More than 100 powerful ESLint rules
+### [AndrasKovacs](https://github.com/AndrasKovacs)
+- 🌟 👤 [AndrasKovacs](https://github.com/AndrasKovacs) Starred [intgrah/sokonanoda](https://github.com/intgrah/sokonanoda)
+  > Lean 4 kernel with NbE
+
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim)
+  > Prismatic line decorations for the adventurous vim user
+
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+  > Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ### [ambethia](https://github.com/ambethia)
 - 🌟 👤 [ambethia](https://github.com/ambethia) Starred [compozy/compozy](https://github.com/compozy/compozy)
   > An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemin...
+
+### [ankane](https://github.com/ankane)
+- 🌟 👤 [ankane](https://github.com/ankane) Starred [docusealco/rllama](https://github.com/docusealco/rllama)
+  > Ruby FFI bindings for llama.cpp to run open-source LLMs such as GPT-OSS, Qwen 3.5, Gemma 4, and Llam...
 
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [apache/camel](https://github.com/apache/camel)
@@ -37,6 +49,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [reladraw/reladraw](https://github.com/reladraw/reladraw)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [rgodha24/walgithub](https://github.com/rgodha24/walgithub)
+  > walgit with a GitHub Enterprise Server facade — git over smart HTTP from an object-store bucket
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
@@ -67,6 +81,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > ⚠️ Experimental ⚠️ IDA Nexus allows multiple clients to seamlessly share and operate on IDA database...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ALange/Piper](https://github.com/ALange/Piper)
   > OpenAI compatible PI agent gateway and orchestrator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
+  > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MichaelKinsy/PiG](https://github.com/MichaelKinsy/PiG)
+  > PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding ag...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cachix/nix-derivation](https://github.com/cachix/nix-derivation)
@@ -79,6 +97,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A machine tool for agents: a verified runtime for systems agents build.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Appllama/liquid-glass-chat-ui](https://github.com/Appllama/liquid-glass-chat-ui)
   > Explore liquid-glass chat UIs with animated portraits, interactive stories, and floating composers.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [fzakaria/omnibin](https://github.com/fzakaria/omnibin)
+  > Every binary nixpkgs ever shipped, on your PATH.
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe)
@@ -98,6 +118,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A JIT assembler for x86/x64 architectures supporting the latest instruction set extensions such as A...
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
   > Official Hex-Rays IDA MCP Server.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [arximus88/figma-linux-next](https://github.com/arximus88/figma-linux-next)
+  > Fork of unnoficial runner of Figma on Linux. 
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
@@ -141,7 +163,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-27 18:43:04 UTC*
+*Last updated at 2026-09-27 21:41:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
