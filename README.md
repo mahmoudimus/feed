@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [es-tooling/eslint-plugin-unicorn-x](https://github.com/es-tooling/eslint-plugin-unicorn-x)
+  > More than 100 powerful ESLint rules
+
+### [ambethia](https://github.com/ambethia)
+- 🌟 👤 [ambethia](https://github.com/ambethia) Starred [compozy/compozy](https://github.com/compozy/compozy)
+  > An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemin...
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [apache/camel](https://github.com/apache/camel)
   > Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAM...
@@ -15,6 +23,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [jaytiwari05/DDE-Callback-Hijack](https://github.com/jaytiwari05/DDE-Callback-Hijack) to [fengjixuchui/DDE-Callback-Hijack](https://github.com/fengjixuchui/DDE-Callback-Hijack)
   > Another Injection Technique which eliminates creations of thread in remote process
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [nbs32k/LocalStranger](https://github.com/nbs32k/LocalStranger) to [fengjixuchui/LocalStranger](https://github.com/fengjixuchui/LocalStranger)
+  > PoC for WinNotify, demonstrated through a driver mapper, and local privilege escalation.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [SunnyMaria/csapp-zh-markdown](https://github.com/SunnyMaria/csapp-zh-markdown) to [fengjixuchui/csapp-zh-markdown](https://github.com/fengjixuchui/csapp-zh-markdown)
+  > CSAPP 中文文档与学习资料：《深入理解计算机系统》第三版全章节 Markdown，含练习题答案、八大实验中文翻译及官方自学实验包，方便在线阅读与离线学习。
+
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [monfa-red/lini](https://github.com/monfa-red/lini)
+  > One small language for every figure from plain text — diagrams, charts, sequences, mindmaps, trees, ...
+- 🌟 👤 [frol](https://github.com/frol) Starred [biplabku/asyncq](https://github.com/biplabku/asyncq)
+  > Async job queue for Rust — Redis/PostgreSQL backends, Sidekiq/Celery-style
+- 🌟 👤 [frol](https://github.com/frol) Starred [andreytkachenko/vacc](https://github.com/andreytkachenko/vacc)
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [reladraw/reladraw](https://github.com/reladraw/reladraw)
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
@@ -29,12 +51,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [TMM 2025] RIFormer+: Rethinking Rotation-Invariant Feature Learning in Transformer
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [OpenVDN/vdn-minimax-h3](https://github.com/OpenVDN/vdn-minimax-h3)
   > VideoDeltaNet-H3: Live T2VA / I2VA / FL2VA / Ref2VA-like generation based on Minimax H3.
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [OpenVDN/vdn-minimax-h3](https://github.com/OpenVDN/vdn-minimax-h3) to [johndpope/vdn-minimax-h3](https://github.com/johndpope/vdn-minimax-h3)
+  > VideoDeltaNet-H3: Live T2VA / I2VA / FL2VA / Ref2VA-like generation based on Minimax H3.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [zai-org/SCAIL](https://github.com/zai-org/SCAIL)
+  > SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Repres...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-nexus](https://github.com/HexRaysSA/ida-nexus)
+  > ⚠️ Experimental ⚠️ IDA Nexus allows multiple clients to seamlessly share and operate on IDA database...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ALange/Piper](https://github.com/ALange/Piper)
+  > OpenAI compatible PI agent gateway and orchestrator
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cachix/nix-derivation](https://github.com/cachix/nix-derivation)
   > Parses, validates, hashes, and serializes Nix derivations and constructs their store paths in pure R...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [cachix/casita](https://github.com/cachix/casita)
   > A content-addressed object store, written in Rust.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
+  > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Include...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nerdsane/temper](https://github.com/nerdsane/temper)
+  > A machine tool for agents: a verified runtime for systems agents build.
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe)
@@ -54,6 +92,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A community directory of projects built on Jev, TypeSafe AI's System One model.
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
   > A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor)
+  > An OpenAPI client generator
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [gpu-cli/openapi-to-rust](https://github.com/gpu-cli/openapi-to-rust)
+  > OpenAPI generator for Rust: typed models, async Reqwest/SSE clients, and Axum server scaffolding for...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [eklipse2k8/oas3-gen](https://github.com/eklipse2k8/oas3-gen)
+  > Rust OpenAPI 3.1 Type Generator
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [docker/sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec)
+  > Docker Sandbox Kit Specification v3 — the kit descriptor grammar, the OCI artifact, the build fronte...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
+  > Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text ...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Heman10x-NGU/Verdict-open-jev](https://github.com/Heman10x-NGU/Verdict-open-jev)
+  > Non-autoregressive decision engine on ModernBERT (151M) with calibrated uncertainty (RLCD), TypeSafe...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [allebee/jevk5](https://github.com/allebee/jevk5)
+  > JevK5: open-weight alternative to TypeSafe Jev. Typed decisions with probabilities in one forward pa...
 
 
 <!-- nav -->
@@ -61,7 +114,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-27 09:35:21 UTC*
+*Last updated at 2026-09-27 14:51:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
