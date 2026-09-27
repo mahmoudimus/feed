@@ -42,6 +42,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
   > VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, vi...
 
+### [imrehg](https://github.com/imrehg)
+- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [boltgolt/howdy](https://github.com/boltgolt/howdy)
+  > 🛡️ Windows Hello™ style facial authentication for Linux
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [WeichenFan/Spectral_Forcing](https://github.com/WeichenFan/Spectral_Forcing)
   > Code of "Show the Signal, Hide the Noise: Spectral Forcing for Pixel-Space Diffusion"
@@ -73,6 +77,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Include...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nerdsane/temper](https://github.com/nerdsane/temper)
   > A machine tool for agents: a verified runtime for systems agents build.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Appllama/liquid-glass-chat-ui](https://github.com/Appllama/liquid-glass-chat-ui)
+  > Explore liquid-glass chat UIs with animated portraits, interactive stories, and floating composers.
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe)
@@ -83,6 +89,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Native Mermaid diagrams in Swift — all 30 types, CoreGraphics on Apple and Silica/Cairo on Linux. No...
 - 🌟 👤 [pims](https://github.com/pims) Starred [keltokhy/jgrep](https://github.com/keltokhy/jgrep)
   > grep, but the pattern is a description. Filters lines by meaning with TypeSafe's Jev decision model:...
+
+### [prasmussen](https://github.com/prasmussen)
+- 🚀 👤 [prasmussen](https://github.com/prasmussen) Made [prasmussen/looper](https://github.com/prasmussen/looper) public
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [herumi/xbyak](https://github.com/herumi/xbyak)
+  > A JIT assembler for x86/x64 architectures supporting the latest instruction set extensions such as A...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
+  > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [razorback16/openjev](https://github.com/razorback16/openjev)
@@ -107,6 +126,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [allebee/jevk5](https://github.com/allebee/jevk5)
   > JevK5: open-weight alternative to TypeSafe Jev. Typed decisions with probabilities in one forward pa...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [agent-of-empires/agent-of-empires](https://github.com/agent-of-empires/agent-of-empires)
+  > Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also ...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [pydantic/monty](https://github.com/pydantic/monty)
+  > A minimal, secure Python interpreter written in Rust for use by AI
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [papercomputeco/tapes](https://github.com/papercomputeco/tapes)
+  > Transparent telemetry collector for hi-fidelity agent traces
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [alpic-ai/skybridge](https://github.com/alpic-ai/skybridge)
+  > Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-power...
 
 
 <!-- nav -->
@@ -114,7 +141,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-27 14:51:56 UTC*
+*Last updated at 2026-09-27 18:43:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
