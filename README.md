@@ -50,6 +50,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [steipete/webawesome](https://github.com/steipete/webawesome)
   > Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade ...
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Ablation-Tool/ablation](https://github.com/Ablation-Tool/ablation)
+  > Ablation is a reverse engineering framework
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [1-3-7/disrobe](https://github.com/1-3-7/disrobe)
+  > Static decompiler, deobfuscator, and unpacker for reverse engineering and malware analysis: Python d...
+
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [nifanfa/IL2LLVM](https://github.com/nifanfa/IL2LLVM)
   > A compiler that translates .NET IL into LLVM IR for multi-architecture native code generation
@@ -79,6 +85,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [bjarneo/flux](https://github.com/bjarneo/flux)
   > Connect an Omarchy computer to your phone: files, clipboard, notifications, media, camera, and more
 
+### [lg](https://github.com/lg)
+- 🍴 👤 [lg](https://github.com/lg) Forked [steipete/CodexBar](https://github.com/steipete/CodexBar) to [lg/CodexBar](https://github.com/lg/CodexBar)
+  > Show usage stats for OpenAI Codex and Claude Code, without having to login.
+
 ### [mbrt](https://github.com/mbrt)
 - 🌟 👤 [mbrt](https://github.com/mbrt) Starred [bendlang/bend](https://github.com/bendlang/bend)
   > Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com...
@@ -96,6 +106,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Static decompiler, deobfuscator, and unpacker for reverse engineering and malware analysis: Python d...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [git/git](https://github.com/git/git) to [mrexodia/git](https://github.com/mrexodia/git)
   > Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patc...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Ablation-Tool/ablation](https://github.com/Ablation-Tool/ablation)
+  > Ablation is a reverse engineering framework
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [obra/superpowers](https://github.com/obra/superpowers)
@@ -108,6 +120,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Thinking coreutils
 - 🌟 👤 [pims](https://github.com/pims) Starred [openlayer-ai/jevals](https://github.com/openlayer-ai/jevals)
   > Agent evals and guardrails as Jev decisions: one request per trace, a fraction of a cent, fast enoug...
+- 🌟 👤 [pims](https://github.com/pims) Starred [reladraw/reladraw](https://github.com/reladraw/reladraw)
 
 ### [ranacseruet](https://github.com/ranacseruet)
 - 🌟 👤 [ranacseruet](https://github.com/ranacseruet) Starred [ranacseruet/codesamplez-tools](https://github.com/ranacseruet/codesamplez-tools)
@@ -123,6 +136,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [stepancheg](https://github.com/stepancheg)
 - 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [hashicorp/terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) to [stepancheg/terraform-provider-helm](https://github.com/stepancheg/terraform-provider-helm)
   > Terraform Helm provider
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Maisy-ML/Agent-Authorization-Use-Cases](https://github.com/Maisy-ML/Agent-Authorization-Use-Cases)
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [google-deepmind/amplio](https://github.com/google-deepmind/amplio)
@@ -163,6 +179,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A valgrind mirror with latest macOS support
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
   > Fastest and cheapest web agent
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB)
+  > A truly Open Source MongoDB alternative
 
 
 <!-- nav -->
@@ -170,7 +188,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-26 21:39:31 UTC*
+*Last updated at 2026-09-26 23:58:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
