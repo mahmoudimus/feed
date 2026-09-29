@@ -1,173 +1,24 @@
-# Daily GitHub Activity (2026-09-28)
+# Daily GitHub Activity (2026-09-29)
 
 <!-- nav -->
-[← 2026-09-27](archive/2026/09/27.md)
+[← 2026-09-28](archive/2026/09/28.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Clivern](https://github.com/Clivern)
-- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai)
-  > Semantic Search & Call Graphs for AI Agents (100% Local)
-
-### [NinjaLikesCheez](https://github.com/NinjaLikesCheez)
-- 🌟 👤 [NinjaLikesCheez](https://github.com/NinjaLikesCheez) Starred [deniza-png/snap](https://github.com/deniza-png/snap)
-  > vanish from google meet with a finger snap mid meeting
-
-### [Xe](https://github.com/Xe)
-- 🌟 👤 [Xe](https://github.com/Xe) Starred [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya)
-  > Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-c...
-
-### [ambethia](https://github.com/ambethia)
-- 🌟 👤 [ambethia](https://github.com/ambethia) Starred [dop251/goja](https://github.com/dop251/goja)
-  > ECMAScript/JavaScript engine in pure Go
-- 🌟 👤 [ambethia](https://github.com/ambethia) Starred [yuin/gopher-lua](https://github.com/yuin/gopher-lua)
-  > GopherLua: VM and compiler for Lua in Go
-
-### [buger](https://github.com/buger)
-- 🍴 👤 [buger](https://github.com/buger) Forked [hyprwm/aquamarine](https://github.com/hyprwm/aquamarine) to [buger/aquamarine](https://github.com/buger/aquamarine)
-  > Aquamarine is a very light linux rendering backend library
-
-### [danielplohmann](https://github.com/danielplohmann)
-- 🍴 👤 [danielplohmann](https://github.com/danielplohmann) Forked [HexRaysSA/plugin-repository](https://github.com/HexRaysSA/plugin-repository) to [danielplohmann/plugin-repository](https://github.com/danielplohmann/plugin-repository)
-  > public index of IDA Pro plugins
-
-### [dibyendumajumdar](https://github.com/dibyendumajumdar)
-- 🍴 👤 [dibyendumajumdar](https://github.com/dibyendumajumdar) Forked [anvcor/lens-bench](https://github.com/anvcor/lens-bench) to [BeamFour/lens-bench](https://github.com/BeamFour/lens-bench)
-  > 浏览器里跑的序列光学仿真：LDM 表格直接编辑，实时出 Layout、MTF、像差曲线与光线扇形
-- 🍴 👤 [dibyendumajumdar](https://github.com/dibyendumajumdar) Forked [anvcor/patent-lens-to-excel](https://github.com/anvcor/patent-lens-to-excel) to [BeamFour/patent-lens-to-excel](https://github.com/BeamFour/patent-lens-to-excel)
-  > Claude skill: optical patent lens data -> Excel / Zemax .zmx / CODE V .seq
-
-### [emcfarlane](https://github.com/emcfarlane)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [yaml/go-yaml](https://github.com/yaml/go-yaml)
-  > The YAML org maintained fork of https://github.com/go-yaml/yaml
-
-### [fmeum](https://github.com/fmeum)
-- 🍴 👤 [fmeum](https://github.com/fmeum) Forked [bazelbuild/remote-apis](https://github.com/bazelbuild/remote-apis) to [fmeum/remote-apis](https://github.com/fmeum/remote-apis)
-  > An API for caching and execution of actions on a remote system.
-
-### [gamous](https://github.com/gamous)
-- 🌟 👤 [gamous](https://github.com/gamous) Starred [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
-
-### [h2non](https://github.com/h2non)
-- 🍴 👤 [h2non](https://github.com/h2non) Forked [Abdulkader-Safi/AI-Writing-Rules](https://github.com/Abdulkader-Safi/AI-Writing-Rules) to [h2non/AI-Writing-Rules](https://github.com/h2non/AI-Writing-Rules)
-  > Claude Code plugin that stops Claude writing like an AI. 29 researched patterns, loaded every sessio...
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [cloudflare/forge](https://github.com/cloudflare/forge)
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [animede/Realtime_Conversation_Video](https://github.com/animede/Realtime_Conversation_Video)
-  > Speak into the mic, and the character answers back in real time — with voice and video.
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [animede/Realtime_Narration_Video](https://github.com/animede/Realtime_Narration_Video)
-  > Real-time talking character on a single RTX 5090 — LTX-2.5 22B + local LLM + TTS, fully local. First...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [animede/Realtime_Narration_Video](https://github.com/animede/Realtime_Narration_Video) to [johndpope/Realtime_Narration_Video](https://github.com/johndpope/Realtime_Narration_Video)
-  > Real-time talking character on a single RTX 5090 — LTX-2.5 22B + local LLM + TTS, fully local. First...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [NVlabs/GRAIL](https://github.com/NVlabs/GRAIL)
-  > A digital data-generation pipeline that synthesizes humanoid loco-manipulation data from 3D assets a...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [humanoidintelligence/motion-latent-diffusion-smplx](https://github.com/humanoidintelligence/motion-latent-diffusion-smplx)
-  > SMPL-X version of "MLD: Executing your Commands via Motion Diffusion in Latent Space"
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [humanoidintelligence/motion-latent-diffusion-smplx](https://github.com/humanoidintelligence/motion-latent-diffusion-smplx) to [johndpope/motion-latent-diffusion-smplx](https://github.com/johndpope/motion-latent-diffusion-smplx)
-  > SMPL-X version of "MLD: Executing your Commands via Motion Diffusion in Latent Space"
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Koongrizzly/FrameVision](https://github.com/Koongrizzly/FrameVision)
-  > All in one Image/video editor/upscaler/creator
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Koongrizzly/FrameVision](https://github.com/Koongrizzly/FrameVision) to [johndpope/FrameVision](https://github.com/johndpope/FrameVision)
-  > All in one Image/video editor/upscaler/creator
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [solipsist-studios/cumuli](https://github.com/solipsist-studios/cumuli)
-  > 4D volumetric human capture pipeline: GoPro footage → Camera pose estimation → Diffuman4D → Brush 3D...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [AndriiShramko/4dgs-human-avatar-comfyui-nodes-dataset](https://github.com/AndriiShramko/4dgs-human-avatar-comfyui-nodes-dataset)
-  > Shramko-Volumetric-Bridge for ComfyUI + free & enterprise human scan datasets. 4DGS, true 360°, comm...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [AndriiShramko/4dgs-human-avatar-comfyui-nodes-dataset](https://github.com/AndriiShramko/4dgs-human-avatar-comfyui-nodes-dataset) to [johndpope/4dgs-human-avatar-comfyui-nodes-dataset](https://github.com/johndpope/4dgs-human-avatar-comfyui-nodes-dataset)
-  > Shramko-Volumetric-Bridge for ComfyUI + free & enterprise human scan datasets. 4DGS, true 360°, comm...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Spatial-Explorer/framegrabber](https://github.com/Spatial-Explorer/framegrabber)
-  > FFMPEG based frame extraction tool designed to extract the first and last frames of a short video.  ...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [amap-cvlab/ABot-Recon](https://github.com/amap-cvlab/ABot-Recon)
-  > Streaming 3D reconstruction from only video input: Revisiting Local Context for Long-Horizon Streami...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [PozzettiAndrea/ComfyUI-Sharp](https://github.com/PozzettiAndrea/ComfyUI-Sharp)
-  > ComfyUI wrapper around the ml-sharp model from Apple
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [runjie-yan/TripoSplat-Training](https://github.com/runjie-yan/TripoSplat-Training)
-  > Official training code for TripoSplat: Generative 3D Gaussians with Learned Density Control [SIGGRAP...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [runjie-yan/TripoSplat-Training](https://github.com/runjie-yan/TripoSplat-Training) to [johndpope/TripoSplat-Training](https://github.com/johndpope/TripoSplat-Training)
-  > Official training code for TripoSplat: Generative 3D Gaussians with Learned Density Control [SIGGRAP...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [tuallen/speede3dgs](https://github.com/tuallen/speede3dgs)
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [tuallen/speede3dgs](https://github.com/tuallen/speede3dgs) to [johndpope/speede3dgs](https://github.com/johndpope/speede3dgs)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [facebookresearch/4DGT](https://github.com/facebookresearch/4DGT)
-  > [NeurIPS 2025 (Spotlight)] The implementation for the paper "4DGT Learning a 4D Gaussian Transformer...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [cvlab-kaist/C4G](https://github.com/cvlab-kaist/C4G)
-  > Official Implementation of "Learning Global Motion with Compact Gaussians for Feed-Forward 4D Recons...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [cvlab-kaist/C4G](https://github.com/cvlab-kaist/C4G) to [johndpope/C4G](https://github.com/johndpope/C4G)
-  > Official Implementation of "Learning Global Motion with Compact Gaussians for Feed-Forward 4D Recons...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [ufo-4d/ufo-4d](https://github.com/ufo-4d/ufo-4d)
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [ufo-4d/ufo-4d](https://github.com/ufo-4d/ufo-4d) to [johndpope/ufo-4d](https://github.com/johndpope/ufo-4d)
-
-### [laurci](https://github.com/laurci)
-- 🌟 👤 [laurci](https://github.com/laurci) Starred [swarajbachu/zuse](https://github.com/swarajbachu/zuse)
-  > open source devin (cloud agents)
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
-  > Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata in...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JoasASantos/Offensive-Security-AI-Models](https://github.com/JoasASantos/Offensive-Security-AI-Models)
-  > Uncensored AI models or those fine-tuned for cybersecurity tasks.
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lyuyiqi/open-jev-fast](https://github.com/lyuyiqi/open-jev-fast)
-  > Faster inference backend for Open-Jev-27B: fused CUDA kernels, prefix tree, CUDA Graphs (B300, bf16)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [PranavDesai-Git/jbin](https://github.com/PranavDesai-Git/jbin)
-  > schema-based JSON to binary packer and code generator
-
-### [nvgrw](https://github.com/nvgrw)
-- 🌟 👤 [nvgrw](https://github.com/nvgrw) Starred [paulgessinger/swift-paperless](https://github.com/paulgessinger/swift-paperless)
-  > Native iOS app for interacting with a Paperless-ngx installation to manage documents
-
-### [proofit404](https://github.com/proofit404)
-- 🌟 👤 [proofit404](https://github.com/proofit404) Starred [dylanebert/shallot](https://github.com/dylanebert/shallot)
-  > WebGPU game engine
-
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [microprivacy/moneysurfer](https://github.com/microprivacy/moneysurfer)
-  > Lightweight CLI for Privacy Pools V1 and V2
-
-### [simonmasson](https://github.com/simonmasson)
-- 🍴 👤 [simonmasson](https://github.com/simonmasson) Forked [ethereum/kohaku-rs](https://github.com/ethereum/kohaku-rs) to [ZKNoxHQ/kohaku-rs](https://github.com/ZKNoxHQ/kohaku-rs)
-
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [datasette/datasette-otel-viewer](https://github.com/datasette/datasette-otel-viewer)
-
-### [spotlightishere](https://github.com/spotlightishere)
-- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [linden/uarp](https://github.com/linden/uarp)
-  > a Go library and command-line tool for Apple's Universal Accessory Restore Protocol.
-
-### [thomasdarimont](https://github.com/thomasdarimont)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [cedar-policy/cedar-local-agent](https://github.com/cedar-policy/cedar-local-agent)
-
-### [tintinweb](https://github.com/tintinweb)
-- 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer)
-  > A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and emb...
-
-### [zakkak](https://github.com/zakkak)
-- 🌟 👤 [zakkak](https://github.com/zakkak) Starred [brig-sh/brig](https://github.com/brig-sh/brig)
-  > Brig: run coding agents in a microVM sandbox - the Go cli (brig) and session daemon (brigd)
-
-### [zchee](https://github.com/zchee)
-- 🍴 👤 [zchee](https://github.com/zchee) Forked [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) to [zchee/fast-jev-compaction](https://github.com/zchee/fast-jev-compaction)
-  > Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [cloudflare/cf](https://github.com/cloudflare/cf)
-  > The agentic CLI for the entire Cloudflare API
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [google-deepmind/science-skills](https://github.com/google-deepmind/science-skills)
-  > GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token e...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [dzhng/jevgrep](https://github.com/dzhng/jevgrep)
-  > Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files a...
+### [fnuecke](https://github.com/fnuecke)
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [mackron/miniaudio](https://github.com/mackron/miniaudio)
+  > Audio playback and capture library written in C, in a single source file.
 
 
 <!-- nav -->
-[← 2026-09-27](archive/2026/09/27.md)
+[← 2026-09-28](archive/2026/09/28.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-28 20:53:06 UTC*
+*Last updated at 2026-09-29 00:40:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
