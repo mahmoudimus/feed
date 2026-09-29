@@ -84,6 +84,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Deep Patch Visual Odometry/SLAM
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [IAB-IITJ/HyperSpaceX](https://github.com/IAB-IITJ/HyperSpaceX)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [IAB-IITJ/Harmonizing-Geometry-and-Uncertainty-Diffusion-with-Hyperspheres](https://github.com/IAB-IITJ/Harmonizing-Geometry-and-Uncertainty-Diffusion-with-Hyperspheres)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [TencentARC/DiTCtrl](https://github.com/TencentARC/DiTCtrl)
+  > [CVPR 2025] Official code of "DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transfor...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [CVL-UESTC/FDPT-AR](https://github.com/CVL-UESTC/FDPT-AR)
+  > Beyond Token-Level Cross-Entropy: Fréchet Distributional Post-Training for Autoregressive Image Gene...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [CVL-UESTC/FDPT-AR](https://github.com/CVL-UESTC/FDPT-AR) to [johndpope/FDPT-AR](https://github.com/johndpope/FDPT-AR)
+  > Beyond Token-Level Cross-Entropy: Fréchet Distributional Post-Training for Autoregressive Image Gene...
 
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [ruoyiqiao/ContactExplorer](https://github.com/ruoyiqiao/ContactExplorer)
@@ -94,6 +100,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > YARA scanning for Time Travel Debugging traces
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kkokosa/heapspace](https://github.com/kkokosa/heapspace)
   > Heapscape: a local Three.js and ClrMD explorer for .NET memory dumps
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xikhar/spiderbench](https://github.com/xikhar/spiderbench)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vladtrc/iw4L](https://github.com/vladtrc/iw4L)
+  > Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
 
 ### [namazso](https://github.com/namazso)
 - 🍴 👤 [namazso](https://github.com/namazso) Forked [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) to [namazso/vhs-decode](https://github.com/namazso/vhs-decode)
@@ -132,6 +141,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [tabjy](https://github.com/tabjy) Starred [ahalpha/Snowbreak-AnitAmend](https://github.com/ahalpha/Snowbreak-AnitAmend)
   > 尘白禁区反和谐模组 Snowbreak: Containment Zone Anti Amend / Censorship Mod
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [freakinfrick/tree-browser](https://github.com/freakinfrick/tree-browser)
+  > tb: horizontal tree file browser TUI (Rust/ratatui) — fixed selection line, recursive-mtime heat col...
+
 ### [yajo](https://github.com/yajo)
 - 🌟 👤 [yajo](https://github.com/yajo) Starred [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm)
   > Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aw...
@@ -142,7 +155,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-29 18:56:45 UTC*
+*Last updated at 2026-09-29 22:46:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
