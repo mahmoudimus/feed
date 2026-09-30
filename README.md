@@ -13,8 +13,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > High-performance Go package to read and write Parquet files
 
 ### [Clivern](https://github.com/Clivern)
-- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
-  > the runtime your coding agents live on
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+  > OpenShell is the safe, private runtime for autonomous AI agents.
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [kellnr/kellnr](https://github.com/kellnr/kellnr)
+  > The registry for Rust crates
 
 ### [Generhr](https://github.com/Generhr)
 - 🌟 👤 [Generhr](https://github.com/Generhr) Starred [Generhr/AutoHotkey](https://github.com/Generhr/AutoHotkey)
@@ -23,6 +25,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [contificate](https://github.com/contificate)
 - 🌟 👤 [contificate](https://github.com/contificate) Starred [nathanfarlow/c-of-ocaml](https://github.com/nathanfarlow/c-of-ocaml)
   > Compile OCaml to standalone ANSI C file
+
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)
+  > Create polished demo videos without editing skills. Mac/Windows/Linux
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [wagoodman/dive](https://github.com/wagoodman/dive)
@@ -67,10 +73,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 🚧 Under construction — no-training RefMod reference adapters for MiniMax H3 (compress reference imag...
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [gulucaptain/MiniMax-H3-Reason](https://github.com/gulucaptain/MiniMax-H3-Reason)
   > [Evaluation] Can Minimax-H3 Reason About the Physical World?
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [NoizAI/HelixWorld](https://github.com/NoizAI/HelixWorld)
+  > 🪐 HelixWorld: real-time interactive audio-visual world model.
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [NoizAI/HelixWorld](https://github.com/NoizAI/HelixWorld) to [johndpope/HelixWorld](https://github.com/johndpope/HelixWorld)
+  > 🪐 HelixWorld: real-time interactive audio-visual world model.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [XiangyuJiang01/diffconf](https://github.com/XiangyuJiang01/diffconf)
+  > Diffusion-guided adaptive conformal prediction under distribution shift (UAI 2026)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [XiangyuJiang01/diffconf](https://github.com/XiangyuJiang01/diffconf) to [johndpope/diffconf](https://github.com/johndpope/diffconf)
+  > Diffusion-guided adaptive conformal prediction under distribution shift (UAI 2026)
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [marktekfan/penpa-to-scl](https://github.com/marktekfan/penpa-to-scl)
   > Convert Penpa+ puzzle into SodukuPad scl type puzzle format
+
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [bendlang/bend](https://github.com/bendlang/bend)
+  > Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com...
 
 ### [ludoch](https://github.com/ludoch)
 - 🌟 👤 [ludoch](https://github.com/ludoch) Starred [radium-wang/ricoh-gr4-firmware-analysis-and-feature-expansion](https://github.com/radium-wang/ricoh-gr4-firmware-analysis-and-feature-expansion)
@@ -78,6 +96,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [lvh](https://github.com/lvh)
 - 🍴 👤 [lvh](https://github.com/lvh) Forked [PEZ/backseat-driver-workshop](https://github.com/PEZ/backseat-driver-workshop) to [lvh/backseat-driver-workshop](https://github.com/lvh/backseat-driver-workshop)
   > Backseat Driver Workshop - Conj/2026
+
+### [moriyoshi](https://github.com/moriyoshi)
+- 🍴 👤 [moriyoshi](https://github.com/moriyoshi) Forked [rustls/ktls](https://github.com/rustls/ktls) to [moriyoshi/rustls-ktls](https://github.com/moriyoshi/rustls-ktls)
+  > Safer wrappers over ktls-sys
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) to [mrexodia/nbdev](https://github.com/mrexodia/nbdev)
+  > Create delightful software with Jupyter Notebooks
 
 ### [mustafaakin](https://github.com/mustafaakin)
 - 🍴 👤 [mustafaakin](https://github.com/mustafaakin) Forked [openai/tart](https://github.com/openai/tart) to [mustafaakin/tart](https://github.com/mustafaakin/tart)
@@ -91,12 +117,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [duanebester/nnzap](https://github.com/duanebester/nnzap)
   > NN go vroom
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [kindlingai/glm-5.3-flash-gx10](https://github.com/kindlingai/glm-5.3-flash-gx10)
+  > GLM-5.3-Flash (NVFP4) at TP=4 across 4x ASUS GX10 / GB10 - vLLM + mentat instead of Ray, 524k contex...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [margelo/simdutf-swift](https://github.com/margelo/simdutf-swift)
+  > Swift bindings for simdutf: SIMD-accelerated Unicode validation, conversion, and Base64 with configu...
+
+### [pims](https://github.com/pims)
+- 🌟 👤 [pims](https://github.com/pims) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
+  > An embeddable, portable, branchable virtual machine to safely run Agents locally.
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [google/ax](https://github.com/google/ax)
   > Google's open agentic orchestration runtime
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
   > Agent Substrate: the core system
+
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [hchengv/avxbls](https://github.com/hchengv/avxbls)
+  > Fast AVX-512 implementation of the optimal ate pairing on BLS12-381 curve
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Col-E/Recaf](https://github.com/Col-E/Recaf)
@@ -109,6 +147,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML forma...
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
   > Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades ...
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [califio/publications](https://github.com/califio/publications)
+  > Publications from Calif
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [edgcpp/compiler](https://github.com/edgcpp/compiler)
+
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [kiteretsu903/stillcolor-python-script](https://github.com/kiteretsu903/stillcolor-python-script)
 
 ### [sysrex](https://github.com/sysrex)
 - 🍴 👤 [sysrex](https://github.com/sysrex) Forked [alpcanaydin/tusk](https://github.com/alpcanaydin/tusk) to [sysrex/tusk](https://github.com/sysrex/tusk)
@@ -131,7 +177,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-30 19:41:56 UTC*
+*Last updated at 2026-09-30 23:16:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
