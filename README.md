@@ -8,13 +8,31 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [0intro](https://github.com/0intro)
+- 🍴 👤 [0intro](https://github.com/0intro) Forked [parquet-go/parquet-go](https://github.com/parquet-go/parquet-go) to [0intro/parquet-go](https://github.com/0intro/parquet-go)
+  > High-performance Go package to read and write Parquet files
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [rubymatrix/xi-on-mac](https://github.com/rubymatrix/xi-on-mac)
   > Static recompilation of FINAL FANTASY XI's FFXiMain.dll (and FFXi.dll) from 32-bit x86 to C, so the ...
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)
+  > Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game ...
+
+### [contificate](https://github.com/contificate)
+- 🌟 👤 [contificate](https://github.com/contificate) Starred [nathanfarlow/c-of-ocaml](https://github.com/nathanfarlow/c-of-ocaml)
+  > Compile OCaml to standalone ANSI C file
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [wagoodman/dive](https://github.com/wagoodman/dive)
   > A tool for exploring each layer in a docker image
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [opencecs/tebox](https://github.com/opencecs/tebox)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [RobThePCGuy/Root-Bluestacks-with-Kitsune-Mask](https://github.com/RobThePCGuy/Root-Bluestacks-with-Kitsune-Mask)
+  > Steps to root Bluestacks 5 with Kitsune Mask without any external tools.
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)
+  > ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambig...
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [google-research/rrsi](https://github.com/google-research/rrsi)
 
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [ssxdecomp/ssx3](https://github.com/ssxdecomp/ssx3)
@@ -37,6 +55,30 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Official PyTorch Implementation of "Better Source, Better Flow: Learning Condition-Dependent Source ...
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [junwankimm/CSFM](https://github.com/junwankimm/CSFM) to [johndpope/CSFM](https://github.com/johndpope/CSFM)
   > Official PyTorch Implementation of "Better Source, Better Flow: Learning Condition-Dependent Source ...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Luisacaotica/ComfyUI-MiniMaxH3Mod](https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod)
+  > 🚧 Under construction — no-training RefMod reference adapters for MiniMax H3 (compress reference imag...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [gulucaptain/MiniMax-H3-Reason](https://github.com/gulucaptain/MiniMax-H3-Reason)
+  > [Evaluation] Can Minimax-H3 Reason About the Physical World?
+
+### [ludoch](https://github.com/ludoch)
+- 🌟 👤 [ludoch](https://github.com/ludoch) Starred [radium-wang/ricoh-gr4-firmware-analysis-and-feature-expansion](https://github.com/radium-wang/ricoh-gr4-firmware-analysis-and-feature-expansion)
+
+### [lvh](https://github.com/lvh)
+- 🍴 👤 [lvh](https://github.com/lvh) Forked [PEZ/backseat-driver-workshop](https://github.com/PEZ/backseat-driver-workshop) to [lvh/backseat-driver-workshop](https://github.com/lvh/backseat-driver-workshop)
+  > Backseat Driver Workshop - Conj/2026
+
+### [mustafaakin](https://github.com/mustafaakin)
+- 🍴 👤 [mustafaakin](https://github.com/mustafaakin) Forked [openai/tart](https://github.com/openai/tart) to [mustafaakin/tart](https://github.com/mustafaakin/tart)
+  > macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- 🍴 👤 [mustafaakin](https://github.com/mustafaakin) Forked [openai/tart-guest-agent](https://github.com/openai/tart-guest-agent) to [mustafaakin/tart-guest-agent](https://github.com/mustafaakin/tart-guest-agent)
+  > Guest agent for Tart VMs
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [jdx/mr-boxington](https://github.com/jdx/mr-boxington)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [receptron/laya](https://github.com/receptron/laya)
+  > Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [duanebester/nnzap](https://github.com/duanebester/nnzap)
+  > NN go vroom
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [google/ax](https://github.com/google/ax)
@@ -63,9 +105,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [sysrex](https://github.com/sysrex) Forked [alpcanaydin/tusk](https://github.com/alpcanaydin/tusk) to [sysrex/tusk](https://github.com/sysrex/tusk)
   > A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows ...
 
-### [tommyettinger](https://github.com/tommyettinger)
-- 🌟 👤 [tommyettinger](https://github.com/tommyettinger) Starred [tommyettinger/Sonorant](https://github.com/tommyettinger/Sonorant)
-  > Using noise for pretty loops and CA experiments.
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [freeipa/ipa-tuura](https://github.com/freeipa/ipa-tuura)
+
+### [yajo](https://github.com/yajo)
+- 🍴 👤 [yajo](https://github.com/yajo) Forked [jzbor/nix-sweep](https://github.com/jzbor/nix-sweep) to [moduon/nix-sweep](https://github.com/moduon/nix-sweep)
+  > Utility to clean up old Nix profile generations and left-over garbage collection roots
 
 
 <!-- nav -->
@@ -73,7 +118,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-30 07:35:35 UTC*
+*Last updated at 2026-09-30 14:19:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
