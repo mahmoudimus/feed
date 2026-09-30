@@ -12,11 +12,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [0intro](https://github.com/0intro) Forked [parquet-go/parquet-go](https://github.com/parquet-go/parquet-go) to [0intro/parquet-go](https://github.com/0intro/parquet-go)
   > High-performance Go package to read and write Parquet files
 
-### [Xe](https://github.com/Xe)
-- 🌟 👤 [Xe](https://github.com/Xe) Starred [rubymatrix/xi-on-mac](https://github.com/rubymatrix/xi-on-mac)
-  > Static recompilation of FINAL FANTASY XI's FFXiMain.dll (and FFXi.dll) from 32-bit x86 to C, so the ...
-- 🌟 👤 [Xe](https://github.com/Xe) Starred [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)
-  > Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game ...
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
+  > the runtime your coding agents live on
+
+### [Generhr](https://github.com/Generhr)
+- 🌟 👤 [Generhr](https://github.com/Generhr) Starred [Generhr/AutoHotkey](https://github.com/Generhr/AutoHotkey)
+  > AutoHotkey v2.* scripts
 
 ### [contificate](https://github.com/contificate)
 - 🌟 👤 [contificate](https://github.com/contificate) Starred [nathanfarlow/c-of-ocaml](https://github.com/nathanfarlow/c-of-ocaml)
@@ -34,6 +36,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [google-research/rrsi](https://github.com/google-research/rrsi)
 
+### [hit9](https://github.com/hit9)
+- 🌟 👤 [hit9](https://github.com/hit9) Starred [vercel-labs/fx](https://github.com/vercel-labs/fx)
+  > Unix like coding agent
+
 ### [illnyang](https://github.com/illnyang)
 - 🌟 👤 [illnyang](https://github.com/illnyang) Starred [ssxdecomp/ssx3](https://github.com/ssxdecomp/ssx3)
   > Decompilation of SSX 3 (2003).
@@ -43,6 +49,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jentfoo](https://github.com/jentfoo)
 - 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [ormandj/sglang-glm53-flash-sm120](https://github.com/ormandj/sglang-glm53-flash-sm120)
   > SGLang for GLM-5.3-Flash on two or four RTX PRO 6000 Blackwell GPUs (SM120), with TP2 W4A16 and TP4 ...
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+  > LLM inference in C/C++
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [temporalio/samples-java](https://github.com/temporalio/samples-java)
@@ -59,6 +67,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 🚧 Under construction — no-training RefMod reference adapters for MiniMax H3 (compress reference imag...
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [gulucaptain/MiniMax-H3-Reason](https://github.com/gulucaptain/MiniMax-H3-Reason)
   > [Evaluation] Can Minimax-H3 Reason About the Physical World?
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [marktekfan/penpa-to-scl](https://github.com/marktekfan/penpa-to-scl)
+  > Convert Penpa+ puzzle into SodukuPad scl type puzzle format
 
 ### [ludoch](https://github.com/ludoch)
 - 🌟 👤 [ludoch](https://github.com/ludoch) Starred [radium-wang/ricoh-gr4-firmware-analysis-and-feature-expansion](https://github.com/radium-wang/ricoh-gr4-firmware-analysis-and-feature-expansion)
@@ -98,15 +110,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
   > Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades ...
 
-### [rwjblue](https://github.com/rwjblue)
-- 🍴 👤 [rwjblue](https://github.com/rwjblue) Forked [jsvana/bkg.club](https://github.com/jsvana/bkg.club) to [rwjblue/bkg.club](https://github.com/rwjblue/bkg.club)
-
 ### [sysrex](https://github.com/sysrex)
 - 🍴 👤 [sysrex](https://github.com/sysrex) Forked [alpcanaydin/tusk](https://github.com/alpcanaydin/tusk) to [sysrex/tusk](https://github.com/sysrex/tusk)
   > A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows ...
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [freeipa/ipa-tuura](https://github.com/freeipa/ipa-tuura)
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
+  > Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and ...
 
 ### [yajo](https://github.com/yajo)
 - 🍴 👤 [yajo](https://github.com/yajo) Forked [jzbor/nix-sweep](https://github.com/jzbor/nix-sweep) to [moduon/nix-sweep](https://github.com/moduon/nix-sweep)
@@ -118,7 +131,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-09-30 14:19:24 UTC*
+*Last updated at 2026-09-30 19:41:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/09) directory.*
 <!-- /archive-link -->
