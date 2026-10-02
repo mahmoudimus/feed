@@ -48,6 +48,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > An interface library for RL post training with environments. 
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)
   > The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple,...
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [xai-org/xai-sdk-ts](https://github.com/xai-org/xai-sdk-ts)
+  > The official TypeScript SDK for the SpaceXAI API
 
 ### [emcfarlane](https://github.com/emcfarlane)
 - 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk)
@@ -66,11 +68,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [feicong/droid-ddk](https://github.com/feicong/droid-ddk)
   > anDroid Driver Development Kit
 
+### [inmcm](https://github.com/inmcm)
+- 🌟 👤 [inmcm](https://github.com/inmcm) Starred [chipsalliance/VeeR-ISS](https://github.com/chipsalliance/VeeR-ISS)
+
 ### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission)
-  > Play Doom deathmatch while Claude works. A Claude Code plugin.
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission) to [johndpope/intermission](https://github.com/johndpope/intermission)
-  > Play Doom deathmatch while Claude works. A Claude Code plugin.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [ut-vision/UniGaze](https://github.com/ut-vision/UniGaze)
+  > Official PyTorch implementation of the paper: UniGaze: Towards Universal Gaze Estimation via Large-s...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [ut-vision/UniGaze](https://github.com/ut-vision/UniGaze) to [johndpope/UniGaze](https://github.com/johndpope/UniGaze)
+  > Official PyTorch implementation of the paper: UniGaze: Towards Universal Gaze Estimation via Large-s...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [michaeldune/simpligen-presets](https://github.com/michaeldune/simpligen-presets)
+  > Presets for Simpligen
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [michaeldune/simpligen-presets](https://github.com/michaeldune/simpligen-presets) to [johndpope/simpligen-presets](https://github.com/johndpope/simpligen-presets)
+  > Presets for Simpligen
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Thefrizzy1/The_frizzy1-Workflows](https://github.com/Thefrizzy1/The_frizzy1-Workflows) to [johndpope/The_frizzy1-Workflows](https://github.com/johndpope/The_frizzy1-Workflows)
+  > Verified, organised docs for every The_frizzy1 low-VRAM ComfyUI workflow - GGUF image/video/audio fr...
 
 ### [mar0x](https://github.com/mar0x)
 - 🍴 👤 [mar0x](https://github.com/mar0x) Forked [HermanChen/mpp](https://github.com/HermanChen/mpp) to [mar0x/mpp](https://github.com/mar0x/mpp)
@@ -87,6 +98,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [rougier](https://github.com/rougier)
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [rougier/tootle](https://github.com/rougier/tootle)
   > A tiny, text-only, read-only, emoji-free Mastodon client for Emacs.
+
+### [sk-](https://github.com/sk-)
+- 🌟 👤 [sk-](https://github.com/sk-) Starred [passkeydeveloper/passkey-authenticator-aaguids](https://github.com/passkeydeveloper/passkey-authenticator-aaguids)
+  > This repo contains a community sourced list of AAGUIDs for passkey credential managers to help with ...
 
 ### [uakarsh](https://github.com/uakarsh)
 - 🚀 👤 [uakarsh](https://github.com/uakarsh) Made [uakarsh/scaling-book](https://github.com/uakarsh/scaling-book) public
@@ -117,7 +132,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-02 19:36:32 UTC*
+*Last updated at 2026-10-02 23:21:27 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
