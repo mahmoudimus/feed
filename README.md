@@ -8,6 +8,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [GrandpaGameHacker](https://github.com/GrandpaGameHacker)
+- 🌟 👤 [GrandpaGameHacker](https://github.com/GrandpaGameHacker) Starred [epersic/DLLParty](https://github.com/epersic/DLLParty)
+  > Demonstration of the DLL party process injection technique
+
+### [ThomasVitale](https://github.com/ThomasVitale)
+- 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [spring-ai-community/spring-ai-typesafe](https://github.com/spring-ai-community/spring-ai-typesafe)
+  > A Java SDK for the TypeSafe AI JEV API, & Spring AI TypeSafe integrations.
+- 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [logan-markewich/jeff](https://github.com/logan-markewich/jeff)
+  > A self-hosted drop-in replacement for TypeSafe's jev, powered by GliFormer.
+
 ### [XZ-X](https://github.com/XZ-X)
 - 🌟 👤 [XZ-X](https://github.com/XZ-X) Starred [XZ-X/tool-arch-study](https://github.com/XZ-X/tool-arch-study)
 
@@ -25,12 +35,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [feicong/droid-ddk](https://github.com/feicong/droid-ddk)
   > anDroid Driver Development Kit
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission)
+  > Play Doom deathmatch while Claude works. A Claude Code plugin.
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [jarrodwatts/intermission](https://github.com/jarrodwatts/intermission) to [johndpope/intermission](https://github.com/johndpope/intermission)
+  > Play Doom deathmatch while Claude works. A Claude Code plugin.
+
+### [mar0x](https://github.com/mar0x)
+- 🍴 👤 [mar0x](https://github.com/mar0x) Forked [HermanChen/mpp](https://github.com/HermanChen/mpp) to [mar0x/mpp](https://github.com/mar0x/mpp)
+  > Rockchip MPP(Media Process Platfrom)
+
 ### [rand-tech](https://github.com/rand-tech)
 - 🍴 👤 [rand-tech](https://github.com/rand-tech) Forked [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) to [rand-tech/MicrocodeDecryptor](https://github.com/rand-tech/MicrocodeDecryptor)
 
-### [realoriginal](https://github.com/realoriginal)
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [outflanknl/ntlmrain](https://github.com/outflanknl/ntlmrain)
-  > Recover NT hashes from NetNTLMv1 responses using local WebGPU computation and local/remote table loo...
+### [rougier](https://github.com/rougier)
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [rougier/tootle](https://github.com/rougier/tootle)
+  > A tiny, text-only, read-only, emoji-free Mastodon client for Emacs.
+
+### [uakarsh](https://github.com/uakarsh)
+- 🚀 👤 [uakarsh](https://github.com/uakarsh) Made [uakarsh/scaling-book](https://github.com/uakarsh/scaling-book) public
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
@@ -42,13 +65,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [BetaNYC/roads-in-nyc-parks](https://github.com/BetaNYC/roads-in-nyc-parks)
   > Deriving a list of NYC parks impacted by vehicular traffic
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [cloudflare/workers-py](https://github.com/cloudflare/workers-py)
+  > Write Cloudflare Workers in 100% Python via Pyodide.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [kunobi-ninja/kunobi-jev](https://github.com/kunobi-ninja/kunobi-jev)
+  > Rust client for the TypeSafe System One API (Jev)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM)
+  > TypeLLM: LLMs with type-safe generation
+
 
 <!-- nav -->
 [← 2026-10-01](archive/2026/10/01.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-02 07:37:59 UTC*
+*Last updated at 2026-10-02 14:14:04 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
