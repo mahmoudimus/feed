@@ -8,6 +8,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Hellblazer](https://github.com/Hellblazer)
+- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [agent-wow/agent-wow](https://github.com/agent-wow/agent-wow) to [Hellblazer/agent-wow](https://github.com/Hellblazer/agent-wow)
+  > AzerothCore WoW client designed for autonomous AI agent players.
+
+### [davidfrickert](https://github.com/davidfrickert)
+- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs)
+  > Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support...
+
+### [habnabit](https://github.com/habnabit)
+- 🌟 👤 [habnabit](https://github.com/habnabit) Starred [AprilNEA/appicon](https://github.com/AprilNEA/appicon)
+  > Switch a macOS app's icon at runtime: the Dock tile, the icon Finder and Launchpad show, or both.
+
 ### [heinermann](https://github.com/heinermann)
 - 🌟 👤 [heinermann](https://github.com/heinermann) Starred [thegraydot/mpqcli](https://github.com/thegraydot/mpqcli)
   > A command-line tool to create, add, remove, list, extract, read, and verify MPQ archives using the S...
@@ -42,6 +54,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [moriyoshi](https://github.com/moriyoshi) Forked [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer) to [moriyoshi/xinfer](https://github.com/moriyoshi/xinfer)
   > Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
 
+### [ovidiuch](https://github.com/ovidiuch)
+- 🌟 👤 [ovidiuch](https://github.com/ovidiuch) Starred [tester-army/e2e](https://github.com/tester-army/e2e)
+  > Next generation e2e testing framework for web and mobile apps.
+
 ### [uakarsh](https://github.com/uakarsh)
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [vx-lang/Vx](https://github.com/vx-lang/Vx)
   > Vx: one language, every chip.
@@ -52,7 +68,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-03 08:38:10 UTC*
+*Last updated at 2026-10-03 14:00:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
