@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [heinermann](https://github.com/heinermann)
+- 🌟 👤 [heinermann](https://github.com/heinermann) Starred [thegraydot/mpqcli](https://github.com/thegraydot/mpqcli)
+  > A command-line tool to create, add, remove, list, extract, read, and verify MPQ archives using the S...
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Yzmblog/DMAD](https://github.com/Yzmblog/DMAD)
   > DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation
@@ -26,13 +30,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) to [johndpope/FreeVideo](https://github.com/johndpope/FreeVideo)
   > Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM ...
 
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [tester-army/e2e](https://github.com/tester-army/e2e)
+  > Next generation e2e testing framework for web and mobile apps.
+
+### [mmikeww](https://github.com/mmikeww)
+- 🌟 👤 [mmikeww](https://github.com/mmikeww) Starred [vitoplantamura/MagicTrackpad2ForWindows](https://github.com/vitoplantamura/MagicTrackpad2ForWindows)
+  > Magic Trackpad 2 Precision Touchpad driver for Windows 11, based on the imbushuo driver, signed by M...
+
+### [moriyoshi](https://github.com/moriyoshi)
+- 🍴 👤 [moriyoshi](https://github.com/moriyoshi) Forked [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer) to [moriyoshi/xinfer](https://github.com/moriyoshi/xinfer)
+  > Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
+
+### [uakarsh](https://github.com/uakarsh)
+- 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [vx-lang/Vx](https://github.com/vx-lang/Vx)
+  > Vx: one language, every chip.
+
 
 <!-- nav -->
 [← 2026-10-02](archive/2026/10/02.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-03 02:34:38 UTC*
+*Last updated at 2026-10-03 08:38:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
