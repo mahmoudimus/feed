@@ -8,10 +8,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [Hellblazer](https://github.com/Hellblazer)
-- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [agent-wow/agent-wow](https://github.com/agent-wow/agent-wow) to [Hellblazer/agent-wow](https://github.com/Hellblazer/agent-wow)
-  > AzerothCore WoW client designed for autonomous AI agent players.
-
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs)
   > Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support...
@@ -54,9 +50,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [moriyoshi](https://github.com/moriyoshi) Forked [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer) to [moriyoshi/xinfer](https://github.com/moriyoshi/xinfer)
   > Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
 
+### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+  > Documentation that simply works
+
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [itzzace/ytkace](https://github.com/itzzace/ytkace)
+  > YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background ...
+
+### [notfoundry](https://github.com/notfoundry)
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [nuta/ftl](https://github.com/nuta/ftl)
+  > A new operating system for clouds.
+
 ### [ovidiuch](https://github.com/ovidiuch)
 - 🌟 👤 [ovidiuch](https://github.com/ovidiuch) Starred [tester-army/e2e](https://github.com/tester-army/e2e)
   > Next generation e2e testing framework for web and mobile apps.
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [califio/publications](https://github.com/califio/publications)
+  > Publications from Calif
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [EvanMcBroom/dfi-scanner](https://github.com/EvanMcBroom/dfi-scanner)
+  > API for SentinelOne's Deep File Inspection technology
 
 ### [uakarsh](https://github.com/uakarsh)
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [vx-lang/Vx](https://github.com/vx-lang/Vx)
@@ -68,7 +84,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-03 14:00:38 UTC*
+*Last updated at 2026-10-03 18:22:42 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
