@@ -8,6 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AndrasKovacs](https://github.com/AndrasKovacs)
+- 🌟 👤 [AndrasKovacs](https://github.com/AndrasKovacs) Starred [loic-p/Setoid-Universe](https://github.com/loic-p/Setoid-Universe)
+
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs)
   > Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support...
@@ -37,6 +40,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM ...
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) to [johndpope/FreeVideo](https://github.com/johndpope/FreeVideo)
   > Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM ...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [willfaust/Madeira](https://github.com/willfaust/Madeira)
+  > Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [fblissjr/ComfyUI-h3-explorations](https://github.com/fblissjr/ComfyUI-h3-explorations)
+  > my personal tinkering and research hub for the minimax H3 ecosystem
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [The5toryofthe5ecret5tar5ystem/5tar5ystem-MMH3-Character-Sheet-Maker](https://github.com/The5toryofthe5ecret5tar5ystem/5tar5ystem-MMH3-Character-Sheet-Maker)
+  > 5tar5ystem MMH3 Character Sheet Maker - a standalone ComfyUI pack that renders a MiniMax H3 characte...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [EcoFace1/EcoFace1.github.io](https://github.com/EcoFace1/EcoFace1.github.io)
+  > EcoFace: Audio-Visual Emotional Co-Disentanglement 3D Talking Face Generation
+
+### [kevaundray](https://github.com/kevaundray)
+- 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [vx-lang/Vx](https://github.com/vx-lang/Vx)
+  > Vx: one language, every chip.
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [tester-army/e2e](https://github.com/tester-army/e2e)
@@ -49,6 +64,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [moriyoshi](https://github.com/moriyoshi)
 - 🍴 👤 [moriyoshi](https://github.com/moriyoshi) Forked [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer) to [moriyoshi/xinfer](https://github.com/moriyoshi/xinfer)
   > Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xSero/DeepSeek-V4.1-Flash-Two-Sparks](https://github.com/0xSero/DeepSeek-V4.1-Flash-Two-Sparks)
+  > DeepSeek-V4.1-Flash on two DGX Sparks: EXL3 routed experts, 262k context, 2M-token KV, vision, tools...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [syv-ai/HyperQwen](https://github.com/syv-ai/HyperQwen)
+  > Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with v...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xpili/simplified-technical-english](https://github.com/0xpili/simplified-technical-english)
+  > An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved w...
 
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
@@ -70,13 +93,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [califio/publications](https://github.com/califio/publications)
   > Publications from Calif
 
-### [realoriginal](https://github.com/realoriginal)
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [EvanMcBroom/dfi-scanner](https://github.com/EvanMcBroom/dfi-scanner)
-  > API for SentinelOne's Deep File Inspection technology
-
 ### [uakarsh](https://github.com/uakarsh)
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [vx-lang/Vx](https://github.com/vx-lang/Vx)
   > Vx: one language, every chip.
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [bezhermoso/tree-sitter-ghostty](https://github.com/bezhermoso/tree-sitter-ghostty)
+  > Tree-sitter grammar for Ghostty configuration files
 
 
 <!-- nav -->
@@ -84,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-03 18:22:42 UTC*
+*Last updated at 2026-10-03 21:51:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
