@@ -1,113 +1,26 @@
-# Daily GitHub Activity (2026-10-03)
+# Daily GitHub Activity (2026-10-04)
 
 <!-- nav -->
-[← 2026-10-02](archive/2026/10/02.md)
+[← 2026-10-03](archive/2026/10/03.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [AndrasKovacs](https://github.com/AndrasKovacs)
-- 🌟 👤 [AndrasKovacs](https://github.com/AndrasKovacs) Starred [loic-p/Setoid-Universe](https://github.com/loic-p/Setoid-Universe)
-
-### [davidfrickert](https://github.com/davidfrickert)
-- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [pawurb/hotpath-rs](https://github.com/pawurb/hotpath-rs)
-  > Rust profiler for CPU, memory, SQL, HTTP, and async performance, with Prometheus and Grafana support...
-
-### [habnabit](https://github.com/habnabit)
-- 🌟 👤 [habnabit](https://github.com/habnabit) Starred [AprilNEA/appicon](https://github.com/AprilNEA/appicon)
-  > Switch a macOS app's icon at runtime: the Dock tile, the icon Finder and Launchpad show, or both.
-
-### [heinermann](https://github.com/heinermann)
-- 🌟 👤 [heinermann](https://github.com/heinermann) Starred [thegraydot/mpqcli](https://github.com/thegraydot/mpqcli)
-  > A command-line tool to create, add, remove, list, extract, read, and verify MPQ archives using the S...
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Yzmblog/DMAD](https://github.com/Yzmblog/DMAD)
-  > DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Yzmblog/DMAD](https://github.com/Yzmblog/DMAD) to [johndpope/DMAD](https://github.com/johndpope/DMAD)
-  > DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [bitti-ai/slopus](https://github.com/bitti-ai/slopus)
-  > AI media harness for planning, generating, and editing locally
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [bitti-ai/slopus](https://github.com/bitti-ai/slopus) to [johndpope/slopus](https://github.com/johndpope/slopus)
-  > AI media harness for planning, generating, and editing locally
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [tristmeister/HEISS-UI](https://github.com/tristmeister/HEISS-UI)
-  > ComfyUI, without the graph. A calm, local front end for ComfyUI. Bring your own workflows, write a p...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [tristmeister/HEISS-UI](https://github.com/tristmeister/HEISS-UI) to [johndpope/HEISS-UI](https://github.com/johndpope/HEISS-UI)
-  > ComfyUI, without the graph. A calm, local front end for ComfyUI. Bring your own workflows, write a p...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo)
-  > Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM ...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) to [johndpope/FreeVideo](https://github.com/johndpope/FreeVideo)
-  > Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM ...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [willfaust/Madeira](https://github.com/willfaust/Madeira)
-  > Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [fblissjr/ComfyUI-h3-explorations](https://github.com/fblissjr/ComfyUI-h3-explorations)
-  > my personal tinkering and research hub for the minimax H3 ecosystem
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [The5toryofthe5ecret5tar5ystem/5tar5ystem-MMH3-Character-Sheet-Maker](https://github.com/The5toryofthe5ecret5tar5ystem/5tar5ystem-MMH3-Character-Sheet-Maker)
-  > 5tar5ystem MMH3 Character Sheet Maker - a standalone ComfyUI pack that renders a MiniMax H3 characte...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [EcoFace1/EcoFace1.github.io](https://github.com/EcoFace1/EcoFace1.github.io)
-  > EcoFace: Audio-Visual Emotional Co-Disentanglement 3D Talking Face Generation
-
-### [kevaundray](https://github.com/kevaundray)
-- 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [vx-lang/Vx](https://github.com/vx-lang/Vx)
-  > Vx: one language, every chip.
-
-### [kovyrin](https://github.com/kovyrin)
-- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [tester-army/e2e](https://github.com/tester-army/e2e)
-  > Next generation e2e testing framework for web and mobile apps.
-
-### [mmikeww](https://github.com/mmikeww)
-- 🌟 👤 [mmikeww](https://github.com/mmikeww) Starred [vitoplantamura/MagicTrackpad2ForWindows](https://github.com/vitoplantamura/MagicTrackpad2ForWindows)
-  > Magic Trackpad 2 Precision Touchpad driver for Windows 11, based on the imbushuo driver, signed by M...
-
-### [moriyoshi](https://github.com/moriyoshi)
-- 🍴 👤 [moriyoshi](https://github.com/moriyoshi) Forked [guoqingbao/xinfer](https://github.com/guoqingbao/xinfer) to [moriyoshi/xinfer](https://github.com/moriyoshi/xinfer)
-  > Blazing-fast LLM inference in pure Rust. No PyTorch and Python runtime.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xSero/DeepSeek-V4.1-Flash-Two-Sparks](https://github.com/0xSero/DeepSeek-V4.1-Flash-Two-Sparks)
-  > DeepSeek-V4.1-Flash on two DGX Sparks: EXL3 routed experts, 262k context, 2M-token KV, vision, tools...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [syv-ai/HyperQwen](https://github.com/syv-ai/HyperQwen)
-  > Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with v...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xpili/simplified-technical-english](https://github.com/0xpili/simplified-technical-english)
-  > An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved w...
-
-### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
-- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
-  > Documentation that simply works
-
-### [nitrohorse](https://github.com/nitrohorse)
-- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [itzzace/ytkace](https://github.com/itzzace/ytkace)
-  > YTKACE is a free, open-source YouTube enhancer and downloader for iOS with SponsorBlock, background ...
-
-### [notfoundry](https://github.com/notfoundry)
-- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [nuta/ftl](https://github.com/nuta/ftl)
-  > A new operating system for clouds.
-
-### [ovidiuch](https://github.com/ovidiuch)
-- 🌟 👤 [ovidiuch](https://github.com/ovidiuch) Starred [tester-army/e2e](https://github.com/tester-army/e2e)
-  > Next generation e2e testing framework for web and mobile apps.
-
-### [rand-tech](https://github.com/rand-tech)
-- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [califio/publications](https://github.com/califio/publications)
-  > Publications from Calif
-
-### [uakarsh](https://github.com/uakarsh)
-- 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [vx-lang/Vx](https://github.com/vx-lang/Vx)
-  > Vx: one language, every chip.
-
 ### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [bezhermoso/tree-sitter-ghostty](https://github.com/bezhermoso/tree-sitter-ghostty)
-  > Tree-sitter grammar for Ghostty configuration files
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [modular/skills](https://github.com/modular/skills)
+  > Agent Skills for Mojo and MAX development
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [modular/modular-community](https://github.com/modular/modular-community)
+  > A repo to hold community-submitted rattler-build recipes, to make community packages available via t...
 
 
 <!-- nav -->
-[← 2026-10-02](archive/2026/10/02.md)
+[← 2026-10-03](archive/2026/10/03.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-03 21:51:58 UTC*
+*Last updated at 2026-10-04 00:10:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
