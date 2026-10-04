@@ -58,6 +58,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tester-army/e2e](https://github.com/tester-army/e2e)
+  > Next generation e2e testing framework for web and mobile apps.
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [vx-lang/Vx](https://github.com/vx-lang/Vx)
   > Vx: one language, every chip.
@@ -94,6 +98,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Hypfer/valetudo-companion](https://github.com/Hypfer/valetudo-companion)
   > Valetudo Companion App for Android
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
+  > Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference...
 
 
 <!-- nav -->
@@ -101,7 +107,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-04 17:08:41 UTC*
+*Last updated at 2026-10-04 20:32:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
