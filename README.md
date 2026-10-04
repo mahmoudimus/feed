@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [CXP-2024/codex-pv-character-replacement-skill](https://github.com/CXP-2024/codex-pv-character-replacement-skill)
+  > Codex skill for source-faithful PV character replacement, H3 production, continuity repair and 1080p...
+
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) to [Stanzilla/happy-dom](https://github.com/Stanzilla/happy-dom)
   > A JavaScript implementation of a web browser without its graphical user interface
@@ -58,9 +62,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [vx-lang/Vx](https://github.com/vx-lang/Vx)
   > Vx: one language, every chip.
 
+### [nmarasoiu](https://github.com/nmarasoiu)
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [jon-whit/feldera-rebac](https://github.com/jon-whit/feldera-rebac) to [nmarasoiu/feldera-rebac](https://github.com/nmarasoiu/feldera-rebac)
+- 🌟 👤 [nmarasoiu](https://github.com/nmarasoiu) Starred [nmarasoiu/feldera-rebac](https://github.com/nmarasoiu/feldera-rebac)
+- 🌟 👤 [nmarasoiu](https://github.com/nmarasoiu) Starred [jon-whit/feldera-rebac](https://github.com/jon-whit/feldera-rebac)
+
 ### [notfoundry](https://github.com/notfoundry)
 - 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [matank001/bossfight](https://github.com/matank001/bossfight)
   > BOSSFIGHT: can a frontier LLM run a business? An end-to-end benchmark of AI business managers.
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
+  > Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference...
 
 ### [shagu](https://github.com/shagu)
 - 🌟 👤 [shagu](https://github.com/shagu) Starred [Kimmo3223/world-of-skatecraft](https://github.com/Kimmo3223/world-of-skatecraft)
@@ -76,13 +87,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial)
   > MLIR For Beginners tutorial
 
+### [veorq](https://github.com/veorq)
+- 🌟 👤 [veorq](https://github.com/veorq) Starred [ngcc-dev/ngcc-harness](https://github.com/ngcc-dev/ngcc-harness)
+  > ngcc artifacts
+
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Hypfer/valetudo-companion](https://github.com/Hypfer/valetudo-companion)
   > Valetudo Companion App for Android
-
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [GargAnshu9468/vortexkv](https://github.com/GargAnshu9468/vortexkv)
-  > The fastest pure Go in-memory Redis alternative. 6.87M+ ops/s peak throughput, 119µs latency, Multi-...
 
 
 <!-- nav -->
@@ -90,7 +101,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-04 12:54:13 UTC*
+*Last updated at 2026-10-04 17:08:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
