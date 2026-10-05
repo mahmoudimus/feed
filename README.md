@@ -8,6 +8,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [hyperium/http](https://github.com/hyperium/http)
+  > Rust HTTP types
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
+  > Beautiful, Modern & Opinionated Linux
+
+### [Gcenx](https://github.com/Gcenx)
+- 🍴 👤 [Gcenx](https://github.com/Gcenx) Forked [shadexternals/mesa-kosmickrisp](https://github.com/shadexternals/mesa-kosmickrisp) to [Sikarugir-App/mesa-kosmickrisp](https://github.com/Sikarugir-App/mesa-kosmickrisp)
+  > Automated universal builds of the Mesa KosmicKrisp Vulkan driver.
+
+### [Midi12](https://github.com/Midi12)
+- 🌟 👤 [Midi12](https://github.com/Midi12) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [CXP-2024/codex-pv-character-replacement-skill](https://github.com/CXP-2024/codex-pv-character-replacement-skill)
   > Codex skill for source-faithful PV character replacement, H3 production, continuity repair and 1080p...
@@ -15,10 +29,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) to [Stanzilla/happy-dom](https://github.com/Stanzilla/happy-dom)
   > A JavaScript implementation of a web browser without its graphical user interface
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [kitlangton/2password](https://github.com/kitlangton/2password)
+  > 1Password for coding agents: find, use, and save secrets without exposing them
 
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [nicobrenner/jeffy](https://github.com/nicobrenner/jeffy)
   > Pretrained text classifiers you can run and retrain on CPU
+
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [colby57/vid](https://github.com/colby57/vid)
+  > An x86/x64 import recovery and PE rebuilding tool for binaries protected with VMProtect (all version...
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [microsoft/nvx](https://github.com/microsoft/nvx) to [fengjixuchui/nvx](https://github.com/fengjixuchui/nvx)
@@ -54,6 +74,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [yash113gadia/Studio_Workflow](https://github.com/yash113gadia/Studio_Workflow)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster)
   > An image-to-world skillset for Claude.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [facebookresearch/MHR](https://github.com/facebookresearch/MHR)
+  > Momentum Human Rig is an anatomically-inspired parametric full-body digital human model developed at...
 
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)
@@ -61,6 +83,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tester-army/e2e](https://github.com/tester-army/e2e)
   > Next generation e2e testing framework for web and mobile apps.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
+  > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig bac...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xqy2006/ModelTrace](https://github.com/xqy2006/ModelTrace)
+  > 主动探测模型归因
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SlidyBat/outliner](https://github.com/SlidyBat/outliner)
+  > A Binary Ninja plugin that replaces inlined code with function calls
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deadinside28/bloodborne_pc](https://github.com/deadinside28/bloodborne_pc)
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [vx-lang/Vx](https://github.com/vx-lang/Vx)
@@ -107,7 +136,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-04 20:32:58 UTC*
+*Last updated at 2026-10-04 23:39:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
