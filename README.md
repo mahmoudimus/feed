@@ -29,6 +29,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [FeSens/openTPU](https://github.com/FeSens/openTPU)
   > An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler and profiler in one re...
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [chasem-dev/sms-pc-port](https://github.com/chasem-dev/sms-pc-port)
+  > Super Mario Sunshine Native PC Port
 
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [EugVV/PSTEE-russian](https://github.com/EugVV/PSTEE-russian)
@@ -44,15 +46,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [ajkhoury](https://github.com/ajkhoury) Forked [stefanberger/libtpms](https://github.com/stefanberger/libtpms) to [ajkhoury/libtpms](https://github.com/ajkhoury/libtpms)
   > The libtpms library provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)
 
-### [donvito](https://github.com/donvito)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [AgentMemoryRepo/agentmemoryrepo](https://github.com/AgentMemoryRepo/agentmemoryrepo)
-  > Spec for Agent Memory Repo
+### [artem](https://github.com/artem)
+- 🌟 👤 [artem](https://github.com/artem) Starred [Sleepwalking/prometheus-spark](https://github.com/Sleepwalking/prometheus-spark)
+  > Learn or die.
 
 ### [dthree](https://github.com/dthree)
 - 🚀 👤 [dthree](https://github.com/dthree) Made [dthree/the-secrets-project](https://github.com/dthree/the-secrets-project) public
   > The Secrets Project
 - 🌟 👤 [dthree](https://github.com/dthree) Starred [dthree/the-secrets-project](https://github.com/dthree/the-secrets-project)
   > The Secrets Project
+
+### [eonarheim](https://github.com/eonarheim)
+- 🌟 👤 [eonarheim](https://github.com/eonarheim) Starred [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
+  > WebGPU components for React, Vue, Svelte, Solid, JS & Framer
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [morluto/rea](https://github.com/morluto/rea) to [fengjixuchui/rea](https://github.com/fengjixuchui/rea)
@@ -82,6 +92,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [CVPR 2026] High-Fidelity Mobile Avatars with Pruned Local Blendshapes
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [1231234zhan/mmlphuman](https://github.com/1231234zhan/mmlphuman)
   > [CVPR 2025 Highlight] Real-time High-fidelity Gaussian Human Avatars with Position-based Interpolati...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Linum-AI/pyramid-jit](https://github.com/Linum-AI/pyramid-jit)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Linum-AI/pyramid-jit](https://github.com/Linum-AI/pyramid-jit) to [johndpope/pyramid-jit](https://github.com/johndpope/pyramid-jit)
 
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [DataDog/cargo-pup](https://github.com/DataDog/cargo-pup)
@@ -103,9 +115,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [0xjohnnydev/airlift](https://github.com/0xjohnnydev/airlift)
   > AirLift — paired-Mac AirTraffic/ATAirlock sandbox escape for iOS 27.0
 
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [neurolabusc/simd](https://github.com/neurolabusc/simd)
-  > Evaluating Single Instruction Multiple data (SIMD) with modern compilers, simple mathematics and mod...
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [EvanMcBroom/lsa-whisperer](https://github.com/EvanMcBroom/lsa-whisperer)
+  > Tools for interacting with authentication packages using their individual message protocols
+
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [AmjedAllaya/automexia](https://github.com/AmjedAllaya/automexia)
 
 
 <!-- nav -->
@@ -113,7 +128,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-06 19:09:30 UTC*
+*Last updated at 2026-10-06 23:23:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
