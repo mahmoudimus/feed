@@ -18,6 +18,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [John-K](https://github.com/John-K) Starred [NullMagic2/slate-ntfs](https://github.com/NullMagic2/slate-ntfs)
   > New Rust NTFS implementation with full NTFS and chkdsk support. Works on older kernels.
 
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [tscollege/typescript-books](https://github.com/tscollege/typescript-books)
+  > A curated list of the best books for learning and mastering TypeScript — from beginner fundamentals ...
+- 🍴 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Forked [JoshuaKGoldberg/cta-testing-review-labels](https://github.com/JoshuaKGoldberg/cta-testing-review-labels) to [automutate/cta-testing-review-labels](https://github.com/automutate/cta-testing-review-labels)
+  > Temporary scratch repo for testing create-typescript-app#633. Safe to delete.
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/parse-standard-args](https://github.com/JoshuaKGoldberg/parse-standard-args)
+  > Parses CLI args with node:util parseArgs and a Standard Schema, with friendly errors and generated h...
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/pr-review-labels-action](https://github.com/JoshuaKGoldberg/pr-review-labels-action)
+  > Adds and removes a 'status: waiting for author' label on PR reviews, including PRs from forks. 🏷️
+
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [Ubra-Dev/ubra-app](https://github.com/Ubra-Dev/ubra-app)
+  > Ubra desktop app workspace
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [morluto/rea](https://github.com/morluto/rea) to [fengjixuchui/rea](https://github.com/fengjixuchui/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [MoyGcc/vid2avatar](https://github.com/MoyGcc/vid2avatar)
   > Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition...
@@ -37,21 +55,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [1231234zhan/mmlphuman](https://github.com/1231234zhan/mmlphuman)
   > [CVPR 2025 Highlight] Real-time High-fidelity Gaussian Human Avatars with Position-based Interpolati...
 
+### [luc-tielen](https://github.com/luc-tielen)
+- 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [DataDog/cargo-pup](https://github.com/DataDog/cargo-pup)
+  > Pretty Useful Pup let's you write assertions about the architecture of your Rust project
+
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [sky-valley/pi](https://github.com/sky-valley/pi)
   > A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core a...
-
-### [ranacseruet](https://github.com/ranacseruet)
-- 🍴 👤 [ranacseruet](https://github.com/ranacseruet) Forked [lima-vm/lima](https://github.com/lima-vm/lima) to [ranacseruet/lima](https://github.com/ranacseruet/lima)
-  > Linux virtual machines, with a focus on running containers
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [0xjohnnydev/airlift](https://github.com/0xjohnnydev/airlift)
   > AirLift — paired-Mac AirTraffic/ATAirlock sandbox escape for iOS 27.0
 
-### [rwjblue](https://github.com/rwjblue)
-- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [branden-thompson/go-giro-data](https://github.com/branden-thompson/go-giro-data)
-  > Ionospheric MUF and foF2 maps for Go map hosts (in discovery)
+### [williballenthin](https://github.com/williballenthin)
+- 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [HullaBrian/capa-cpp](https://github.com/HullaBrian/capa-cpp) to [williballenthin/capa-cpp](https://github.com/williballenthin/capa-cpp)
+  > Targeted C++ reimplementation of CAPA
+
+### [zakkak](https://github.com/zakkak)
+- 🌟 👤 [zakkak](https://github.com/zakkak) Starred [redhat-et/ripwire](https://github.com/redhat-et/ripwire)
+  > The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you...
 
 
 <!-- nav -->
@@ -59,7 +81,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-06 06:56:57 UTC*
+*Last updated at 2026-10-06 13:48:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
