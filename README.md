@@ -8,8 +8,32 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [JeffLi1993](https://github.com/JeffLi1993)
+- 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [JeffLi1993/saas-seo-playbook](https://github.com/JeffLi1993/saas-seo-playbook)
+  > 一本面向 AI 工具站、SaaS 官网和独立开发者的 SEO 实战小册子。
+
 ### [NormXU](https://github.com/NormXU)
 - 🌟 👤 [NormXU](https://github.com/NormXU) Starred [openai/math](https://github.com/openai/math)
+
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [Boshen/cargo-shear](https://github.com/Boshen/cargo-shear)
+  > Remove unused dependencies in a Rust project
+
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator)
+  > Generate JSON schema from your Typescript sources
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [onuralpszr/xps-fedora](https://github.com/onuralpszr/xps-fedora)
+  > Fedora on the Dell XPS 16 (Intel Panther Lake): kernel patches, IPU7 camera, NPU, power profiles and...
+
+### [fubaWoW](https://github.com/fubaWoW)
+- 🌟 👤 [fubaWoW](https://github.com/fubaWoW) Starred [storytold/vectorcraft](https://github.com/storytold/vectorcraft)
+  > An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.
+- 🌟 👤 [fubaWoW](https://github.com/fubaWoW) Starred [storytold/artcraft](https://github.com/storytold/artcraft)
+  > ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+- 🌟 👤 [fubaWoW](https://github.com/fubaWoW) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+  > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
@@ -29,6 +53,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
+### [guilsa](https://github.com/guilsa)
+- 🌟 👤 [guilsa](https://github.com/guilsa) Starred [vulhub/vulhub](https://github.com/vulhub/vulhub)
+  > Pre-Built Vulnerable Environments Based on Docker-Compose
+- 🌟 👤 [guilsa](https://github.com/guilsa) Starred [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
+  > :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
+
+### [hit9](https://github.com/hit9)
+- 🌟 👤 [hit9](https://github.com/hit9) Starred [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim)
+  > Improve viewing Markdown in Neovim
+
+### [jart](https://github.com/jart)
+- 🌟 👤 [jart](https://github.com/jart) Starred [VSCodeEmacs/Emacs](https://github.com/VSCodeEmacs/Emacs)
+  > ⌨️ Emacs Keymap inside Visual Studio Code.
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [shim0114/T2V-Diffusion-Search](https://github.com/shim0114/T2V-Diffusion-Search)
   > [NeurIPS 2025] Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search
@@ -44,6 +82,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [rotem-shalev/ImageRAG](https://github.com/rotem-shalev/ImageRAG) to [johndpope/ImageRAG](https://github.com/johndpope/ImageRAG)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [wenhao728/awesome-diffusion-v2v](https://github.com/wenhao728/awesome-diffusion-v2v)
   > Awesome diffusion Video-to-Video (V2V). A collection of paper on diffusion model-based video editing...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [myc634/QuadTok](https://github.com/myc634/QuadTok)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [myc634/QuadTok](https://github.com/myc634/QuadTok) to [johndpope/QuadTok](https://github.com/johndpope/QuadTok)
 
 ### [ludoch](https://github.com/ludoch)
 - 🌟 👤 [ludoch](https://github.com/ludoch) Starred [we-are-mono/verso](https://github.com/we-are-mono/verso)
@@ -64,27 +104,50 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [gakonst/glm-vx](https://github.com/gakonst/glm-vx)
   > Experimental GLM-5.3 serving engine with from-scratch Vx CPU kernels, checkpoint loading, and stream...
 
+### [ocornut](https://github.com/ocornut)
+- 🍴 👤 [ocornut](https://github.com/ocornut) Forked [brenocq/implot3d](https://github.com/brenocq/implot3d) to [ocornut/implot3d](https://github.com/ocornut/implot3d)
+  > Immediate Mode 3D Plotting
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld)
   > [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environ...
 
-### [ranacseruet](https://github.com/ranacseruet)
-- 🌟 👤 [ranacseruet](https://github.com/ranacseruet) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-  > Production-grade engineering skills for AI coding agents.
-
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [eteran/edb-debugger](https://github.com/eteran/edb-debugger)
   > edb is a cross-platform AArch32/x86/x86-64 debugger.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [frida/frida-swift](https://github.com/frida/frida-swift)
+  > Frida Swift bindings
 
 ### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [microsoft/quicksand](https://github.com/microsoft/quicksand)
+- 🍴 👤 [simonw](https://github.com/simonw) Forked [microsoft/quicksand](https://github.com/microsoft/quicksand) to [simonw/quicksand](https://github.com/simonw/quicksand)
   > Quickly sandbox your AI agent.
 
+### [sobolevn](https://github.com/sobolevn)
+- 🍴 👤 [sobolevn](https://github.com/sobolevn) Forked [amberframework/amber](https://github.com/amberframework/amber) to [sobolevn/amber](https://github.com/sobolevn/amber)
+  > A Crystal web framework that makes building applications fast, simple, and enjoyable. Get started wi...
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph)
+  > Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [mstange/samply](https://github.com/mstange/samply)
+  > Command-line sampling profiler for macOS, Linux, and Windows
+
+### [tabjy](https://github.com/tabjy)
+- 🌟 👤 [tabjy](https://github.com/tabjy) Starred [anton-vinogradov/chopper-autotune](https://github.com/anton-vinogradov/chopper-autotune)
+  > Closed-loop auto-tuning of TMC chopper registers for Klipper: accelerometer-driven search for the qu...
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [edewit/keycloak-headless](https://github.com/edewit/keycloak-headless)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [edewit/login-ui-base](https://github.com/edewit/login-ui-base)
+  > A template base creating login UI for keycloak using modern languages and testing tools
+
+### [willie-engelbrecht](https://github.com/willie-engelbrecht)
+- 🌟 👤 [willie-engelbrecht](https://github.com/willie-engelbrecht) Starred [storytold/lightcraft](https://github.com/storytold/lightcraft)
+  > An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
+
 ### [xhochy](https://github.com/xhochy)
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/pyasyncore-feedstock](https://github.com/conda-forge/pyasyncore-feedstock) to [xhochy/pyasyncore-feedstock](https://github.com/xhochy/pyasyncore-feedstock)
-  > A conda-smithy repository for pyasyncore.
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/azure-storage-common-feedstock](https://github.com/conda-forge/azure-storage-common-feedstock) to [xhochy/azure-storage-common-feedstock](https://github.com/xhochy/azure-storage-common-feedstock)
-  > A conda-smithy repository for azure-storage-common.
+- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [prefix-dev/setup-pixi](https://github.com/prefix-dev/setup-pixi) to [xhochy/setup-pixi](https://github.com/xhochy/setup-pixi)
+  > GitHub Action to set up pixi :octocat: 📦
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🍴 👤 [yangdanny97](https://github.com/yangdanny97) Forked [Bluefire2/sous](https://github.com/Bluefire2/sous) to [yangdanny97/sous](https://github.com/yangdanny97/sous)
@@ -99,7 +162,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-08 09:36:11 UTC*
+*Last updated at 2026-10-08 17:01:24 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
