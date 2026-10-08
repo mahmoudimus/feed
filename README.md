@@ -19,9 +19,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [Boshen/cargo-shear](https://github.com/Boshen/cargo-shear)
   > Remove unused dependencies in a Rust project
 
+### [Trollicus](https://github.com/Trollicus)
+- 🌟 👤 [Trollicus](https://github.com/Trollicus) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator)
   > Generate JSON schema from your Typescript sources
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [jdx/hey-cli](https://github.com/jdx/hey-cli)
+  > HEY CLI and Agent Skills
+
+### [erezsh](https://github.com/erezsh)
+- 🌟 👤 [erezsh](https://github.com/erezsh) Starred [openai/math](https://github.com/openai/math)
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [onuralpszr/xps-fedora](https://github.com/onuralpszr/xps-fedora)
@@ -34,6 +43,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - 🌟 👤 [fubaWoW](https://github.com/fubaWoW) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
   > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [akawashiro/procinsh](https://github.com/akawashiro/procinsh)
+  > ProcInSh is a web-based process inspector for Linux.
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
@@ -52,6 +65,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > MCP extension for dnSpy.
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [Predidit/Kazumi](https://github.com/Predidit/Kazumi)
+  > 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 
 ### [guilsa](https://github.com/guilsa)
 - 🌟 👤 [guilsa](https://github.com/guilsa) Starred [vulhub/vulhub](https://github.com/vulhub/vulhub)
@@ -84,6 +99,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Awesome diffusion Video-to-Video (V2V). A collection of paper on diffusion model-based video editing...
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [myc634/QuadTok](https://github.com/myc634/QuadTok)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [myc634/QuadTok](https://github.com/myc634/QuadTok) to [johndpope/QuadTok](https://github.com/johndpope/QuadTok)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [amazon-science/ALoDLM](https://github.com/amazon-science/ALoDLM)
+  > Research code and optimized inference for ALoDLM: Adaptively Looped Diffusion Language Models.
 
 ### [ludoch](https://github.com/ludoch)
 - 🌟 👤 [ludoch](https://github.com/ludoch) Starred [we-are-mono/verso](https://github.com/we-are-mono/verso)
@@ -95,6 +112,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Vector35/exarmo](https://github.com/Vector35/exarmo)
+  > Disassemblers for ARM's AArch64 and AArch32 instruction sets
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [facebookresearch/context-language-models](https://github.com/facebookresearch/context-language-models)
+  > Official repository for "Context Language Models"
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lithos-ai/lithos-metal](https://github.com/lithos-ai/lithos-metal)
+  > Lithos Metal: high-performance LLM inference kernels and serving for Apple silicon.
 
 ### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
 - 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -103,10 +126,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [gakonst/glm-vx](https://github.com/gakonst/glm-vx)
   > Experimental GLM-5.3 serving engine with from-scratch Vx CPU kernels, checkpoint loading, and stream...
-
-### [ocornut](https://github.com/ocornut)
-- 🍴 👤 [ocornut](https://github.com/ocornut) Forked [brenocq/implot3d](https://github.com/brenocq/implot3d) to [ocornut/implot3d](https://github.com/ocornut/implot3d)
-  > Immediate Mode 3D Plotting
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld)
@@ -117,10 +136,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > edb is a cross-platform AArch32/x86/x86-64 debugger.
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [frida/frida-swift](https://github.com/frida/frida-swift)
   > Frida Swift bindings
-
-### [simonw](https://github.com/simonw)
-- 🍴 👤 [simonw](https://github.com/simonw) Forked [microsoft/quicksand](https://github.com/microsoft/quicksand) to [simonw/quicksand](https://github.com/simonw/quicksand)
-  > Quickly sandbox your AI agent.
 
 ### [sobolevn](https://github.com/sobolevn)
 - 🍴 👤 [sobolevn](https://github.com/sobolevn) Forked [amberframework/amber](https://github.com/amberframework/amber) to [sobolevn/amber](https://github.com/sobolevn/amber)
@@ -140,6 +155,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [edewit/keycloak-headless](https://github.com/edewit/keycloak-headless)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [edewit/login-ui-base](https://github.com/edewit/login-ui-base)
   > A template base creating login UI for keycloak using modern languages and testing tools
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [strands-agents/box](https://github.com/strands-agents/box)
+  > Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the netwo...
 
 ### [willie-engelbrecht](https://github.com/willie-engelbrecht)
 - 🌟 👤 [willie-engelbrecht](https://github.com/willie-engelbrecht) Starred [storytold/lightcraft](https://github.com/storytold/lightcraft)
@@ -148,6 +165,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xhochy](https://github.com/xhochy)
 - 🍴 👤 [xhochy](https://github.com/xhochy) Forked [prefix-dev/setup-pixi](https://github.com/prefix-dev/setup-pixi) to [xhochy/setup-pixi](https://github.com/xhochy/setup-pixi)
   > GitHub Action to set up pixi :octocat: 📦
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [storytold/filmcraft](https://github.com/storytold/filmcraft)
+  > An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🍴 👤 [yangdanny97](https://github.com/yangdanny97) Forked [Bluefire2/sous](https://github.com/Bluefire2/sous) to [yangdanny97/sous](https://github.com/yangdanny97/sous)
@@ -162,7 +183,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-08 17:01:24 UTC*
+*Last updated at 2026-10-08 22:33:07 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
