@@ -1,119 +1,23 @@
-# Daily GitHub Activity (2026-10-07)
+# Daily GitHub Activity (2026-10-08)
 
 <!-- nav -->
-[← 2026-10-06](archive/2026/10/06.md)
+[← 2026-10-07](archive/2026/10/07.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Gcenx](https://github.com/Gcenx)
-- 🌟 👤 [Gcenx](https://github.com/Gcenx) Starred [kirby-letsgo/oracles-decomp](https://github.com/kirby-letsgo/oracles-decomp)
-  > Native app for the GBC zelda oracle games
-
-### [KIC](https://github.com/KIC)
-- 🍴 👤 [KIC](https://github.com/KIC) Forked [alvarobartt/investiny](https://github.com/alvarobartt/investiny) to [KIC/investiny](https://github.com/KIC/investiny)
-  > 🤏🏻 `investpy` but made tiny
-
-### [Stanzilla](https://github.com/Stanzilla)
-- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust)
-  > An experimental Rust port of the TypeScript 7 compiler (tsc)
-
-### [ambethia](https://github.com/ambethia)
-- 🌟 👤 [ambethia](https://github.com/ambethia) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-- 🍴 👤 [ambethia](https://github.com/ambethia) Forked [pingdotgg/t3code](https://github.com/pingdotgg/t3code) to [probable-panda/p3code](https://github.com/probable-panda/p3code)
-
-### [danieldietrich](https://github.com/danieldietrich)
-- 🌟 👤 [danieldietrich](https://github.com/danieldietrich) Starred [morluto/rea](https://github.com/morluto/rea)
-  > Reverse engineer anything with agents, from app behavior down to native binaries.
-- 🌟 👤 [danieldietrich](https://github.com/danieldietrich) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
-  > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
-
-### [davidfrickert](https://github.com/davidfrickert)
-- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App)
-  > Public mirror of the Windscribe VPN desktop client for Windows, Mac and Linux
-
-### [gabrielfalcao](https://github.com/gabrielfalcao)
-- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [DylanTallchiefGit/xlStudio](https://github.com/DylanTallchiefGit/xlStudio)
-  > A DAW for Microsoft Excel
-- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [kaganin/iwrzwr-visual-archive](https://github.com/kaganin/iwrzwr-visual-archive)
-  > 160+ experimental visualization studies across 25+ categories, built with javascript. explore wavefo...
-
-### [godfearingman](https://github.com/godfearingman)
-- 🚀 👤 [godfearingman](https://github.com/godfearingman) Made [godfearingman/thresh](https://github.com/godfearingman/thresh) public
-  > vmprotect devirtualiser
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [a63976659/ComfyUI-Global-Translation](https://github.com/a63976659/ComfyUI-Global-Translation)
-  > comfyui全面翻译节点
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [JohnZhan2023/DuoMatching](https://github.com/JohnZhan2023/DuoMatching)
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [JohnZhan2023/DuoMatching](https://github.com/JohnZhan2023/DuoMatching) to [johndpope/DuoMatching](https://github.com/johndpope/DuoMatching)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [flash-bon/flash-bon](https://github.com/flash-bon/flash-bon)
-  > (ECCV 2026): Official code for Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Mod...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [flash-bon/flash-bon](https://github.com/flash-bon/flash-bon) to [johndpope/flash-bon](https://github.com/johndpope/flash-bon)
-  > (ECCV 2026): Official code for Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Mod...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [LafouCC/generated-reality](https://github.com/LafouCC/generated-reality)
-  > Official Codebase for "Generated Reality: Human-centric World Simulation using Interactive Video Gen...
-
-### [johnmccabe](https://github.com/johnmccabe)
-- 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [szabadkai/c64-keyboard-font](https://github.com/szabadkai/c64-keyboard-font)
-  > Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, ed...
-
-### [joxeankoret](https://github.com/joxeankoret)
-- 🌟 👤 [joxeankoret](https://github.com/joxeankoret) Starred [hugelton/Felucca](https://github.com/hugelton/Felucca)
-  > Custom firmware for M-VAVE FM-1
-
-### [luc-tielen](https://github.com/luc-tielen)
-- 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [Ramneet-Singh/jevopt](https://github.com/Ramneet-Singh/jevopt)
-  > Making intelligent compiler optimisation decisions with Jev
-- 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [awlevin/typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use)
-  > Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click...
-
-### [matcornic](https://github.com/matcornic)
-- 🚀 👤 [matcornic](https://github.com/matcornic) Made [matcornic/mum-blindtest-70](https://github.com/matcornic/mum-blindtest-70) public
-
-### [mingrammer](https://github.com/mingrammer)
-- 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero)
-  > Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the t...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [paulovitorjp/ghidra-s390x](https://github.com/paulovitorjp/ghidra-s390x)
-  > From-scratch Ghidra processor module for IBM Z / z/Architecture (s390x), with z/OS load module loade...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robertkarl/UnbiasedStrata](https://github.com/robertkarl/UnbiasedStrata)
-  > Strata engine with the Python removed: a pinned llama.cpp submodule, one C++ binary, no downloads at...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server)
-  > The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151)
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
-  > WebGPU components for React, Vue, Svelte, Solid, JS & Framer
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [kitlangton/2password](https://github.com/kitlangton/2password)
-  > 1Password for coding agents: find, use, and save secrets without exposing them
-
-### [nmarasoiu](https://github.com/nmarasoiu)
-- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [k3s-io/kine](https://github.com/k3s-io/kine) to [nmarasoiu/kine](https://github.com/nmarasoiu/kine)
-  > Run Kubernetes on MySQL, Postgres, sqlite, not etcd.
-
-### [spotlightishere](https://github.com/spotlightishere)
-- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [beriberikix/usbipd-mac](https://github.com/beriberikix/usbipd-mac)
-  > A macOS implementation of the USB/IP protocol.
-
-### [willshiao](https://github.com/willshiao)
-- 🌟 👤 [willshiao](https://github.com/willshiao) Starred [KingKongRobotics/jumper](https://github.com/KingKongRobotics/jumper)
-  > 🦀 Jumper — an crab robot.
-
-### [yangdanny97](https://github.com/yangdanny97)
-- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [rust-lang/bors](https://github.com/rust-lang/bors)
-  > Rust implementation of bors used for various Rust components (e.g. the compiler).
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [storytold/effectcraft](https://github.com/storytold/effectcraft)
 
 
 <!-- nav -->
-[← 2026-10-06](archive/2026/10/06.md)
+[← 2026-10-07](archive/2026/10/07.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-07 22:20:34 UTC*
+*Last updated at 2026-10-08 02:19:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
