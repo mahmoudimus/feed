@@ -53,13 +53,35 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > uefi bootkit base
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [AIwolfie/jailbreak-archive](https://github.com/AIwolfie/jailbreak-archive) to [fengjixuchui/jailbreak-archive](https://github.com/fengjixuchui/jailbreak-archive)
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [jackwener/xhs-cli](https://github.com/jackwener/xhs-cli)
+  > 小红书命令行工具 — 搜索、阅读、点赞、收藏、评论，全在终端完成 | Xiaohongshu CLI
+
 ### [heinermann](https://github.com/heinermann)
 - 🌟 👤 [heinermann](https://github.com/heinermann) Starred [HaydnTrigg/delink](https://github.com/HaydnTrigg/delink)
   > A splitting tool for decompilation projects
 
+### [jentfoo](https://github.com/jentfoo)
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [storytold/artcraft](https://github.com/storytold/artcraft)
+  > ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+  > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [storytold/lightcraft](https://github.com/storytold/lightcraft)
+  > An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
+- 🌟 👤 [jentfoo](https://github.com/jentfoo) Starred [storytold/filmcraft](https://github.com/storytold/filmcraft)
+  > An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
+
 ### [johndpope](https://github.com/johndpope)
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [shim0114/T2V-Diffusion-Search](https://github.com/shim0114/T2V-Diffusion-Search) to [johndpope/T2V-Diffusion-Search](https://github.com/johndpope/T2V-Diffusion-Search)
   > [NeurIPS 2025] Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [fusor-rs/supabase-tui](https://github.com/fusor-rs/supabase-tui)
+  > A HyperCMD demonstration by creating a Supabase TUI
+
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [Ekumen-OS/ar4](https://github.com/Ekumen-OS/ar4)
+  > ROS 2 software stack for the AR4 manipulator
 
 ### [luin](https://github.com/luin)
 - 🍴 👤 [luin](https://github.com/luin) Forked [review-bench/ReviewBench](https://github.com/review-bench/ReviewBench) to [luin/ReviewBench](https://github.com/luin/ReviewBench)
@@ -83,16 +105,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [phonowell](https://github.com/phonowell)
 - 🍴 👤 [phonowell](https://github.com/phonowell) Forked [Escaro-Labs/escaro](https://github.com/Escaro-Labs/escaro) to [phonowell/escaro](https://github.com/phonowell/escaro)
 
-### [randombit](https://github.com/randombit)
-- 🍴 👤 [randombit](https://github.com/randombit) Forked [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) to [randombit/oss-scanner](https://github.com/randombit/oss-scanner)
-
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [grimdoomer/Xbox360PeerPressure](https://github.com/grimdoomer/Xbox360PeerPressure)
   > Persistent softmod exploit for Xbox 360
-
-### [tmikov](https://github.com/tmikov)
-- 🌟 👤 [tmikov](https://github.com/tmikov) Starred [callstackincubator/react-native-node-api](https://github.com/callstackincubator/react-native-node-api)
-  > Node-API Modules for React Native
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [astral-sh/multiplay](https://github.com/astral-sh/multiplay)
@@ -104,7 +119,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-09 16:39:30 UTC*
+*Last updated at 2026-10-09 21:21:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
