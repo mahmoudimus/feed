@@ -8,13 +8,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BrianStadnicki](https://github.com/BrianStadnicki)
+- 🌟 👤 [BrianStadnicki](https://github.com/BrianStadnicki) Starred [descend-lang/descend](https://github.com/descend-lang/descend)
+  > An attempt at safe imperative GPU programming.
+
 ### [Gcenx](https://github.com/Gcenx)
 - 🍴 👤 [Gcenx](https://github.com/Gcenx) Forked [chaotic-cx/mesa-mirror](https://github.com/chaotic-cx/mesa-mirror) to [Sikarugir-App/mesa-mirror](https://github.com/Sikarugir-App/mesa-mirror)
   > Mesa 3D graphics library (5min-updates read-only mirror of https://gitlab.freedesktop.org/mesa/mesa/...
 
-### [TheTom](https://github.com/TheTom)
-- 🍴 👤 [TheTom](https://github.com/TheTom) Forked [ROCmFPX/ROCmFPX](https://github.com/ROCmFPX/ROCmFPX) to [TheTom/ROCmFPX](https://github.com/TheTom/ROCmFPX)
-  > This will be the official ROCmFPX stack and studio
+### [NormXU](https://github.com/NormXU)
+- 🌟 👤 [NormXU](https://github.com/NormXU) Starred [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d)
+
+### [buger](https://github.com/buger)
+- 🌟 👤 [buger](https://github.com/buger) Starred [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard)
+  > Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar,...
 
 ### [can1357](https://github.com/can1357)
 - 🍴 👤 [can1357](https://github.com/can1357) Forked [microsoft/TypeScript](https://github.com/microsoft/TypeScript) to [can1357/TypeScript](https://github.com/can1357/TypeScript)
@@ -28,8 +35,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [danieldietrich](https://github.com/danieldietrich) Forked [ghuntley/jiti](https://github.com/ghuntley/jiti) to [danieldietrich/jiti](https://github.com/danieldietrich/jiti)
   > Live Common Lisp image repair with OpenAI tools, persistent revisions, and a conversational CLI
 
-### [donvito](https://github.com/donvito)
-- 🌟 👤 [donvito](https://github.com/donvito) Starred [lucasmeijer/AgentsInTheCloud](https://github.com/lucasmeijer/AgentsInTheCloud)
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [youssefnoob003/SindriKit](https://github.com/youssefnoob003/SindriKit) to [fengjixuchui/SindriKit](https://github.com/fengjixuchui/SindriKit)
@@ -43,6 +51,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack) to [fengjixuchui/vmp-lazy-unpack](https://github.com/fengjixuchui/vmp-lazy-unpack)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [k0i5/-uefi-bootkit](https://github.com/k0i5/-uefi-bootkit) to [fengjixuchui/-uefi-bootkit](https://github.com/fengjixuchui/-uefi-bootkit)
   > uefi bootkit base
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [AIwolfie/jailbreak-archive](https://github.com/AIwolfie/jailbreak-archive) to [fengjixuchui/jailbreak-archive](https://github.com/fengjixuchui/jailbreak-archive)
 
 ### [heinermann](https://github.com/heinermann)
 - 🌟 👤 [heinermann](https://github.com/heinermann) Starred [HaydnTrigg/delink](https://github.com/HaydnTrigg/delink)
@@ -52,17 +61,30 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [shim0114/T2V-Diffusion-Search](https://github.com/shim0114/T2V-Diffusion-Search) to [johndpope/T2V-Diffusion-Search](https://github.com/johndpope/T2V-Diffusion-Search)
   > [NeurIPS 2025] Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search
 
+### [luin](https://github.com/luin)
+- 🍴 👤 [luin](https://github.com/luin) Forked [review-bench/ReviewBench](https://github.com/review-bench/ReviewBench) to [luin/ReviewBench](https://github.com/luin/ReviewBench)
+  > ReviewBench is an open, reproducible benchmark for evaluating AI code review systems on real-world p...
+
 ### [mikehearn](https://github.com/mikehearn)
 - 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [microsoft/mxc](https://github.com/microsoft/mxc)
   > Policy-driven, layered isolation and containment 
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sybil-solutions/glm53-flash-offload](https://github.com/sybil-solutions/glm53-flash-offload)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sybil-solutions/glm-flash-lite](https://github.com/sybil-solutions/glm-flash-lite)
   > GLM-5.3-Flash EXL3 on one 24 GB RTX 3090 + DDR4: elastic GPU expert cache, zero-copy experts, AVX2 C...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Rasetsuu/vmp-devirt](https://github.com/Rasetsuu/vmp-devirt)
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [terrafying/ai-torture-chamber](https://github.com/terrafying/ai-torture-chamber)
   > The AI Torture Chamber: steering small open models into strong valence states and measuring what the...
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [GLinnik21/plx-native](https://github.com/GLinnik21/plx-native)
+  > Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium ...
+
+### [phonowell](https://github.com/phonowell)
+- 🍴 👤 [phonowell](https://github.com/phonowell) Forked [Escaro-Labs/escaro](https://github.com/Escaro-Labs/escaro) to [phonowell/escaro](https://github.com/phonowell/escaro)
+
+### [randombit](https://github.com/randombit)
+- 🍴 👤 [randombit](https://github.com/randombit) Forked [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) to [randombit/oss-scanner](https://github.com/randombit/oss-scanner)
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [grimdoomer/Xbox360PeerPressure](https://github.com/grimdoomer/Xbox360PeerPressure)
@@ -73,7 +95,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Node-API Modules for React Native
 
 ### [yangdanny97](https://github.com/yangdanny97)
-- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [uber/scip-lsp](https://github.com/uber/scip-lsp)
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [astral-sh/multiplay](https://github.com/astral-sh/multiplay)
+  > multi-typechecker playground
 
 
 <!-- nav -->
@@ -81,7 +104,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-09 09:42:55 UTC*
+*Last updated at 2026-10-09 16:39:30 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
