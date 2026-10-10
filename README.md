@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BrianStadnicki](https://github.com/BrianStadnicki)
+- 🌟 👤 [BrianStadnicki](https://github.com/BrianStadnicki) Starred [FStarLang/kuiper](https://github.com/FStarLang/kuiper)
+  > GPU kernel verification with Pulse
+- 🌟 👤 [BrianStadnicki](https://github.com/BrianStadnicki) Starred [NVIDIA/TileGym](https://github.com/NVIDIA/TileGym)
+  > Helpful kernel tutorials, examples and SKILLs for tile-based GPU programming
+
 ### [GrandpaGameHacker](https://github.com/GrandpaGameHacker)
 - 🌟 👤 [GrandpaGameHacker](https://github.com/GrandpaGameHacker) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -24,6 +30,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [storytold/craft-launcher](https://github.com/storytold/craft-launcher)
+  > The Craft App Launcher
+
 ### [ajkhoury](https://github.com/ajkhoury)
 - 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
   > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
@@ -35,6 +45,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
   > LLM inference in C/C++
+
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+  > The Free Software Media System - Server Backend & API
+
+### [fnuecke](https://github.com/fnuecke)
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [restic/restic](https://github.com/restic/restic)
+  > Fast, secure, efficient backup program
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [restic/rest-server](https://github.com/restic/rest-server)
+  > Rest Server is a high performance HTTP server that implements restic's REST backend API.
 
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -55,6 +75,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [imrehg](https://github.com/imrehg)
 - 🍴 👤 [imrehg](https://github.com/imrehg) Forked [blueman-project/blueman](https://github.com/blueman-project/blueman) to [imrehg/blueman](https://github.com/imrehg/blueman)
   > Blueman is a GTK+ Bluetooth Manager
+
+### [kevaundray](https://github.com/kevaundray)
+- 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [leanprover/lean4](https://github.com/leanprover/lean4) to [kevaundray/lean4](https://github.com/kevaundray/lean4)
+  > Lean 4 programming language and theorem prover
+- 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [leanprover/lean4](https://github.com/leanprover/lean4) to [eth-act/lean4](https://github.com/eth-act/lean4)
+  > Lean 4 programming language and theorem prover
 
 ### [lucidrains](https://github.com/lucidrains)
 - 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [BelfrySCAD/BOSL2](https://github.com/BelfrySCAD/BOSL2)
@@ -91,6 +117,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [superp00t](https://github.com/superp00t) Starred [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11)
   > CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple a...
 
+### [vit9696](https://github.com/vit9696)
+- 🍴 👤 [vit9696](https://github.com/vit9696) Forked [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) to [vit9696/AdguardFilters](https://github.com/vit9696/AdguardFilters)
+  > AdGuard Content Blocking Filters
+
 ### [zuowang](https://github.com/zuowang)
 - 🌟 👤 [zuowang](https://github.com/zuowang) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
   > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
@@ -101,7 +131,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-10 18:59:55 UTC*
+*Last updated at 2026-10-10 22:14:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
