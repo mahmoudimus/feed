@@ -11,6 +11,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [0intro](https://github.com/0intro)
 - 🍴 👤 [0intro](https://github.com/0intro) Forked [2point21/lba1-classic](https://github.com/2point21/lba1-classic) to [0intro/lba1-enhanced](https://github.com/0intro/lba1-enhanced)
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+  > Secure and fast microVMs for serverless computing.
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [PyO3/maturin](https://github.com/PyO3/maturin)
+  > Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python pack...
+
 ### [Croxy](https://github.com/Croxy)
 - 🍴 👤 [Croxy](https://github.com/Croxy) Forked [DragnaCarta/Curse-of-Strahd-Reloaded](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded) to [Croxy/Curse-of-Strahd-Reloaded](https://github.com/Croxy/Curse-of-Strahd-Reloaded)
 
@@ -24,9 +30,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Wenzel](https://github.com/Wenzel) Forked [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox) to [Wenzel/virtualbox](https://github.com/Wenzel/virtualbox)
   > Source code for Oracle VirtualBox
 
-### [Xe](https://github.com/Xe)
-- 🌟 👤 [Xe](https://github.com/Xe) Starred [sebastienrousseau/mdx-gen](https://github.com/sebastienrousseau/mdx-gen)
-  > AST-first Markdown → HTML library for Rust. Ships with custom blocks, class-based syntax highlightin...
+### [ambethia](https://github.com/ambethia)
+- 🌟 👤 [ambethia](https://github.com/ambethia) Starred [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
+  > A context-compression plugin for small context windows (a 100K context is enough), token savings (5x...
 
 ### [bduisenov](https://github.com/bduisenov)
 - 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
@@ -62,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
   > OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Net-Maker/GaussiAnimate](https://github.com/Net-Maker/GaussiAnimate)
+  > official repo of the paper <GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of D...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FazeCT/1-patch](https://github.com/FazeCT/1-patch)
   > A static binary patcher using patches in high-level programming languages. Currently supports C patc...
@@ -75,6 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Anemll/anemll-forge](https://github.com/Anemll/anemll-forge)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [yielded-dev/auth](https://github.com/yielded-dev/auth)
   > Composable authentication, sessions, and identity workflows for Effect.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [devagrawal09/solid-yield](https://github.com/devagrawal09/solid-yield)
 
 ### [phauer](https://github.com/phauer)
 - 🚀 👤 [phauer](https://github.com/phauer) Made [phauer/scansnap-processor](https://github.com/phauer/scansnap-processor) public
@@ -82,9 +93,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [phauer](https://github.com/phauer) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
   > PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 
-### [stephenlb](https://github.com/stephenlb)
-- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [stephenlb/openpearl](https://github.com/stephenlb/openpearl)
-  > OpenPearl. Ticket to auto-merge. Minimal GitHub workflow that reads tickets, implements, creates PR,...
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [Akshayykadam/PixelBoard](https://github.com/Akshayykadam/PixelBoard)
+  > Unlock Google 11's Gemini "Rambler" Natural Voice Dictation & AI Writing Tools on ANY Android phone....
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [OpenBubbles/rustpush](https://github.com/OpenBubbles/rustpush)
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🚀 👤 [thomasdarimont](https://github.com/thomasdarimont) Made [easyssf/easyssf-dotnet](https://github.com/easyssf/easyssf-dotnet) public
+  > Building blocks for the OpenID Shared Signals Framework (SSF) for .NET: a receiver library with CAEP...
 
 ### [veorq](https://github.com/veorq)
 - 🌟 👤 [veorq](https://github.com/veorq) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -102,7 +120,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-11 19:14:49 UTC*
+*Last updated at 2026-10-11 23:16:22 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
