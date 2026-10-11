@@ -8,6 +8,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [0intro](https://github.com/0intro)
+- 🍴 👤 [0intro](https://github.com/0intro) Forked [2point21/lba1-classic](https://github.com/2point21/lba1-classic) to [0intro/lba1-enhanced](https://github.com/0intro/lba1-enhanced)
+
 ### [Croxy](https://github.com/Croxy)
 - 🍴 👤 [Croxy](https://github.com/Croxy) Forked [DragnaCarta/Curse-of-Strahd-Reloaded](https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded) to [Croxy/Curse-of-Strahd-Reloaded](https://github.com/Croxy/Curse-of-Strahd-Reloaded)
 
@@ -21,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Wenzel](https://github.com/Wenzel) Forked [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox) to [Wenzel/virtualbox](https://github.com/Wenzel/virtualbox)
   > Source code for Oracle VirtualBox
 
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [sebastienrousseau/mdx-gen](https://github.com/sebastienrousseau/mdx-gen)
+  > AST-first Markdown → HTML library for Rust. Ships with custom blocks, class-based syntax highlightin...
+
 ### [bduisenov](https://github.com/bduisenov)
 - 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
   > Tool for automatic PS5 executables porting to Linux and Windows
@@ -28,12 +35,26 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
   > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server,...
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+  > Ghidra is a software reverse engineering (SRE) framework
 
 ### [fcakyon](https://github.com/fcakyon)
 - 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [Peterande/D-FINE](https://github.com/Peterande/D-FINE) to [fcakyon/D-FINE](https://github.com/fcakyon/D-FINE)
   > D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement  [ICLR 2025 Spotli...
 - 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [Intellindust-AI-Lab/DEIMv2](https://github.com/Intellindust-AI-Lab/DEIMv2) to [fcakyon/DEIMv2](https://github.com/fcakyon/DEIMv2)
   > [DEIMv2] Real Time Object Detection Meets DINOv3 
+- 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [roboflow/rf-detr](https://github.com/roboflow/rf-detr) to [fcakyon/rf-detr](https://github.com/fcakyon/rf-detr)
+  > RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, S...
+- 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [Intellindust-AI-Lab/GTR](https://github.com/Intellindust-AI-Lab/GTR) to [fcakyon/GTR](https://github.com/fcakyon/GTR)
+  > GTR: Gated Token Recurrence for Efficient Dense Prediction
+- 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) to [fcakyon/paper-search-cli](https://github.com/fcakyon/paper-search-cli)
+  > MCP, CLI, Skills for searching and downloading academic papers from multiple sources like arXiv, Pub...
+
+### [fnuecke](https://github.com/fnuecke)
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+  > PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [storytold/lightcraft](https://github.com/storytold/lightcraft)
+  > LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)
@@ -52,10 +73,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [FluidInference/FluidUse](https://github.com/FluidInference/FluidUse)
   > Local computer use on Apple silicon: on-device typed decisions with laya and form filling with CUA-S...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Anemll/anemll-forge](https://github.com/Anemll/anemll-forge)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [yielded-dev/auth](https://github.com/yielded-dev/auth)
+  > Composable authentication, sessions, and identity workflows for Effect.
 
 ### [phauer](https://github.com/phauer)
 - 🚀 👤 [phauer](https://github.com/phauer) Made [phauer/scansnap-processor](https://github.com/phauer/scansnap-processor) public
   > On-device OCR + smart renaming for ScanSnap scans: searchable PDFs via Apple Vision, file names via ...
+- 🌟 👤 [phauer](https://github.com/phauer) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+  > PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [stephenlb/openpearl](https://github.com/stephenlb/openpearl)
+  > OpenPearl. Ticket to auto-merge. Minimal GitHub workflow that reads tickets, implements, creates PR,...
 
 ### [veorq](https://github.com/veorq)
 - 🌟 👤 [veorq](https://github.com/veorq) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -73,7 +102,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-11 14:30:01 UTC*
+*Last updated at 2026-10-11 19:14:49 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
