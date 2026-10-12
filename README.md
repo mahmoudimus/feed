@@ -20,17 +20,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [fuqiuluo/amice](https://github.com/fuqiuluo/amice)
   > 🍂 Rust LLVM obfuscation framework with instruction-level VMP/code virtualization for Android, C/C++ ...
 
-### [TomasVotruba](https://github.com/TomasVotruba)
-- 🌟 👤 [TomasVotruba](https://github.com/TomasVotruba) Starred [TomasVotruba/need-for-speed](https://github.com/TomasVotruba/need-for-speed)
-  > Simple speed comparison of PHPStan vs Mago analyzing Laravel and Symfony source
-
-### [Xe](https://github.com/Xe)
-- 🌟 👤 [Xe](https://github.com/Xe) Starred [Windower/Lumoria](https://github.com/Windower/Lumoria)
-  > A Linux installer and launcher for Final Fantasy XI.
-
 ### [asalih](https://github.com/asalih)
 - 🌟 👤 [asalih](https://github.com/asalih) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [bitranox](https://github.com/bitranox)
+- 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/lib_layered_config](https://github.com/bitranox/lib_layered_config)
+  > Cross-platform layered configuration loader for Python
+
+### [buger](https://github.com/buger)
+- 🚀 👤 [buger](https://github.com/buger) Made [buger/tailorpitch](https://github.com/buger/tailorpitch) public
+
+### [dekkagaijin](https://github.com/dekkagaijin)
+- 🍴 👤 [dekkagaijin](https://github.com/dekkagaijin) Forked [bazel-contrib/toolchains_llvm](https://github.com/bazel-contrib/toolchains_llvm) to [dekkagaijin/toolchains_llvm](https://github.com/dekkagaijin/toolchains_llvm)
+  > LLVM toolchain for bazel
+
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [lalinsky/zt](https://github.com/lalinsky/zt)
+  > HTML template language that compiles to Zig
+
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+  > Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 d...
 
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix)
@@ -47,10 +58,37 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Intel-VT、VMM、EPT、VTDbg
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [GG-Boy223/UnrealVTDbg-New](https://github.com/GG-Boy223/UnrealVTDbg-New) to [fengjixuchui/UnrealVTDbg-New](https://github.com/fengjixuchui/UnrealVTDbg-New)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [GG-Boy223/SVMHypervisor](https://github.com/GG-Boy223/SVMHypervisor) to [fengjixuchui/SVMHypervisor](https://github.com/fengjixuchui/SVMHypervisor)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [GermanAizek/RTCore64](https://github.com/GermanAizek/RTCore64) to [fengjixuchui/RTCore64](https://github.com/fengjixuchui/RTCore64)
+  > source code RTCore64.sys driver
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [EitaPreulaJhol/tpwsav-poc](https://github.com/EitaPreulaJhol/tpwsav-poc) to [fengjixuchui/tpwsav-poc](https://github.com/fengjixuchui/tpwsav-poc)
+  > A (not much) nice way to disable DSE.
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Alt21one/signed-kernel-driver-analysis](https://github.com/Alt21one/signed-kernel-driver-analysis) to [fengjixuchui/signed-kernel-driver-analysis](https://github.com/fengjixuchui/signed-kernel-driver-analysis)
+  > Reverse engineering and security analysis of the signed RTCore64.sys Windows kernel driver, focusing...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [S12cybersecurity/HandleRedirect](https://github.com/S12cybersecurity/HandleRedirect) to [fengjixuchui/HandleRedirect](https://github.com/fengjixuchui/HandleRedirect)
+  > Handle Redirect via BYOVD Kernel Read/Write
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Hime7864/usermode-pte-manipulation](https://github.com/Hime7864/usermode-pte-manipulation) to [fengjixuchui/usermode-pte-manipulation](https://github.com/fengjixuchui/usermode-pte-manipulation)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Hime7864/Amd64Engine](https://github.com/Hime7864/Amd64Engine) to [fengjixuchui/Amd64Engine](https://github.com/fengjixuchui/Amd64Engine)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Hime7864/smm-dtc](https://github.com/Hime7864/smm-dtc) to [fengjixuchui/smm-dtc](https://github.com/fengjixuchui/smm-dtc)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Hime7864/svm](https://github.com/Hime7864/svm) to [fengjixuchui/svm1](https://github.com/fengjixuchui/svm1)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Hime7864/svm-tsc-spoofing-dtc](https://github.com/Hime7864/svm-tsc-spoofing-dtc) to [fengjixuchui/svm-tsc-spoofing-dtc](https://github.com/fengjixuchui/svm-tsc-spoofing-dtc)
+  > my method of detecting a hardened svm
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Hime7864/llvm-kmd](https://github.com/Hime7864/llvm-kmd) to [fengjixuchui/llvm-kmd](https://github.com/fengjixuchui/llvm-kmd)
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [shaongitbd/doory](https://github.com/shaongitbd/doory)
+  > Open source canva alternative
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp)
+  > PS2 games in the browser: static recompilation to WebAssembly with a native runtime
+- 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) to [gabrielfalcao/ps2-web-recomp](https://github.com/gabrielfalcao/ps2-web-recomp)
+  > PS2 games in the browser: static recompilation to WebAssembly with a native runtime
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
   > Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text ...
+
+### [h3xstream](https://github.com/h3xstream)
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit)
+  > BookOrbit: Your Reading Space
 
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
@@ -59,18 +97,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jkbrzt](https://github.com/jkbrzt)
 - 🌟 👤 [jkbrzt](https://github.com/jkbrzt) Starred [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)
   > An agent skill for creating detailed, interactive isometric illustrations of real-world machines and...
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [code-video-model/CodeVideoModel](https://github.com/code-video-model/CodeVideoModel)
-  > Code Video Model Official Repo
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [code-video-model/CodeVideoModel](https://github.com/code-video-model/CodeVideoModel) to [johndpope/CodeVideoModel](https://github.com/johndpope/CodeVideoModel)
-  > Code Video Model Official Repo
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [stale2000/solr-ltx-upscale-speedster](https://github.com/stale2000/solr-ltx-upscale-speedster)
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [stale2000/solr-ltx-upscale-speedster](https://github.com/stale2000/solr-ltx-upscale-speedster) to [johndpope/solr-ltx-upscale-speedster](https://github.com/johndpope/solr-ltx-upscale-speedster)
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [cvlab-kaist/GRACE](https://github.com/cvlab-kaist/GRACE) to [johndpope/GRACE](https://github.com/johndpope/GRACE)
-  > Official implementation of "GRACE: Generation-Aware Latent Compression for Efficient Video Generatio...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [dcharatan/millivid](https://github.com/dcharatan/millivid)
-  > [to appear at NeurIPS 2026] Official implementation of "MilliVid: Adaptive Latents for Long-Range Co...
 
 ### [luin](https://github.com/luin)
 - 🍴 👤 [luin](https://github.com/luin) Forked [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) to [luin/awesome-ai-devtools](https://github.com/luin/awesome-ai-devtools)
@@ -90,24 +116,73 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [storytold/filmcraft](https://github.com/storytold/filmcraft)
   > FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kweatherman/ida2pdb](https://github.com/kweatherman/ida2pdb)
+
 ### [namreeb](https://github.com/namreeb)
 - 🍴 👤 [namreeb](https://github.com/namreeb) Forked [wowsims/exporter](https://github.com/wowsims/exporter) to [namreeb/exporter](https://github.com/namreeb/exporter)
   > WoWSims Exporter addon repo
+
+### [nihilus](https://github.com/nihilus)
+- 🍴 👤 [nihilus](https://github.com/nihilus) Forked [openwrt/rpcd](https://github.com/openwrt/rpcd) to [nihilus/rpcd](https://github.com/nihilus/rpcd)
+  > [MIRROR] OpenWrt ubus RPC daemon
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Anemll/anemll-flash-llama.cpp](https://github.com/Anemll/anemll-flash-llama.cpp)
+  > Flash-MoE sidecar slot-bank runtime for large GGUF MoE models on Apple Silicon — llama.cpp fork
+
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [SaarthurR/atticus-mac](https://github.com/SaarthurR/atticus-mac)
+  > Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Remembers ...
+
+### [ramonli](https://github.com/ramonli)
+- 🌟 👤 [ramonli](https://github.com/ramonli) Starred [github/spec-kit](https://github.com/github/spec-kit)
+  > 💫 Toolkit to help you get started with SDD or any other process!
+- 🌟 👤 [ramonli](https://github.com/ramonli) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [ranacseruet](https://github.com/ranacseruet)
 - 🌟 👤 [ranacseruet](https://github.com/ranacseruet) Starred [block/buzz](https://github.com/block/buzz)
   > A hive mind communication platform
 
-### [sdras](https://github.com/sdras)
-- 🍴 👤 [sdras](https://github.com/sdras) Forked [dizzyd/herdx](https://github.com/dizzyd/herdx) to [sdras/herdx](https://github.com/sdras/herdx)
-  > MacOS Interface for herdr
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [h0m3us3r/w1700k-sdr](https://github.com/h0m3us3r/w1700k-sdr)
+
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [Jacob-OTW/BCOTI](https://github.com/Jacob-OTW/BCOTI)
+
+### [rougier](https://github.com/rougier)
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [AmmarKheder/Foehn](https://github.com/AmmarKheder/Foehn)
+  > Foehn: kilometre-scale ensemble forecasts of fine particulate matter (PM2.5) over the globe
+
+### [simonmasson](https://github.com/simonmasson)
+- 🍴 👤 [simonmasson](https://github.com/simonmasson) Forked [kassandraoftroy/kohaku-artifacts](https://github.com/kassandraoftroy/kohaku-artifacts) to [simonmasson/kohaku-artifacts](https://github.com/simonmasson/kohaku-artifacts)
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [dickhardt/AAuth](https://github.com/dickhardt/AAuth)
+  > explainer for AAuth 
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [agentrust-io/trace-spec](https://github.com/agentrust-io/trace-spec)
+  > TRACE: Trust Runtime Attestation and Compliance Evidence. Open attestation standard for agentic AI g...
 
 ### [tintinweb](https://github.com/tintinweb)
 - 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
   > A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System...
 
-### [xyproto](https://github.com/xyproto)
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+### [tmikov](https://github.com/tmikov)
+- 🌟 👤 [tmikov](https://github.com/tmikov) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [trieu](https://github.com/trieu)
+- 🌟 👤 [trieu](https://github.com/trieu) Starred [amitshekhariitbhu/ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions)
+  > Your Cheat Sheet for AI Engineering Interview – Questions and Answers.
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [kweatherman/ida2pdb](https://github.com/kweatherman/ida2pdb)
 
 
 <!-- nav -->
@@ -115,7 +190,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-12 09:53:36 UTC*
+*Last updated at 2026-10-12 19:27:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
