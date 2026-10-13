@@ -52,20 +52,34 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [firmai](https://github.com/firmai) Starred [john-friedman/XBRL-Taxonomy-Counts](https://github.com/john-friedman/XBRL-Taxonomy-Counts)
   > taxonomy counts for all SEC XBRL files
 
-### [fmeum](https://github.com/fmeum)
-- 🌟 👤 [fmeum](https://github.com/fmeum) Starred [bazel-contrib/platforms_contrib](https://github.com/bazel-contrib/platforms_contrib)
-  > Rich, expressive constraints for real-world Bazel platforms
-
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria)
   > Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 
+### [fubaWoW](https://github.com/fubaWoW)
+- 🌟 👤 [fubaWoW](https://github.com/fubaWoW) Starred [storytold/cadcraft](https://github.com/storytold/cadcraft)
+  > CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure ...
+- 🌟 👤 [fubaWoW](https://github.com/fubaWoW) Starred [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
+  > PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [LuckyKuang/sub2api-plus](https://github.com/LuckyKuang/sub2api-plus)
   > 个人使用，不保证没有bug，使用前请仔细斟酌！
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [ZJU-LLM-Safety/DARWIN](https://github.com/ZJU-LLM-Safety/DARWIN)
+  > DARWIN is a self-evolving LLM jailbreak framework that grows a reusable strategy pool through extern...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [ZJU-LLM-Safety/TRACE](https://github.com/ZJU-LLM-Safety/TRACE)
+  > TRACE is an agentic jailbreaking framework that can reduce attack difficulty, induce the agent to ex...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [morluto/jacobian](https://github.com/morluto/jacobian)
+  > Composable mathematics tools for agents
 
 ### [heinermann](https://github.com/heinermann)
 - 🌟 👤 [heinermann](https://github.com/heinermann) Starred [sjoblomj/namebreak-bombe](https://github.com/sjoblomj/namebreak-bombe)
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
+  > A cross-platform, safe, pure-Rust graphics API.
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) to [ioncodes/wgpu](https://github.com/ioncodes/wgpu)
+  > A cross-platform, safe, pure-Rust graphics API.
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [eelbaz/mLattice](https://github.com/eelbaz/mLattice)
@@ -79,17 +93,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [Kb2uka/Omarchy-M4-Native](https://github.com/Kb2uka/Omarchy-M4-Native)
   > Experimental Linux bring-up research for the M4 MacBook Air (T8132/J713): device-tree patches, kerne...
 
-### [mekanix](https://github.com/mekanix)
-- 🍴 👤 [mekanix](https://github.com/mekanix) Forked [RustAudio/cpal](https://github.com/RustAudio/cpal) to [mekanix/cpal](https://github.com/mekanix/cpal)
-  > Low-level cross-platform audio I/O library in Rust
-- 🍴 👤 [mekanix](https://github.com/mekanix) Forked [storytold/filmcraft](https://github.com/storytold/filmcraft) to [mekanix/filmcraft](https://github.com/mekanix/filmcraft)
-  > FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
-- 🍴 👤 [mekanix](https://github.com/mekanix) Forked [storytold/effectcraft](https://github.com/storytold/effectcraft) to [mekanix/effectcraft](https://github.com/mekanix/effectcraft)
-  > EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust
-
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)
+  > AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for persona...
 
 ### [mksh](https://github.com/mksh)
 - 🌟 👤 [mksh](https://github.com/mksh) Starred [FrederykAbryan/multi-monitors-bar_fapv2](https://github.com/FrederykAbryan/multi-monitors-bar_fapv2)
@@ -108,9 +118,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [prasser](https://github.com/prasser)
 - 🌟 👤 [prasser](https://github.com/prasser) Starred [PrivateAIM/benchmark](https://github.com/PrivateAIM/benchmark)
 
+### [progrium](https://github.com/progrium)
+- 🌟 👤 [progrium](https://github.com/progrium) Starred [facebook/idb](https://github.com/facebook/idb)
+  > idb is a flexible command line interface for automating iOS simulators and devices
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [MakrSas/orchard-ios](https://github.com/MakrSas/orchard-ios)
+  > Orchard for iPhone: Apple Silicon macOS Ventura running inside an iOS app — QEMU apple-vm with reims...
+
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [nolabs-ai/nono](https://github.com/nolabs-ai/nono)
+  > agent runtime security - zero trust, zero setup, zero latency agent sandbox
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🚀 👤 [thomasdarimont](https://github.com/thomasdarimont) Made [easyssf/easyssf-rust](https://github.com/easyssf/easyssf-rust) public
+  > Building blocks for the OpenID Shared Signals Framework (SSF) for Rust: a receiver library with CAEP...
 
 ### [veorq](https://github.com/veorq)
 - 🌟 👤 [veorq](https://github.com/veorq) Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
@@ -136,7 +162,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-13 16:31:55 UTC*
+*Last updated at 2026-10-13 21:36:57 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
