@@ -12,9 +12,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [BrianStadnicki](https://github.com/BrianStadnicki) Starred [getianao/BitGen](https://github.com/getianao/BitGen)
   > Artifact for MICRO'25
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [Saffsanity/sill](https://github.com/Saffsanity/sill)
+  > Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free,...
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [openbao/openbao](https://github.com/openbao/openbao)
   > OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, ce...
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [are-we-dodo-yet/dodo](https://github.com/are-we-dodo-yet/dodo)
+  > Deno fork, untangling mess
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [trailofbits/calcifier](https://github.com/trailofbits/calcifier)
+  > Compile agent skills into reviewable, executable Python workflows.
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [ahmedarif193/LiberNT](https://github.com/ahmedarif193/LiberNT)
+  > A free Windows-compatible Operating System
 
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [FrankHUN88453/CoD3Recomp](https://github.com/FrankHUN88453/CoD3Recomp)
@@ -29,6 +39,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Free Stremio addon: subtitles in your language (Serbian, Croatian, Bosnian or any other), lined up w...
 - 🍴 👤 [fcakyon](https://github.com/fcakyon) Forked [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) to [fcakyon/AIOStreams](https://github.com/fcakyon/AIOStreams)
   > AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite...
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [dechamps/RudeWindowFixer](https://github.com/dechamps/RudeWindowFixer) to [fengjixuchui/RudeWindowFixer](https://github.com/fengjixuchui/RudeWindowFixer)
@@ -68,10 +80,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [jaredpalmer](https://github.com/jaredpalmer)
 - 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [anishathalye/porcupine](https://github.com/anishathalye/porcupine)
   > A fast linearizability checker written in Go 🔎
-
-### [jeremyckahn](https://github.com/jeremyckahn)
-- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [ibisjp/ibis-office](https://github.com/ibisjp/ibis-office)
-  > The next-gen Office suite built with Rust & GPUI. Blazing-fast, memory-safe, and highly accurate edi...
 
 ### [joxeankoret](https://github.com/joxeankoret)
 - 🌟 👤 [joxeankoret](https://github.com/joxeankoret) Starred [A-intheCode/ReaperNotator](https://github.com/A-intheCode/ReaperNotator)
@@ -135,6 +143,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [sysrex](https://github.com/sysrex) Starred [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder)
   > Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, w...
 
+### [tabjy](https://github.com/tabjy)
+- 🌟 👤 [tabjy](https://github.com/tabjy) Starred [TengerTechnologies/Smoothificator](https://github.com/TengerTechnologies/Smoothificator)
+  > A script that enables you to 3D print with different Layerheights on the inside and outside of your ...
+
 ### [vogievetsky](https://github.com/vogievetsky)
 - 🌟 👤 [vogievetsky](https://github.com/vogievetsky) Starred [HeyPuter/everything](https://github.com/HeyPuter/everything)
   > We're rebuilding and open-sourcing the world’s software from scratch.
@@ -145,7 +157,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-14 19:47:02 UTC*
+*Last updated at 2026-10-14 22:45:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
