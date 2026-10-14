@@ -8,13 +8,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [JeffLi1993](https://github.com/JeffLi1993)
-- 🌟 👤 [JeffLi1993](https://github.com/JeffLi1993) Starred [JeffLi1993/open-growth-skills](https://github.com/JeffLi1993/open-growth-skills)
-  > All in one AI Agent Skills for Growth
+### [BrianStadnicki](https://github.com/BrianStadnicki)
+- 🌟 👤 [BrianStadnicki](https://github.com/BrianStadnicki) Starred [getianao/BitGen](https://github.com/getianao/BitGen)
+  > Artifact for MICRO'25
 
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [FrankHUN88453/CoD3Recomp](https://github.com/FrankHUN88453/CoD3Recomp)
   > Call of Duty 3 (Xbox 360) static recompilation: host runtime, tools and notes
+- 🌟 👤 [cra0](https://github.com/cra0) Starred [abhi245y/PS5LM](https://github.com/abhi245y/PS5LM)
+  > llama.cpp on a jailbroken PS5: run any GGUF model natively on the console, starting with Qwen 3.8
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [dechamps/RudeWindowFixer](https://github.com/dechamps/RudeWindowFixer) to [fengjixuchui/RudeWindowFixer](https://github.com/fengjixuchui/RudeWindowFixer)
@@ -32,6 +34,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge)
   > Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)
+  > An agent skill for creating detailed, interactive isometric illustrations of real-world machines and...
+
+### [imrehg](https://github.com/imrehg)
+- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai)
+  > Time series Timeseries Deep Learning Machine Learning Python Pytorch  fastai | State-of-the-art Deep...
+
+### [jaredpalmer](https://github.com/jaredpalmer)
+- 🌟 👤 [jaredpalmer](https://github.com/jaredpalmer) Starred [anishathalye/porcupine](https://github.com/anishathalye/porcupine)
+  > A fast linearizability checker written in Go 🔎
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [ibisjp/ibis-office](https://github.com/ibisjp/ibis-office)
+  > The next-gen Office suite built with Rust & GPUI. Blazing-fast, memory-safe, and highly accurate edi...
+
+### [joxeankoret](https://github.com/joxeankoret)
+- 🌟 👤 [joxeankoret](https://github.com/joxeankoret) Starred [A-intheCode/ReaperNotator](https://github.com/A-intheCode/ReaperNotator)
+  > Industry Standard Notation Editor Extension for Reaper DAW. 
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 ### [mhils](https://github.com/mhils)
 - 🍴 👤 [mhils](https://github.com/mhils) Forked [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) to [mhils/rust-bindgen](https://github.com/mhils/rust-bindgen)
@@ -39,16 +63,36 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [phoenixframework/durable_server](https://github.com/phoenixframework/durable_server)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [hellobertrand/zxc](https://github.com/hellobertrand/zxc)
+  > Lossless compression C library built for ultra-fast decode. Faster than LZ4 (+35% to 105%+; best on ...
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui)
   > A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, rad...
 
-### [thomasdarimont](https://github.com/thomasdarimont)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [api-evangelist/apis-io](https://github.com/api-evangelist/apis-io)
-  > APIs.io — independent third-party profile of a public API surface, by API Evangelist. APIs.io is an ...
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [openlint/openlint](https://github.com/openlint/openlint)
-  > A flexible JSON/YAML linter for creating automated API style guides, with baked in support for OpenA...
+### [notify-bibi](https://github.com/notify-bibi)
+- 🌟 👤 [notify-bibi](https://github.com/notify-bibi) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .agents directory.
+
+### [phauer](https://github.com/phauer)
+- 🌟 👤 [phauer](https://github.com/phauer) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
+  > Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
+
+### [realoriginal](https://github.com/realoriginal)
+- 🍴 👤 [realoriginal](https://github.com/realoriginal) Forked [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye) to [realoriginal/ntoseye](https://github.com/realoriginal/ntoseye)
+  > WinDbg-like kernel debugger for Windows, from Linux and macOS
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [amontlabs/lcu](https://github.com/amontlabs/lcu)
+  > Codex computer use, decoupled from the app, for usage inside any harness.
+
+### [smolijar](https://github.com/smolijar)
+- 🌟 👤 [smolijar](https://github.com/smolijar) Starred [jakub-tucek/fix-mac-os](https://github.com/jakub-tucek/fix-mac-os)
+  > Personal native macOS menu-bar controls for monitors, Bluetooth auto-connect, and fast Space switchi...
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [orlp/polyxor](https://github.com/orlp/polyxor)
+  > A 128-bit universal hash function designed for fast file/data stream integrity checks with cryptogra...
 
 
 <!-- nav -->
@@ -56,7 +100,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-14 10:44:01 UTC*
+*Last updated at 2026-10-14 15:35:10 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
