@@ -23,6 +23,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [asalih](https://github.com/asalih) Starred [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)
   > Cloud-native OSS search engine for observability
 
+### [chrislusf](https://github.com/chrislusf)
+- 🌟 👤 [chrislusf](https://github.com/chrislusf) Starred [pkkid/dalica](https://github.com/pkkid/dalica)
+  > A local-first photo management application written in Rust. A modern, multiplatform tribute to the c...
+
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [rustrak/rustrak](https://github.com/rustrak/rustrak)
   > Ultra-lightweight error tracking server compatible with Sentry SDKs
@@ -35,6 +39,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [hermanbanken](https://github.com/hermanbanken)
 - 🌟 👤 [hermanbanken](https://github.com/hermanbanken) Starred [slopus/happy](https://github.com/slopus/happy)
   > Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you alrea...
+
+### [ingydotnet](https://github.com/ingydotnet)
+- 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [BuddhiLW/clojurust](https://github.com/BuddhiLW/clojurust)
+  > Clojure and Rust
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [incoai/splash](https://github.com/incoai/splash)
+  > A local inference engine for Apple silicon, built around the model.
 
 ### [lg](https://github.com/lg)
 - 🌟 👤 [lg](https://github.com/lg) Starred [Zfinix/eleven](https://github.com/Zfinix/eleven)
@@ -59,21 +71,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [paper-instruments/feather-train](https://github.com/paper-instruments/feather-train)
   > Feather agent harness, training integrations, and evaluation tools for knowledge work
 
-### [ocornut](https://github.com/ocornut)
-- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Atrix256/df_game_data](https://github.com/Atrix256/df_game_data)
-  > Game data middleware - describe schemas, edit data, pack data, load data, hot reloading support 
-
 ### [phauer](https://github.com/phauer)
 - 🌟 👤 [phauer](https://github.com/phauer) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
-
-### [realoriginal](https://github.com/realoriginal)
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [hzqst/VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader)
-  > Vmware Hardened VM detection mitigation loader (anti anti-vm)
-
-### [samuelcolvin](https://github.com/samuelcolvin)
-- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [zby/treadle](https://github.com/zby/treadle)
-  >  Write workflows in Pydantic AI. Run them through Claude Code, Codex, pi, or any agent harness.
 
 ### [smourier](https://github.com/smourier)
 - 🍴 👤 [smourier](https://github.com/smourier) Forked [OCamlPro/gnucobol](https://github.com/OCamlPro/gnucobol) to [aelyo-softworks/gnucobol](https://github.com/aelyo-softworks/gnucobol)
@@ -81,24 +81,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [kelindi/iphone-1-emulator](https://github.com/kelindi/iphone-1-emulator)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [ardiri/dev-palmos](https://github.com/ardiri/dev-palmos)
+  > Historical Palm OS development resources, SDKs, documentation and utilities
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [pkulchenko/serpent](https://github.com/pkulchenko/serpent)
   > Lua serializer and pretty printer.
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [kgaspard/jev-factorio](https://github.com/kgaspard/jev-factorio)
+  > Getting TypeSafe AI's Jev to play Factorio
 
 ### [sysrex](https://github.com/sysrex)
 - 🌟 👤 [sysrex](https://github.com/sysrex) Starred [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder)
   > Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, w...
-
-### [tabjy](https://github.com/tabjy)
-- 🌟 👤 [tabjy](https://github.com/tabjy) Starred [nisparks/SparkShift](https://github.com/nisparks/SparkShift)
-  > HGX quick-change hotend system with an independent carriage-mounted cam release. Community developme...
-
-### [thomasdarimont](https://github.com/thomasdarimont)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [derrumbe/shared-signals.dev](https://github.com/derrumbe/shared-signals.dev)
-  > Developer guide to the OpenID Shared Signals Framework, CAEP and RISC — shared-signals.dev
-- 🍴 👤 [thomasdarimont](https://github.com/thomasdarimont) Forked [derrumbe/shared-signals.dev](https://github.com/derrumbe/shared-signals.dev) to [thomasdarimont/shared-signals.dev](https://github.com/thomasdarimont/shared-signals.dev)
-  > Developer guide to the OpenID Shared Signals Framework, CAEP and RISC — shared-signals.dev
 
 ### [xhochy](https://github.com/xhochy)
 - 🌟 👤 [xhochy](https://github.com/xhochy) Starred [moritzwilksch/diffle](https://github.com/moritzwilksch/diffle)
@@ -113,6 +107,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > walgit with a GitHub Enterprise Server facade — git over smart HTTP from an object-store bucket
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [alex0ptr/once](https://github.com/alex0ptr/once)
   > Run a command once, reuse its output for a while.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [goccy/tobari](https://github.com/goccy/tobari)
+  > Tobari is a scoped coverage measurement tool for Go
 
 
 <!-- nav -->
@@ -120,7 +116,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-15 20:36:41 UTC*
+*Last updated at 2026-10-15 23:21:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
