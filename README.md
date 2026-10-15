@@ -8,13 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [Backboard-io/Nash](https://github.com/Backboard-io/Nash)
+
 ### [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt)
 - 🌟 👤 [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt) Starred [Open-Air-Foundation/firmware-core](https://github.com/Open-Air-Foundation/firmware-core)
   > AirGradient Firmware Mono-repository
-
-### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
-- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [maschwenk/tsrs](https://github.com/maschwenk/tsrs)
-  > Rust port of the TypeScript 7 type checker
 
 ### [akermu](https://github.com/akermu)
 - 🌟 👤 [akermu](https://github.com/akermu) Starred [cobomi-lab/pi-extensions](https://github.com/cobomi-lab/pi-extensions)
@@ -41,6 +40,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lg](https://github.com/lg) Starred [Zfinix/eleven](https://github.com/Zfinix/eleven)
   > Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patch...
 
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [Roboparty/RP1](https://github.com/Roboparty/RP1)
+
 ### [mguymon](https://github.com/mguymon)
 - 🌟 👤 [mguymon](https://github.com/mguymon) Starred [stablemates/workhorse](https://github.com/stablemates/workhorse)
   > A durable task queue for PostgreSQL, with TypeScript, Python, Go, Rust and Ruby workers on one SQL p...
@@ -61,9 +63,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Atrix256/df_game_data](https://github.com/Atrix256/df_game_data)
   > Game data middleware - describe schemas, edit data, pack data, load data, hot reloading support 
 
+### [phauer](https://github.com/phauer)
+- 🌟 👤 [phauer](https://github.com/phauer) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [hzqst/VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader)
   > Vmware Hardened VM detection mitigation loader (anti anti-vm)
+
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [zby/treadle](https://github.com/zby/treadle)
+  >  Write workflows in Pydantic AI. Run them through Claude Code, Codex, pi, or any agent harness.
 
 ### [smourier](https://github.com/smourier)
 - 🍴 👤 [smourier](https://github.com/smourier) Forked [OCamlPro/gnucobol](https://github.com/OCamlPro/gnucobol) to [aelyo-softworks/gnucobol](https://github.com/aelyo-softworks/gnucobol)
@@ -80,9 +90,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [sysrex](https://github.com/sysrex) Starred [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder)
   > Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, w...
 
+### [tabjy](https://github.com/tabjy)
+- 🌟 👤 [tabjy](https://github.com/tabjy) Starred [nisparks/SparkShift](https://github.com/nisparks/SparkShift)
+  > HGX quick-change hotend system with an independent carriage-mounted cam release. Community developme...
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [derrumbe/shared-signals.dev](https://github.com/derrumbe/shared-signals.dev)
+  > Developer guide to the OpenID Shared Signals Framework, CAEP and RISC — shared-signals.dev
+- 🍴 👤 [thomasdarimont](https://github.com/thomasdarimont) Forked [derrumbe/shared-signals.dev](https://github.com/derrumbe/shared-signals.dev) to [thomasdarimont/shared-signals.dev](https://github.com/thomasdarimont/shared-signals.dev)
+  > Developer guide to the OpenID Shared Signals Framework, CAEP and RISC — shared-signals.dev
+
+### [xhochy](https://github.com/xhochy)
+- 🌟 👤 [xhochy](https://github.com/xhochy) Starred [moritzwilksch/diffle](https://github.com/moritzwilksch/diffle)
+  > A keyboard-first diff viewer with LSP support and GitHub integration.
+
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
   > A flexible distributed key-value database that is optimized for caching and other realtime workloads...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+  > Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared...
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [rgodha24/walgithub](https://github.com/rgodha24/walgithub)
+  > walgit with a GitHub Enterprise Server facade — git over smart HTTP from an object-store bucket
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [alex0ptr/once](https://github.com/alex0ptr/once)
+  > Run a command once, reuse its output for a while.
 
 
 <!-- nav -->
@@ -90,7 +120,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-15 17:25:26 UTC*
+*Last updated at 2026-10-15 20:36:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
