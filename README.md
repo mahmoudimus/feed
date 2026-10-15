@@ -12,27 +12,26 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt) Starred [Open-Air-Foundation/firmware-core](https://github.com/Open-Air-Foundation/firmware-core)
   > AirGradient Firmware Mono-repository
 
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [WangLongZJU/DirtyMoCap](https://github.com/WangLongZJU/DirtyMoCap)
-  > Official code repository for DirtyMoCap: Robust Motion Capture from Unconstrained Markers
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [chenglou/handwired](https://github.com/chenglou/handwired)
-  > Turn your regular JavaScript code into a neural net.
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [SkyworkAI/Matrix-Game](https://github.com/SkyworkAI/Matrix-Game)
-  > Matrix-Game 4.0: Streaming Neural Rendering for Playable Games
+### [asalih](https://github.com/asalih)
+- 🌟 👤 [asalih](https://github.com/asalih) Starred [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)
+  > Cloud-native OSS search engine for observability
+
+### [gvanas](https://github.com/gvanas)
+- 🌟 👤 [gvanas](https://github.com/gvanas) Starred [eliana817/iacr-typst-template](https://github.com/eliana817/iacr-typst-template)
 
 ### [lg](https://github.com/lg)
 - 🌟 👤 [lg](https://github.com/lg) Starred [Zfinix/eleven](https://github.com/Zfinix/eleven)
   > Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patch...
 
-### [mattn](https://github.com/mattn)
-- 🍴 👤 [mattn](https://github.com/mattn) Forked [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip) to [mattn/vim-vsnip](https://github.com/mattn/vim-vsnip)
-  > Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
-- 🍴 👤 [mattn](https://github.com/mattn) Forked [hrsh7th/vim-vsnip-integ](https://github.com/hrsh7th/vim-vsnip-integ) to [mattn/vim-vsnip-integ](https://github.com/mattn/vim-vsnip-integ)
-  > vim-vsnip integrations to other plugins.
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [oscarsantanaarias/IDA-Ghidra-bridge](https://github.com/oscarsantanaarias/IDA-Ghidra-bridge)
 
-### [mihaip](https://github.com/mihaip)
-- 🍴 👤 [mihaip](https://github.com/mihaip) Forked [arcanebyte/lisaem](https://github.com/arcanebyte/lisaem) to [mihaip/lisaem](https://github.com/mihaip/lisaem)
-  > The first fully functional Lisa Emulator™
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [natew/react-native-gpui](https://github.com/natew/react-native-gpui)
+
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [pkulchenko/serpent](https://github.com/pkulchenko/serpent)
+  > Lua serializer and pretty printer.
 
 
 <!-- nav -->
@@ -40,7 +39,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-15 06:36:08 UTC*
+*Last updated at 2026-10-15 12:12:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
