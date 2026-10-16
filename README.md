@@ -43,18 +43,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > 100M tokens. Infinite compute. Lowest val loss wins.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [qlabs-eng/dust](https://github.com/qlabs-eng/dust)
   > Pretraining Transformers Without Backpropagation
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [siliconjungle/ink-lang](https://github.com/siliconjungle/ink-lang)
+  > Ink: a small language with locally checked proofs and an extensible optimisation database
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [getkyo/kyo](https://github.com/getkyo/kyo) to [nmarasoiu/kyo](https://github.com/nmarasoiu/kyo)
   > Toolkit for Scala Development
 
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
-  > Open-source e-reader firmware
-
 ### [sma](https://github.com/sma)
 - 🌟 👤 [sma](https://github.com/sma) Starred [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit)
   > Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [paddor/ozzy](https://github.com/paddor/ozzy)
+  > Replicated logs over OMQ
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [Yassine-Jemi01/ylang](https://github.com/Yassine-Jemi01/ylang)
+  > A simple Programming language
 
 ### [sysrex](https://github.com/sysrex)
 - 🌟 👤 [sysrex](https://github.com/sysrex) Starred [trafficflowhq/ohmail](https://github.com/trafficflowhq/ohmail)
@@ -89,7 +93,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-16 15:57:13 UTC*
+*Last updated at 2026-10-16 19:10:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
