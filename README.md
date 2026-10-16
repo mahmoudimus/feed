@@ -14,13 +14,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [vercel/sandbox](https://github.com/vercel/sandbox)
   > Vercel Sandbox is an ephemeral compute primitive designed to safely run untrusted or user-generated ...
 
-### [Wenzel](https://github.com/Wenzel)
-- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
-  > the runtime your coding agents live on
-
 ### [asalih](https://github.com/asalih)
 - 🌟 👤 [asalih](https://github.com/asalih) Starred [asalih/go-box-sdk](https://github.com/asalih/go-box-sdk)
   > box dot com sdk
+
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [jtydhr88/ComfyArt](https://github.com/jtydhr88/ComfyArt)
+  > 纯本地、开源的”Lovart“, The open-source, fully local Lovart alternative 
 
 ### [idavehuwei](https://github.com/idavehuwei)
 - 🌟 👤 [idavehuwei](https://github.com/idavehuwei) Starred [yacuo/check-cc](https://github.com/yacuo/check-cc)
@@ -30,15 +30,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jhalterman](https://github.com/jhalterman) Starred [tabascoz/hass-neakasa](https://github.com/tabascoz/hass-neakasa)
   > Neakasa Integration for Home Assistant
 
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [LarzP123/terminal-3d-graphics](https://github.com/LarzP123/terminal-3d-graphics)
+  > A Haskell library that displays 3d graphics to the terminal with user input for player movement
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [longsurf-ai/endo](https://github.com/longsurf-ai/endo)
   > The Higher Order Harness (HOH "/oʊ/" ), projected as a unified chat interface.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [qlabs-eng/noise](https://github.com/qlabs-eng/noise)
   > Speedrun for pretraining without backpropagation
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [qlabs-eng/slowrun](https://github.com/qlabs-eng/slowrun)
+  > 100M tokens. Infinite compute. Lowest val loss wins.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [qlabs-eng/dust](https://github.com/qlabs-eng/dust)
+  > Pretraining Transformers Without Backpropagation
 
-### [qiyuangong](https://github.com/qiyuangong)
-- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [libvirt/libvirt](https://github.com/libvirt/libvirt)
-  > Read-only mirror. Please submit merge requests / issues to https://gitlab.com/libvirt/libvirt
+### [nmarasoiu](https://github.com/nmarasoiu)
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [getkyo/kyo](https://github.com/getkyo/kyo) to [nmarasoiu/kyo](https://github.com/nmarasoiu/kyo)
+  > Toolkit for Scala Development
 
 ### [shazow](https://github.com/shazow)
 - 🌟 👤 [shazow](https://github.com/shazow) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
@@ -55,6 +63,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener with local or Clo...
 - 🍴 👤 [sysrex](https://github.com/sysrex) Forked [omacom/omarchy](https://github.com/omacom/omarchy) to [sysrex/omarchy](https://github.com/sysrex/omarchy)
   > Beautiful, Modern & Opinionated Linux
+
+### [uakarsh](https://github.com/uakarsh)
+- 🍴 👤 [uakarsh](https://github.com/uakarsh) Forked [ain-problem-set/problem-1-2-user-intent-classifier](https://github.com/ain-problem-set/problem-1-2-user-intent-classifier) to [uakarsh/problem-1-2-user-intent-classifier](https://github.com/uakarsh/problem-1-2-user-intent-classifier)
+- 🍴 👤 [uakarsh](https://github.com/uakarsh) Forked [ain-problem-set/problem-1-1-video-classifier](https://github.com/ain-problem-set/problem-1-1-video-classifier) to [uakarsh/problem-1-1-video-classifier](https://github.com/uakarsh/problem-1-1-video-classifier)
 
 ### [willshiao](https://github.com/willshiao)
 - 🌟 👤 [willshiao](https://github.com/willshiao) Starred [i2cjak/Backplane](https://github.com/i2cjak/Backplane)
@@ -77,7 +89,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-16 11:57:54 UTC*
+*Last updated at 2026-10-16 15:57:13 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
