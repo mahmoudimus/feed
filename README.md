@@ -1,122 +1,36 @@
-# Daily GitHub Activity (2026-10-15)
+# Daily GitHub Activity (2026-10-16)
 
 <!-- nav -->
-[← 2026-10-14](archive/2026/10/14.md)
+[← 2026-10-15](archive/2026/10/15.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [Clivern](https://github.com/Clivern)
-- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [Backboard-io/Nash](https://github.com/Backboard-io/Nash)
+### [Kesin11](https://github.com/Kesin11)
+- 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)
+  > Bash for Agents
+- 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [vercel/sandbox](https://github.com/vercel/sandbox)
+  > Vercel Sandbox is an ephemeral compute primitive designed to safely run untrusted or user-generated ...
 
-### [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt)
-- 🌟 👤 [Franck-Dernoncourt](https://github.com/Franck-Dernoncourt) Starred [Open-Air-Foundation/firmware-core](https://github.com/Open-Air-Foundation/firmware-core)
-  > AirGradient Firmware Mono-repository
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [worldbench/VITAL](https://github.com/worldbench/VITAL)
+  > 🔥 VITAL: From Visual Motion to Precise Action
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [worldbench/VITAL](https://github.com/worldbench/VITAL) to [johndpope/VITAL](https://github.com/johndpope/VITAL)
+  > 🔥 VITAL: From Visual Motion to Precise Action
 
-### [akermu](https://github.com/akermu)
-- 🌟 👤 [akermu](https://github.com/akermu) Starred [cobomi-lab/pi-extensions](https://github.com/cobomi-lab/pi-extensions)
-  > A public collection of custom tools and extensions for the Pi terminal agent by Cobomi
-
-### [asalih](https://github.com/asalih)
-- 🌟 👤 [asalih](https://github.com/asalih) Starred [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit)
-  > Cloud-native OSS search engine for observability
-
-### [chrislusf](https://github.com/chrislusf)
-- 🌟 👤 [chrislusf](https://github.com/chrislusf) Starred [pkkid/dalica](https://github.com/pkkid/dalica)
-  > A local-first photo management application written in Rust. A modern, multiplatform tribute to the c...
-
-### [frol](https://github.com/frol)
-- 🌟 👤 [frol](https://github.com/frol) Starred [rustrak/rustrak](https://github.com/rustrak/rustrak)
-  > Ultra-lightweight error tracking server compatible with Sentry SDKs
-
-### [gvanas](https://github.com/gvanas)
-- 🌟 👤 [gvanas](https://github.com/gvanas) Starred [eliana817/iacr-typst-template](https://github.com/eliana817/iacr-typst-template)
-- 🍴 👤 [gvanas](https://github.com/gvanas) Forked [grittygrease/draft-sullivan-tls-xof-schedule-collab](https://github.com/grittygrease/draft-sullivan-tls-xof-schedule-collab) to [gvanas/draft-sullivan-tls-xof-schedule-collab](https://github.com/gvanas/draft-sullivan-tls-xof-schedule-collab)
-  > Collaboration snapshot of draft-sullivan-tls-xof-schedule (XOF-based key schedules for TLS 1.3)
-
-### [hermanbanken](https://github.com/hermanbanken)
-- 🌟 👤 [hermanbanken](https://github.com/hermanbanken) Starred [slopus/happy](https://github.com/slopus/happy)
-  > Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you alrea...
-
-### [ingydotnet](https://github.com/ingydotnet)
-- 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [BuddhiLW/clojurust](https://github.com/BuddhiLW/clojurust)
-  > Clojure and Rust
-
-### [jeremyckahn](https://github.com/jeremyckahn)
-- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [incoai/splash](https://github.com/incoai/splash)
-  > A local inference engine for Apple silicon, built around the model.
-
-### [lg](https://github.com/lg)
-- 🌟 👤 [lg](https://github.com/lg) Starred [Zfinix/eleven](https://github.com/Zfinix/eleven)
-  > Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patch...
-
-### [lucidrains](https://github.com/lucidrains)
-- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [Roboparty/RP1](https://github.com/Roboparty/RP1)
-
-### [mguymon](https://github.com/mguymon)
-- 🌟 👤 [mguymon](https://github.com/mguymon) Starred [stablemates/workhorse](https://github.com/stablemates/workhorse)
-  > A durable task queue for PostgreSQL, with TypeScript, Python, Go, Rust and Ruby workers on one SQL p...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [oscarsantanaarias/IDA-Ghidra-bridge](https://github.com/oscarsantanaarias/IDA-Ghidra-bridge)
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [natew/react-native-gpui](https://github.com/natew/react-native-gpui)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ericjang/autogo](https://github.com/ericjang/autogo)
-  > Autoresearch for Go
-
-### [notfoundry](https://github.com/notfoundry)
-- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [paper-instruments/feather-train](https://github.com/paper-instruments/feather-train)
-  > Feather agent harness, training integrations, and evaluation tools for knowledge work
-
-### [phauer](https://github.com/phauer)
-- 🌟 👤 [phauer](https://github.com/phauer) Starred [morluto/rea](https://github.com/morluto/rea)
-  > Reverse engineer anything with agents, from app behavior down to native binaries.
-
-### [smourier](https://github.com/smourier)
-- 🍴 👤 [smourier](https://github.com/smourier) Forked [OCamlPro/gnucobol](https://github.com/OCamlPro/gnucobol) to [aelyo-softworks/gnucobol](https://github.com/aelyo-softworks/gnucobol)
-  > A clone of the sourceforge GnuCOBOL compiler from COBOL to C.
-
-### [spotlightishere](https://github.com/spotlightishere)
-- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [kelindi/iphone-1-emulator](https://github.com/kelindi/iphone-1-emulator)
-- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [ardiri/dev-palmos](https://github.com/ardiri/dev-palmos)
-  > Historical Palm OS development resources, SDKs, documentation and utilities
-
-### [stepancheg](https://github.com/stepancheg)
-- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [pkulchenko/serpent](https://github.com/pkulchenko/serpent)
-  > Lua serializer and pretty printer.
-- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [kgaspard/jev-factorio](https://github.com/kgaspard/jev-factorio)
-  > Getting TypeSafe AI's Jev to play Factorio
-
-### [sysrex](https://github.com/sysrex)
-- 🌟 👤 [sysrex](https://github.com/sysrex) Starred [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder)
-  > Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, w...
-
-### [xhochy](https://github.com/xhochy)
-- 🌟 👤 [xhochy](https://github.com/xhochy) Starred [moritzwilksch/diffle](https://github.com/moritzwilksch/diffle)
-  > A keyboard-first diff viewer with LSP support and GitHub integration.
-
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
-  > A flexible distributed key-value database that is optimized for caching and other realtime workloads...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
-  > Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared...
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [rgodha24/walgithub](https://github.com/rgodha24/walgithub)
-  > walgit with a GitHub Enterprise Server facade — git over smart HTTP from an object-store bucket
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [alex0ptr/once](https://github.com/alex0ptr/once)
-  > Run a command once, reuse its output for a while.
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [goccy/tobari](https://github.com/goccy/tobari)
-  > Tobari is a scoped coverage measurement tool for Go
+### [willshiao](https://github.com/willshiao)
+- 🌟 👤 [willshiao](https://github.com/willshiao) Starred [i2cjak/Backplane](https://github.com/i2cjak/Backplane)
+  > Agentic hardware development with lawful, deterministic KiCad/STEP viewers, written in Bend
 
 
 <!-- nav -->
-[← 2026-10-14](archive/2026/10/14.md)
+[← 2026-10-15](archive/2026/10/15.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-15 23:21:45 UTC*
+*Last updated at 2026-10-16 01:54:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
