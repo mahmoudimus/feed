@@ -26,9 +26,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [idavehuwei](https://github.com/idavehuwei) Starred [yacuo/check-cc](https://github.com/yacuo/check-cc)
   > https://checkcc.org  是一个 Claude 运行环境检测与账号风险分析工具，面向正在注册 Claude 账号、订阅 Claude Pro、申请 Claude API、使用 Clau...
 
-### [jhalterman](https://github.com/jhalterman)
-- 🌟 👤 [jhalterman](https://github.com/jhalterman) Starred [tabascoz/hass-neakasa](https://github.com/tabascoz/hass-neakasa)
-  > Neakasa Integration for Home Assistant
+### [izuzak](https://github.com/izuzak)
+- 🌟 👤 [izuzak](https://github.com/izuzak) Starred [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)
+  > RSS reader for macOS and iOS.
+
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [LarzP123/terminal-3d-graphics](https://github.com/LarzP123/terminal-3d-graphics)
@@ -76,16 +79,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [willshiao](https://github.com/willshiao) Starred [i2cjak/Backplane](https://github.com/i2cjak/Backplane)
   > Agentic hardware development with lawful, deterministic KiCad/STEP viewers, written in Bend
 
-### [xyproto](https://github.com/xyproto)
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [CubeCoders/Jet](https://github.com/CubeCoders/Jet)
-  > A tiny, dependency-free, fixed-function 3D rasteriser written in modern C++17 for embedded devices (...
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [peterc/coopiano](https://github.com/peterc/coopiano)
-  > A physically modelled piano synthesizer in C++17 with offline WAV rendering and live MIDI on macOS.
-
 ### [zakkak](https://github.com/zakkak)
 - 🌟 👤 [zakkak](https://github.com/zakkak) Starred [mariofusco/langchain4j-pr-reviewer](https://github.com/mariofusco/langchain4j-pr-reviewer)
 - 🌟 👤 [zakkak](https://github.com/zakkak) Starred [devops-thiago/ThrillhouseBot](https://github.com/devops-thiago/ThrillhouseBot)
   > Your nerdy PR reviewer — a Quarkus GraalVM-native GitHub App that AI-reviews diffs, posts inline sug...
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [yaml/yamlstar](https://github.com/yaml/yamlstar)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [yamlstar/yamlstar-plugin-parser-reference](https://github.com/yamlstar/yamlstar-plugin-parser-reference)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [yaml/yamlstar-go](https://github.com/yaml/yamlstar-go)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [yaml/go-yaml-dom](https://github.com/yaml/go-yaml-dom)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [yaml/go-yaml-yq](https://github.com/yaml/go-yaml-yq)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [sclevine/yj](https://github.com/sclevine/yj)
+  > CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [yaml/yamlscript-lua](https://github.com/yaml/yamlscript-lua)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [yaml/yamlstar-lua](https://github.com/yaml/yamlstar-lua)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [yaml/yaml-reference-parser-clj](https://github.com/yaml/yaml-reference-parser-clj)
+- 🍴 👤 [zchee](https://github.com/zchee) Forked [zeebo/xxh3](https://github.com/zeebo/xxh3) to [zchee/xxh3](https://github.com/zchee/xxh3)
+  > XXH3 algorithm in Go
 
 
 <!-- nav -->
@@ -93,7 +104,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-16 19:10:17 UTC*
+*Last updated at 2026-10-16 22:16:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
