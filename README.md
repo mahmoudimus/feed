@@ -8,10 +8,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [CryZe](https://github.com/CryZe)
-- 🍴 👤 [CryZe](https://github.com/CryZe) Forked [rust-windowing/softbuffer](https://github.com/rust-windowing/softbuffer) to [CryZe/softbuffer](https://github.com/CryZe/softbuffer)
-  > Easily write an image to a window
-
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [trieb-work/nextjs-turbo-redis-cache](https://github.com/trieb-work/nextjs-turbo-redis-cache) to [Stanzilla/nextjs-turbo-redis-cache](https://github.com/Stanzilla/nextjs-turbo-redis-cache)
   > Designed for speed, scalability, and optimized performance, nextjs-turbo-redis-cache is your go-to s...
@@ -28,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [xtool-org/xtool](https://github.com/xtool-org/xtool)
   > Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 
+### [imrehg](https://github.com/imrehg)
+- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [vinta/awesome-python](https://github.com/vinta/awesome-python)
+  > The definitive list that answers "I want to do X in Python, which tool should I use?"
+
 ### [mahmoud](https://github.com/mahmoud)
 - 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [Fazel94/agent_500_lines](https://github.com/Fazel94/agent_500_lines)
   > A coding agent in ~300 lines of Python, and the harness that makes it usable
@@ -35,6 +35,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Garfield1002/open_sleigh](https://github.com/Garfield1002/open_sleigh)
   > Community-maintained SLEIGH processor specifications for Ghidra
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [akatz-labs/h3-character-swap-tool](https://github.com/akatz-labs/h3-character-swap-tool)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ibragim-bad/evals-from-sessions](https://github.com/ibragim-bad/evals-from-sessions)
+  > Turn your coding-agent sessions into private evals and find the cheapest setup that still solves you...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [amr8t/arkel](https://github.com/amr8t/arkel)
@@ -54,7 +57,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-17 13:18:57 UTC*
+*Last updated at 2026-10-17 16:42:38 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
