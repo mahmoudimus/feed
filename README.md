@@ -8,9 +8,27 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [cursor/plugins](https://github.com/cursor/plugins)
+  > Cursor plugin specification and official plugins
+
+### [crawshaw](https://github.com/crawshaw)
+- 🚀 👤 [crawshaw](https://github.com/crawshaw) Made [boldsoftware/exe-sdk-js](https://github.com/boldsoftware/exe-sdk-js) public
+  > exe.dev SDK
+
 ### [dbkegley](https://github.com/dbkegley)
 - 🌟 👤 [dbkegley](https://github.com/dbkegley) Starred [johnae/greed](https://github.com/johnae/greed)
   > A modal text editor with Helix, Vim and VS Code keys and Luau plugins
+
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [kitknox/rootshell](https://github.com/kitknox/rootshell)
+  > rootshell - The terminal, reimagined for Apple platforms
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [facebook/idb](https://github.com/facebook/idb)
+  > idb is a flexible command line interface for automating iOS simulators and devices
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP)
+  > A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS ...
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [joshuaswarren/omarchy-apple-dev](https://github.com/joshuaswarren/omarchy-apple-dev)
+  > Build and deploy iOS SwiftUI apps from Omarchy Linux on any PC (x86_64 or Apple Silicon), no Xcode r...
 
 ### [h2non](https://github.com/h2non)
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator)
@@ -42,6 +60,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [google-research/harness2](https://github.com/google-research/harness2)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Awakenchan/BloodBorneButPc](https://github.com/Awakenchan/BloodBorneButPc)
   > Bloodborne on Windows in one package: launcher and engine. Bring your own game dump.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vincalkr/Strata-DSV4.1](https://github.com/vincalkr/Strata-DSV4.1)
+  > DeepSeek-V4.1-Flash GSQ on a single RX 7900 XTX (gfx1100, ROCm/HIP): the v41 engine, the optimizatio...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [amr8t/arkel](https://github.com/amr8t/arkel)
@@ -72,10 +92,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [aschober/vinyl-cast](https://github.com/aschober/vinyl-cast)
   > Listen to vinyl records wirelessly throughout your home using an Android device.
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [ansoni/goquarium](https://github.com/ansoni/goquarium)
+  > Asciiquarium implementation in Go
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [janet-lang/janet](https://github.com/janet-lang/janet)
+  > A dynamic language and bytecode vm
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [Findus23/voice_pack_dreame](https://github.com/Findus23/voice_pack_dreame)
+  > A GLaDOS Voice Pack for Dreame Vaccum Robots generated using 15.ai
 
 ### [zakkak](https://github.com/zakkak)
 - 🌟 👤 [zakkak](https://github.com/zakkak) Starred [kitknox/rootshell](https://github.com/kitknox/rootshell)
   > rootshell - The terminal, reimagined for Apple platforms
+- 🌟 👤 [zakkak](https://github.com/zakkak) Starred [archagon/sensible-side-buttons](https://github.com/archagon/sensible-side-buttons)
+  > A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third...
 
 
 <!-- nav -->
@@ -83,7 +111,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-17 21:05:53 UTC*
+*Last updated at 2026-10-17 23:33:33 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
