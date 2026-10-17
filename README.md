@@ -38,18 +38,31 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [akatz-labs/h3-character-swap-tool](https://github.com/akatz-labs/h3-character-swap-tool)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ibragim-bad/evals-from-sessions](https://github.com/ibragim-bad/evals-from-sessions)
   > Turn your coding-agent sessions into private evals and find the cheapest setup that still solves you...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [2fxbu97lhv/spectrum-ida-theme](https://github.com/2fxbu97lhv/spectrum-ida-theme)
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [amr8t/arkel](https://github.com/amr8t/arkel)
   > Arkel is object storage pooled together by the community.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [enroute-sh/enroute](https://github.com/enroute-sh/enroute)
+  > Programmable git infrastructure on top of object storage. Think turbopuffer for git. Open source alt...
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [zio/zio](https://github.com/zio/zio) to [nmarasoiu/zio](https://github.com/nmarasoiu/zio)
   > ZIO — A type-safe, composable library for async and concurrent programming in Scala
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [uutils/coreutils](https://github.com/uutils/coreutils) to [nmarasoiu/coreutils](https://github.com/nmarasoiu/coreutils)
+  > Cross-platform Rust rewrite of the GNU coreutils
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [uutils/diffutils](https://github.com/uutils/diffutils) to [nmarasoiu/diffutils](https://github.com/nmarasoiu/diffutils)
+  > Drop-in replacement of diffutils in Rust
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [uutils/findutils](https://github.com/uutils/findutils) to [nmarasoiu/findutils](https://github.com/nmarasoiu/findutils)
+  > Rust implementation of findutils
 
 ### [tabjy](https://github.com/tabjy)
 - 🌟 👤 [tabjy](https://github.com/tabjy) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
 
 
 <!-- nav -->
@@ -57,7 +70,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-17 16:42:38 UTC*
+*Last updated at 2026-10-17 18:55:05 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
