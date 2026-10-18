@@ -12,6 +12,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [adamk33n3r](https://github.com/adamk33n3r) Forked [PrettyRS/prettyui](https://github.com/PrettyRS/prettyui) to [adamk33n3r/prettyui](https://github.com/adamk33n3r/prettyui)
   > Native-looking UI components for RuneScape API plugins
 
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+  > A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [lutris/lutris](https://github.com/lutris/lutris)
+  > Lutris desktop client
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles)
+  > Run Windows software and games on Linux
+
 ### [cmc](https://github.com/cmc)
 - 🌟 👤 [cmc](https://github.com/cmc) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -25,6 +33,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [emilk/egui](https://github.com/emilk/egui)
   > egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [emilk/egui_plot](https://github.com/emilk/egui_plot)
+  > 2D plotting library in Rust for egui
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [kamalx06/TornadoC2](https://github.com/kamalx06/TornadoC2) to [fengjixuchui/TornadoC2](https://github.com/fengjixuchui/TornadoC2)
@@ -75,17 +85,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [pgsty/silo](https://github.com/pgsty/silo)
   > S3-Compatible Object Storage. A MinIO fork maintained by PGSTY
 
-### [xyproto](https://github.com/xyproto)
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)
-  > Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no...
-
 
 <!-- nav -->
 [← 2026-10-17](archive/2026/10/17.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-18 17:45:25 UTC*
+*Last updated at 2026-10-18 19:45:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
