@@ -8,10 +8,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [Xe](https://github.com/Xe)
-- 🌟 👤 [Xe](https://github.com/Xe) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-  > ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-
 ### [adamk33n3r](https://github.com/adamk33n3r)
 - 🍴 👤 [adamk33n3r](https://github.com/adamk33n3r) Forked [PrettyRS/prettyui](https://github.com/PrettyRS/prettyui) to [adamk33n3r/prettyui](https://github.com/adamk33n3r/prettyui)
   > Native-looking UI components for RuneScape API plugins
@@ -23,6 +19,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen)
   > A Swift command line tool for generating your Xcode project
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [TanStack/query](https://github.com/TanStack/query)
+  > 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/J...
 
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [emilk/egui](https://github.com/emilk/egui)
@@ -32,10 +30,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [kamalx06/TornadoC2](https://github.com/kamalx06/TornadoC2) to [fengjixuchui/TornadoC2](https://github.com/fengjixuchui/TornadoC2)
   > Pull-based C2 framework with ten native transports, concurrent multi-profile handlers, and end-to-en...
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [racoten/ReflectivePluginLoader](https://github.com/racoten/ReflectivePluginLoader) to [fengjixuchui/ReflectivePluginLoader](https://github.com/fengjixuchui/ReflectivePluginLoader)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) to [fengjixuchui/skitter-creek-bath-salts](https://github.com/fengjixuchui/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [swiftvm-app/swiftvm](https://github.com/swiftvm-app/swiftvm)
+  > Native macOS app for running virtual machines
 
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [Textualize/textual](https://github.com/Textualize/textual)
   > The lean application framework for Python.  Build sophisticated user interfaces with a simple Python...
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk)
+  > Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for...
 
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [max-ayn/markdown-resume](https://github.com/max-ayn/markdown-resume)
@@ -52,10 +60,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [pola-rs/polars](https://github.com/pola-rs/polars) to [nmarasoiu/polars](https://github.com/nmarasoiu/polars)
   > Extremely fast Query Engine for DataFrames, written in Rust
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ekmett/thc](https://github.com/ekmett/thc) to [nmarasoiu/thc](https://github.com/nmarasoiu/thc)
+  > The Turbo Haskell Compiler
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [okay-effects/okay-java](https://github.com/okay-effects/okay-java) to [nmarasoiu/okay-java](https://github.com/nmarasoiu/okay-java)
+  > Algebraic effects in Java 25 on shift0: okay-core's design in Java, multi-shot k as data, capabiliti...
+- 🌟 👤 [nmarasoiu](https://github.com/nmarasoiu) Starred [okay-effects/okay-java](https://github.com/okay-effects/okay-java)
+  > Algebraic effects in Java 25 on shift0: okay-core's design in Java, multi-shot k as data, capabiliti...
 
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen)
   > Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 in...
+
+### [trieu](https://github.com/trieu)
+- 🌟 👤 [trieu](https://github.com/trieu) Starred [pgsty/silo](https://github.com/pgsty/silo)
+  > S3-Compatible Object Storage. A MinIO fork maintained by PGSTY
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)
+  > Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no...
 
 
 <!-- nav -->
@@ -63,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-18 14:58:10 UTC*
+*Last updated at 2026-10-18 17:45:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
