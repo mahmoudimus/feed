@@ -81,6 +81,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen)
   > Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 in...
 
+### [stepancheg](https://github.com/stepancheg)
+- 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) to [stepancheg/rustix](https://github.com/stepancheg/rustix)
+  > Safe Rust bindings to POSIX-ish APIs
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [389ds/389-ds-base](https://github.com/389ds/389-ds-base)
+  > The enterprise-class Open Source LDAP server for Linux
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [eclipse-ee4j/epicyro](https://github.com/eclipse-ee4j/epicyro)
+  > Epicyro, a Jakarta Authentication implementation
+
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [pgsty/silo](https://github.com/pgsty/silo)
   > S3-Compatible Object Storage. A MinIO fork maintained by PGSTY
@@ -91,7 +101,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-18 19:45:45 UTC*
+*Last updated at 2026-10-18 21:58:45 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
