@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [trieb-work/nextjs-turbo-redis-cache](https://github.com/trieb-work/nextjs-turbo-redis-cache)
+  > Designed for speed, scalability, and optimized performance, nextjs-turbo-redis-cache is your go-to s...
+
 ### [adamk33n3r](https://github.com/adamk33n3r)
 - 🍴 👤 [adamk33n3r](https://github.com/adamk33n3r) Forked [PrettyRS/prettyui](https://github.com/PrettyRS/prettyui) to [adamk33n3r/prettyui](https://github.com/adamk33n3r/prettyui)
   > Native-looking UI components for RuneScape API plugins
@@ -95,13 +99,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [pgsty/silo](https://github.com/pgsty/silo)
   > S3-Compatible Object Storage. A MinIO fork maintained by PGSTY
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [tvollstaedt/exodium](https://github.com/tvollstaedt/exodium)
+  > Cross-platform retro game launcher based on eXoDOS
+
 
 <!-- nav -->
 [← 2026-10-17](archive/2026/10/17.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-18 21:58:45 UTC*
+*Last updated at 2026-10-18 23:54:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
