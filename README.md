@@ -8,6 +8,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BaseMax](https://github.com/BaseMax)
+- 🚀 👤 [BaseMax](https://github.com/BaseMax) Made [BaseMax/todolist-salam](https://github.com/BaseMax/todolist-salam) public
+  > A JSON task list over HTTP, written in Salam. Create, filter, sort, page, complete and delete todos,...
+
+### [ThomasVitale](https://github.com/ThomasVitale)
+- 🍴 👤 [ThomasVitale](https://github.com/ThomasVitale) Forked [awspring/spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) to [ThomasVitale/spring-cloud-aws](https://github.com/ThomasVitale/spring-cloud-aws)
+  > The New Home for Spring Cloud AWS
+- 🍴 👤 [ThomasVitale](https://github.com/ThomasVitale) Forked [spring-ai-community/spring-ai-typesafe](https://github.com/spring-ai-community/spring-ai-typesafe) to [ThomasVitale/spring-ai-typesafe](https://github.com/ThomasVitale/spring-ai-typesafe)
+  > A Java SDK for the TypeSafe AI JEV API, & Spring AI TypeSafe integrations.
+
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [tchx84/Flatseal](https://github.com/tchx84/Flatseal)
   > Manage Flatpak permissions
@@ -25,6 +35,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
   > A command-line tool and Xcode Extension for formatting Swift code
 
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+  > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
+  > An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- 🚀 👤 [fcakyon](https://github.com/fcakyon) Made [fcakyon/browser-network-cli](https://github.com/fcakyon/browser-network-cli) public
+  > Record and inspect network requests from websites and Chrome extensions, then replay them from your ...
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
+  > Chrome Debugging Protocol interface for Node.js
+
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [colinvkim/Radix](https://github.com/colinvkim/Radix)
   > Modern, extremely fast macOS disk space analyzer.
@@ -33,21 +53,51 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [leopard627/fire-your-seo-agency](https://github.com/leopard627/fire-your-seo-agency)
   > Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver)...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/dylint](https://github.com/trailofbits/dylint)
-  > Run Rust lints from dynamic libraries
+### [nathanfaucett](https://github.com/nathanfaucett)
+- 🌟 👤 [nathanfaucett](https://github.com/nathanfaucett) Starred [pubky/pkarr](https://github.com/pubky/pkarr)
+  > Public Key Addressable Resource Records (sovereign TLDs)
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [axiomhq/mpl](https://github.com/axiomhq/mpl)
+  > Axiom Metric Processing Language
+
+### [nmarasoiu](https://github.com/nmarasoiu)
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [pingcap/tidb](https://github.com/pingcap/tidb) to [nmarasoiu/tidb](https://github.com/nmarasoiu/tidb)
+  > TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support...
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [supabase/supabase](https://github.com/supabase/supabase) to [nmarasoiu/supabase](https://github.com/nmarasoiu/supabase)
+  > The Postgres development platform. Supabase gives you a dedicated Postgres database to build your we...
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [paradedb/paradedb](https://github.com/paradedb/paradedb) to [nmarasoiu/paradedb](https://github.com/nmarasoiu/paradedb)
+  > One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home o...
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) to [nmarasoiu/tantivy](https://github.com/nmarasoiu/tantivy)
+  > Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+
+### [progrium](https://github.com/progrium)
+- 🌟 👤 [progrium](https://github.com/progrium) Starred [bradfitz/gopglite](https://github.com/bradfitz/gopglite)
+  > ALPHA ALPHA AI EXPERIMENT -- Go bindings for pglite (Postgres wasm)
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [CopilotKit/aimock](https://github.com/CopilotKit/aimock)
   > Mock everything your AI app talks to — LLM APIs, MCP, A2A, AG-UI, vector DBs, search. One package, o...
 
-### [samuelcolvin](https://github.com/samuelcolvin)
-- 🌟 👤 [samuelcolvin](https://github.com/samuelcolvin) Starred [oxc-project/tsrs](https://github.com/oxc-project/tsrs)
-  > Rust port of the TypeScript 7 type checker
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [worldwidedx/QK4-Mobile](https://github.com/worldwidedx/QK4-Mobile)
+  > Android mobile client for Elecraft K4 transceivers, maintained as an official fork of QK4.
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [NethIafin/wine](https://github.com/NethIafin/wine)
+  > Wine for OpenBSD
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [Basics-V/FPM](https://github.com/Basics-V/FPM)
   > Fixed Program Module, a Pokémon Black/White 1 code injection build system template
+
+### [svc64](https://github.com/svc64)
+- 🍴 👤 [svc64](https://github.com/svc64) Forked [qwersyk/Newelle](https://github.com/qwersyk/Newelle) to [svc64/Newelle](https://github.com/svc64/Newelle)
+  > Newelle - Your Ultimate Virtual Assistant
+
+### [tintinweb](https://github.com/tintinweb)
+- 🌟 👤 [tintinweb](https://github.com/tintinweb) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+  > The job search that runs on your machine. AI job application framework built on Claude Code: evaluat...
 
 ### [trieu](https://github.com/trieu)
 - 🌟 👤 [trieu](https://github.com/trieu) Starred [dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana)
@@ -57,13 +107,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [MaryCache/imozuru](https://github.com/MaryCache/imozuru)
   > 知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル
 
+### [willshiao](https://github.com/willshiao)
+- 🌟 👤 [willshiao](https://github.com/willshiao) Starred [DingoOz/TraceMaker](https://github.com/DingoOz/TraceMaker)
+
 
 <!-- nav -->
 [← 2026-10-18](archive/2026/10/18.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-19 15:56:20 UTC*
+*Last updated at 2026-10-19 20:47:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
