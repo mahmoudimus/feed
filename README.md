@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)
+  > Trigger.dev – build and deploy durable AI agents and workflows
+
 ### [HarukaMa](https://github.com/HarukaMa)
 - 🍴 👤 [HarukaMa](https://github.com/HarukaMa) Forked [86Box/86Box](https://github.com/86Box/86Box) to [HarukaMa/86Box](https://github.com/HarukaMa/86Box)
   > Emulator of x86-based machines.
@@ -28,6 +32,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [XZ-X](https://github.com/XZ-X)
 - 🌟 👤 [XZ-X](https://github.com/XZ-X) Starred [uclanlp/OpenVLHarness](https://github.com/uclanlp/OpenVLHarness)
   > Official Code for OpenVLHarness: Real-World Visual Agentic Tool‑Use with Multimodal Memory
+- 🌟 👤 [XZ-X](https://github.com/XZ-X) Starred [ZLKong/Awesome-Collection-Token-Reduction](https://github.com/ZLKong/Awesome-Collection-Token-Reduction)
+  > A collection of token reduction (token pruning, merging, clustering, etc.) techniques for ML/AI
 
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
@@ -53,10 +59,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono)
   > A compact monospace neo-grotesque font designed for developers (and adventurers).
-
-### [emcfarlane](https://github.com/emcfarlane)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
-  > A free, open source, and extensible speech-to-text application that works completely offline.
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [grisuno/CVE-2022-22077](https://github.com/grisuno/CVE-2022-22077) to [fengjixuchui/CVE-2022-22077](https://github.com/fengjixuchui/CVE-2022-22077)
@@ -108,6 +110,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [matthewfl](https://github.com/matthewfl)
 - 🌟 👤 [matthewfl](https://github.com/matthewfl) Starred [trip-zip/somewm](https://github.com/trip-zip/somewm)
   > Not quite awesome...just some.
+- 🌟 👤 [matthewfl](https://github.com/matthewfl) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+  > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
 ### [mhils](https://github.com/mhils)
 - 🌟 👤 [mhils](https://github.com/mhils) Starred [fandango-fuzzer/fanbase](https://github.com/fandango-fuzzer/fanbase)
@@ -140,6 +144,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) to [nmarasoiu/OpenShell](https://github.com/nmarasoiu/OpenShell)
   > OpenShell is the safe, private runtime for autonomous AI agents.
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [torvalds/linux](https://github.com/torvalds/linux) to [nmarasoiu/linux](https://github.com/nmarasoiu/linux)
+  > Linux kernel source tree
 
 ### [phonowell](https://github.com/phonowell)
 - 🌟 👤 [phonowell](https://github.com/phonowell) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
@@ -168,10 +174,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [kobebeefg/ikea-clock-lab](https://github.com/kobebeefg/ikea-clock-lab)
   > Bilingual IKEA KORTLINJE LED panel hack and Wi-Fi clock tutorial
 
-### [simonw](https://github.com/simonw)
-- 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/llm-public-ai](https://github.com/simonw/llm-public-ai) public
-  > LLM models from publicai.co
-
 ### [uakarsh](https://github.com/uakarsh)
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
   > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
@@ -179,6 +181,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [42wim/matterbridge](https://github.com/42wim/matterbridge)
   > bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat...
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [xyproto/aquarium](https://github.com/xyproto/aquarium)
+  > Port of asciiquartium from Perl to Go with added support for Kitty
 
 ### [zchee](https://github.com/zchee)
 - 🌟 👤 [zchee](https://github.com/zchee) Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
@@ -190,7 +194,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-20 18:16:31 UTC*
+*Last updated at 2026-10-20 21:58:03 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
