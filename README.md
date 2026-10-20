@@ -8,6 +8,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [HarukaMa](https://github.com/HarukaMa)
+- 🍴 👤 [HarukaMa](https://github.com/HarukaMa) Forked [86Box/86Box](https://github.com/86Box/86Box) to [HarukaMa/86Box](https://github.com/HarukaMa/86Box)
+  > Emulator of x86-based machines.
+
+### [JakeWharton](https://github.com/JakeWharton)
+- 🍴 👤 [JakeWharton](https://github.com/JakeWharton) Forked [CircleCI-Public/cimg-android](https://github.com/CircleCI-Public/cimg-android) to [JakeWharton/cimg-android](https://github.com/JakeWharton/cimg-android)
+  > The CircleCI Android Docker Convenience Image.
+
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [Lakr233/ApplePackage](https://github.com/Lakr233/ApplePackage)
+  > ipatool rewrite in library and cli using Swift
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+  > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
 ### [NinjaLikesCheez](https://github.com/NinjaLikesCheez)
 - 🌟 👤 [NinjaLikesCheez](https://github.com/NinjaLikesCheez) Starred [pixelbar/spacestate](https://github.com/pixelbar/spacestate)
 
@@ -19,10 +33,27 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
   > Mac.apk: Run Android apps natively on Apple Silicon Macs
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+  > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
+### [bduisenov](https://github.com/bduisenov)
+- 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [maximpri/mlxtop](https://github.com/maximpri/mlxtop)
+  > A top for local LLMs: memory, paging, GPU and tokens/s for oMLX, Ollama, llama.cpp, vLLM and more
+
+### [boyney123](https://github.com/boyney123)
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [wevm/ondine](https://github.com/wevm/ondine)
+  > Fast and simple diagrams.
 
 ### [crawshaw](https://github.com/crawshaw)
 - 🌟 👤 [crawshaw](https://github.com/crawshaw) Starred [boldsoftware/exe-sdk-js](https://github.com/boldsoftware/exe-sdk-js)
   > exe.dev SDK
+
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono)
+  > A compact monospace neo-grotesque font designed for developers (and adventurers).
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [Breezyslasher/Kodi-Addons](https://github.com/Breezyslasher/Kodi-Addons)
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [grisuno/CVE-2022-22077](https://github.com/grisuno/CVE-2022-22077) to [fengjixuchui/CVE-2022-22077](https://github.com/fengjixuchui/CVE-2022-22077)
@@ -45,6 +76,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > GenDigital Avast Antivirus ZeroDay Elevation of Privileges Vulnerability
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) to [fengjixuchui/FalconFlank1](https://github.com/fengjixuchui/FalconFlank1)
   > Crowdstrike Falcon 0day Privilege Escalation Vulnerability
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [MMariasik/BYOVD_GIOSYS](https://github.com/MMariasik/BYOVD_GIOSYS) to [fengjixuchui/BYOVD_GIOSYS](https://github.com/fengjixuchui/BYOVD_GIOSYS)
+  > Program utilizing vulnerable driver Gio.sys to elevate privileges into NT Authority/System
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [sudfiona/NovaProtect](https://github.com/sudfiona/NovaProtect) to [fengjixuchui/NovaProtect](https://github.com/fengjixuchui/NovaProtect)
+  > 一个开源的加壳软件,致力于让每一个资金短缺的开发者享受到付费的保护体验,软件官网:nova.fbi.plus
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [gokayfem/shader-skills](https://github.com/gokayfem/shader-skills)
@@ -57,27 +92,46 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [matthewfl](https://github.com/matthewfl) Starred [trip-zip/somewm](https://github.com/trip-zip/somewm)
   > Not quite awesome...just some.
 
-### [mattn](https://github.com/mattn)
-- 🍴 👤 [mattn](https://github.com/mattn) Forked [hoytech/strfry](https://github.com/hoytech/strfry) to [mattn/strfry](https://github.com/mattn/strfry)
-  > a nostr relay
+### [mhils](https://github.com/mhils)
+- 🌟 👤 [mhils](https://github.com/mhils) Starred [fandango-fuzzer/fanbase](https://github.com/fandango-fuzzer/fanbase)
+  > A collection of Fandango input specifications (grammars) for many file formats.
 
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac) to [mrexodia/unluac](https://github.com/mrexodia/unluac)
+  > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac)
+  > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [intel/SDM](https://github.com/intel/SDM)
+  > Website for viewing the executable IA specification (external view). This combines data from the SDM...
+
+### [nmarasoiu](https://github.com/nmarasoiu)
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) to [nmarasoiu/OpenShell](https://github.com/nmarasoiu/OpenShell)
+  > OpenShell is the safe, private runtime for autonomous AI agents.
+
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [intel/SDM](https://github.com/intel/SDM)
+  > Website for viewing the executable IA specification (external view). This combines data from the SDM...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [trailofbits/dylint](https://github.com/trailofbits/dylint)
+  > Run Rust lints from dynamic libraries
 
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [kobebeefg/ikea-clock-lab](https://github.com/kobebeefg/ikea-clock-lab)
   > Bilingual IKEA KORTLINJE LED panel hack and Wi-Fi clock tutorial
 
-### [trieu](https://github.com/trieu)
-- 🌟 👤 [trieu](https://github.com/trieu) Starred [axllent/mailpit](https://github.com/axllent/mailpit)
-  > An email and SMTP testing tool with API for developers
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono)
+  > A compact monospace neo-grotesque font designed for developers (and adventurers).
 
-### [wincent](https://github.com/wincent)
-- 🌟 👤 [wincent](https://github.com/wincent) Starred [morluto/rea](https://github.com/morluto/rea)
-  > Reverse engineer anything with agents, from app behavior down to native binaries.
+### [uakarsh](https://github.com/uakarsh)
+- 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+  > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [42wim/matterbridge](https://github.com/42wim/matterbridge)
+  > bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat...
 
 
 <!-- nav -->
@@ -85,7 +139,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-20 08:56:19 UTC*
+*Last updated at 2026-10-20 13:58:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
