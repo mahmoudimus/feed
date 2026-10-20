@@ -12,9 +12,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [HarukaMa](https://github.com/HarukaMa) Forked [86Box/86Box](https://github.com/86Box/86Box) to [HarukaMa/86Box](https://github.com/HarukaMa/86Box)
   > Emulator of x86-based machines.
 
-### [JakeWharton](https://github.com/JakeWharton)
-- 🍴 👤 [JakeWharton](https://github.com/JakeWharton) Forked [CircleCI-Public/cimg-android](https://github.com/CircleCI-Public/cimg-android) to [JakeWharton/cimg-android](https://github.com/JakeWharton/cimg-android)
-  > The CircleCI Android Docker Convenience Image.
+### [MrChromebox](https://github.com/MrChromebox)
+- 🌟 👤 [MrChromebox](https://github.com/MrChromebox) Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+  > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [Lakr233/ApplePackage](https://github.com/Lakr233/ApplePackage)
@@ -35,25 +35,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
   > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
+  > Cross-Platform Micro-VM Sandbox for Agentic Workloads
 
 ### [bduisenov](https://github.com/bduisenov)
 - 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [maximpri/mlxtop](https://github.com/maximpri/mlxtop)
   > A top for local LLMs: memory, paging, GPU and tokens/s for oMLX, Ollama, llama.cpp, vLLM and more
 
-### [boyney123](https://github.com/boyney123)
-- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [wevm/ondine](https://github.com/wevm/ondine)
-  > Fast and simple diagrams.
-
 ### [crawshaw](https://github.com/crawshaw)
 - 🌟 👤 [crawshaw](https://github.com/crawshaw) Starred [boldsoftware/exe-sdk-js](https://github.com/boldsoftware/exe-sdk-js)
   > exe.dev SDK
+
+### [davidfrickert](https://github.com/davidfrickert)
+- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+  > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono)
   > A compact monospace neo-grotesque font designed for developers (and adventurers).
 
-### [fcakyon](https://github.com/fcakyon)
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [Breezyslasher/Kodi-Addons](https://github.com/Breezyslasher/Kodi-Addons)
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
+  > A free, open source, and extensible speech-to-text application that works completely offline.
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [grisuno/CVE-2022-22077](https://github.com/grisuno/CVE-2022-22077) to [fengjixuchui/CVE-2022-22077](https://github.com/fengjixuchui/CVE-2022-22077)
@@ -81,6 +84,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [sudfiona/NovaProtect](https://github.com/sudfiona/NovaProtect) to [fengjixuchui/NovaProtect](https://github.com/fengjixuchui/NovaProtect)
   > 一个开源的加壳软件,致力于让每一个资金短缺的开发者享受到付费的保护体验,软件官网:nova.fbi.plus
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [intel/SDM](https://github.com/intel/SDM)
+  > Website for viewing the executable IA specification (external view). This combines data from the SDM...
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)
+  > Bash for Agents
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [vercel-labs/wterm](https://github.com/vercel-labs/wterm)
+  > A terminal emulator for the web
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+  > The job search that runs on your machine. AI job application framework built on Claude Code: evaluat...
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [crutchcorn/hearthspace](https://github.com/crutchcorn/hearthspace)
+  > A spatial Linux desktop for persistent, local-first computing.
+
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [gokayfem/shader-skills](https://github.com/gokayfem/shader-skills)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [winfred5432/creek-shader-remake](https://github.com/winfred5432/creek-shader-remake)
@@ -98,6 +115,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+- 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [google-research/harness2](https://github.com/google-research/harness2)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac) to [mrexodia/unluac](https://github.com/mrexodia/unluac)
@@ -106,10 +124,36 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [intel/SDM](https://github.com/intel/SDM)
   > Website for viewing the executable IA specification (external view). This combines data from the SDM...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plotarmordev/drama-tensorfold](https://github.com/plotarmordev/drama-tensorfold)
+  > Fish Audio Drama 3 text-to-speech on the TensorFold native CUDA engine for DGX Spark (GB10): recipe,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks)
+  > DeepSeek-V4.1-Flash-1017 EXL3 on 2x DGX Sparks with TensorFold
+
+### [myusuf3](https://github.com/myusuf3)
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse)
+  > For rooted LG webOS TVs: a live dashboard, privacy control, debloating (Hide system apps & uninstall...
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+  > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) to [nmarasoiu/OpenShell](https://github.com/nmarasoiu/OpenShell)
   > OpenShell is the safe, private runtime for autonomous AI agents.
+
+### [phonowell](https://github.com/phonowell)
+- 🌟 👤 [phonowell](https://github.com/phonowell) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
+  > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
+- 🌟 👤 [phonowell](https://github.com/phonowell) Starred [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames)
+- 🌟 👤 [phonowell](https://github.com/phonowell) Starred [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI)
+  > Reduce the space taken up by games and programs on disk by using native Windows APIs
+- 🌟 👤 [phonowell](https://github.com/phonowell) Starred [RinoPaw/Genshin-Reverse](https://github.com/RinoPaw/Genshin-Reverse)
+- 🌟 👤 [phonowell](https://github.com/phonowell) Starred [dsasmblr/game-hacking](https://github.com/dsasmblr/game-hacking)
+  > Tutorials, tools, and more as related to reverse engineering video games.
+- 🌟 👤 [phonowell](https://github.com/phonowell) Starred [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games)
+  > Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static rec...
+- 🌟 👤 [phonowell](https://github.com/phonowell) Starred [alexgaoth/awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered)
+  > Don't reverse engineer it twice. 12,000+ open-source tools built by reverse engineering closed apps,...
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [intel/SDM](https://github.com/intel/SDM)
@@ -117,13 +161,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [trailofbits/dylint](https://github.com/trailofbits/dylint)
   > Run Rust lints from dynamic libraries
 
+### [ret2libc](https://github.com/ret2libc)
+- 🌟 👤 [ret2libc](https://github.com/ret2libc) Starred [google-research/harness2](https://github.com/google-research/harness2)
+
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [kobebeefg/ikea-clock-lab](https://github.com/kobebeefg/ikea-clock-lab)
   > Bilingual IKEA KORTLINJE LED panel hack and Wi-Fi clock tutorial
 
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [tywr/Nordwand-Mono](https://github.com/tywr/Nordwand-Mono)
-  > A compact monospace neo-grotesque font designed for developers (and adventurers).
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/llm-public-ai](https://github.com/simonw/llm-public-ai) public
+  > LLM models from publicai.co
 
 ### [uakarsh](https://github.com/uakarsh)
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
@@ -133,13 +180,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [42wim/matterbridge](https://github.com/42wim/matterbridge)
   > bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat...
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+  > Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agent...
+
 
 <!-- nav -->
 [← 2026-10-19](archive/2026/10/19.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-20 13:58:09 UTC*
+*Last updated at 2026-10-20 18:16:31 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
