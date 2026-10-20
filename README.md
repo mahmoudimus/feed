@@ -8,6 +8,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [NinjaLikesCheez](https://github.com/NinjaLikesCheez)
+- 🌟 👤 [NinjaLikesCheez](https://github.com/NinjaLikesCheez) Starred [pixelbar/spacestate](https://github.com/pixelbar/spacestate)
+
+### [XZ-X](https://github.com/XZ-X)
+- 🌟 👤 [XZ-X](https://github.com/XZ-X) Starred [uclanlp/OpenVLHarness](https://github.com/uclanlp/OpenVLHarness)
+  > Official Code for OpenVLHarness: Real-World Visual Agentic Tool‑Use with Multimodal Memory
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
   > Mac.apk: Run Android apps natively on Apple Silicon Macs
@@ -54,9 +61,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [mattn](https://github.com/mattn) Forked [hoytech/strfry](https://github.com/hoytech/strfry) to [mattn/strfry](https://github.com/mattn/strfry)
   > a nostr relay
 
+### [mingrammer](https://github.com/mingrammer)
+- 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
 ### [sbycrosz](https://github.com/sbycrosz)
 - 🌟 👤 [sbycrosz](https://github.com/sbycrosz) Starred [kobebeefg/ikea-clock-lab](https://github.com/kobebeefg/ikea-clock-lab)
   > Bilingual IKEA KORTLINJE LED panel hack and Wi-Fi clock tutorial
+
+### [trieu](https://github.com/trieu)
+- 🌟 👤 [trieu](https://github.com/trieu) Starred [axllent/mailpit](https://github.com/axllent/mailpit)
+  > An email and SMTP testing tool with API for developers
+
+### [wincent](https://github.com/wincent)
+- 🌟 👤 [wincent](https://github.com/wincent) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner)
 
 
 <!-- nav -->
@@ -64,7 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-20 03:41:28 UTC*
+*Last updated at 2026-10-20 08:56:19 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
