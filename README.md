@@ -38,14 +38,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [inmcm](https://github.com/inmcm) Starred [pavona/pavona](https://github.com/pavona/pavona)
   > A library of modular, tapeout-proven, and secure-by-default open silicon blocks
 
-### [ioncodes](https://github.com/ioncodes)
-- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) to [ioncodes/gpui-ce](https://github.com/ioncodes/gpui-ce)
-  > GPUI – Community Edition
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
-  > Cross-Platform Micro-VM Sandbox for Agentic Workloads
-
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
   > A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging an...
@@ -60,14 +52,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [Danovich/turntype](https://github.com/Danovich/turntype)
   > A typing test for the time while Claude works. A Claude Code mod.
 
+### [sintaxi](https://github.com/sintaxi)
+- 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [vladocar/Sumi.css](https://github.com/vladocar/Sumi.css)
+  > A minimalist, classless-first CSS framework.
+- 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [knadh/oat](https://github.com/knadh/oat)
+  > Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz.
+
 ### [tabjy](https://github.com/tabjy)
 - 🚀 👤 [tabjy](https://github.com/tabjy) Made [tabjy/jellyfin-listenbrainz-weekly-jams-plugin](https://github.com/tabjy/jellyfin-listenbrainz-weekly-jams-plugin) public
   > A Jellyfin plugin that keeps a rolling Jellyfin playlist in sync with the Weekly Jams playlist Liste...
-
-### [thomasdarimont](https://github.com/thomasdarimont)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen)
-  > A framework for distributed systems verification, with fault injection
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [M0-AR/keycloak-mcp-server](https://github.com/M0-AR/keycloak-mcp-server)
 
 ### [tiran](https://github.com/tiran)
 - 🍴 👤 [tiran](https://github.com/tiran) Forked [galadran/we-have-a-problem.com](https://github.com/galadran/we-have-a-problem.com) to [tiran/we-have-a-problem.com](https://github.com/tiran/we-have-a-problem.com)
@@ -85,17 +78,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [wl4g](https://github.com/wl4g) Forked [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) to [wl4g-ai/Qwen3-TTS](https://github.com/wl4g-ai/Qwen3-TTS)
   > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, suppor...
 
-### [xyproto](https://github.com/xyproto)
-- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [luizbills/font4x6](https://github.com/luizbills/font4x6)
-  > 4x6 tiny monochrome bitmap font for rendering 
-
 
 <!-- nav -->
 [← 2026-10-20](archive/2026/10/20.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-21 19:43:25 UTC*
+*Last updated at 2026-10-21 22:50:47 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
