@@ -20,10 +20,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [OmkarK97/webos-vibehack](https://github.com/OmkarK97/webos-vibehack)
   > Apple TV-style home screen for LG webOS TVs, a port of tv-vibehack
 
-### [boyney123](https://github.com/boyney123)
-- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps)
-  > Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by...
-
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
   > Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design ...
@@ -31,6 +27,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
   > httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryab...
+
+### [ioncodes](https://github.com/ioncodes)
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) to [ioncodes/gpui-ce](https://github.com/ioncodes/gpui-ce)
+  > GPUI – Community Edition
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
@@ -60,6 +60,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
   > Cross-Platform Micro-VM Sandbox for Agentic Workloads
 
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)
+  > A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging an...
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+  > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
+### [nmarasoiu](https://github.com/nmarasoiu)
+- 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph) to [nmarasoiu/omnigraph](https://github.com/nmarasoiu/omnigraph)
+  > Object-storage native graph database with branching and typed ontology
+
+### [notfoundry](https://github.com/notfoundry)
+- 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [Danovich/turntype](https://github.com/Danovich/turntype)
+  > A typing test for the time while Claude works. A Claude Code mod.
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [menufactory43/panache](https://github.com/menufactory43/panache)
+  > Panache — RTS Belle Époque pour mobile (adaptation française de Battle Drones)
+
 ### [tabjy](https://github.com/tabjy)
 - 🚀 👤 [tabjy](https://github.com/tabjy) Made [tabjy/jellyfin-listenbrainz-weekly-jams-plugin](https://github.com/tabjy/jellyfin-listenbrainz-weekly-jams-plugin) public
   > A Jellyfin plugin that keeps a rolling Jellyfin playlist in sync with the Weekly Jams playlist Liste...
@@ -67,10 +85,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen)
   > A framework for distributed systems verification, with fault injection
-
-### [tommyettinger](https://github.com/tommyettinger)
-- 🌟 👤 [tommyettinger](https://github.com/tommyettinger) Starred [manifold-systems/manifold](https://github.com/manifold-systems/manifold)
-  > Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Meth...
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [M0-AR/keycloak-mcp-server](https://github.com/M0-AR/keycloak-mcp-server)
 
 ### [uakarsh](https://github.com/uakarsh)
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [google-research/harness2](https://github.com/google-research/harness2)
@@ -79,9 +94,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [webcoyote](https://github.com/webcoyote) Starred [v3ai/inca](https://github.com/v3ai/inca)
   > modeling program
 
-### [xhochy](https://github.com/xhochy)
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/go-compiler-feedstock](https://github.com/conda-forge/go-compiler-feedstock) to [xhochy/go-compiler-feedstock](https://github.com/xhochy/go-compiler-feedstock)
-  > A conda-smithy repository for go-compiler.
+### [wl4g](https://github.com/wl4g)
+- 🌟 👤 [wl4g](https://github.com/wl4g) Starred [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
+  > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, suppor...
+- 🍴 👤 [wl4g](https://github.com/wl4g) Forked [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) to [wl4g-ai/Qwen3-TTS](https://github.com/wl4g-ai/Qwen3-TTS)
+  > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, suppor...
 
 
 <!-- nav -->
@@ -89,7 +106,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-21 10:42:58 UTC*
+*Last updated at 2026-10-21 15:41:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
