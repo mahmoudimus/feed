@@ -8,6 +8,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)
+  > A Tiny biped duck robot 🦆
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [pollen-robotics/AmazingHand](https://github.com/pollen-robotics/AmazingHand)
+  > Code and model to control the AH!
+
 ### [Midi12](https://github.com/Midi12)
 - 🌟 👤 [Midi12](https://github.com/Midi12) Starred [mistralai/timestral](https://github.com/mistralai/timestral)
   > Repository for Timestral, the time-series foundation model by Mistral AI
@@ -28,33 +34,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
   > httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryab...
 
+### [inmcm](https://github.com/inmcm)
+- 🌟 👤 [inmcm](https://github.com/inmcm) Starred [pavona/pavona](https://github.com/pavona/pavona)
+  > A library of modular, tapeout-proven, and secure-by-default open silicon blocks
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) to [ioncodes/gpui-ce](https://github.com/ioncodes/gpui-ce)
   > GPUI – Community Edition
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
-  > CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [dinosn/php-8.5.5-var_destroy-uaf](https://github.com/dinosn/php-8.5.5-var_destroy-uaf)
-  > PHP 8.5.5 — var_destroy __destruct reentrancy UAF. Sister bug to Calif MAD Bugs finding; survives th...
-
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [zuanfilm/ComfyUI-VizClick-NormalCrafter](https://github.com/zuanfilm/ComfyUI-VizClick-NormalCrafter)
-  > ComfyUI custom nodes for video normal-map generation with NormalCrafter and motion-aware temporal st...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [chatwoot/chatwoot-flutter-sdk](https://github.com/chatwoot/chatwoot-flutter-sdk)
-  > Chatwoot Flutter SDK
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [SuchirAgarwal/lilie](https://github.com/SuchirAgarwal/lilie)
-  > A Language-Informed Loss for Visual Generation: LILIE encoders and JiT-T2I training/sampling in JAX
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [SuchirAgarwal/lilie](https://github.com/SuchirAgarwal/lilie) to [johndpope/lilie](https://github.com/johndpope/lilie)
-  > A Language-Informed Loss for Visual Generation: LILIE encoders and JiT-T2I training/sampling in JAX
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [akatz-labs/h3-character-swap-tool](https://github.com/akatz-labs/h3-character-swap-tool)
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [akatz-labs/h3-character-swap-tool](https://github.com/akatz-labs/h3-character-swap-tool) to [johndpope/h3-character-swap-tool](https://github.com/johndpope/h3-character-swap-tool)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [UnderleveledBuilder/awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)
-  > AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Co...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [UnderleveledBuilder/awesome-short-drama-skills](https://github.com/UnderleveledBuilder/awesome-short-drama-skills) to [johndpope/awesome-short-drama-skills](https://github.com/johndpope/awesome-short-drama-skills)
-  > AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Co...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) to [johndpope/drama-skills](https://github.com/johndpope/drama-skills)
-  > 开源 AI 短剧/漫剧创作 skill 合集：剧本、角色资产、分镜 storyboard、图片/视频提示词、审查，适配 Claude Code 与 Codex | Open-source AI sho...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
@@ -74,10 +60,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [notfoundry](https://github.com/notfoundry) Starred [Danovich/turntype](https://github.com/Danovich/turntype)
   > A typing test for the time while Claude works. A Claude Code mod.
 
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [menufactory43/panache](https://github.com/menufactory43/panache)
-  > Panache — RTS Belle Époque pour mobile (adaptation française de Battle Drones)
-
 ### [tabjy](https://github.com/tabjy)
 - 🚀 👤 [tabjy](https://github.com/tabjy) Made [tabjy/jellyfin-listenbrainz-weekly-jams-plugin](https://github.com/tabjy/jellyfin-listenbrainz-weekly-jams-plugin) public
   > A Jellyfin plugin that keeps a rolling Jellyfin playlist in sync with the Weekly Jams playlist Liste...
@@ -86,6 +68,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen)
   > A framework for distributed systems verification, with fault injection
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [M0-AR/keycloak-mcp-server](https://github.com/M0-AR/keycloak-mcp-server)
+
+### [tiran](https://github.com/tiran)
+- 🍴 👤 [tiran](https://github.com/tiran) Forked [galadran/we-have-a-problem.com](https://github.com/galadran/we-have-a-problem.com) to [tiran/we-have-a-problem.com](https://github.com/tiran/we-have-a-problem.com)
 
 ### [uakarsh](https://github.com/uakarsh)
 - 🌟 👤 [uakarsh](https://github.com/uakarsh) Starred [google-research/harness2](https://github.com/google-research/harness2)
@@ -100,13 +85,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [wl4g](https://github.com/wl4g) Forked [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) to [wl4g-ai/Qwen3-TTS](https://github.com/wl4g-ai/Qwen3-TTS)
   > Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, suppor...
 
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [luizbills/font4x6](https://github.com/luizbills/font4x6)
+  > 4x6 tiny monochrome bitmap font for rendering 
+
 
 <!-- nav -->
 [← 2026-10-20](archive/2026/10/20.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-21 15:41:50 UTC*
+*Last updated at 2026-10-21 19:43:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
