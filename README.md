@@ -8,13 +8,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) to [Stanzilla/pierre](https://github.com/Stanzilla/pierre)
+  > pierre’s open source code
+
+### [Wenzel](https://github.com/Wenzel)
+- 🍴 👤 [Wenzel](https://github.com/Wenzel) Forked [tklengyel/drakvuf](https://github.com/tklengyel/drakvuf) to [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+  > DRAKVUF Black-box Binary Analysis
+
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [heineman/algorithms-nutshell-2ed](https://github.com/heineman/algorithms-nutshell-2ed)
   > Code Repository associated with "Algorithms In A Nutshell", 2ed, published by O'Reilly Media, Inc. h...
 
-### [bitranox](https://github.com/bitranox)
-- 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/igittigitt](https://github.com/bitranox/igittigitt)
-  > Git-compatible .gitignore parser and path filter for Python: library and streaming CLI, include/whit...
+### [ambethia](https://github.com/ambethia)
+- 🌟 👤 [ambethia](https://github.com/ambethia) Starred [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning)
+  > Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize...
 
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
@@ -28,11 +36,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [donvito](https://github.com/donvito) Forked [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) to [donvito/meetily](https://github.com/donvito/meetily)
   > Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diar...
 
+### [emcfarlane](https://github.com/emcfarlane)
+- 🍴 👤 [emcfarlane](https://github.com/emcfarlane) Forked [connectrpc/connect-swift](https://github.com/connectrpc/connect-swift) to [emcfarlane/connect-swift](https://github.com/emcfarlane/connect-swift)
+  > The Swift implementation of Connect: Protobuf RPC that works.
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [gorciu-official/Utopia](https://github.com/gorciu-official/Utopia) to [fengjixuchui/Utopia](https://github.com/fengjixuchui/Utopia)
   > Utopia is a (probably good) 64-bit operating system kernel.
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [lwtw123456/Xmind-Hack](https://github.com/lwtw123456/Xmind-Hack) to [fengjixuchui/Xmind-Hack](https://github.com/fengjixuchui/Xmind-Hack)
   > 面向 Electron 应用的逆向工程研究，实现了 Xmind 2026 所有本地功能（pro+）解锁，无需登录
+
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [marin-m/SongRec](https://github.com/marin-m/SongRec)
+  > An open-source Shazam client for Linux, written in Rust.
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [zongrongjin/antidetect-sandbox](https://github.com/zongrongjin/antidetect-sandbox)
@@ -45,6 +61,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [lumosai8/ComfyUI-OrbitSheets](https://github.com/lumosai8/ComfyUI-OrbitSheets)
   > Character turnaround and location reference sheets from a MiniMax-H3 camera move, with vision-model ...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mrdoob/slop-newyork](https://github.com/mrdoob/slop-newyork)
 
 ### [justaugustus](https://github.com/justaugustus)
 - 🍴 👤 [justaugustus](https://github.com/justaugustus) Forked [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) to [justaugustus/scrutineer](https://github.com/justaugustus/scrutineer)
@@ -61,10 +78,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp)
   > Super Mario Maker 2 Recomp
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+  > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, pr...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [xingjian-bai/opal](https://github.com/xingjian-bai/opal)
   > OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.
+
+### [smourier](https://github.com/smourier)
+- 🚀 👤 [smourier](https://github.com/smourier) Made [smourier/RamPurge](https://github.com/smourier/RamPurge) public
+  > A small Windows console tool that frees physical memory. It is written in C# for .NET 10 and publish...
 
 ### [yajo](https://github.com/yajo)
 - 🍴 👤 [yajo](https://github.com/yajo) Forked [j178/prek](https://github.com/j178/prek) to [moduon/prek](https://github.com/moduon/prek)
@@ -76,7 +99,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-22 12:34:34 UTC*
+*Last updated at 2026-10-22 17:42:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
