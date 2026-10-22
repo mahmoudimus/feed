@@ -24,6 +24,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ambethia](https://github.com/ambethia) Starred [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning)
   > Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize...
 
+### [cyberphone](https://github.com/cyberphone)
+- 🚀 👤 [cyberphone](https://github.com/cyberphone) Made [cyberphone/ultra-simple-csf-sample](https://github.com/cyberphone/ultra-simple-csf-sample) public
+  > Protocol-specific decoder/verifier
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
   > Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diar...
@@ -36,9 +40,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [donvito](https://github.com/donvito) Forked [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) to [donvito/meetily](https://github.com/donvito/meetily)
   > Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diar...
 
-### [emcfarlane](https://github.com/emcfarlane)
-- 🍴 👤 [emcfarlane](https://github.com/emcfarlane) Forked [connectrpc/connect-swift](https://github.com/connectrpc/connect-swift) to [emcfarlane/connect-swift](https://github.com/emcfarlane/connect-swift)
-  > The Swift implementation of Connect: Protobuf RPC that works.
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload)
+  > 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [gorciu-official/Utopia](https://github.com/gorciu-official/Utopia) to [fengjixuchui/Utopia](https://github.com/fengjixuchui/Utopia)
@@ -49,6 +53,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [marin-m/SongRec](https://github.com/marin-m/SongRec)
   > An open-source Shazam client for Linux, written in Rust.
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [zongrongjin/antidetect-sandbox](https://github.com/zongrongjin/antidetect-sandbox)
@@ -85,6 +90,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [xingjian-bai/opal](https://github.com/xingjian-bai/opal)
   > OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.
 
+### [sintaxi](https://github.com/sintaxi)
+- 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [ComputerUseAgent/AutoCua](https://github.com/ComputerUseAgent/AutoCua)
+  > Automatic computer use agent for end-to-end automation workflows on macOS, Windows, Linux, iOS and t...
+
 ### [smourier](https://github.com/smourier)
 - 🚀 👤 [smourier](https://github.com/smourier) Made [smourier/RamPurge](https://github.com/smourier/RamPurge) public
   > A small Windows console tool that frees physical memory. It is written in C# for .NET 10 and publish...
@@ -93,13 +102,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [yajo](https://github.com/yajo) Forked [j178/prek](https://github.com/j178/prek) to [moduon/prek](https://github.com/moduon/prek)
   > ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagin...
 
+### [zakkak](https://github.com/zakkak)
+- 🌟 👤 [zakkak](https://github.com/zakkak) Starred [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic)
+  > A handy shell script that enables you to write repeatable demos in a bash environment.
+
 
 <!-- nav -->
 [← 2026-10-21](archive/2026/10/21.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-22 17:42:21 UTC*
+*Last updated at 2026-10-22 20:54:48 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
