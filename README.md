@@ -8,10 +8,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [Kaldaien](https://github.com/Kaldaien)
-- 🍴 👤 [Kaldaien](https://github.com/Kaldaien) Forked [microsoft/DxTimingCaptureLibrary](https://github.com/microsoft/DxTimingCaptureLibrary) to [Kaldaien/DxTimingCaptureLibrary](https://github.com/Kaldaien/DxTimingCaptureLibrary)
-- 🌟 👤 [Kaldaien](https://github.com/Kaldaien) Starred [microsoft/DxTimingCaptureLibrary](https://github.com/microsoft/DxTimingCaptureLibrary)
-
 ### [NinjaLikesCheez](https://github.com/NinjaLikesCheez)
 - 🌟 👤 [NinjaLikesCheez](https://github.com/NinjaLikesCheez) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
@@ -27,10 +23,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [atmos](https://github.com/atmos) Forked [tnummy/homeassistant-kasa-klap-fix](https://github.com/tnummy/homeassistant-kasa-klap-fix) to [atmos/homeassistant-kasa-klap-fix](https://github.com/atmos/homeassistant-kasa-klap-fix)
   > Home Assistant workaround for Kasa KLAP authentication failures (KS200M, EP10, HS103, etc.) — retrie...
 
-### [brandur](https://github.com/brandur)
-- 🌟 👤 [brandur](https://github.com/brandur) Starred [turbopuffer/turbopuffer-rust](https://github.com/turbopuffer/turbopuffer-rust)
-  > Rust language bindings for turbopuffer.
-
 ### [davidfrickert](https://github.com/davidfrickert)
 - 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -38,10 +30,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [oxc-project/tsrs](https://github.com/oxc-project/tsrs)
   > Rust port of the TypeScript 7 type checker
-
-### [eppleton](https://github.com/eppleton)
-- 🌟 👤 [eppleton](https://github.com/eppleton) Starred [dukehoff-gmbh/dukehoff-mcp](https://github.com/dukehoff-gmbh/dukehoff-mcp)
-  > An MCP server for Java
 
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [paulmillr/noble-post-quantum](https://github.com/paulmillr/noble-post-quantum)
@@ -54,6 +42,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [colinvkim/Radix](https://github.com/colinvkim/Radix)
   > Modern, extremely fast macOS disk space analyzer.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mayuelala/EgoACT](https://github.com/mayuelala/EgoACT)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [mayuelala/EgoACT](https://github.com/mayuelala/EgoACT) to [johndpope/EgoACT](https://github.com/johndpope/EgoACT)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [mayuelala/FastVMT](https://github.com/mayuelala/FastVMT) to [johndpope/FastVMT](https://github.com/johndpope/FastVMT)
+  > [ICLR 2026] FastVMT: This repo is the official implementation of "FastVMT: Eliminating Redundancy in...
 
 ### [kovyrin](https://github.com/kovyrin)
 - 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts)
@@ -71,19 +63,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [mahmoud](https://github.com/mahmoud) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
 
+### [mikesamuel](https://github.com/mikesamuel)
+- 🍴 👤 [mikesamuel](https://github.com/mikesamuel) Forked [rails/rails](https://github.com/rails/rails) to [mikesamuel/rails](https://github.com/mikesamuel/rails)
+  > Ruby on Rails
+
 ### [miyakogi](https://github.com/miyakogi)
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [aster-void/nix-meltype](https://github.com/aster-void/nix-meltype)
   > Meltype (Japanese input method) fcitx5 addon packaged for Nix
 - 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [yksr-melt/Meltype](https://github.com/yksr-melt/Meltype)
   > 雪解けのように、半角/全角の壁を溶かす日本語入力。
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/FRV1T](https://github.com/elder-plinius/FRV1T)
-  > INVETITI
-
 ### [msimacek](https://github.com/msimacek)
 - 🍴 👤 [msimacek](https://github.com/msimacek) Forked [python/pythoncapi-compat](https://github.com/python/pythoncapi-compat) to [msimacek/pythoncapi-compat](https://github.com/msimacek/pythoncapi-compat)
   >   The pythoncapi-compat project can be used to write a C extension supporting a wide range of Python...
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [raphaelsalaja/pond](https://github.com/raphaelsalaja/pond)
+  > Your personal web archiver.
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [seL4/seL4](https://github.com/seL4/seL4) to [nmarasoiu/seL4](https://github.com/nmarasoiu/seL4)
@@ -93,15 +89,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [VesCodes/ImGui](https://github.com/VesCodes/ImGui)
   > ImGui plugin for Unreal Engine
 
+### [progrium](https://github.com/progrium)
+- 🌟 👤 [progrium](https://github.com/progrium) Starred [crgimenes/glaze](https://github.com/crgimenes/glaze)
+  > Glaze: a CGo-free desktop WebView toolkit for Go
+- 🍴 👤 [progrium](https://github.com/progrium) Forked [crgimenes/glaze](https://github.com/crgimenes/glaze) to [progrium/glaze](https://github.com/progrium/glaze)
+  > Glaze: a CGo-free desktop WebView toolkit for Go
+
 ### [randombit](https://github.com/randombit)
 - 🌟 👤 [randombit](https://github.com/randombit) Starred [theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs)
   > Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq...
-
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [z0r0z/slow](https://github.com/z0r0z/slow)
-  > safe transfer protocol
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills)
-  > Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
 
 ### [skx](https://github.com/skx)
 - 🌟 👤 [skx](https://github.com/skx) Starred [avwohl/cpmemu](https://github.com/avwohl/cpmemu)
@@ -141,7 +137,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-23 17:59:59 UTC*
+*Last updated at 2026-10-23 21:04:08 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
