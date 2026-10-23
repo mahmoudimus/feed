@@ -8,9 +8,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [Stanzilla](https://github.com/Stanzilla)
-- 🍴 👤 [Stanzilla](https://github.com/Stanzilla) Forked [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) to [Stanzilla/pierre](https://github.com/Stanzilla/pierre)
-  > pierre’s open source code
+### [Bluebugs](https://github.com/Bluebugs)
+- 🍴 👤 [Bluebugs](https://github.com/Bluebugs) Forked [kixelated/goog_cc](https://github.com/kixelated/goog_cc) to [Bluebugs/goog_cc](https://github.com/Bluebugs/goog_cc)
+  > Direct port of GCC from C++ to Rust
+
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [Clivern/Sloth](https://github.com/Clivern/Sloth)
+  > 🦥 One gateway for your AI agents, APIs and MCP servers.
+
+### [MrChromebox](https://github.com/MrChromebox)
+- 🍴 👤 [MrChromebox](https://github.com/MrChromebox) Forked [WeirdTreeThing/chromebook-linux-audio](https://github.com/WeirdTreeThing/chromebook-linux-audio) to [MrChromebox/chromebook-linux-audio](https://github.com/MrChromebox/chromebook-linux-audio)
+  > Script that enables audio support on many Chrome devices running various Linux distros
 
 ### [Wenzel](https://github.com/Wenzel)
 - 🍴 👤 [Wenzel](https://github.com/Wenzel) Forked [tklengyel/drakvuf](https://github.com/tklengyel/drakvuf) to [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
@@ -27,6 +35,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [cyberphone](https://github.com/cyberphone)
 - 🚀 👤 [cyberphone](https://github.com/cyberphone) Made [cyberphone/ultra-simple-csf-sample](https://github.com/cyberphone/ultra-simple-csf-sample) public
   > Protocol-specific decoder/verifier
+
+### [dibyendumajumdar](https://github.com/dibyendumajumdar)
+- 🍴 👤 [dibyendumajumdar](https://github.com/dibyendumajumdar) Forked [AlexCri5an/optics-lab](https://github.com/AlexCri5an/optics-lab) to [dibyendumajumdar/optics-lab](https://github.com/dibyendumajumdar/optics-lab)
+  > Modern, open-source optical design & ray-tracing workstation built in Rust and WebGPU.
 
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
@@ -71,28 +83,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [justaugustus](https://github.com/justaugustus)
 - 🍴 👤 [justaugustus](https://github.com/justaugustus) Forked [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) to [justaugustus/scrutineer](https://github.com/justaugustus/scrutineer)
   > Security through scrutiny
+- 🍴 👤 [justaugustus](https://github.com/justaugustus) Forked [curl/curl](https://github.com/curl/curl) to [justaugustus/curl](https://github.com/justaugustus/curl)
+  > A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, F...
 
 ### [kkent030315](https://github.com/kkent030315)
 - 🍴 👤 [kkent030315](https://github.com/kkent030315) Forked [Amanieu/regalloc3](https://github.com/Amanieu/regalloc3) to [kkent030315/regalloc3](https://github.com/kkent030315/regalloc3)
   > New register allocator designed as a successor to regalloc2
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
-  > The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.co...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yuatemycat/SuperGhidra](https://github.com/yuatemycat/SuperGhidra)
-  > Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG ...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp)
-  > Super Mario Maker 2 Recomp
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
-  > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, pr...
-
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [xingjian-bai/opal](https://github.com/xingjian-bai/opal)
   > OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains.
 
-### [sintaxi](https://github.com/sintaxi)
-- 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [ComputerUseAgent/AutoCua](https://github.com/ComputerUseAgent/AutoCua)
-  > Automatic computer use agent for end-to-end automation workflows on macOS, Windows, Linux, iOS and t...
+### [nvgrw](https://github.com/nvgrw)
+- 🍴 👤 [nvgrw](https://github.com/nvgrw) Forked [pytorch/pytorch](https://github.com/pytorch/pytorch) to [nvgrw/pytorch](https://github.com/nvgrw/pytorch)
+  > Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ### [smourier](https://github.com/smourier)
 - 🚀 👤 [smourier](https://github.com/smourier) Made [smourier/RamPurge](https://github.com/smourier/RamPurge) public
@@ -112,7 +116,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-22 20:54:48 UTC*
+*Last updated at 2026-10-22 23:43:21 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
