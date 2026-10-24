@@ -19,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
   > Compatibility tool for Steam Play based on Wine and additional components
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [ollama/ollama](https://github.com/ollama/ollama)
+  > Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+  > LLM inference in C/C++
 
 ### [bduisenov](https://github.com/bduisenov)
 - 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [ricardodantas/hazelnut](https://github.com/ricardodantas/hazelnut)
@@ -27,6 +31,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [eppleton](https://github.com/eppleton)
 - 🍴 👤 [eppleton](https://github.com/eppleton) Forked [foojayio/website](https://github.com/foojayio/website) to [eppleton/website](https://github.com/eppleton/website)
   > Sources of foojay.io (Hugo static website)
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lstebner/recipe-driven-development](https://github.com/lstebner/recipe-driven-development)
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [JGRFW/ComfyUI-CharacterCardStudio](https://github.com/JGRFW/ComfyUI-CharacterCardStudio)
@@ -38,9 +45,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [hi-godot/godot-ai](https://github.com/hi-godot/godot-ai)
   > Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and f...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness)
-  > Agent harness for learning difficult things.
+### [mar0x](https://github.com/mar0x)
+- 🍴 👤 [mar0x](https://github.com/mar0x) Forked [paullouisageneau/libdatachannel](https://github.com/paullouisageneau/libdatachannel) to [mar0x/libdatachannel](https://github.com/mar0x/libdatachannel)
+  > C/C++ WebRTC network library featuring Data Channels, Media Transport, and WebSockets
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [yielded-dev/effect-tsrs](https://github.com/yielded-dev/effect-tsrs)
+  > Native Rust port of all 130 Effect diagnostics to tsrs
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [berobloom/cosmore-advance](https://github.com/berobloom/cosmore-advance)
@@ -60,7 +71,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-24 09:54:01 UTC*
+*Last updated at 2026-10-24 13:40:58 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
