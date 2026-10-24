@@ -32,6 +32,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
   > LLM inference in C/C++
 
+### [anzz1](https://github.com/anzz1)
+- 🍴 👤 [anzz1](https://github.com/anzz1) Forked [LostCityRS/Content](https://github.com/LostCityRS/Content) to [anzz1/LC-Content](https://github.com/anzz1/LC-Content)
+  > Historical preservation
+- 🍴 👤 [anzz1](https://github.com/anzz1) Forked [LostCityRS/Client-TS](https://github.com/LostCityRS/Client-TS) to [anzz1/LC-Client-TS](https://github.com/anzz1/LC-Client-TS)
+  > Client source port to TypeScript
+
 ### [bduisenov](https://github.com/bduisenov)
 - 🌟 👤 [bduisenov](https://github.com/bduisenov) Starred [ricardodantas/hazelnut](https://github.com/ricardodantas/hazelnut)
   > 🌰 Terminal-based automated file organizer inspired by Hazel. Watch folders and organize files with r...
@@ -43,6 +49,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) to [fengjixuchui/gpu-unlock](https://github.com/fengjixuchui/gpu-unlock)
   > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
+
+### [h2non](https://github.com/h2non)
+- 🌟 👤 [h2non](https://github.com/h2non) Starred [every-app/open-seo](https://github.com/every-app/open-seo)
+  > Open source alternative to Semrush and Ahrefs
+
+### [ingydotnet](https://github.com/ingydotnet)
+- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [prometheus/prometheus](https://github.com/prometheus/prometheus) to [ingydotnet/prometheus](https://github.com/ingydotnet/prometheus)
+  > The Prometheus monitoring system and time series database.
 
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lstebner/recipe-driven-development](https://github.com/lstebner/recipe-driven-development)
@@ -69,6 +83,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [berobloom/cosmore-advance](https://github.com/berobloom/cosmore-advance)
   > Cosmo's Cosmic Adventure on the Game Boy Advance and Linux (SDL2), built from the Cosmore source rec...
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [BartolomeoRusso9/altkeeper](https://github.com/BartolomeoRusso9/altkeeper)
+  > AltServer for iOS 17+ that runs on your home server (Docker), Windows, MacOS and Linux: renews and i...
+
+### [progrium](https://github.com/progrium)
+- 🚀 👤 [progrium](https://github.com/progrium) Made [tractordev/webframe](https://github.com/tractordev/webframe) public
+  > Run a web page like a program
 
 ### [rand-tech](https://github.com/rand-tech)
 - 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
@@ -92,7 +112,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-24 17:02:59 UTC*
+*Last updated at 2026-10-24 19:54:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
