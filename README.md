@@ -11,10 +11,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Stanzilla](https://github.com/Stanzilla)
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [colinhacks/reylo](https://github.com/colinhacks/reylo)
   > Import .sql files into TypeScript with full type inference and zero codegen.
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [anaisbetts/ts-ssh-agent](https://github.com/anaisbetts/ts-ssh-agent)
+  > An SSH agent whose keys live on a Tailscale-authenticated server in your tailnet
+
+### [TheTom](https://github.com/TheTom)
+- 🍴 👤 [TheTom](https://github.com/TheTom) Forked [huggingface/swift-transformers](https://github.com/huggingface/swift-transformers) to [TheTom/swift-transformers](https://github.com/TheTom/swift-transformers)
+  > Swift Package to implement a transformers-like API in Swift
 
 ### [Xyl2k](https://github.com/Xyl2k)
 - 🌟 👤 [Xyl2k](https://github.com/Xyl2k) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+- 🌟 👤 [Xyl2k](https://github.com/Xyl2k) Starred [flightcrank/demo-effects](https://github.com/flightcrank/demo-effects)
+  > a collection of graphical effects used in the demoscene
 
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
@@ -31,6 +39,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [eppleton](https://github.com/eppleton)
 - 🍴 👤 [eppleton](https://github.com/eppleton) Forked [foojayio/website](https://github.com/foojayio/website) to [eppleton/website](https://github.com/eppleton/website)
   > Sources of foojay.io (Hugo static website)
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) to [fengjixuchui/gpu-unlock](https://github.com/fengjixuchui/gpu-unlock)
+  > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lstebner/recipe-driven-development](https://github.com/lstebner/recipe-driven-development)
@@ -52,10 +64,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [yielded-dev/effect-tsrs](https://github.com/yielded-dev/effect-tsrs)
   > Native Rust port of all 130 Effect diagnostics to tsrs
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Agentic-Imagination/Agima](https://github.com/Agentic-Imagination/Agima)
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [berobloom/cosmore-advance](https://github.com/berobloom/cosmore-advance)
   > Cosmo's Cosmic Adventure on the Game Boy Advance and Linux (SDL2), built from the Cosmore source rec...
+
+### [rand-tech](https://github.com/rand-tech)
+- 🌟 👤 [rand-tech](https://github.com/rand-tech) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
+  > mimalloc is a compact general purpose allocator with excellent performance.
+
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [haampie/tar-minefield](https://github.com/haampie/tar-minefield)
+  > A corpus of ambiguous tar archives that strict parsers should reject
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
@@ -71,7 +92,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-24 13:40:58 UTC*
+*Last updated at 2026-10-24 17:02:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
