@@ -54,10 +54,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [h2non](https://github.com/h2non) Starred [every-app/open-seo](https://github.com/every-app/open-seo)
   > Open source alternative to Semrush and Ahrefs
 
-### [ingydotnet](https://github.com/ingydotnet)
-- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [prometheus/prometheus](https://github.com/prometheus/prometheus) to [ingydotnet/prometheus](https://github.com/ingydotnet/prometheus)
-  > The Prometheus monitoring system and time series database.
-
 ### [jeremyckahn](https://github.com/jeremyckahn)
 - 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [lstebner/recipe-driven-development](https://github.com/lstebner/recipe-driven-development)
 
@@ -102,6 +98,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
   > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [nikopueringer/CorridorKey2.0](https://github.com/nikopueringer/CorridorKey2.0)
+  > Corridor Key 2.0 for all your green and blue screen needs
+
 ### [ufrisk](https://github.com/ufrisk)
 - 🌟 👤 [ufrisk](https://github.com/ufrisk) Starred [etragardh/php2shell-eth](https://github.com/etragardh/php2shell-eth)
   > php2shell exploit - verified remote on fresh vps
@@ -112,7 +112,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-24 19:54:00 UTC*
+*Last updated at 2026-10-24 22:02:39 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
