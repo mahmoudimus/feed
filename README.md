@@ -28,10 +28,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [Lexikos](https://github.com/Lexikos) Forked [thqby/vscode-autohotkey2-lsp](https://github.com/thqby/vscode-autohotkey2-lsp) to [Lexikos/vscode-autohotkey2-lsp](https://github.com/Lexikos/vscode-autohotkey2-lsp)
   > Autohotkey v2 Language Support using vscode-lsp.
 
-### [NinjaLikesCheez](https://github.com/NinjaLikesCheez)
-- 🌟 👤 [NinjaLikesCheez](https://github.com/NinjaLikesCheez) Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
-  > VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, vi...
-
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [SonicSec/l0fck](https://github.com/SonicSec/l0fck)
   > Why have Lock when you can L0fck
@@ -43,6 +39,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Wasthon, a CPython to WebAssembly bridge for Brython
 - 🌟 👤 [PierreQuentel](https://github.com/PierreQuentel) Starred [brython-dev/brython](https://github.com/brython-dev/brython)
   > Brython (Browser Python) is an implementation of Python 3 running in the browser
+
+### [ThomasVitale](https://github.com/ThomasVitale)
+- 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [envoyproxy/gateway](https://github.com/envoyproxy/gateway)
+  > Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [MobAI-App/simslim](https://github.com/MobAI-App/simslim)
@@ -66,11 +66,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [frol](https://github.com/frol) Starred [callebtc/sayit](https://github.com/callebtc/sayit)
   > Private, local text-to-speech for Apple silicon Macs
 
+### [ftomassetti](https://github.com/ftomassetti)
+- 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [gillus/toret_city](https://github.com/gillus/toret_city)
+
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [snakeyaml/snakeyaml-engine](https://github.com/snakeyaml/snakeyaml-engine)
   > Mirror of https://bitbucket.org/snakeyaml/snakeyaml-engine
 - 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [snakeyaml/snakeyaml-engine](https://github.com/snakeyaml/snakeyaml-engine) to [yaml/snakeyaml-engine](https://github.com/yaml/snakeyaml-engine)
   > Mirror of https://bitbucket.org/snakeyaml/snakeyaml-engine
+- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [yaml/go-yaml](https://github.com/yaml/go-yaml) to [yamlstar/go-yaml](https://github.com/yamlstar/go-yaml)
+  > The YAML org maintained fork of https://github.com/go-yaml/yaml
+- 🚀 👤 [ingydotnet](https://github.com/ingydotnet) Made [yamlstar/yamlstar-plugin-parser-snakeyaml](https://github.com/yamlstar/yamlstar-plugin-parser-snakeyaml) public
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [stevensonmediagroup/beats](https://github.com/stevensonmediagroup/beats)
@@ -78,9 +84,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [unspok3n/beatportdl](https://github.com/unspok3n/beatportdl)
   > Beatport & Beatsource downloader (FLAC, AAC)
 
+### [kevaundray](https://github.com/kevaundray)
+- 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [alloy-rs/evm2](https://github.com/alloy-rs/evm2) to [kevaundray/evm2](https://github.com/kevaundray/evm2)
+
 ### [mikehearn](https://github.com/mikehearn)
 - 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [qxoticai/qxotic](https://github.com/qxoticai/qxotic)
   > AI sovereignty for the world's most trusted runtime.
+
+### [mitsuakki](https://github.com/mitsuakki)
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bpesquet/publications](https://github.com/bpesquet/publications)
+  > My scientific publications
+- 🌟 👤 [mitsuakki](https://github.com/mitsuakki) Starred [bpesquet/mlcourse](https://github.com/bpesquet/mlcourse)
+  > Public material for my Machine Learning course: lectures, tutorials and lab works
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
@@ -88,6 +103,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [alloy-rs/evm2](https://github.com/alloy-rs/evm2)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [streetwriters/react-native-gpui](https://github.com/streetwriters/react-native-gpui)
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [tursodatabase/libsql](https://github.com/tursodatabase/libsql) to [nmarasoiu/libsql](https://github.com/nmarasoiu/libsql)
@@ -96,6 +112,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of da...
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [arjaythedev/twelve-dollar-server-challenge](https://github.com/arjaythedev/twelve-dollar-server-challenge) to [nmarasoiu/twelve-dollar-server-challenge](https://github.com/nmarasoiu/twelve-dollar-server-challenge)
   > Implement one small API on SQLite in any language; we benchmark it on a $12 server (1 vCPU, 2 GB)
+
+### [openprivacy](https://github.com/openprivacy)
+- 🌟 👤 [openprivacy](https://github.com/openprivacy) Starred [CivicActions/keychain-cli](https://github.com/CivicActions/keychain-cli)
+  > A small, security-focused CLI for storing and retrieving secrets in the macOS Keychain
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)
@@ -120,6 +140,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [xyproto](https://github.com/xyproto)
 - 🌟 👤 [xyproto](https://github.com/xyproto) Starred [lichray/nvi2](https://github.com/lichray/nvi2)
   > A multibyte fork of the nvi editor for BSD
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [32blit/rocks-and-diamonds](https://github.com/32blit/rocks-and-diamonds)
 
 
 <!-- nav -->
@@ -127,7 +148,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-25 17:55:27 UTC*
+*Last updated at 2026-10-25 20:05:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
