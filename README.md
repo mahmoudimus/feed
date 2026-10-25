@@ -15,10 +15,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [0intro](https://github.com/0intro) Forked [oscarpilote/Ortho4XP](https://github.com/oscarpilote/Ortho4XP) to [0intro/Ortho4XP](https://github.com/0intro/Ortho4XP)
   > A scenery generator for the X-Plane flight simulator
 
-### [Clivern](https://github.com/Clivern)
-- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
-  > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
-- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe)
+### [GrandpaGameHacker](https://github.com/GrandpaGameHacker)
+- 🌟 👤 [GrandpaGameHacker](https://github.com/GrandpaGameHacker) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
+  > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
 
 ### [HarukaMa](https://github.com/HarukaMa)
 - 🍴 👤 [HarukaMa](https://github.com/HarukaMa) Forked [ar-io/ar-io-observer](https://github.com/ar-io/ar-io-observer) to [HarukaMa/ar-io-observer](https://github.com/HarukaMa/ar-io-observer)
@@ -39,6 +38,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Wasthon, a CPython to WebAssembly bridge for Brython
 - 🌟 👤 [PierreQuentel](https://github.com/PierreQuentel) Starred [brython-dev/brython](https://github.com/brython-dev/brython)
   > Brython (Browser Python) is an implementation of Python 3 running in the browser
+
+### [TheTom](https://github.com/TheTom)
+- 🌟 👤 [TheTom](https://github.com/TheTom) Starred [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer)
+  > Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the...
 
 ### [ThomasVitale](https://github.com/ThomasVitale)
 - 🌟 👤 [ThomasVitale](https://github.com/ThomasVitale) Starred [envoyproxy/gateway](https://github.com/envoyproxy/gateway)
@@ -69,15 +72,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [ftomassetti](https://github.com/ftomassetti)
 - 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [gillus/toret_city](https://github.com/gillus/toret_city)
 
-### [ingydotnet](https://github.com/ingydotnet)
-- 🌟 👤 [ingydotnet](https://github.com/ingydotnet) Starred [snakeyaml/snakeyaml-engine](https://github.com/snakeyaml/snakeyaml-engine)
-  > Mirror of https://bitbucket.org/snakeyaml/snakeyaml-engine
-- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [snakeyaml/snakeyaml-engine](https://github.com/snakeyaml/snakeyaml-engine) to [yaml/snakeyaml-engine](https://github.com/yaml/snakeyaml-engine)
-  > Mirror of https://bitbucket.org/snakeyaml/snakeyaml-engine
-- 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [yaml/go-yaml](https://github.com/yaml/go-yaml) to [yamlstar/go-yaml](https://github.com/yamlstar/go-yaml)
-  > The YAML org maintained fork of https://github.com/go-yaml/yaml
-- 🚀 👤 [ingydotnet](https://github.com/ingydotnet) Made [yamlstar/yamlstar-plugin-parser-snakeyaml](https://github.com/yamlstar/yamlstar-plugin-parser-snakeyaml) public
-
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [stevensonmediagroup/beats](https://github.com/stevensonmediagroup/beats)
   > Beatport downloads behind a clean web interface instead of babysitting a terminal.
@@ -86,6 +80,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [kevaundray](https://github.com/kevaundray)
 - 🍴 👤 [kevaundray](https://github.com/kevaundray) Forked [alloy-rs/evm2](https://github.com/alloy-rs/evm2) to [kevaundray/evm2](https://github.com/kevaundray/evm2)
+- 🌟 👤 [kevaundray](https://github.com/kevaundray) Starred [unbalancedparentheses/leanprof](https://github.com/unbalancedparentheses/leanprof)
+  > Find out why your Lean 4 code is slow, and how to fix it. Counts what no other profiler sees (copies...
 
 ### [mikehearn](https://github.com/mikehearn)
 - 🌟 👤 [mikehearn](https://github.com/mikehearn) Starred [qxoticai/qxotic](https://github.com/qxoticai/qxotic)
@@ -100,6 +96,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
+
+### [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge)
+- 🌟 👤 [n1ckl0sk0rtge](https://github.com/n1ckl0sk0rtge) Starred [zensical/zensical](https://github.com/zensical/zensical)
+  > A modern static site generator by the Material for MkDocs team
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [alloy-rs/evm2](https://github.com/alloy-rs/evm2)
@@ -148,7 +148,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-25 20:05:06 UTC*
+*Last updated at 2026-10-25 22:52:14 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
