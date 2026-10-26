@@ -21,6 +21,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [RonenNess](https://github.com/RonenNess) Starred [sebastienros/jint](https://github.com/sebastienros/jint)
   > Javascript Interpreter for .NET
 
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [hawkeye-Leo/hawkeye-rop](https://github.com/hawkeye-Leo/hawkeye-rop) to [fengjixuchui/hawkeye-rop](https://github.com/fengjixuchui/hawkeye-rop)
+  > PE64 ROP gadget finder for Windows (Qt UI, lab demos)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [hawkeye-Leo/hawkeye-community](https://github.com/hawkeye-Leo/hawkeye-community) to [fengjixuchui/hawkeye-community](https://github.com/fengjixuchui/hawkeye-community)
+  > Hawkeye Community — official open-source edition of Hawkeye Lab. Windows kernel security research co...
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [hawkeye-Leo/hawkeye-tfe](https://github.com/hawkeye-Leo/hawkeye-tfe) to [fengjixuchui/hawkeye-tfe](https://github.com/fengjixuchui/hawkeye-tfe)
+  > Dual-stream transparent file encryption minifilter for Windows kernel research
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [KRR1751/NtObjExplorer](https://github.com/KRR1751/NtObjExplorer) to [fengjixuchui/NtObjExplorer](https://github.com/fengjixuchui/NtObjExplorer)
+  > Custom Windows Driver that let you have an access to the NT Native Paths
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [BaiSugar/kose_seer](https://github.com/BaiSugar/kose_seer)
   > 某童年游戏怀旧服服务端ts的重新实现
@@ -34,10 +44,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [GNOME/gnome-shell](https://github.com/GNOME/gnome-shell) to [scrya-com/gnome-shell](https://github.com/scrya-com/gnome-shell)
   > Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-shell
 
-### [luin](https://github.com/luin)
-- 🌟 👤 [luin](https://github.com/luin) Starred [heydeer/pngdeer](https://github.com/heydeer/pngdeer)
-  > Lossy PNG compression that picks the quality for each image. Command line and browser, same bytes.
-
 ### [mbrt](https://github.com/mbrt)
 - 🌟 👤 [mbrt](https://github.com/mbrt) Starred [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)
 
@@ -46,6 +52,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DumpAnalysis/PrologWinDbg](https://github.com/DumpAnalysis/PrologWinDbg)
   > Use Prolog to analyze memory dumps and stopped live processes in WinDbg.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NetVar1337/mdbg](https://github.com/NetVar1337/mdbg)
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer)
@@ -88,6 +95,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [yajo](https://github.com/yajo) Forked [ErikBPF/hermes-flake](https://github.com/ErikBPF/hermes-flake) to [yajo/hermes-flake](https://github.com/yajo/hermes-flake)
   > hermes-agent package + NixOS module
 
+### [yangdanny97](https://github.com/yangdanny97)
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [opengeos/RustGIS](https://github.com/opengeos/RustGIS)
+  > A fast, free and open-source GIS in pure Rust.
+
 ### [zakkak](https://github.com/zakkak)
 - 🌟 👤 [zakkak](https://github.com/zakkak) Starred [House-elves/elf-desk](https://github.com/House-elves/elf-desk)
   > Elf Desk: a morning board for your GitHub work, email and Zulip, with Claude agents that draft and y...
@@ -98,7 +109,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-26 11:40:55 UTC*
+*Last updated at 2026-10-26 17:44:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
