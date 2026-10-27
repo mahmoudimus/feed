@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [DamienCassou](https://github.com/DamienCassou)
+- 🌟 👤 [DamienCassou](https://github.com/DamienCassou) Starred [137137137/OpenDisk](https://github.com/137137137/OpenDisk)
+  > Fast macOS disk-usage analyzer with an interactive sunburst chart — scans a full drive in seconds.
+
+### [Gcenx](https://github.com/Gcenx)
+- 🍴 👤 [Gcenx](https://github.com/Gcenx) Forked [chaotic-cx/mesa-mirror](https://github.com/chaotic-cx/mesa-mirror) to [Sikarugir-App/mesa-mirror](https://github.com/Sikarugir-App/mesa-mirror)
+  > Mesa 3D graphics library (5min-updates read-only mirror of https://gitlab.freedesktop.org/mesa/mesa/...
+
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
   > Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vi...
@@ -16,9 +24,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [zdypro888/icrypto](https://github.com/zdypro888/icrypto)
   > apple iOS system crypto framework
 
-### [bbatsov](https://github.com/bbatsov)
-- 🍴 👤 [bbatsov](https://github.com/bbatsov) Forked [babashka/babashka](https://github.com/babashka/babashka) to [bbatsov/babashka](https://github.com/bbatsov/babashka)
-  > Native, fast starting Clojure interpreter for scripting
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel)
+  > Official successor to conduwuit
+
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [gufo-org/gufo](https://github.com/gufo-org/gufo)
+  > The Open Source Strix Halo AI engine. Qwen 3.8  Flash Next Q4_K_XL: 1,801.01 pp, 73.17 tg single use...
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade)
+  > Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own G...
+
+### [ambethia](https://github.com/ambethia)
+- 🌟 👤 [ambethia](https://github.com/ambethia) Starred [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+  > SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and autom...
 
 ### [bingzhux](https://github.com/bingzhux)
 - 🌟 👤 [bingzhux](https://github.com/bingzhux) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
@@ -27,9 +45,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [cra0](https://github.com/cra0)
 - 🌟 👤 [cra0](https://github.com/cra0) Starred [th0mk/nfsu2-web](https://github.com/th0mk/nfsu2-web)
 
+### [donvito](https://github.com/donvito)
+- 🌟 👤 [donvito](https://github.com/donvito) Starred [patch-gg/anymove](https://github.com/patch-gg/anymove)
+  > Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, ...
+
+### [dougxc](https://github.com/dougxc)
+- 🚀 👤 [dougxc](https://github.com/dougxc) Made [dougxc/grabbit-3d](https://github.com/dougxc/grabbit-3d) public
+  > 3D Model of original GraalVM Grabbit mascot
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
   > Incremental rust builds up to 92x faster than cargo/rustc
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+  > Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vi...
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Enderfga/SolarRenderer](https://github.com/Enderfga/SolarRenderer)
@@ -44,6 +74,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [ICML 2026]
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [MAC-AutoML/MotionCache](https://github.com/MAC-AutoML/MotionCache) to [johndpope/MotionCache](https://github.com/johndpope/MotionCache)
   > [ICML 2026]
+
+### [luc-tielen](https://github.com/luc-tielen)
+- 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
+  > How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interfa...
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Infini-AI-Lab/hermit](https://github.com/Infini-AI-Lab/hermit)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [PhotonBrowser/photon](https://github.com/PhotonBrowser/photon)
+  > Photon web browser
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [apache/kafka](https://github.com/apache/kafka) to [nmarasoiu/kafka](https://github.com/nmarasoiu/kafka)
@@ -63,12 +102,32 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) to [nmarasoiu/toxiproxy](https://github.com/nmarasoiu/toxiproxy)
   > :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency ...
 
+### [pims](https://github.com/pims)
+- 🌟 👤 [pims](https://github.com/pims) Starred [Aaryan-Kapoor/english-rs](https://github.com/Aaryan-Kapoor/english-rs)
+  > English, rewritten in Rust: grammar as trait bounds, pronouns as borrows, and englishc, a compiler w...
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [microsoft/node-pty](https://github.com/microsoft/node-pty)
   > Fork pseudoterminals in Node.JS
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [openai/openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app)
+  > Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [NeverSight/signatures](https://github.com/NeverSight/signatures)
+
+### [rougier](https://github.com/rougier)
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [AlphaPixel/slughorn](https://github.com/AlphaPixel/slughorn)
+  > Library for shoehorning the Slug text/graphics GPU rendering library into projects.
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth)
+  > The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
+  > The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to y...
+
+### [yangdanny97](https://github.com/yangdanny97)
+- 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
+  > pierre’s open source code
 
 
 <!-- nav -->
@@ -76,7 +135,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-27 12:49:03 UTC*
+*Last updated at 2026-10-27 18:25:54 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
