@@ -27,6 +27,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel)
   > Official successor to conduwuit
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [embedthis/goahead](https://github.com/embedthis/goahead)
+  > EmbedThis GoAhead Embedded Web Server
 
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [gufo-org/gufo](https://github.com/gufo-org/gufo)
@@ -74,6 +76,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > [ICML 2026]
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [MAC-AutoML/MotionCache](https://github.com/MAC-AutoML/MotionCache) to [johndpope/MotionCache](https://github.com/johndpope/MotionCache)
   > [ICML 2026]
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [patch-gg/anymove](https://github.com/patch-gg/anymove) to [johndpope/anymove](https://github.com/johndpope/anymove)
+  > Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, ...
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [FrigadeHQ/hob](https://github.com/FrigadeHQ/hob)
+  > An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT ...
 
 ### [luc-tielen](https://github.com/luc-tielen)
 - 🌟 👤 [luc-tielen](https://github.com/luc-tielen) Starred [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
@@ -83,6 +91,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Infini-AI-Lab/hermit](https://github.com/Infini-AI-Lab/hermit)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [PhotonBrowser/photon](https://github.com/PhotonBrowser/photon)
   > Photon web browser
+
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [snyderman3000/mixtape](https://github.com/snyderman3000/mixtape)
+  > App store for OnionOS on the Miyoo Mini Plus: browse, install and update community ports over Wi-Fi....
 
 ### [nmarasoiu](https://github.com/nmarasoiu)
 - 🍴 👤 [nmarasoiu](https://github.com/nmarasoiu) Forked [apache/kafka](https://github.com/apache/kafka) to [nmarasoiu/kafka](https://github.com/nmarasoiu/kafka)
@@ -119,11 +131,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [rougier](https://github.com/rougier) Starred [AlphaPixel/slughorn](https://github.com/AlphaPixel/slughorn)
   > Library for shoehorning the Slug text/graphics GPU rendering library into projects.
 
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth)
-  > The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
-  > The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to y...
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [cberner/redb](https://github.com/cberner/redb)
+  > An embedded key-value database in pure Rust
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [fjall-rs/fjall](https://github.com/fjall-rs/fjall)
+  > 🗻 Log-structured, embeddable key-value storage engine written in Rust
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [ExpOrx/IDAChef](https://github.com/ExpOrx/IDAChef)
+  > A [CyberChef](https://github.com/gchq/CyberChef)-style recipe/operation toolkit embedded in IDA Pro ...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [19h/cud](https://github.com/19h/cud)
+  > code-unit discovery for Mach-O binaries
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
@@ -135,7 +153,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-27 18:25:54 UTC*
+*Last updated at 2026-10-27 22:42:32 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
