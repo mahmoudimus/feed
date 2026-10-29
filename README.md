@@ -22,6 +22,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [anzz1](https://github.com/anzz1) Forked [Rinnegatamante/Crash-Team-Racing-High-Octane](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) to [anzz1/Crash-Team-Racing-High-Octane](https://github.com/anzz1/Crash-Team-Racing-High-Octane)
   > Advanced sourceport of Crash Team Racing for PSVita, PC and Web Browser.
 
+### [cperciva](https://github.com/cperciva)
+- 🍴 👤 [cperciva](https://github.com/cperciva) Forked [gameoftrees/got-portable](https://github.com/gameoftrees/got-portable) to [cperciva/got-portable](https://github.com/cperciva/got-portable)
+  > Portable version of Game of Trees (Linux, ...)
+
 ### [ericflo](https://github.com/ericflo)
 - 🍴 👤 [ericflo](https://github.com/ericflo) Forked [benjaminsehl/omarchy-tuple](https://github.com/benjaminsehl/omarchy-tuple) to [ericflo/gnome-tuple](https://github.com/ericflo/gnome-tuple)
   > Native Omarchy shell bar widget and panel for the Tuple Linux client
@@ -47,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Turn an AI video into a real UV texture on your 3D mesh: Blender orbit, Seedance 2.5, nvdiffrast fit...
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [NVlabs/FastGen](https://github.com/NVlabs/FastGen)
   > NVIDIA FastGen: Fast Generation from Diffusion Models
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [qihao067/PoseExaminer](https://github.com/qihao067/PoseExaminer)
+  > [CVPR23] PoseExaminer: Automated Testing of Out-of-Distribution Robustness in Human Pose and Shape E...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [mgholamikn/PoseGen](https://github.com/mgholamikn/PoseGen)
+  > [AAAI 2024] PoseGen: Learning to Generate 3D Human Pose Datasets with NeRF
 
 ### [keithduncan](https://github.com/keithduncan)
 - 🌟 👤 [keithduncan](https://github.com/keithduncan) Starred [ankitc1010/zender](https://github.com/ankitc1010/zender)
@@ -62,17 +70,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [max-mapper](https://github.com/max-mapper) Starred [datalab-to/indra](https://github.com/datalab-to/indra)
   > 1M param OCR model - runs on CPU, 15x faster than tesseract, close to 1B+ param models in accuracy
 
-### [medikoo](https://github.com/medikoo)
-- 🌟 👤 [medikoo](https://github.com/medikoo) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
-  > Open-source skills for designing and reviewing software with AI agents
-
 ### [moriyoshi](https://github.com/moriyoshi)
 - 🍴 👤 [moriyoshi](https://github.com/moriyoshi) Forked [KarpelesLab/gopcre2](https://github.com/KarpelesLab/gopcre2) to [moriyoshi/gopcre2](https://github.com/moriyoshi/gopcre2)
   > Pure Go implementation of PCRE2 (Perl Compatible Regular Expressions) — backreferences, lookaround, ...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [divagr18/qwenputer](https://github.com/divagr18/qwenputer)
-  > A computer, compiled into the weights of a language model. An exact CPU inside Qwen3.5-4B, with Gate...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [AlphaPixel/slughorn](https://github.com/AlphaPixel/slughorn)
@@ -94,6 +94,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > GEF - GDB Enhanced Features - bata24's fork
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [grayhatkiller/impacket](https://github.com/grayhatkiller/impacket)
   > Impacket is a collection of Python classes for working with network protocols.
+
+### [samuelcolvin](https://github.com/samuelcolvin)
+- 🍴 👤 [samuelcolvin](https://github.com/samuelcolvin) Forked [openai/codex](https://github.com/openai/codex) to [samuelcolvin/codex](https://github.com/samuelcolvin/codex)
+  > Lightweight coding agent that runs in your terminal
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [iammatthias/ladle](https://github.com/iammatthias/ladle)
+  > Native iOS client for the Apron chat protocol
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [githubnext/ace](https://github.com/githubnext/ace)
@@ -123,7 +131,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-28 19:56:37 UTC*
+*Last updated at 2026-10-28 23:43:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
