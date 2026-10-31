@@ -20,13 +20,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
   > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
 
+### [colby57](https://github.com/colby57)
+- 🌟 👤 [colby57](https://github.com/colby57) Starred [tokio-rs/loom](https://github.com/tokio-rs/loom)
+  > Concurrency permutation testing tool for Rust.
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [akazemi67/LinuxMalwareTechniques](https://github.com/akazemi67/LinuxMalwareTechniques) to [fengjixuchui/LinuxMalwareTechniques](https://github.com/fengjixuchui/LinuxMalwareTechniques)
   > Contains materials for my technical presentation exploring Linux malware tradecraft—from userland an...
-
-### [ioncodes](https://github.com/ioncodes)
-- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xOx-Liy-Codez-XD-oXo/shitcube](https://github.com/xOx-Liy-Codez-XD-oXo/shitcube)
-  > Shit gamecube emulator
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [decoderesearch/interp-engine](https://github.com/decoderesearch/interp-engine)
@@ -53,9 +53,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
   > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
 
+### [jpalanco](https://github.com/jpalanco)
+- 🍴 👤 [jpalanco](https://github.com/jpalanco) Forked [n8n-io/n8n](https://github.com/n8n-io/n8n) to [jpalanco/n8n](https://github.com/jpalanco/n8n)
+  > Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus...
+
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [WildSource/parmenides](https://github.com/WildSource/parmenides)
   > A sql migration system written in Haskell
+
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [rsi-gear/gear](https://github.com/rsi-gear/gear)
+  > Scikit-learn for Recursive Self-improvement (RSI). A modular framework for recursive harness evoluti...
+
+### [max-mapper](https://github.com/max-mapper)
+- 🌟 👤 [max-mapper](https://github.com/max-mapper) Starred [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit)
+  > Pro-grade UI design built into the coding agent you already use — GitHub Copilot Chat, Claude Code, ...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
@@ -64,6 +76,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Architecture-first Codex skill for open-model behavioral interventions on dual DGX Spark
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Aevonix/FlashAlign](https://github.com/Aevonix/FlashAlign)
   > ReAlign models instantly, on demand. Per-request alignment for verified users and channels, or Alway...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coleleavitt/ida-mcp-server](https://github.com/coleleavitt/ida-mcp-server)
+  > IDA Pro MCP Server Plugin — 170+ tools for IDA Pro 9.33 with Hex-Rays decompiler integration
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [thierbig/iwd2r](https://github.com/thierbig/iwd2r)
@@ -77,6 +91,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [biolend83/tubehaus](https://github.com/biolend83/tubehaus)
   > A private YouTube client: self-hosted web version (one docker compose) and native apps for Android, ...
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
+  > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+### [smourier](https://github.com/smourier)
+- 🚀 👤 [smourier](https://github.com/smourier) Made [smourier/5250net](https://github.com/smourier/5250net) public
+  > An IBM i TN5250 terminal, Linux or Windows, written in C# as a standard .NET 10 console application ...
+
 ### [wincent](https://github.com/wincent)
 - 🌟 👤 [wincent](https://github.com/wincent) Starred [beancount/fava](https://github.com/beancount/fava)
   > Fava - web interface for Beancount
@@ -89,7 +111,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-31 13:56:59 UTC*
+*Last updated at 2026-10-31 18:04:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
