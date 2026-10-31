@@ -16,17 +16,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [Lexikos](https://github.com/Lexikos) Made [AutoHotkey/win32.ahk](https://github.com/AutoHotkey/win32.ahk) public
   > Early preview of a projection of the Win32 API for AutoHotkey.
 
-### [Stanzilla](https://github.com/Stanzilla)
-- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+### [awgil](https://github.com/awgil)
+- 🍴 👤 [awgil](https://github.com/awgil) Forked [goatcorp/goatcorp.Reloaded.Hooks](https://github.com/goatcorp/goatcorp.Reloaded.Hooks) to [awgil/goatcorp.Reloaded.Hooks](https://github.com/awgil/goatcorp.Reloaded.Hooks)
+  > Advanced native function hooks for x86, x64. Welcome to the next level!
+
+### [bbugdigger](https://github.com/bbugdigger)
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [scottyab/rootbeer](https://github.com/scottyab/rootbeer)
+  > Simple to use root checking Android library and sample app
 
 ### [colby57](https://github.com/colby57)
 - 🌟 👤 [colby57](https://github.com/colby57) Starred [tokio-rs/loom](https://github.com/tokio-rs/loom)
   > Concurrency permutation testing tool for Rust.
 
+### [dustinblackman](https://github.com/dustinblackman)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [fastrepl/anarlog](https://github.com/fastrepl/anarlog)
+  > Open source Granola AI Alternative
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [akazemi67/LinuxMalwareTechniques](https://github.com/akazemi67/LinuxMalwareTechniques) to [fengjixuchui/LinuxMalwareTechniques](https://github.com/fengjixuchui/LinuxMalwareTechniques)
   > Contains materials for my technical presentation exploring Linux malware tradecraft—from userland an...
+
+### [hasherezade](https://github.com/hasherezade)
+- 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+  > In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [decoderesearch/interp-engine](https://github.com/decoderesearch/interp-engine)
@@ -111,7 +123,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-10-31 18:04:34 UTC*
+*Last updated at 2026-10-31 21:59:06 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
