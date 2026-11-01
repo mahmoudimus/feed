@@ -8,11 +8,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [expo/expo](https://github.com/expo/expo)
+  > An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and...
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift)
   > On-device Speech AI for Apple Silicon
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [wixette/huashuo](https://github.com/wixette/huashuo)
   > 在 Mac 电脑上制作多角色有声书 | Multi-voice audiobooks, made on your Mac
+
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [alexrlocke/neorex](https://github.com/alexrlocke/neorex)
 
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
@@ -46,9 +53,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [wevm/ondine](https://github.com/wevm/ondine)
   > Fast and simple diagrams.
 
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff)
+  > Fast, robust, accurate diffing 
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2)
   > Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Int...
+
+### [h3xstream](https://github.com/h3xstream)
+- 🌟 👤 [h3xstream](https://github.com/h3xstream) Starred [seqra/opentaint](https://github.com/seqra/opentaint)
+  > The open source taint analysis engine for the AI era. A formal dataflow analysis tool you can custom...
 
 ### [ingydotnet](https://github.com/ingydotnet)
 - 🍴 👤 [ingydotnet](https://github.com/ingydotnet) Forked [TomWright/dasel](https://github.com/TomWright/dasel) to [ingydotnet/dasel](https://github.com/ingydotnet/dasel)
@@ -79,10 +94,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A MoonBit port of the HOL Light theorem prover
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [WildSource/parmenides](https://github.com/WildSource/parmenides)
   > A sql migration system written in Haskell
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [benoitc/erlang_quic](https://github.com/benoitc/erlang_quic)
+  > Pure Erlang QUIC implementation (RFC 9000)
+
+### [pgarba](https://github.com/pgarba)
+- 🌟 👤 [pgarba](https://github.com/pgarba) Starred [acceleration3/linux-subsystem-windows](https://github.com/acceleration3/linux-subsystem-windows)
 
 ### [progrium](https://github.com/progrium)
 - 🌟 👤 [progrium](https://github.com/progrium) Starred [can1357/isobox](https://github.com/can1357/isobox)
   > Run a command in a sandbox with the same flags on every OS — one capability model compiled to Seatbe...
+- 🌟 👤 [progrium](https://github.com/progrium) Starred [FiloSottile/passage](https://github.com/FiloSottile/passage)
+  > A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) ...
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [ratatui/tachyonfx](https://github.com/ratatui/tachyonfx)
@@ -93,6 +115,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A curated list of TUI apps and libraries built with Ratatui
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [YuniqueUnic/schemaui](https://github.com/YuniqueUnic/schemaui)
   > schemaui turns JSON Schema documents into fully interactive terminal UIs powered by ratatui, crosste...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [conradkleinespel/gitclock](https://github.com/conradkleinespel/gitclock)
+  > All your git commits within a set schedule and timezone. 
+
+### [shagu](https://github.com/shagu)
+- 🌟 👤 [shagu](https://github.com/shagu) Starred [FabianZettl/armadalive](https://github.com/FabianZettl/armadalive)
+  > Companion app for the AYN Thor's bottom screen on Armada OS, for ES-DE and Steam / Big Picture
+
+### [shanselman](https://github.com/shanselman)
+- 🍴 👤 [shanselman](https://github.com/shanselman) Forked [microsoft/azure-sql-database-container](https://github.com/microsoft/azure-sql-database-container) to [shanselman/azure-sql-database-container](https://github.com/shanselman/azure-sql-database-container)
+  > This is the Azure SQL Database container image repository
 
 ### [staringispolite](https://github.com/staringispolite)
 - 🌟 👤 [staringispolite](https://github.com/staringispolite) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
@@ -126,7 +158,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-01 18:40:49 UTC*
+*Last updated at 2026-11-01 22:29:44 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/10) directory.*
 <!-- /archive-link -->
