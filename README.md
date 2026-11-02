@@ -8,21 +8,48 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [afiskon](https://github.com/afiskon)
+- 🌟 👤 [afiskon](https://github.com/afiskon) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
+### [copy](https://github.com/copy)
+- 🍴 👤 [copy](https://github.com/copy) Forked [mirage/alcotest](https://github.com/mirage/alcotest) to [copy/alcotest](https://github.com/copy/alcotest)
+  > A lightweight and colourful test framework
+
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [aomkoyo/obs-airplay-receiver](https://github.com/aomkoyo/obs-airplay-receiver)
   > OBS Studio plugin to receive AirPlay screen mirroring from iPhone/iPad/Mac on Windows. Built with Cl...
 
-### [fcakyon](https://github.com/fcakyon)
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [namuan/browser-to-cli](https://github.com/namuan/browser-to-cli)
-  > CLI tools to capture browser network requests and generate OpenAPI specs
+### [dumbasPL](https://github.com/dumbasPL)
+- 🌟 👤 [dumbasPL](https://github.com/dumbasPL) Starred [HullaBrian/dnspyex-mcp](https://github.com/HullaBrian/dnspyex-mcp)
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [alexgaoth/awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered) to [fengjixuchui/awesome-reverse-engineered](https://github.com/fengjixuchui/awesome-reverse-engineered)
   > Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps,...
 
+### [fnuecke](https://github.com/fnuecke)
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd)
+  > Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passke...
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+  > Tool for automatic PS5 executables porting to Linux and Windows
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5)
+  > PlayStation 5 translation layer for Windows, Linux and macOS
+
+### [ftomassetti](https://github.com/ftomassetti)
+- 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [robertoarcella-bot/Lawyers-PDF](https://github.com/robertoarcella-bot/Lawyers-PDF)
+  > Strumenti PDF per lo studio legale: attestazioni di conformita', firme, marche temporali. Fork di St...
+
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [Ernket/CodeScan-Artex](https://github.com/Ernket/CodeScan-Artex)
   > 二开artex的代码审计平台 | 新增本地反编译java依赖库 | 多账号管理
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [qybaihe/bla](https://github.com/qybaihe/bla)
+  > 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bun...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [Tencent-Hunyuan/Hy-Nomas](https://github.com/Tencent-Hunyuan/Hy-Nomas)
+  > Hy-Nomas: Towards Free-form Interactive World Generation
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [dengyie/one-mail](https://github.com/dengyie/one-mail)
+  > Unified inbox: aggregate QQ/163/Gmail/Outlook mail via VPS aggregator into one Cloudflare Worker API...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [dengyie/PanRouter](https://github.com/dengyie/PanRouter)
+  > PanRouter 生态：Go 自部署网盘解析服务（server 分支）+ Windows 桌面客户端（main，基于 YunX-Desktop 整合）
 
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [ellenhp/auditlm](https://github.com/ellenhp/auditlm)
@@ -47,27 +74,45 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [justaugustus](https://github.com/justaugustus) Made [uwu-tests/scorecard-action](https://github.com/uwu-tests/scorecard-action) public
   > baton demo: stands in for ossf/scorecard-action
 
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [anomalyco/hex](https://github.com/anomalyco/hex)
+  > Local voice dictation for mac, windows and linux
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [kovyrin/power-watcher](https://github.com/kovyrin/power-watcher)
+  > A native macOS menu-bar app with escalating, click-through low-battery edge glows.
+
+### [mingrammer](https://github.com/mingrammer)
+- 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)
+  > 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [n0-computer/noq](https://github.com/n0-computer/noq)
   > noq, a QUIC implementation in Rust
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [n0-computer/iroh-blobs](https://github.com/n0-computer/iroh-blobs)
   > Blobs layer for iroh
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [josevalim/lynx](https://github.com/josevalim/lynx)
+  > Proofs for Erlang/Elixir programs through LEAN (via automatic translation of Core Erlang)
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [rorygallagher2024/glasshouse](https://github.com/rorygallagher2024/glasshouse)
   > For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, r...
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [skeeto/prospero](https://github.com/skeeto/prospero)
+  > Prospero coding harness
+
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Co...
 
-### [realoriginal](https://github.com/realoriginal)
-- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [trunk-rs/trunk](https://github.com/trunk-rs/trunk)
-  > Build, bundle & ship your Rust WASM application to the web.
+### [trieu](https://github.com/trieu)
+- 🍴 👤 [trieu](https://github.com/trieu) Forked [SonPhatTranDeveloper/vietnam-it-job-trends](https://github.com/SonPhatTranDeveloper/vietnam-it-job-trends) to [trieu/vietnam-it-job-trends](https://github.com/trieu/vietnam-it-job-trends)
+  > Thu thập và phân tích 3.469 tin tuyển dụng IT tại Việt Nam (web scraping + Claude + Jev) — bản 2026,...
 
-### [shanselman](https://github.com/shanselman)
-- 🌟 👤 [shanselman](https://github.com/shanselman) Starred [firerock31/wattson](https://github.com/firerock31/wattson)
-  > Open-source Rivian energy tracker. Gary watches your Rivian. Wattson knows it.
+### [vigna](https://github.com/vigna)
+- 🍴 👤 [vigna](https://github.com/vigna) Forked [apache/commons-rng](https://github.com/apache/commons-rng) to [vigna/commons-rng](https://github.com/vigna/commons-rng)
+  > Apache Commons RNG (Pseudo-random number generators)
+- 🍴 👤 [vigna](https://github.com/vigna) Forked [bashtage/randomgen](https://github.com/bashtage/randomgen) to [vigna/randomgen](https://github.com/vigna/randomgen)
+  > Numpy-compatible bit generators and add some random variate distributions missing from NumPy.
 
 
 <!-- nav -->
@@ -75,7 +120,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-02 08:39:17 UTC*
+*Last updated at 2026-11-02 18:54:40 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
