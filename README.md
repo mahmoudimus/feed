@@ -12,16 +12,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
   > Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / ...
 
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [mishoko/claude-code-recursive-delete-guard](https://github.com/mishoko/claude-code-recursive-delete-guard)
+  > Claude Code hook that blocks unquoted rm -rf $VAR and repo-root deletes, even in bypassPermissions m...
+
 ### [artem](https://github.com/artem)
 - 🌟 👤 [artem](https://github.com/artem) Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+
+### [bbugdigger](https://github.com/bbugdigger)
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [0xeb/bnsql](https://github.com/0xeb/bnsql)
+  > SQL interface to Binary Ninja databases
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [0xeb/ghidrasql](https://github.com/0xeb/ghidrasql)
+  > SQL interface for Ghidra program databases — query functions, xrefs, types, decompilation with stand...
+- 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
+  > Vibe Reverse Engineer with IDA Pro: An interface for IDA in SQL via live virtual tables. Don't let a...
 
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
   > Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference...
-
-### [eonarheim](https://github.com/eonarheim)
-- 🌟 👤 [eonarheim](https://github.com/eonarheim) Starred [jaxvikco/caladesi](https://github.com/jaxvikco/caladesi)
-  > A toy .NET language with TypeScript syntax. Compiles directly to IL, with an MSBuild SDK, language s...
 
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies)
@@ -71,10 +79,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > This repository is created for the sole problem of answering the question: How can we develop intell...
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [SJTU-DENG-Lab/WaveForcing](https://github.com/SJTU-DENG-Lab/WaveForcing)
   > Wave Forcing: Towards Speed-of-Light Streaming Video Generation
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)
+  > 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by sho...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [fabox-os/Pro-Wave](https://github.com/fabox-os/Pro-Wave)
+  > ProWave, a music production Daw in the style of Logic Pro, written in pure Rust with egui. Tracks, M...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [JiangMingZi/Embodi_Chat](https://github.com/JiangMingZi/Embodi_Chat)
+  > A real-time talking face generation frameworks for robots
 
 ### [laurci](https://github.com/laurci)
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [opencoredev/sandbox-bench](https://github.com/opencoredev/sandbox-bench)
   > Sandbox bench: cloud sandboxes for AI agents, measured
+
+### [lovasoa](https://github.com/lovasoa)
+- 🚀 👤 [lovasoa](https://github.com/lovasoa) Made [lovasoa/fidophir](https://github.com/lovasoa/fidophir) public
+  > Use a hardware-backed security module as a hardware security key on linux.
+- 🍴 👤 [lovasoa](https://github.com/lovasoa) Forked [google/OpenSK](https://github.com/google/OpenSK) to [lovasoa/OpenSK](https://github.com/lovasoa/OpenSK)
+  > OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2...
 
 ### [mingrammer](https://github.com/mingrammer)
 - 🌟 👤 [mingrammer](https://github.com/mingrammer) Starred [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills)
@@ -98,6 +118,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [parasyte](https://github.com/parasyte) Starred [modelsalt/model-salt](https://github.com/modelsalt/model-salt)
   > MCP server that gives your model randomness from outside it, so one prompt gives different answers t...
 
+### [patrickmscott](https://github.com/patrickmscott)
+- 🍴 👤 [patrickmscott](https://github.com/patrickmscott) Forked [bazel-contrib/toolchains_llvm](https://github.com/bazel-contrib/toolchains_llvm) to [patrickmscott/toolchains_llvm](https://github.com/patrickmscott/toolchains_llvm)
+  > LLVM toolchain for bazel
+
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [nfnt/datafusion-forecast](https://github.com/nfnt/datafusion-forecast)
   > Timestral forecasting for Apache DataFusion
@@ -112,13 +136,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer)
   > A modern Python application packaging and distribution tool
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [g0h4n/RustHound-CE](https://github.com/g0h4n/RustHound-CE)
-  > Active Directory data ingestor for BloodHound Community Edition written in Rust. 🦀 
+  > Active Directory data ingestor via LDAP(S) or ADWS protocol for BloodHound Community Edition written...
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware)
   > 🐬 Feature-rich, stable and customizable Flipper Firmware
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [AmberWolfCyber/NachoVPN](https://github.com/AmberWolfCyber/NachoVPN)
+  > A delicious, but malicious SSL-VPN server 🌮
 
-### [sysrex](https://github.com/sysrex)
-- 🍴 👤 [sysrex](https://github.com/sysrex) Forked [omacom/omarchy-iso](https://github.com/omacom/omarchy-iso) to [sysrex/omarchy-iso](https://github.com/sysrex/omarchy-iso)
-- 🍴 👤 [sysrex](https://github.com/sysrex) Forked [omacom/omarchy-pkgs](https://github.com/omacom/omarchy-pkgs) to [sysrex/omarchy-pkgs](https://github.com/sysrex/omarchy-pkgs)
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [feti8191-netizen/Vela](https://github.com/feti8191-netizen/Vela)
+  > Vela — a small programming language with unique syntax, implemented from scratch in C++17
+
+### [tabjy](https://github.com/tabjy)
+- 🌟 👤 [tabjy](https://github.com/tabjy) Starred [Ubani-Studio/clo3d-mcp](https://github.com/Ubani-Studio/clo3d-mcp)
+  > MCP server for CLO3D. Control 3D garment design from Claude, Cursor, or any MCP client.
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [pthm/melange](https://github.com/pthm/melange)
@@ -133,6 +163,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [vigna](https://github.com/vigna)
 - 🍴 👤 [vigna](https://github.com/vigna) Forked [daqana/dqrng](https://github.com/daqana/dqrng) to [vigna/dqrng](https://github.com/vigna/dqrng)
   > Fast Pseudo Random Number Generators for R
+- 🍴 👤 [vigna](https://github.com/vigna) Forked [rabauke/trng4](https://github.com/rabauke/trng4) to [vigna/trng4](https://github.com/vigna/trng4)
+  > state of the art C++ pseudo-random number generator library for sequential and parallel Monte Carlo ...
 
 ### [wl4g](https://github.com/wl4g)
 - 🍴 👤 [wl4g](https://github.com/wl4g) Forked [abiosoft/colima](https://github.com/abiosoft/colima) to [wl4g-collect/colima](https://github.com/wl4g-collect/colima)
@@ -144,7 +176,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-04 18:17:52 UTC*
+*Last updated at 2026-11-04 23:59:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
