@@ -12,14 +12,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [1ilsang](https://github.com/1ilsang) Forked [microsoft/inshellisense](https://github.com/microsoft/inshellisense) to [1ilsang/inshellisense](https://github.com/1ilsang/inshellisense)
   > IDE style command line auto complete
 
-### [Hellblazer](https://github.com/Hellblazer)
-- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [herdrdev/herdr](https://github.com/herdrdev/herdr) to [Hellblazer/herdr](https://github.com/Hellblazer/herdr)
-  > the runtime your coding agents live on
-- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [herdrdev/herdr-core](https://github.com/herdrdev/herdr-core) to [Hellblazer/herdr-core](https://github.com/Hellblazer/herdr-core)
-  > herdr-core: terminals for coding agents
-- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [herdrdev/herdr-app](https://github.com/herdrdev/herdr-app) to [Hellblazer/herdr-app](https://github.com/Hellblazer/herdr-app)
-  > herdr desktop app
-
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)
   > NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
@@ -37,6 +29,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [anomalyco/rune](https://github.com/anomalyco/rune)
   > Rune: Native UI framework
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI)
+  > Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, Reac...
+
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [simstudioai/sim](https://github.com/simstudioai/sim)
+  > Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 10...
 
 ### [esonghori](https://github.com/esonghori)
 - 🍴 👤 [esonghori](https://github.com/esonghori) Forked [z-lab/dflash](https://github.com/z-lab/dflash) to [esonghori/dflash](https://github.com/esonghori/dflash)
@@ -59,10 +57,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [S12cybersecurity/LogonStealer](https://github.com/S12cybersecurity/LogonStealer) to [fengjixuchui/LogonStealer](https://github.com/fengjixuchui/LogonStealer)
   > Abuses the Credential Provider interface to steal plaintext passwords from logonui.exe via CredProvD...
 
-### [frol](https://github.com/frol)
-- 🌟 👤 [frol](https://github.com/frol) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
-  > Incremental rust builds up to 92x faster than cargo/rustc
-
 ### [gabrielfalcao](https://github.com/gabrielfalcao)
 - 🌟 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Starred [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI)
   > Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, Reac...
@@ -80,6 +74,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Lyricccco/tailsteer](https://github.com/Lyricccco/tailsteer) to [johndpope/tailsteer](https://github.com/johndpope/tailsteer)
   > TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [TaoLiveAIGC/TaoMate-HD](https://github.com/TaoLiveAIGC/TaoMate-HD)
+  > progressive-resolution autoregressive audio-video generation model
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [TaoLiveAIGC/TaoMate-HD](https://github.com/TaoLiveAIGC/TaoMate-HD) to [johndpope/TaoMate-HD](https://github.com/johndpope/TaoMate-HD)
+  > progressive-resolution autoregressive audio-video generation model
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Hyperstitioncc/Hyperkernel](https://github.com/Hyperstitioncc/Hyperkernel)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Hyperstitioncc/Hyperkernel](https://github.com/Hyperstitioncc/Hyperkernel) to [johndpope/Hyperkernel](https://github.com/johndpope/Hyperkernel)
 
 ### [klen](https://github.com/klen)
 - 🌟 👤 [klen](https://github.com/klen) Starred [tiagozip/cap](https://github.com/tiagozip/cap)
@@ -92,6 +92,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zortos293/Lichii](https://github.com/zortos293/Lichii)
   > VERY experimental Nintendo Switch 2 emulator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [riyadhHDA/wichforks](https://github.com/riyadhHDA/wichforks)
+  > Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community repo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JonathanDC64/Soulbrandt](https://github.com/JonathanDC64/Soulbrandt)
+  > Soulbrandt: Demon's Souls, running natively on PC
 
 ### [msimacek](https://github.com/msimacek)
 - 🍴 👤 [msimacek](https://github.com/msimacek) Forked [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) to [msimacek/micronaut-core](https://github.com/msimacek/micronaut-core)
@@ -111,6 +115,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Anvil is an experimental framework to build practical, formally verified, cluster management control...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [sentrux/sentrux](https://github.com/sentrux/sentrux)
   > Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [spectrelang/spectre](https://github.com/spectrelang/spectre)
+  > Spectre programming language
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [aritabryan/copyover](https://github.com/aritabryan/copyover)
@@ -126,21 +132,32 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [google/gvisor](https://github.com/google/gvisor)
   > Application Kernel for Containers
 
+### [randombit](https://github.com/randombit)
+- 🌟 👤 [randombit](https://github.com/randombit) Starred [randombit/plzn](https://github.com/randombit/plzn)
+  > A DSL-driven TLS/DTLS test suite
+
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [railwayapp/railpack](https://github.com/railwayapp/railpack)
   > Zero-config application builder that automatically analyzes and turns your code into an image
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [mviereck/x11docker](https://github.com/mviereck/x11docker)
   > Run GUI applications and desktops in docker and podman containers. Focus on security.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [YorkWaugh/vmware_tools_backup](https://github.com/YorkWaugh/vmware_tools_backup)
 
-### [shazow](https://github.com/shazow)
-- 🌟 👤 [shazow](https://github.com/shazow) Starred [rjyo/osewa](https://github.com/rjyo/osewa)
-  > Persistent remote terminals over QUIC and TLS WebSocket, built on libghostty-vt (Rust)
+### [shagu](https://github.com/shagu)
+- 🌟 👤 [shagu](https://github.com/shagu) Starred [rommapp/ludo](https://github.com/rommapp/ludo)
+  > Ludo — RomM client for Steam Deck (Decky plugin) and desktop
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters)
   > A macOS menu-bar app that dresses your windows in knitted borders.
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [bluesky-social/roast](https://github.com/bluesky-social/roast)
   > Adversarial cross-model code review.
+
+### [sysrex](https://github.com/sysrex)
+- 🍴 👤 [sysrex](https://github.com/sysrex) Forked [piermark/omarchy-pulse-theme](https://github.com/piermark/omarchy-pulse-theme) to [sysrex/omarchy-pulse-theme](https://github.com/sysrex/omarchy-pulse-theme)
+  > Omarchy Pulse: a live wallpaper for Omarchy 4.5. Any live data behind your windows: system, weather,...
+- 🌟 👤 [sysrex](https://github.com/sysrex) Starred [piermark/omarchy-pulse-theme](https://github.com/piermark/omarchy-pulse-theme)
+  > Omarchy Pulse: a live wallpaper for Omarchy 4.5. Any live data behind your windows: system, weather,...
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🚀 👤 [thomasdarimont](https://github.com/thomasdarimont) Made [thomasdarimont/keycloak-mcp-server](https://github.com/thomasdarimont/keycloak-mcp-server) public
@@ -163,7 +180,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-06 16:23:46 UTC*
+*Last updated at 2026-11-06 21:49:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
