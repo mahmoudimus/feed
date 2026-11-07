@@ -32,10 +32,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a codi...
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
   > An embeddable, portable, branchable virtual machine to safely run Agents locally.
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [nicoespeon/ecureuil](https://github.com/nicoespeon/ecureuil)
+  > Écureuil — liste de courses du foyer, triée par rayon, offline-first (PWA)
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix)
+  > NixOS MicroVMs
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [dawgyg/AppleResearch](https://github.com/dawgyg/AppleResearch) to [fengjixuchui/AppleResearch](https://github.com/fengjixuchui/AppleResearch)
   > A raw dump of my Apple MacOS research. Some likely can be ported over to other Apple OSes. Alot of t...
+
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [lxe/phoneuse](https://github.com/lxe/phoneuse)
+  > See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboar...
+- 🌟 👤 [frol](https://github.com/frol) Starred [whiskerrs/whisker](https://github.com/whiskerrs/whisker)
+  > Build native iOS, Android, web and desktop apps in Rust
+- 🌟 👤 [frol](https://github.com/frol) Starred [66HEX/frame](https://github.com/66HEX/frame)
+  > FFmpeg GUI
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Luo-Yihong/VA-TDM](https://github.com/Luo-Yihong/VA-TDM)
@@ -66,6 +78,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > A Tauri v2 plugin that provides a native video player, launched from your webview
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)
   > Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cur...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [CutWire-Studios/Drift](https://github.com/CutWire-Studios/Drift)
+  > Drift is a free, open-source, beginner-friendly desktop video editor built with Qt 6 and FFmpeg.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [coldsilence507/HouseholderMotionEmbedding-Release](https://github.com/coldsilence507/HouseholderMotionEmbedding-Release)
+  > Code for [NeurIPS 2026 Spotlight] Householder Motion Embedding: Noise Modulation for Motion-Controll...
+
+### [johnmccabe](https://github.com/johnmccabe)
+- 🌟 👤 [johnmccabe](https://github.com/johnmccabe) Starred [firelex/jeff](https://github.com/firelex/jeff)
+  > Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with...
 
 ### [luin](https://github.com/luin)
 - 🌟 👤 [luin](https://github.com/luin) Starred [marselnenaj/omarchy-yubikey](https://github.com/marselnenaj/omarchy-yubikey)
@@ -98,14 +118,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Let your AI agents use your real browser: an MCP server and a Chromium extension
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [aardappel/goose](https://github.com/aardappel/goose)
   > The Goose Programming Language
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bondy-io/bondy-connect](https://github.com/bondy-io/bondy-connect)
+  > Bondy Connect is an open source, always-on and scalable application networking platform connecting a...
 
-### [sintaxi](https://github.com/sintaxi)
-- 🌟 👤 [sintaxi](https://github.com/sintaxi) Starred [enroute-sh/enroute](https://github.com/enroute-sh/enroute)
-  > Programmable git infrastructure on top of object storage. Think turbopuffer for git. Open source alt...
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+  > SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and autom...
 
 ### [skx](https://github.com/skx)
 - 🌟 👤 [skx](https://github.com/skx) Starred [dilshan/flash-c](https://github.com/dilshan/flash-c)
   >  A C compiler and DOS-style text-mode IDE for Linux x86-64. Compiles C straight to native executable...
+
+### [smourier](https://github.com/smourier)
+- 🚀 👤 [smourier](https://github.com/smourier) Made [smourier/d3d12-win32md](https://github.com/smourier/d3d12-win32md) public
+  > Generator project for Microsoft.Direct3D.D3D12.Win32.winmd
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) to [stepancheg/go-pretty](https://github.com/stepancheg/go-pretty)
@@ -125,7 +151,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-07 14:27:12 UTC*
+*Last updated at 2026-11-07 19:07:25 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
