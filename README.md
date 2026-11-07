@@ -8,12 +8,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [CDSoft](https://github.com/CDSoft)
+- 🌟 👤 [CDSoft](https://github.com/CDSoft) Starred [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso)
+  > A search-focused Android launcher
+
 ### [Clivern](https://github.com/Clivern)
 - 🌟 👤 [Clivern](https://github.com/Clivern) Starred [tamer-hassan/xigmatek-connect-lcd](https://github.com/tamer-hassan/xigmatek-connect-lcd)
   > Unofficial Linux counterpart of the ALPHA app for the 480x480 LCD in Xigmatek Connect AIO coolers: t...
 
+### [GabLeRoux](https://github.com/GabLeRoux)
+- 🌟 👤 [GabLeRoux](https://github.com/GabLeRoux) Starred [AsherJN/recall](https://github.com/AsherJN/recall)
+  > Play Overwatch on your Mac. Free and open source, made for Apple Silicon.
+
 ### [JLLeitschuh](https://github.com/JLLeitschuh)
 - 🌟 👤 [JLLeitschuh](https://github.com/JLLeitschuh) Starred [musubipapi/airpointer](https://github.com/musubipapi/airpointer)
+
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [intel/tsffs](https://github.com/intel/tsffs)
+  > A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS
 
 ### [bbugdigger](https://github.com/bbugdigger)
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [00xAuto/Capcom.sys-Full-Documentation](https://github.com/00xAuto/Capcom.sys-Full-Documentation)
@@ -40,14 +52,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [dawgyg/AppleResearch](https://github.com/dawgyg/AppleResearch) to [fengjixuchui/AppleResearch](https://github.com/fengjixuchui/AppleResearch)
   > A raw dump of my Apple MacOS research. Some likely can be ported over to other Apple OSes. Alot of t...
-
-### [frol](https://github.com/frol)
-- 🌟 👤 [frol](https://github.com/frol) Starred [lxe/phoneuse](https://github.com/lxe/phoneuse)
-  > See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboar...
-- 🌟 👤 [frol](https://github.com/frol) Starred [whiskerrs/whisker](https://github.com/whiskerrs/whisker)
-  > Build native iOS, Android, web and desktop apps in Rust
-- 🌟 👤 [frol](https://github.com/frol) Starred [66HEX/frame](https://github.com/66HEX/frame)
-  > FFmpeg GUI
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Luo-Yihong/VA-TDM](https://github.com/Luo-Yihong/VA-TDM)
@@ -120,6 +124,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The Goose Programming Language
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [bondy-io/bondy-connect](https://github.com/bondy-io/bondy-connect)
   > Bondy Connect is an open source, always-on and scalable application networking platform connecting a...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch)
+  > Internet search engine for text-oriented websites. Indexing the small, old and weird web. 
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
@@ -137,6 +143,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [stepancheg](https://github.com/stepancheg) Forked [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) to [stepancheg/go-pretty](https://github.com/stepancheg/go-pretty)
   > Table-writer and more in golang!
 
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [konstantindenerz/k0d3ball35](https://github.com/konstantindenerz/k0d3ball35)
+  > Wireless 35-key low-profile split keyboard with a 19 mm trackball in the case pocket. ZMK firmware, ...
+
 ### [wl4g](https://github.com/wl4g)
 - 🍴 👤 [wl4g](https://github.com/wl4g) Forked [robbietilton/Compositor](https://github.com/robbietilton/Compositor) to [wl4g-collect/Compositor](https://github.com/wl4g-collect/Compositor)
   > The Photoshop alternative for Mac
@@ -145,13 +155,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [zacharywhitley](https://github.com/zacharywhitley) Forked [cqframework/cql-tests](https://github.com/cqframework/cql-tests) to [zacharywhitley/cql-tests](https://github.com/zacharywhitley/cql-tests)
   > Clinical Quality Language Tests Repository
 
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [anthropics/axt-verify](https://github.com/anthropics/axt-verify)
+
 
 <!-- nav -->
 [← 2026-11-06](archive/2026/11/06.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-07 19:07:25 UTC*
+*Last updated at 2026-11-07 23:09:51 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
