@@ -32,9 +32,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate)
   > A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves ...
 
-### [fcakyon](https://github.com/fcakyon)
-- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [every-app/open-seo](https://github.com/every-app/open-seo)
-  > Open source alternative to Semrush and Ahrefs
+### [frol](https://github.com/frol)
+- 🌟 👤 [frol](https://github.com/frol) Starred [wieslawsoltes/FerroUI](https://github.com/wieslawsoltes/FerroUI)
+  > Cross-platform UI framework for Rust: styled property system, data binding, XAML, control themes and...
 
 ### [ftomassetti](https://github.com/ftomassetti)
 - 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [torvalds/linux](https://github.com/torvalds/linux)
@@ -42,9 +42,19 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [huangjia2019/designing-ai-agents](https://github.com/huangjia2019/designing-ai-agents)
   > Companion code for 'Designing AI Agents' (Manning, 2027) — 27 agent design patterns, organized by th...
 
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [NeuroSaki987/tvm-recover](https://github.com/NeuroSaki987/tvm-recover)
+  > Tencent VM  .tvm0 脱壳与PE重写入工具
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [YuroGod/VMPStaticUnpacker](https://github.com/YuroGod/VMPStaticUnpacker)
+  > Static VMProtect unpacker , supporting VMProtect 3.9.5
+
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [8rank/iKnow](https://github.com/8rank/iKnow)
   > Viz. Apple IntelligencePlatform store
+
+### [izuzak](https://github.com/izuzak)
+- 🌟 👤 [izuzak](https://github.com/izuzak) Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+  > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Forward-Future/folio](https://github.com/Forward-Future/folio)
@@ -66,9 +76,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [matlowai/ComfyUI-Dials](https://github.com/matlowai/ComfyUI-Dials) to [johndpope/ComfyUI-Dials](https://github.com/johndpope/ComfyUI-Dials)
   > Training-free steering dials for MiniMax H3: turn prompt pairs into a 14 KB slider (Freeze <-> Zoomi...
 
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [apple-aiml-research/ml-halo](https://github.com/apple-aiml-research/ml-halo)
+  > HALO: Perceptive Humanoid Motion from Simulation
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
   > the ultimate vocal synthesizer - sing, speak, beatbox, and more
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [meta/astryx](https://github.com/meta/astryx)
+  > An open source design system that's fully customizable and agent ready
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [freenet/river](https://github.com/freenet/river)
@@ -81,6 +98,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Dense real linear algebra for the Goose programming language, in pure Goose: LU, Cholesky, QR, symme...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [calpeyser/goose-evaluations](https://github.com/calpeyser/goose-evaluations)
   > Four real-world benchmarks of the Goose language against common and expert C/C++/Rust implementation...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [muellerberndt/cadence](https://github.com/muellerberndt/cadence)
+  > A brain that learns from live experience. System 1 by default: perception, memory, plasticity and ac...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ArneshBanerjee/gpt2.s](https://github.com/ArneshBanerjee/gpt2.s)
+  > GPT-2 small (124M) in hand-written AArch64 assembly. No libc calls. About 100 tokens/s on an M1.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OpenLAIR/lev](https://github.com/OpenLAIR/lev)
+  > Lev: Thinking Fast and Deep with Looped Decision Models. One checkpoint, multiple depths: System 1.5...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OpenLAIR/OpenSkill](https://github.com/OpenLAIR/OpenSkill)
+  > Open-World Self-Evolution for LLM Agents — agents that build both their skills and their own verific...
 
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [lucasjinreal/Crane](https://github.com/lucasjinreal/Crane)
@@ -97,6 +122,15 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Safe Rust bindings to POSIX-ish APIs
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [rust-openssl/rust-openssl](https://github.com/rust-openssl/rust-openssl)
   > OpenSSL bindings for Rust
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [itsPLK/ps5-webkit-remote-loader](https://github.com/itsPLK/ps5-webkit-remote-loader)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [itsPLK/ps5-webkit-autoloader](https://github.com/itsPLK/ps5-webkit-autoloader)
+  > An automated payload loader for exploited PS5 consoles
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [itsPLK/ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager)
+  > A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [platomav/BIOSUtilities](https://github.com/platomav/BIOSUtilities)
+  > Collection of various BIOS/UEFI-related utilities which aid in research and/or modding purposes.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [sysprog21/kvm-host](https://github.com/sysprog21/kvm-host)
+  > A minimalist type 2 hypervisor using Linux Kernel Virtual Machine (KVM)
 
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [axboe/liburing](https://github.com/axboe/liburing)
@@ -105,6 +139,8 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [veorq](https://github.com/veorq)
 - 🌟 👤 [veorq](https://github.com/veorq) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
   > OpenShell is the safe, private runtime for autonomous AI agents.
+- 🌟 👤 [veorq](https://github.com/veorq) Starred [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+  > Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio w...
 
 ### [yajo](https://github.com/yajo)
 - 🌟 👤 [yajo](https://github.com/yajo) Starred [mantou132/AgentDeck](https://github.com/mantou132/AgentDeck)
@@ -118,7 +154,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-08 16:25:00 UTC*
+*Last updated at 2026-11-08 20:49:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
