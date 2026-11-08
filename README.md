@@ -21,6 +21,30 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy)
   > Infrastructure as Effects
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [longbridge/gpui-fast](https://github.com/longbridge/gpui-fast)
+  > GPUI extracted from the Zed monorepo as a standalone workspace, with the layout engine reworked to k...
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [crmne/zapfast](https://github.com/crmne/zapfast)
+  > ZapFast: a fast, native WhatsApp client in Rust and egui
+- 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [crmne/fastframe](https://github.com/crmne/fastframe)
+  > egui on rails: the shared foundation for native Rust apps built with egui
+
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate)
+  > A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves ...
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [every-app/open-seo](https://github.com/every-app/open-seo)
+  > Open source alternative to Semrush and Ahrefs
+
+### [ftomassetti](https://github.com/ftomassetti)
+- 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [torvalds/linux](https://github.com/torvalds/linux)
+  > Linux kernel source tree
+- 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [huangjia2019/designing-ai-agents](https://github.com/huangjia2019/designing-ai-agents)
+  > Companion code for 'Designing AI Agents' (Manning, 2027) — 27 agent design patterns, organized by th...
+
+### [imrehg](https://github.com/imrehg)
+- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [8rank/iKnow](https://github.com/8rank/iKnow)
+  > Viz. Apple IntelligencePlatform store
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Forward-Future/folio](https://github.com/Forward-Future/folio)
@@ -42,11 +66,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [matlowai/ComfyUI-Dials](https://github.com/matlowai/ComfyUI-Dials) to [johndpope/ComfyUI-Dials](https://github.com/johndpope/ComfyUI-Dials)
   > Training-free steering dials for MiniMax H3: turn prompt pairs into a 14 KB slider (Freeze <-> Zoomi...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
+  > the ultimate vocal synthesizer - sing, speak, beatbox, and more
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [freenet/river](https://github.com/freenet/river)
   > Group chat with no backend
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [paulmillr/dispatch](https://github.com/paulmillr/dispatch)
   > Design-focused Terminal app for macs, with Chat Mode and native tmux/herdr tabs
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [horizon-rust/horizon](https://github.com/horizon-rust/horizon)
+  > Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differ...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [guillochon/goose-linalg](https://github.com/guillochon/goose-linalg)
+  > Dense real linear algebra for the Goose programming language, in pure Goose: LU, Cholesky, QR, symme...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [calpeyser/goose-evaluations](https://github.com/calpeyser/goose-evaluations)
+  > Four real-world benchmarks of the Goose language against common and expert C/C++/Rust implementation...
 
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [lucasjinreal/Crane](https://github.com/lucasjinreal/Crane)
@@ -61,6 +95,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > POC: Loading windows shared libraries on linux
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix)
   > Safe Rust bindings to POSIX-ish APIs
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [rust-openssl/rust-openssl](https://github.com/rust-openssl/rust-openssl)
+  > OpenSSL bindings for Rust
+
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [axboe/liburing](https://github.com/axboe/liburing)
+  > Library providing helpers for the Linux kernel io_uring support
+
+### [veorq](https://github.com/veorq)
+- 🌟 👤 [veorq](https://github.com/veorq) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+  > OpenShell is the safe, private runtime for autonomous AI agents.
 
 ### [yajo](https://github.com/yajo)
 - 🌟 👤 [yajo](https://github.com/yajo) Starred [mantou132/AgentDeck](https://github.com/mantou132/AgentDeck)
@@ -74,7 +118,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-08 09:41:48 UTC*
+*Last updated at 2026-11-08 16:25:00 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
