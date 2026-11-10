@@ -8,13 +8,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [GabLeRoux](https://github.com/GabLeRoux)
-- 🌟 👤 [GabLeRoux](https://github.com/GabLeRoux) Starred [likec4/likec4](https://github.com/likec4/likec4)
-  > Visualize, collaborate, and evolve the software architecture with always actual and live diagrams fr...
+### [MrChromebox](https://github.com/MrChromebox)
+- 🌟 👤 [MrChromebox](https://github.com/MrChromebox) Starred [FrameworkComputer/FrameworkDebugger](https://github.com/FrameworkComputer/FrameworkDebugger)
+  > Debugger Firmware Multitool
+- 🌟 👤 [MrChromebox](https://github.com/MrChromebox) Starred [FrameworkComputer/EmbeddedController](https://github.com/FrameworkComputer/EmbeddedController)
+  > Embedded Controller firmware for the Framework Laptop
+- 🌟 👤 [MrChromebox](https://github.com/MrChromebox) Starred [JohnAZoidberg/amd-debug-tools](https://github.com/JohnAZoidberg/amd-debug-tools)
+  > mirror of https://git.kernel.org/pub/scm/linux/kernel/git/superm1/amd-debug-tools.git/
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [huamidev/GestaltX](https://github.com/huamidev/GestaltX)
   > An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and sup...
+
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
+  > Keep your coding agent up to date with the latest web best practices
 
 ### [afiskon](https://github.com/afiskon)
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [neoscad/neoscad](https://github.com/neoscad/neoscad)
@@ -28,6 +36,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [contificate](https://github.com/contificate)
 - 🍴 👤 [contificate](https://github.com/contificate) Forked [xapi-project/xs-opam](https://github.com/xapi-project/xs-opam) to [contificate/xs-opam](https://github.com/contificate/xs-opam)
   > Opam repository for OCaml libraries to build Citrix Hypervisor toolstack components
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [ruashots/open-h3-ir](https://github.com/ruashots/open-h3-ir)
+  > Open-source local implementation of MiniMax H3 Context-IR. Turn simple prompts into structured, vali...
+
+### [lovasoa](https://github.com/lovasoa)
+- 🌟 👤 [lovasoa](https://github.com/lovasoa) Starred [google/OpenSK](https://github.com/google/OpenSK)
+  > OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2...
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [libLISA/Sem86](https://github.com/libLISA/Sem86)
@@ -54,13 +70,25 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [openrl-dev/openrl](https://github.com/openrl-dev/openrl)
   > Self-hosted post training API for LLMs
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [CelestoAI/celesto](https://github.com/CelestoAI/celesto)
+  > Secure and persistent computer for AI agents
+
 ### [robey](https://github.com/robey)
 - 🌟 👤 [robey](https://github.com/robey) Starred [coder/ghostty-web](https://github.com/coder/ghostty-web)
   > Ghostty for the web with xterm.js API compatibility
 
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [stephenlb/AI-Agent-Meta-Muse-GrokBot-But-Locally-Your-Own-PC-And-With-Ollama-And-Python](https://github.com/stephenlb/AI-Agent-Meta-Muse-GrokBot-But-Locally-Your-Own-PC-And-With-Ollama-And-Python)
+  > Run an AI agent locally on your own PC
+
 ### [sysrex](https://github.com/sysrex)
 - 🍴 👤 [sysrex](https://github.com/sysrex) Forked [bulletxyz/bullet-hyperlane-validator](https://github.com/bulletxyz/bullet-hyperlane-validator) to [sysrex/bullet-hyperlane-validator](https://github.com/sysrex/bullet-hyperlane-validator)
   > Terraform/OpenTofu module and attestable AMI for a Bullet Hyperlane validator
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [indykite/intent-agent](https://github.com/indykite/intent-agent)
+  > Intent Agent
 
 ### [zhangxu19830126](https://github.com/zhangxu19830126)
 - 🍴 👤 [zhangxu19830126](https://github.com/zhangxu19830126) Forked [nektos/act](https://github.com/nektos/act) to [matrixorigin/act](https://github.com/matrixorigin/act)
@@ -72,7 +100,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-10 15:52:51 UTC*
+*Last updated at 2026-11-10 21:30:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
