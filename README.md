@@ -12,6 +12,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [NinjaLikesCheez](https://github.com/NinjaLikesCheez) Starred [pixelbar/pixel-phone](https://github.com/pixelbar/pixel-phone)
   > Answers the Pixelbar doorbell's Telnyx call, rings the space, and plays a recording when someone acc...
 
+### [aanari](https://github.com/aanari)
+- 🍴 👤 [aanari](https://github.com/aanari) Forked [tableau/tableau-mcp](https://github.com/tableau/tableau-mcp) to [aanari/tableau-mcp](https://github.com/aanari/tableau-mcp)
+  > Tableau's official MCP Server. Helping agents see and understand data.
+
 ### [bbugdigger](https://github.com/bbugdigger)
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [badhive/stitch](https://github.com/badhive/stitch)
   > Rewrite and obfuscate code in compiled binaries
@@ -30,9 +34,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [bwhaley](https://github.com/bwhaley) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
   > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
 
-### [can1357](https://github.com/can1357)
-- 🍴 👤 [can1357](https://github.com/can1357) Forked [WebKit/WebKit](https://github.com/WebKit/WebKit) to [stencil-hq/abkit](https://github.com/stencil-hq/abkit)
-  > Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applic...
+### [dthree](https://github.com/dthree)
+- 🌟 👤 [dthree](https://github.com/dthree) Starred [aws/aws-emulator](https://github.com/aws/aws-emulator)
+  > AWS Emulator is a local emulator of the AWS APIs.
 
 ### [duk-37](https://github.com/duk-37)
 - 🌟 👤 [duk-37](https://github.com/duk-37) Starred [edgcpp/compiler](https://github.com/edgcpp/compiler)
@@ -42,15 +46,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
   > Production-grade engineering skills for AI coding agents.
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [kevinmkarol/omi-voice-notes](https://github.com/kevinmkarol/omi-voice-notes)
+  > Omi pendant as a voice-notes button: tap, talk, tap, then sync to a Mac over Bluetooth and transcrib...
+
 ### [h3xstream](https://github.com/h3xstream)
 - 🍴 👤 [h3xstream](https://github.com/h3xstream) Forked [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) to [h3xstream/bookorbit](https://github.com/h3xstream/bookorbit)
   > BookOrbit: Your Reading Space
+
+### [jeremyckahn](https://github.com/jeremyckahn)
+- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [pubky/pubky-homeserver](https://github.com/pubky/pubky-homeserver)
+  > An open protocol for per-public-key backends for censorship resistant web applications.
 
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [BennyDaBall930/comfyui_hyperflow_int8_nodes](https://github.com/BennyDaBall930/comfyui_hyperflow_int8_nodes)
   > Unofficial ComfyUI loader for HyperFlow H3 Flash INT8 checkpoints (fl2va and ref2va) on ComfyUI's na...
 - 🍴 👤 [johndpope](https://github.com/johndpope) Forked [BennyDaBall930/comfyui_hyperflow_int8_nodes](https://github.com/BennyDaBall930/comfyui_hyperflow_int8_nodes) to [johndpope/comfyui_hyperflow_int8_nodes](https://github.com/johndpope/comfyui_hyperflow_int8_nodes)
   > Unofficial ComfyUI loader for HyperFlow H3 Flash INT8 checkpoints (fl2va and ref2va) on ComfyUI's na...
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [ifm-ai/PAN2](https://github.com/ifm-ai/PAN2)
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [ifm-ai/PAN2](https://github.com/ifm-ai/PAN2) to [johndpope/PAN2](https://github.com/johndpope/PAN2)
+
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [maccman/awesome-health-stack](https://github.com/maccman/awesome-health-stack)
+  > Places I've found to get health data without going through a doctor first.
 
 ### [mattn](https://github.com/mattn)
 - 🍴 👤 [mattn](https://github.com/mattn) Forked [rawhat/gramps](https://github.com/rawhat/gramps) to [mattn/gramps](https://github.com/mattn/gramps)
@@ -69,6 +87,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [expo/exact](https://github.com/expo/exact)
   > Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it,...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [moonbit-community/certimoon](https://github.com/moonbit-community/certimoon)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pizd0s/kernel](https://github.com/pizd0s/kernel)
+  > Pizd0s Is Zero-cost Dom-0 Sandbox
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [OSU-NLP-Group/ARLoop](https://github.com/OSU-NLP-Group/ARLoop)
+  > Codebase for ARLoop paper.
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [lateshift/imgui-hotbox](https://github.com/lateshift/imgui-hotbox)
+  > A hotbox with marking menus for Dear ImGui applications, inspired by the hotbox in Autodesk® Maya®
+
+### [parasyte](https://github.com/parasyte)
+- 🌟 👤 [parasyte](https://github.com/parasyte) Starred [oguzeldereli/ttf-ternary](https://github.com/oguzeldereli/ttf-ternary)
+  > Two-timescale threshold flips (TTF): training and converting ternary {-1,0,1} LLMs without full-prec...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [yetone/magpie](https://github.com/yetone/magpie)
@@ -78,13 +108,39 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [chojs23/concord](https://github.com/chojs23/concord)
   > A feature-rich TUI client for Discord
 
+### [rwjblue](https://github.com/rwjblue)
+- 🌟 👤 [rwjblue](https://github.com/rwjblue) Starred [mr-karan/doggo](https://github.com/mr-karan/doggo)
+  > :dog: Command-line DNS Client for Humans. Written in Golang
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [aws/aws-emulator](https://github.com/aws/aws-emulator)
+  > AWS Emulator is a local emulator of the AWS APIs.
+
+### [spotlightishere](https://github.com/spotlightishere)
+- 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [popvax/yash](https://github.com/popvax/yash)
+  > A personalized mRNA cancer vaccine for Yash, made at the RNA Foundry
+
+### [stephenlb](https://github.com/stephenlb)
+- 🌟 👤 [stephenlb](https://github.com/stephenlb) Starred [parth-satija/Midum](https://github.com/parth-satija/Midum)
+  > A local AI desktop assistant
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [occupysaas/zeroauthy](https://github.com/occupysaas/zeroauthy)
+  > A clean room recreation of Auth0 with 1:1 drop in replacement feature parity.
+
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)
+  > Private AI meeting notes. Free and open source.
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [aws/aws-emulator](https://github.com/aws/aws-emulator)
+  > AWS Emulator is a local emulator of the AWS APIs.
+
 
 <!-- nav -->
 [← 2026-11-10](archive/2026/11/10.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-11 16:42:06 UTC*
+*Last updated at 2026-11-11 23:10:01 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
