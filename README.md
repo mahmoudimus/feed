@@ -8,17 +8,20 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [daily-co/daily-js](https://github.com/daily-co/daily-js)
+
+### [Generhr](https://github.com/Generhr)
+- 🌟 👤 [Generhr](https://github.com/Generhr) Starred [Generhr/__Template](https://github.com/Generhr/__Template)
+  > C++ project template with unit-tests, documentation, ci-testing and workflows.
+
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [vercel-labs/ui](https://github.com/vercel-labs/ui)
+  > A library of behaviors for agents to build the next generation of user interfaces.
+
 ### [alexazhou](https://github.com/alexazhou)
 - 🌟 👤 [alexazhou](https://github.com/alexazhou) Starred [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli)
   > Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
-
-### [boyney123](https://github.com/boyney123)
-- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [paulirish/chrome-capture](https://github.com/paulirish/chrome-capture)
-  > 60-120fps / 2160p tab video/audio capture from Chrome
-
-### [emcfarlane](https://github.com/emcfarlane)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-  > 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of...
 
 ### [hantaowang](https://github.com/hantaowang)
 - 🍴 👤 [hantaowang](https://github.com/hantaowang) Forked [arjaythedev/twelve-dollar-server-challenge](https://github.com/arjaythedev/twelve-dollar-server-challenge) to [hantaowang/twelve-dollar-server-challenge](https://github.com/hantaowang/twelve-dollar-server-challenge)
@@ -29,17 +32,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > xcodebuild for humans and agents: build, run, debug, and test iOS, macOS, tvOS, watchOS, and visionO...
 
 ### [johndpope](https://github.com/johndpope)
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Dylan997S/ninfer-dspine-rtx5090](https://github.com/Dylan997S/ninfer-dspine-rtx5090) to [johndpope/ninfer-5090-windows](https://github.com/johndpope/ninfer-5090-windows)
-  > NInfer with NVFP4 DSpine for RTX 5090 on Windows / Linux.
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [OpsiClear-4DGS/tsog](https://github.com/OpsiClear-4DGS/tsog)
+  > Apache-2.0 TSOG playback profile: formal specification, schema, optimized reference codecs and 4DGS ...
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [OpsiClear-4DGS/tsog](https://github.com/OpsiClear-4DGS/tsog) to [johndpope/tsog](https://github.com/johndpope/tsog)
+  > Apache-2.0 TSOG playback profile: formal specification, schema, optimized reference codecs and 4DGS ...
+
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [Robbyant/lingbot-touch](https://github.com/Robbyant/lingbot-touch)
+  > Learning Heterogeneous Tactile Representation for General Dexterous Manipulation
 
 ### [mdeinum](https://github.com/mdeinum)
 - 🚀 👤 [mdeinum](https://github.com/mdeinum) Made [mdeinum/test-output-buffer](https://github.com/mdeinum/test-output-buffer) public
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant)
-  > A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
-  > Hundreds of models & providers. One command to find what runs on your hardware.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [makepad/relax](https://github.com/makepad/relax)
@@ -48,6 +51,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > The open source ServerOS panel: one place to run the Linux servers you already own.
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [kocienda/tug](https://github.com/kocienda/tug)
   > An IDE for AI coding
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac)
+  > Process Explorer for MacOS
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [pietroth/LightnerX](https://github.com/pietroth/LightnerX)
+  > A lightweight C++ networking library for multiplayer game development, built on GameNetworkingSocket...
 
 ### [phauer](https://github.com/phauer)
 - 🌟 👤 [phauer](https://github.com/phauer) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -61,9 +68,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [budtmo/docker-android](https://github.com/budtmo/docker-android)
   > Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
 
+### [realoriginal](https://github.com/realoriginal)
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235)
+  > One of the most powerful primitives for Windows default configuration LPE
+
+### [shazow](https://github.com/shazow)
+- 🌟 👤 [shazow](https://github.com/shazow) Starred [pkieltyka/herdr-select](https://github.com/pkieltyka/herdr-select)
+  > organize your herdrs by project
+
 ### [sk-](https://github.com/sk-)
 - 🍴 👤 [sk-](https://github.com/sk-) Forked [stripe/stripe-python](https://github.com/stripe/stripe-python) to [sk-/stripe-python](https://github.com/sk-/stripe-python)
   > Python library for the Stripe API.    
+
+### [sysrex](https://github.com/sysrex)
+- 🍴 👤 [sysrex](https://github.com/sysrex) Forked [bjarneo/quire](https://github.com/bjarneo/quire) to [sysrex/quire](https://github.com/sysrex/quire)
+  > A plain editor for folders of Markdown files. Desktop (Rust + Rune) and Android.
 
 ### [vertical-blank](https://github.com/vertical-blank)
 - 🌟 👤 [vertical-blank](https://github.com/vertical-blank) Starred [kmc-jp/kamo64](https://github.com/kmc-jp/kamo64)
@@ -75,7 +94,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-12 13:22:08 UTC*
+*Last updated at 2026-11-12 21:11:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
