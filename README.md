@@ -8,10 +8,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [Hellblazer](https://github.com/Hellblazer)
-- 🍴 👤 [Hellblazer](https://github.com/Hellblazer) Forked [awslabs/uaef](https://github.com/awslabs/uaef) to [Hellblazer/uaef](https://github.com/Hellblazer/uaef)
-  > Universal Agent Evaluation Framework (UAEF) is a framework-agnostic evaluation system for AI agents....
-
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [cprussin/domicile](https://github.com/cprussin/domicile)
   > Wayland windows as DOM elements. Chromium as the compositor. May God have mercy on our souls.
@@ -19,6 +15,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Kesin11](https://github.com/Kesin11)
 - 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
   > Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open sourc...
+
+### [albar965](https://github.com/albar965)
+- 🌟 👤 [albar965](https://github.com/albar965) Starred [flysimdev/OrthoStreamXP](https://github.com/flysimdev/OrthoStreamXP)
+  > Stream real-world aerial photo scenery into X-Plane 12 as you fly: no region downloads, no preparati...
+
+### [eliben](https://github.com/eliben)
+- 🍴 👤 [eliben](https://github.com/eliben) Forked [sdiehl/zero-to-qed](https://github.com/sdiehl/zero-to-qed) to [eliben/zero-to-qed](https://github.com/eliben/zero-to-qed)
+  > From Zero to QED: An informal introduction to formality with Lean 4
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [ivancabrera02/AdminToSystem-HTTP.sys](https://github.com/ivancabrera02/AdminToSystem-HTTP.sys) to [fengjixuchui/AdminToSystem-HTTP.sys](https://github.com/fengjixuchui/AdminToSystem-HTTP.sys)
@@ -37,6 +41,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Website for viewing the executable IA specification (external view). This combines data from the SDM...
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [longbridge/nsh](https://github.com/longbridge/nsh)
   > Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in ...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [WJZ-P/TFT-Hextech-Helper](https://github.com/WJZ-P/TFT-Hextech-Helper)
+  > 一款神奇的云顶之弈自动挂机海克斯科技助手(σ｀・д・)σ。挂机脚本，纯视觉识别，不读取内存。tft，hextech。云顶挂机脚本，云顶脚本，下棋脚本，云顶挂机，支持S17星神最新赛季 (等十月份适配S...
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [killvxk/llvm-msvc-ex](https://github.com/killvxk/llvm-msvc-ex)
+  > Forked LLVM focused on MSVC Compatibility. This version is designed for windows users
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [LuckyLilliaDev/LuckyLilliaBot](https://github.com/LuckyLilliaDev/LuckyLilliaBot)
+  > 支持 OneBot 11、Satori 和 Milky 协议
 
 ### [max-mapper](https://github.com/max-mapper)
 - 🚀 👤 [max-mapper](https://github.com/max-mapper) Made [max-mapper/warptail](https://github.com/max-mapper/warptail) public
@@ -69,9 +79,24 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (S...
 - 🌟 👤 [tiran](https://github.com/tiran) Starred [opendatahub-io/code-review-skills](https://github.com/opendatahub-io/code-review-skills)
 
+### [tmikov](https://github.com/tmikov)
+- 🌟 👤 [tmikov](https://github.com/tmikov) Starred [MobAI-App/simslim](https://github.com/MobAI-App/simslim)
+  > Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need
+
+### [tspannhw](https://github.com/tspannhw)
+- 🌟 👤 [tspannhw](https://github.com/tspannhw) Starred [satishkumarai/snowflake-ai-gateway-tools-demo](https://github.com/satishkumarai/snowflake-ai-gateway-tools-demo)
+
 ### [veorq](https://github.com/veorq)
 - 🌟 👤 [veorq](https://github.com/veorq) Starred [C2SP/CCTV](https://github.com/C2SP/CCTV)
   > Community Cryptography Test Vectors
+
+### [willie-engelbrecht](https://github.com/willie-engelbrecht)
+- 🍴 👤 [willie-engelbrecht](https://github.com/willie-engelbrecht) Forked [ClickHouse/ClickStack](https://github.com/ClickHouse/ClickStack) to [willie-engelbrecht/ClickStack](https://github.com/willie-engelbrecht/ClickStack)
+  > Resolve production issues, fast. An open source observability platform unifying session replays, log...
+
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [inexorgame/vulkan-renderer](https://github.com/inexorgame/vulkan-renderer)
+  > A new, render-graph based 3D game engine for Linux and Windows using C++20 and Vulkan API 1.3 (in ea...
 
 
 <!-- nav -->
@@ -79,7 +104,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-13 10:11:37 UTC*
+*Last updated at 2026-11-13 18:12:41 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
