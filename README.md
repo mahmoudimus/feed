@@ -12,6 +12,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
   > Building a community around a cheap ESP32 Display with a touch screen
 
+### [andyleejordan](https://github.com/andyleejordan)
+- 🍴 👤 [andyleejordan](https://github.com/andyleejordan) Forked [Azure/azure-verified-modules-tools](https://github.com/Azure/azure-verified-modules-tools) to [andyleejordan/azure-verified-modules-tools](https://github.com/andyleejordan/azure-verified-modules-tools)
+  > Azure Verified Modules Tools
+- 🍴 👤 [andyleejordan](https://github.com/andyleejordan) Forked [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) to [andyleejordan/bicep-registry-modules](https://github.com/andyleejordan/bicep-registry-modules)
+  > Bicep registry modules
+- 🍴 👤 [andyleejordan](https://github.com/andyleejordan) Forked [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) to [andyleejordan/dependabot-core](https://github.com/andyleejordan/dependabot-core)
+  > 🤖 Dependabot's core logic for creating update PRs.
+- 🍴 👤 [andyleejordan](https://github.com/andyleejordan) Forked [Azure/terraform-azurerm-avm-res-keyvault-vault](https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault) to [andyleejordan/terraform-azurerm-avm-res-keyvault-vault](https://github.com/andyleejordan/terraform-azurerm-avm-res-keyvault-vault)
+  > Terraform Azure Verified Resource Module for Key Vault
+- 🍴 👤 [andyleejordan](https://github.com/andyleejordan) Forked [Azure/terraform-azurerm-avm-res-web-site](https://github.com/Azure/terraform-azurerm-avm-res-web-site) to [andyleejordan/terraform-azurerm-avm-res-web-site](https://github.com/andyleejordan/terraform-azurerm-avm-res-web-site)
+  > Terraform Azure Verified Resource Module for Web/Function App
+
 ### [dustinblackman](https://github.com/dustinblackman)
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy)
   > :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency ...
@@ -25,6 +37,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Process Explorer for MacOS
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [unicornofhunt/s1l3nc3r](https://github.com/unicornofhunt/s1l3nc3r) to [fengjixuchui/s1l3nc3r](https://github.com/fengjixuchui/s1l3nc3r)
   > MDE (EDR) for Linux Silencer
+
+### [iinozemtsev](https://github.com/iinozemtsev)
+- 🚀 👤 [iinozemtsev](https://github.com/iinozemtsev) Made [iinozemtsev-lab/dtfm-site](https://github.com/iinozemtsev-lab/dtfm-site) public
+  > dtfm.dev
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [mid-kid/metroskrew](https://github.com/mid-kid/metroskrew) to [ioncodes/metroskrew](https://github.com/ioncodes/metroskrew)
@@ -47,6 +63,18 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [ArneshBanerjee/goose-physics-lab](https://github.com/ArneshBanerjee/goose-physics-lab)
   > A physics sandbox with rewind, and a physics lab, written in Goose: orbits, a traced black hole, gas...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [DartNative/dartnative](https://github.com/DartNative/dartnative)
+  > DartNative is the cross-platform framework that lets you build real native apps using the Dart langu...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [knopp/flutter_zero](https://github.com/knopp/flutter_zero)
+  > Zero calorie Flutter, no UI, Skia or Impeller included. Compatible with existing tooling.
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [Vaibhaav-Tiwari/deepseek-v3-jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)
+  > DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a ...
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [blender/cycles](https://github.com/blender/cycles)
+  > The Cycles Render Engine - official mirror
+
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden)
+  > A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a su...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [zhuzilin/straw](https://github.com/zhuzilin/straw)
@@ -63,6 +91,32 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Distribution of VMware Downloads. Bring your own license (BYOL)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [dontsueme/vmware-view-open-client](https://github.com/dontsueme/vmware-view-open-client)
   > Mirror from https://launchpad.net/ubuntu/+source/vmware-view-open-client
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Devolutions/devolutions-crypto](https://github.com/Devolutions/devolutions-crypto)
+  > Devolutions Cryptographic Library
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [freebsd/vm-bhyve](https://github.com/freebsd/vm-bhyve)
+  > Shell based, minimal dependency bhyve manager
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [oxidecomputer/omicron](https://github.com/oxidecomputer/omicron)
+  > Omicron: Oxide control plane
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [TritonDataCenter/triton](https://github.com/TritonDataCenter/triton)
+  > Triton DataCenter: a cloud management platform with first class support for containers.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [TritonDataCenter/manta](https://github.com/TritonDataCenter/manta)
+  > Manta is a scalable HTTP-based object store
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris)
+  > A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [oxidecomputer/helios](https://github.com/oxidecomputer/helios)
+  > Helios: Or, a Vision in a Dream. A Fragment.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [oxidecomputer/humility](https://github.com/oxidecomputer/humility)
+  > Debugger for Hubris
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [oxidecomputer/crucible](https://github.com/oxidecomputer/crucible)
+  > A storage service.
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [oxidecomputer/dropshot](https://github.com/oxidecomputer/dropshot)
+  > expose REST APIs from a Rust program
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [oxidecomputer/illumos-gate](https://github.com/oxidecomputer/illumos-gate)
+  > An open-source Unix operating system
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor)
+  > An OpenAPI client generator
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [oxidecomputer/helios-engvm](https://github.com/oxidecomputer/helios-engvm)
+  > Tools for creating and using Helios images on i86pc (classic PC) physical and virtual machines 
 
 ### [redstar](https://github.com/redstar)
 - 🌟 👤 [redstar](https://github.com/redstar) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -76,9 +130,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [formulahendry/acp-ui](https://github.com/formulahendry/acp-ui)
   > A modern, cross-platform client for the Agent Client Protocol (ACP) on desktop, mobile, and the web ...
 
-### [thomasdarimont](https://github.com/thomasdarimont)
-- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [authzenenforcer/authzen-enforcer](https://github.com/authzenenforcer/authzen-enforcer)
-  > Policy Enforcement Point for the OpenID AuthZEN Authorization API in Java: a zero-dependency client ...
+### [xyproto](https://github.com/xyproto)
+- 🌟 👤 [xyproto](https://github.com/xyproto) Starred [xyproto/burnfont](https://github.com/xyproto/burnfont)
+  > Hand-crafted 6x6 pixel font, defined by code
 
 
 <!-- nav -->
@@ -86,7 +140,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-14 17:24:01 UTC*
+*Last updated at 2026-11-14 21:44:09 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
