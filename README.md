@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AXDOOMER](https://github.com/AXDOOMER)
+- 🌟 👤 [AXDOOMER](https://github.com/AXDOOMER) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
+  > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
 ### [KIC](https://github.com/KIC)
 - 🌟 👤 [KIC](https://github.com/KIC) Starred [cprussin/domicile](https://github.com/cprussin/domicile)
   > Wayland windows as DOM elements. Chromium as the compositor. May God have mercy on our souls.
@@ -15,6 +19,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [Kesin11](https://github.com/Kesin11)
 - 🌟 👤 [Kesin11](https://github.com/Kesin11) Starred [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
   > Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open sourc...
+
+### [Stanzilla](https://github.com/Stanzilla)
+- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [boringbar/chest](https://github.com/boringbar/chest)
+  > macOS menu bar manager
 
 ### [albar965](https://github.com/albar965)
 - 🌟 👤 [albar965](https://github.com/albar965) Starred [flysimdev/OrthoStreamXP](https://github.com/flysimdev/OrthoStreamXP)
@@ -24,8 +32,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [eliben](https://github.com/eliben) Forked [sdiehl/zero-to-qed](https://github.com/sdiehl/zero-to-qed) to [eliben/zero-to-qed](https://github.com/eliben/zero-to-qed)
   > From Zero to QED: An informal introduction to formality with Lean 4
 
+### [fangpenlin](https://github.com/fangpenlin)
+- 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)
+  > A memory safe implementation of sudo and su.
+
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [ivancabrera02/AdminToSystem-HTTP.sys](https://github.com/ivancabrera02/AdminToSystem-HTTP.sys) to [fengjixuchui/AdminToSystem-HTTP.sys](https://github.com/fengjixuchui/AdminToSystem-HTTP.sys)
+
+### [fnuecke](https://github.com/fnuecke)
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [vicrodh/chilpa](https://github.com/vicrodh/chilpa)
+  > Crossplatform Music Player HiFi, BitPerfect, Multi Source 
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [gastownhall/gastown](https://github.com/gastownhall/gastown)
@@ -52,6 +68,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🚀 👤 [max-mapper](https://github.com/max-mapper) Made [max-mapper/warptail](https://github.com/max-mapper/warptail) public
   > Tailscale exit node that egresses only via Cloudflare WARP (MASQUE or WireGuard), with a verifiable ...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-better](https://github.com/nicobailon/pi-better)
+  > /better rewrites your prompt with Felix Rieseberg's "Depth" prompt, using your real code and files, ...
+
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nathanrs/detllm](https://github.com/nathanrs/detllm)
   > Fully deterministic cross-device LLMs inference
@@ -59,6 +79,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [KoKlusz/HDR-Gaming-Database](https://github.com/KoKlusz/HDR-Gaming-Database)
   > A list of HDR game analyses, common issues plaguing HDR gaming, and possible fixes.
+
+### [progrium](https://github.com/progrium)
+- 🌟 👤 [progrium](https://github.com/progrium) Starred [fxgl/steamac](https://github.com/fxgl/steamac)
+  > Valve's official ARM64 SteamOS in a lightweight VM on Apple Silicon: libkrun + Venus + MoltenVK, con...
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM)
@@ -74,10 +98,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [nmatt0/mithril](https://github.com/nmatt0/mithril)
   > IoT static scanner for secrets, SBOM, CVEs and more.
 
-### [tiran](https://github.com/tiran)
-- 🌟 👤 [tiran](https://github.com/tiran) Starred [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)
-  > STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (S...
-- 🌟 👤 [tiran](https://github.com/tiran) Starred [opendatahub-io/code-review-skills](https://github.com/opendatahub-io/code-review-skills)
+### [skx](https://github.com/skx)
+- 🌟 👤 [skx](https://github.com/skx) Starred [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+  > Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 
 ### [tmikov](https://github.com/tmikov)
 - 🌟 👤 [tmikov](https://github.com/tmikov) Starred [MobAI-App/simslim](https://github.com/MobAI-App/simslim)
@@ -104,7 +127,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-13 18:12:41 UTC*
+*Last updated at 2026-11-13 23:58:43 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
