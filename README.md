@@ -11,6 +11,11 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [huiyadanli/BetterGI.UnitTest.Assets](https://github.com/huiyadanli/BetterGI.UnitTest.Assets) to [NyaMisty/BetterGI.UnitTest.Assets](https://github.com/NyaMisty/BetterGI.UnitTest.Assets)
   > BetterGI.UnitTest.Assets
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [babalae/bettergi-libraries](https://github.com/babalae/bettergi-libraries) to [NyaMisty/bettergi-libraries](https://github.com/NyaMisty/bettergi-libraries)
+
+### [Skytrias](https://github.com/Skytrias)
+- 🌟 👤 [Skytrias](https://github.com/Skytrias) Starred [iArxic/dsh-agents-notch](https://github.com/iArxic/dsh-agents-notch)
+  > An always-on-top notch for DeepSeek Harness that shows which sessions are working, which need you, a...
 
 ### [ambethia](https://github.com/ambethia)
 - 🌟 👤 [ambethia](https://github.com/ambethia) Starred [fitzforge/polestar](https://github.com/fitzforge/polestar)
@@ -45,13 +50,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [frol](https://github.com/frol) Starred [libracoder/kiri](https://github.com/libracoder/kiri)
   > A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 
-### [jeremyckahn](https://github.com/jeremyckahn)
-- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [ahtx/kindi](https://github.com/ahtx/kindi)
-  > Kindi 0.6: fast local LLM inference on low-cost GPUs and CPUs. DeepSeek-V4.1-Flash (552B) at 18.7 to...
-
 ### [lovasoa](https://github.com/lovasoa)
-- 🍴 👤 [lovasoa](https://github.com/lovasoa) Forked [typst/pdf-writer](https://github.com/typst/pdf-writer) to [lovasoa/pdf-writer](https://github.com/lovasoa/pdf-writer)
+- 🍴 👤 [lovasoa](https://github.com/lovasoa) Forked [typst/pdf-writer](https://github.com/typst/pdf-writer) to [dezoomify/pdf-writer](https://github.com/dezoomify/pdf-writer)
   > A step-by-step PDF writer.
+
+### [lucidrains](https://github.com/lucidrains)
+- 🌟 👤 [lucidrains](https://github.com/lucidrains) Starred [sailab-ai/NablaMimic](https://github.com/sailab-ai/NablaMimic)
+  > Ultra-Efficient Humanoid Control with Differentiable Simulation.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [folsomintel/defect](https://github.com/folsomintel/defect)
@@ -74,6 +79,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver)
   > LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC serv...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5)
+  > PlayStation 5 translation layer for Windows, Linux and macOS
+
+### [rougier](https://github.com/rougier)
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [assafdori/bypass-mdm](https://github.com/assafdori/bypass-mdm)
+  > Bypass MDM Setup for MacOS, up to MacOS Golden Gate.
+- 🌟 👤 [rougier](https://github.com/rougier) Starred [mateussiqueira/unleash](https://github.com/mateussiqueira/unleash)
+  > Single-script MDM bypass for macOS — bypass, suppress, monitor, and audit. Apple Silicon + Intel.
 
 ### [thomasdarimont](https://github.com/thomasdarimont)
 - 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [Keyway-AI/keyway](https://github.com/Keyway-AI/keyway)
@@ -85,7 +98,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-15 15:56:05 UTC*
+*Last updated at 2026-11-15 20:39:11 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
