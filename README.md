@@ -8,18 +8,72 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [livekit/agents](https://github.com/livekit/agents)
+  > A framework for building realtime voice AI agents 🤖🎙️📹 
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [livekit/livekit](https://github.com/livekit/livekit)
+  > End-to-end realtime stack for connecting humans and AI
+
+### [anzz1](https://github.com/anzz1)
+- 🍴 👤 [anzz1](https://github.com/anzz1) Forked [tarasko/picows](https://github.com/tarasko/picows) to [anzz1/picows](https://github.com/anzz1/picows)
+  > Ultra-fast websocket client and server for asyncio
+
+### [emcfarlane](https://github.com/emcfarlane)
+- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
+  > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
+
 ### [eonarheim](https://github.com/eonarheim)
 - 🌟 👤 [eonarheim](https://github.com/eonarheim) Starred [UXCentury/open-bone](https://github.com/UXCentury/open-bone)
   > Open-source 2D skeletal animation (Spine-style rigging) with Rive-style state machines, sandboxed sc...
 
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [eth-ait/Gaussian-Garments](https://github.com/eth-ait/Gaussian-Garments)
-  > Code for paper "Gaussian Garments: Reconstructing Simulation-Ready Clothing with Photo-Realistic App...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [doonfrs/trina_grid](https://github.com/doonfrs/trina_grid)
+### [gabrielfalcao](https://github.com/gabrielfalcao)
+- 🍴 👤 [gabrielfalcao](https://github.com/gabrielfalcao) Forked [pyvideo/data](https://github.com/pyvideo/data) to [gabrielfalcao/data](https://github.com/gabrielfalcao/data)
+  > Python related videos and metadata powering PyVideo. 
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [jaredgei/wow-forever-android](https://github.com/jaredgei/wow-forever-android)
+  > Play the World of Warcraft: Forever beta natively on Snapdragon 8 Series / 8 Elite Android devices (...
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+  > The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and ...
 
 ### [max-mapper](https://github.com/max-mapper)
 - 🍴 👤 [max-mapper](https://github.com/max-mapper) Forked [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela) to [max-mapper/Vela](https://github.com/max-mapper/Vela)
   > Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [8zav1/jscdec](https://github.com/8zav1/jscdec)
+  > Pure-JS V8 / Bytenode (.jsc) bytecode decompiler, Electron .asar & .exe unpacker (Electron 22-34 / N...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca)
+  > A 4.5M-parameter two-voice English text-to-speech model, trained from scratch
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EdisonScientific/prime-rl-adversarial-paper](https://github.com/EdisonScientific/prime-rl-adversarial-paper)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [brianbell-x/codehygiene](https://github.com/brianbell-x/codehygiene)
+  > A 33 KB, weight-space programmed System One model for code readability and hygiene.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [leostera/git-twig](https://github.com/leostera/git-twig)
+  > Native copy-on-write Git worktrees, with verified materialization and reproducible benchmarks.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remorses/castle-valley](https://github.com/remorses/castle-valley)
+  > A playable three.js game painted in oil brush strokes: the "omw" pixel-art post by @de5imulate, recr...
+
+### [ngallagher](https://github.com/ngallagher)
+- 🌟 👤 [ngallagher](https://github.com/ngallagher) Starred [vmichalska/nikatime-timesheets-skill](https://github.com/vmichalska/nikatime-timesheets-skill)
+  > Agent skill for safely inspecting and filling NikaTime timesheets
+
+### [nikivdev](https://github.com/nikivdev)
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [gakonst/tatami](https://github.com/gakonst/tatami)
+  > A tiling window manager for macOS, written from scratch in Zig
+- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [solidjs/reactivescript](https://github.com/solidjs/reactivescript)
+  > Reactivity as a Language
+
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [kolbicz/WQFiles](https://github.com/kolbicz/WQFiles)
+  > File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)
+
+### [norswap](https://github.com/norswap)
+- 🌟 👤 [norswap](https://github.com/norswap) Starred [cherryroots/Translate](https://github.com/cherryroots/Translate)
+  > WoW chat translator: a Chinese to English addon for WoW: Forever and retail, with a Rust companion t...
+- 🍴 👤 [norswap](https://github.com/norswap) Forked [cherryroots/Translate](https://github.com/cherryroots/Translate) to [norswap/Translate](https://github.com/norswap/Translate)
+  > WoW chat translator: a Chinese to English addon for WoW: Forever and retail, with a Rust companion t...
 
 ### [notify-bibi](https://github.com/notify-bibi)
 - 🌟 👤 [notify-bibi](https://github.com/notify-bibi) Starred [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)
@@ -39,10 +93,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [NeffIsBack/wsuks](https://github.com/NeffIsBack/wsuks)
   > Automating the MITM attack on WSUS
 
-### [simonw](https://github.com/simonw)
-- 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/pysqlite3-wasm-wheels](https://github.com/datasette/pysqlite3-wasm-wheels) public
-  > Builds Python pysqlite3 WASM wheels for different releases of SQLite
-
 ### [stepancheg](https://github.com/stepancheg)
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [makepad/makepad](https://github.com/makepad/makepad)
   > Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal,...
@@ -50,10 +100,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > :eye: ANSI escaped text to image CLI tool and Rust library
 - 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [urmzd/teasr](https://github.com/urmzd/teasr)
   > Capture showcase screenshots and GIFs from web apps, desktop, and terminal. Single Rust binary, no r...
-
-### [vvaltchev](https://github.com/vvaltchev)
-- 🌟 👤 [vvaltchev](https://github.com/vvaltchev) Starred [frdcmp/auriscope](https://github.com/frdcmp/auriscope)
-  > Audio player and analyser for Linux and Windows — waveform, spectrogram and spectrum views
 
 ### [yangdanny97](https://github.com/yangdanny97)
 - 🌟 👤 [yangdanny97](https://github.com/yangdanny97) Starred [fastapi/annotated-doc](https://github.com/fastapi/annotated-doc)
@@ -65,7 +111,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-16 07:25:23 UTC*
+*Last updated at 2026-11-16 17:35:28 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
