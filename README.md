@@ -12,6 +12,16 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [AXDOOMER](https://github.com/AXDOOMER) Starred [geerlingguy/chronytop](https://github.com/geerlingguy/chronytop)
   > A TUI for chrony NTP time server monitoring
 
+### [Clivern](https://github.com/Clivern)
+- 🌟 👤 [Clivern](https://github.com/Clivern) Starred [meta/astryx](https://github.com/meta/astryx)
+  > An open source design system that's fully customizable and agent ready
+- 🍴 👤 [Clivern](https://github.com/Clivern) Forked [meta/astryx](https://github.com/meta/astryx) to [Clivern/astryx](https://github.com/Clivern/astryx)
+  > An open source design system that's fully customizable and agent ready
+
+### [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg)
+- 🌟 👤 [JoshuaKGoldberg](https://github.com/JoshuaKGoldberg) Starred [JoshuaKGoldberg/talk-files](https://github.com/JoshuaKGoldberg/talk-files)
+  > Built PowerPoint files for Josh Goldberg's talks, from JoshuaKGoldberg/talks.
+
 ### [Naville](https://github.com/Naville)
 - 🍴 👤 [Naville](https://github.com/Naville) Forked [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) to [Naville/sublink-worker-fork](https://github.com/Naville/sublink-worker-fork)
   > One Worker, All Subscriptions
@@ -20,9 +30,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [afiskon](https://github.com/afiskon) Starred [amd/xdna-driver](https://github.com/amd/xdna-driver)
   > AMD XDNA Driver (amdxdna.ko) for Linux and XRT SHIM library 
 
+### [ajkhoury](https://github.com/ajkhoury)
+- 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [bitwuzla/bitwuzla](https://github.com/bitwuzla/bitwuzla)
+  > Bitwuzla is a Satisfiability Modulo Theories (SMT) solver for the theories of fixed-size bit-vectors...
+
 ### [asalih](https://github.com/asalih)
 - 🌟 👤 [asalih](https://github.com/asalih) Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
   > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
+### [asottile](https://github.com/asottile)
+- 🍴 👤 [asottile](https://github.com/asottile) Forked [tonybaloney/pep-explorer](https://github.com/tonybaloney/pep-explorer) to [asottile/pep-explorer](https://github.com/asottile/pep-explorer)
+  > An easy to use online explorer for Python Enhancement Proposals
+
+### [bwhaley](https://github.com/bwhaley)
+- 🚀 👤 [bwhaley](https://github.com/bwhaley) Made [bwhaley/watch-macos](https://github.com/bwhaley/watch-macos) public
+  > The Linux watch command for macOS, in Go
 
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [makeplane/plane](https://github.com/makeplane/plane)
@@ -38,18 +60,41 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [n0-computer/iroh](https://github.com/n0-computer/iroh)
   > IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 
+### [fnuecke](https://github.com/fnuecke)
+- 🌟 👤 [fnuecke](https://github.com/fnuecke) Starred [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)
+  > Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for ...
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [Kelsidavis/WoWee](https://github.com/Kelsidavis/WoWee)
+  > World of Warcraft Engine Experiment - a custom opensource client.
+
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [MrLesk/groma.md](https://github.com/MrLesk/groma.md)
   > groma.md - Your architecture as OKF Markdown in Git, and one C4 map you can walk. Scanned from sourc...
 
-### [ioncodes](https://github.com/ioncodes)
-- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [vxpm/vkx](https://github.com/vxpm/vkx)
+### [jpalanco](https://github.com/jpalanco)
+- 🍴 👤 [jpalanco](https://github.com/jpalanco) Forked [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) to [jpalanco/ARTEX](https://github.com/jpalanco/ARTEX)
+  > ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AG...
+
+### [justaugustus](https://github.com/justaugustus)
+- 🚀 👤 [justaugustus](https://github.com/justaugustus) Made [bloomberg-science/capward](https://github.com/bloomberg-science/capward) public
+  > Capability Warding by Automatically Restricting Dereference (CAPWARD) — ACM CCS 2026 artifact
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [atom0s/Steamless](https://github.com/atom0s/Steamless)
+  > Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single sol...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interfere-inc/landmines](https://github.com/interfere-inc/landmines)
+  > Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking.
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [nanocodexyz/harnesslang](https://github.com/nanocodexyz/harnesslang)
   > A language for durable agent harnesses, compiled to each platform's durability guarantees: native Ru...
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [brianbell-x/codehygiene](https://github.com/brianbell-x/codehygiene)
   > A tiny system one model for code readability and hygiene.
+
+### [sophieschmieg](https://github.com/sophieschmieg)
+- 🍴 👤 [sophieschmieg](https://github.com/sophieschmieg) Forked [paulehoffman/ietfers-on-mastodon](https://github.com/paulehoffman/ietfers-on-mastodon) to [sophieschmieg/ietfers-on-mastodon](https://github.com/sophieschmieg/ietfers-on-mastodon)
+  > This is an informal list of IETFers who have Mastodon accounts. This list will go away if GitHub ens...
 
 ### [xakraz](https://github.com/xakraz)
 - 🌟 👤 [xakraz](https://github.com/xakraz) Starred [tasuku43/kra](https://github.com/tasuku43/kra)
@@ -61,7 +106,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-18 09:21:05 UTC*
+*Last updated at 2026-11-18 18:28:29 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
