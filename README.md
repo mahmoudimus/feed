@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Ahora57](https://github.com/Ahora57)
+- 🚀 👤 [Ahora57](https://github.com/Ahora57) Made [Ahora57/import_wrapper_attack](https://github.com/Ahora57/import_wrapper_attack) public
+  > Example of an attack on the import mechanism in VMProtect 3.0–3.10.4.0 and Themida/WinLicense 3.0–3....
+
 ### [dbkegley](https://github.com/dbkegley)
 - 🍴 👤 [dbkegley](https://github.com/dbkegley) Forked [mitos-editor/mitos](https://github.com/mitos-editor/mitos) to [dbkegley/mitos](https://github.com/dbkegley/mitos)
   > Mitos is a fast and minimal modal text editor.
@@ -24,6 +28,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
   > Typescript/React Library for AI Chat 💬🚀
 
+### [evilsocket](https://github.com/evilsocket)
+- 🌟 👤 [evilsocket](https://github.com/evilsocket) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
+  > ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AG...
+
 ### [illnyang](https://github.com/illnyang)
 - 🍴 👤 [illnyang](https://github.com/illnyang) Forked [7eventy7/discodrome](https://github.com/7eventy7/discodrome) to [illnyang/discodrome](https://github.com/illnyang/discodrome)
   > A powerful Discord bot that streams music from your personal SubSonic server.
@@ -36,12 +44,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [interference-security](https://github.com/interference-security) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
 
-### [jeremyckahn](https://github.com/jeremyckahn)
-- 🌟 👤 [jeremyckahn](https://github.com/jeremyckahn) Starred [0xStian/tiiny-control-panel](https://github.com/0xStian/tiiny-control-panel)
-  > A private web control panel for your Tiiny AI device
-- 🍴 👤 [jeremyckahn](https://github.com/jeremyckahn) Forked [0xStian/tiiny-control-panel](https://github.com/0xStian/tiiny-control-panel) to [jeremyckahn/tiiny-control-panel](https://github.com/jeremyckahn/tiiny-control-panel)
-  > A private web control panel for your Tiiny AI device
-
 ### [johndpope](https://github.com/johndpope)
 - 🌟 👤 [johndpope](https://github.com/johndpope) Starred [stdevMac/orb-audio](https://github.com/stdevMac/orb-audio)
   > Sound as code: a 15M-parameter, from-scratch caption-to-audio engine for agents. Caption -> JSON Spe...
@@ -50,6 +52,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ### [jpalanco](https://github.com/jpalanco)
 - 🍴 👤 [jpalanco](https://github.com/jpalanco) Forked [storytold/autocraft](https://github.com/storytold/autocraft) to [jpalanco/autocraft](https://github.com/jpalanco/autocraft)
+
+### [juicycleff](https://github.com/juicycleff)
+- 🌟 👤 [juicycleff](https://github.com/juicycleff) Starred [xraph/loomplane](https://github.com/xraph/loomplane)
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [mattlianje/datomlite](https://github.com/mattlianje/datomlite)
@@ -84,10 +89,6 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Autonomous GPU Kernel Generation & Optimization via Deep Agents
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [sii-research/sii-decision](https://github.com/sii-research/sii-decision)
 
-### [ranacseruet](https://github.com/ranacseruet)
-- 🌟 👤 [ranacseruet](https://github.com/ranacseruet) Starred [jonico/awesome-runners](https://github.com/jonico/awesome-runners)
-  > A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
-
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [arximboldi/lager](https://github.com/arximboldi/lager)
   >  C++ library for value-oriented design using the unidirectional data-flow architecture — Redux for C...
@@ -95,14 +96,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [pcwalton/cxx-async](https://github.com/pcwalton/cxx-async)
   > Simple interoperability between C++ coroutines and asynchronous Rust
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo)
+  > Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool ...
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [hkalbasi/zngur](https://github.com/hkalbasi/zngur)
+  > A C++/Rust interop tool
+
+### [shanselman](https://github.com/shanselman)
+- 🍴 👤 [shanselman](https://github.com/shanselman) Forked [dcdeepesh/hexedit](https://github.com/dcdeepesh/hexedit) to [shanselman/hexedit](https://github.com/shanselman/hexedit)
+  > A TUI hex editor
 
 ### [spotlightishere](https://github.com/spotlightishere)
 - 🌟 👤 [spotlightishere](https://github.com/spotlightishere) Starred [imxieyi/Kernarium](https://github.com/imxieyi/Kernarium)
   > Run real Linux kernel natively on iOS
 
-### [xhochy](https://github.com/xhochy)
-- 🍴 👤 [xhochy](https://github.com/xhochy) Forked [conda-forge/azure-core-feedstock](https://github.com/conda-forge/azure-core-feedstock) to [xhochy/azure-core-feedstock](https://github.com/xhochy/azure-core-feedstock)
-  > A conda-smithy repository for azure-core.
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
+  > The world's law in git: any provision, any country, any date, and the law that wrote each word.
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [lexifina/germany-law](https://github.com/lexifina/germany-law)
+  > Germany: law history, one commit per law taking effect: Grundgesetz, federal law, Länder, courts, Bu...
+
+### [yegord](https://github.com/yegord)
+- 🍴 👤 [yegord](https://github.com/yegord) Forked [neomutt/neomutt](https://github.com/neomutt/neomutt) to [yegord/neomutt](https://github.com/yegord/neomutt)
+  > ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 
 
 <!-- nav -->
@@ -110,7 +125,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-19 17:46:51 UTC*
+*Last updated at 2026-11-19 23:57:23 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
