@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Midi12](https://github.com/Midi12)
+- 🍴 👤 [Midi12](https://github.com/Midi12) Forked [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) to [Midi12/tree-sitter](https://github.com/Midi12/tree-sitter)
+  > An incremental parsing system for programming tools
+
 ### [assarbad](https://github.com/assarbad)
 - 🍴 👤 [assarbad](https://github.com/assarbad) Forked [effjot/stiefogen](https://github.com/effjot/stiefogen) to [assarbad/stiefogen](https://github.com/assarbad/stiefogen)
   > Stiefo-Generator
@@ -15,17 +19,22 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [crawshaw](https://github.com/crawshaw)
 - 🚀 👤 [crawshaw](https://github.com/crawshaw) Made [boldsoftware/t3exe](https://github.com/boldsoftware/t3exe) public
   > use exe.dev in T3 Code
+- 🌟 👤 [crawshaw](https://github.com/crawshaw) Starred [boldsoftware/t3exe](https://github.com/boldsoftware/t3exe)
+  > use exe.dev in T3 Code
 
 ### [donvito](https://github.com/donvito)
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [Neywa-Labs/mlx-vlm](https://github.com/Neywa-Labs/mlx-vlm)
   > MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac usin...
 
-### [dougxc](https://github.com/dougxc)
-- 🚀 👤 [dougxc](https://github.com/dougxc) Made [dougxc/graalvm-factory-app](https://github.com/dougxc/graalvm-factory-app) public
-
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
   > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, pr...
+
+### [fcakyon](https://github.com/fcakyon)
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle)
+  > A software update framework for macOS
+- 🌟 👤 [fcakyon](https://github.com/fcakyon) Starred [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)
+  > SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 
 ### [fengjixuchui](https://github.com/fengjixuchui)
 - 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [xaitax/NTSleuth](https://github.com/xaitax/NTSleuth) to [fengjixuchui/NTSleuth](https://github.com/fengjixuchui/NTSleuth)
@@ -44,31 +53,29 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hasherezade](https://github.com/hasherezade) Starred [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
   > Open source inference engine that tunes its kernels on your hardware to find the fastest way to run ...
 
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [yesiltepe-hidir/PMD](https://github.com/yesiltepe-hidir/PMD)
+  > Posterior Matching Distillation
+
 ### [max-mapper](https://github.com/max-mapper)
 - 🌟 👤 [max-mapper](https://github.com/max-mapper) Starred [bareinn/MKVCast](https://github.com/bareinn/MKVCast)
   > Transmití videos de tu PC al Chromecast y controlalos desde el celular
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
-  > The world's first Xbox One compatibility layer for Windows.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Barty-Bart/deepseek-v4.1-flash-vs-gpt-6-astra](https://github.com/Barty-Bart/deepseek-v4.1-flash-vs-gpt-6-astra)
-  > DeepSeek V4.1 Flash vs GPT-6 Astra: four identical build briefs, final versions, costs and timings
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
-  > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/maya-inkling-mini](https://github.com/alesha-pro/maya-inkling-mini)
-  > Inkling 2 Mini on one RTX 3090: 128 tok/s, 344K context, images and tools. A Project Maya engine (ma...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Riley-Coyote/mnemos-mcp](https://github.com/Riley-Coyote/mnemos-mcp)
-  > Continuity for the agent itself. An MCP server that gives an AI agent a memory of its own, written i...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nokeepai/inkling-2-mini-unbound](https://github.com/nokeepai/inkling-2-mini-unbound)
-  > Abliteration of Inkling-2-Mini (Inkling-2-Mini-Unbound): harness, methods, results
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [satellitedown/inkling-2-mini-abliterated-ingine](https://github.com/satellitedown/inkling-2-mini-abliterated-ingine)
-  > Abliterated Inkling-2-Mini on ingine, a custom CUDA engine for one RTX 5090: 256K context, DSpark sp...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [leeex1/quillan.cpp](https://github.com/leeex1/quillan.cpp)
+  > quillan.cpp is a high-performance, lightweight, standalone C++17 inference engine engineered for the...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RustingStudio/RustingStrata](https://github.com/RustingStudio/RustingStrata)
+  > Pure-Rust LLM inference engine for GGUF (Qwen, DeepSeek, GLM, Hy4, Flint). Runs models bigger than y...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/inference-optimization-playbook](https://github.com/alesha-pro/inference-optimization-playbook)
+  > 97 tested hypotheses on making huge MoE LLMs fast on consumer GPUs (4x RTX 3090 + experts in RAM): w...
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Feuerlord2/Fanatical-RSS-Site](https://github.com/Feuerlord2/Fanatical-RSS-Site)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Feuerlord2/Humble-RSS-Site](https://github.com/Feuerlord2/Humble-RSS-Site)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [chiefhamim/noorjahan-qbittorrent](https://github.com/chiefhamim/noorjahan-qbittorrent)
   > A calmer, evenly spaced Light & Dark theme for qBittorrent on Windows, with a matching Web UI.
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit)
+  > the subtitle editor :)
 
 ### [pfalcon](https://github.com/pfalcon)
 - 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo)
@@ -104,7 +111,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-21 18:20:50 UTC*
+*Last updated at 2026-11-21 23:36:59 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
