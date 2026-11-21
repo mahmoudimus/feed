@@ -20,6 +20,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [donvito](https://github.com/donvito) Starred [Neywa-Labs/mlx-vlm](https://github.com/Neywa-Labs/mlx-vlm)
   > MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac usin...
 
+### [dougxc](https://github.com/dougxc)
+- 🚀 👤 [dougxc](https://github.com/dougxc) Made [dougxc/graalvm-factory-app](https://github.com/dougxc/graalvm-factory-app) public
+
 ### [eroh92](https://github.com/eroh92)
 - 🌟 👤 [eroh92](https://github.com/eroh92) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
   > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, pr...
@@ -52,12 +55,30 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
   > DeepSeek V4.1 Flash vs GPT-6 Astra: four identical build briefs, final versions, costs and timings
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
   > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/maya-inkling-mini](https://github.com/alesha-pro/maya-inkling-mini)
+  > Inkling 2 Mini on one RTX 3090: 128 tok/s, 344K context, images and tools. A Project Maya engine (ma...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Riley-Coyote/mnemos-mcp](https://github.com/Riley-Coyote/mnemos-mcp)
+  > Continuity for the agent itself. An MCP server that gives an AI agent a memory of its own, written i...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nokeepai/inkling-2-mini-unbound](https://github.com/nokeepai/inkling-2-mini-unbound)
+  > Abliteration of Inkling-2-Mini (Inkling-2-Mini-Unbound): harness, methods, results
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [satellitedown/inkling-2-mini-abliterated-ingine](https://github.com/satellitedown/inkling-2-mini-abliterated-ingine)
+  > Abliterated Inkling-2-Mini on ingine, a custom CUDA engine for one RTX 5090: 256K context, DSpark sp...
 
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Feuerlord2/Fanatical-RSS-Site](https://github.com/Feuerlord2/Fanatical-RSS-Site)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [Feuerlord2/Humble-RSS-Site](https://github.com/Feuerlord2/Humble-RSS-Site)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [chiefhamim/noorjahan-qbittorrent](https://github.com/chiefhamim/noorjahan-qbittorrent)
   > A calmer, evenly spaced Light & Dark theme for qBittorrent on Windows, with a matching Web UI.
+
+### [pfalcon](https://github.com/pfalcon)
+- 🌟 👤 [pfalcon](https://github.com/pfalcon) Starred [bodo-ai/Bodo](https://github.com/bodo-ai/Bodo)
+  > High Performance Scalable Data Processing in Python and SQL
+
+### [tabjy](https://github.com/tabjy)
+- 🌟 👤 [tabjy](https://github.com/tabjy) Starred [andrewsleigh/plotter](https://github.com/andrewsleigh/plotter)
+  > A Pen Plotter you can make yourself
+- 🌟 👤 [tabjy](https://github.com/tabjy) Starred [OpenBuilds/docs-migrated](https://github.com/OpenBuilds/docs-migrated)
+  > OpenBuilds Documentation: Archived from docs.openbuilds.com (2025) and converted to Github Markdown ...
 
 ### [tuhdo](https://github.com/tuhdo)
 - 🌟 👤 [tuhdo](https://github.com/tuhdo) Starred [RainBowLuoCS/Gamer](https://github.com/RainBowLuoCS/Gamer)
@@ -83,7 +104,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-21 11:51:49 UTC*
+*Last updated at 2026-11-21 18:20:50 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
