@@ -8,29 +8,36 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [0intro](https://github.com/0intro)
+- 🌟 👤 [0intro](https://github.com/0intro) Starred [0intro/autorouter](https://github.com/0intro/autorouter)
+  > Implementation of autorouter.aero API.
+
 ### [DamienCassou](https://github.com/DamienCassou)
 - 🍴 👤 [DamienCassou](https://github.com/DamienCassou) Forked [purcell/flymake-easy](https://github.com/purcell/flymake-easy) to [DamienCassou/flymake-easy](https://github.com/DamienCassou/flymake-easy)
   > Helpers for easily building Emacs flymake checkers
 
-### [Stanzilla](https://github.com/Stanzilla)
-- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan)
-  > See how your app actually fits together. An interactive, plain-English map of your codebase, drawn b...
-- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-  > Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: det...
+### [SynivalWoW](https://github.com/SynivalWoW)
+- 🍴 👤 [SynivalWoW](https://github.com/SynivalWoW) Forked [Conquest-of-AzerothCore/azerothcore-wotlk-coa](https://github.com/Conquest-of-AzerothCore/azerothcore-wotlk-coa) to [SynivalWoW/azerothcore-wotlk-coa](https://github.com/SynivalWoW/azerothcore-wotlk-coa)
+  > Conquest of AzerothCore
+
+### [drybjed](https://github.com/drybjed)
+- 🌟 👤 [drybjed](https://github.com/drybjed) Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+  > Your lightweight open-source personal agent.
+
+### [fengjixuchui](https://github.com/fengjixuchui)
+- 🍴 👤 [fengjixuchui](https://github.com/fengjixuchui) Forked [storytold/craft-anything](https://github.com/storytold/craft-anything) to [fengjixuchui/craft-anything](https://github.com/fengjixuchui/craft-anything)
+  > Craft Anything: understand how any software works, and craft your own.
 
 ### [frol](https://github.com/frol)
 - 🌟 👤 [frol](https://github.com/frol) Starred [dataviz-rs/dataviz](https://github.com/dataviz-rs/dataviz)
   > Fast plotting for Rust, Python, JavaScript and C/C++: 120+ chart types, 3D, maps, live windows, gram...
+- 🌟 👤 [frol](https://github.com/frol) Starred [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)
+  > Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
+- 🌟 👤 [frol](https://github.com/frol) Starred [NEAR-DevHub/near-business-cli](https://github.com/NEAR-DevHub/near-business-cli)
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Zertrox123/elf64-recomp](https://github.com/Zertrox123/elf64-recomp)
-  > Static x86_64 -> ARM64 recompiler for macOS Apple Silicon (Windows PE64 + Direct3D 11 -> Metal & Lin...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jesdga95/basalt](https://github.com/jesdga95/basalt)
-  > Local inference engine optimized for NVIDIA Blackwell
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [figurophobia/gore](https://github.com/figurophobia/gore)
-  > Godot RE toolkit: turn any Godot game (PCK/EXE) into an openable Godot project, with automatic encry...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tyoung515-svg/ai-truss-issues](https://github.com/tyoung515-svg/ai-truss-issues)
-  > AI models design bridges; real game physics decides. Poly Bridge 2 LLM benchmark harness. An experim...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsec/greysynth](https://github.com/binsec/greysynth) to [mrexodia/greysynth](https://github.com/mrexodia/greysynth)
+  > Greybox deobfuscation framework
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [lms21a/climbing-gym](https://github.com/lms21a/climbing-gym)
@@ -49,6 +56,12 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [domdelorenzo/rust-pocket-tts](https://github.com/domdelorenzo/rust-pocket-tts)
   > A TTS that fits in your CPU (and pocket)
+- 🌟 👤 [pims](https://github.com/pims) Starred [pithings/unkernel](https://github.com/pithings/unkernel)
+  > A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.
+
+### [qiyuangong](https://github.com/qiyuangong)
+- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli)
+  > An open-source coding agent for the Grok API
 
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [brisklib/brisk](https://github.com/brisklib/brisk)
@@ -74,7 +87,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-22 12:03:31 UTC*
+*Last updated at 2026-11-22 20:00:55 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
