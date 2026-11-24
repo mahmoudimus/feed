@@ -8,6 +8,10 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [google/mantis](https://github.com/google/mantis)
+  > A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vu...
+
 ### [buger](https://github.com/buger)
 - 🌟 👤 [buger](https://github.com/buger) Starred [toprakahmetaydogmus/TZeroAlgorithm](https://github.com/toprakahmetaydogmus/TZeroAlgorithm)
   > Deterministic AST Context Compressor & MCP Server for Cursor, Claude & Local LLMs. Cuts prompt token...
@@ -16,21 +20,61 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [dustinblackman](https://github.com/dustinblackman) Starred [zed-industries/gpui](https://github.com/zed-industries/gpui)
   > A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes.
 
+### [ftomassetti](https://github.com/ftomassetti)
+- 🌟 👤 [ftomassetti](https://github.com/ftomassetti) Starred [ThomsenDrake/morning-star-code-reviews](https://github.com/ThomsenDrake/morning-star-code-reviews)
+  > Pull request reviews that run as a Mistral Workflow with Mistral-hosted models. Comment-only GitHub ...
+
+### [gamous](https://github.com/gamous)
+- 🌟 👤 [gamous](https://github.com/gamous) Starred [hardenedlinux/linux-rce-poc](https://github.com/hardenedlinux/linux-rce-poc)
+  > CVE-2026-98432 — Linux IPv4/TCP use-after-free lab
+
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)
   > The OWASP Cheat Sheet Series was created to provide a concise collection of high value information o...
+- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat)
+  > Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses AP...
+
+### [johndpope](https://github.com/johndpope)
+- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim)
+  > iOS simulators for AI agents, on Linux
+- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Developing-Gamer/agent-sim](https://github.com/Developing-Gamer/agent-sim) to [johndpope/agent-sim](https://github.com/johndpope/agent-sim)
+  > iOS simulators for AI agents, on Linux
+
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)
+  > Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, st...
 
 ### [lgastako](https://github.com/lgastako)
 - 🌟 👤 [lgastako](https://github.com/lgastako) Starred [ameyakakade/df](https://github.com/ameyakakade/df)
   > Tiny functional Lisp variant written in Haskell.
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [isovector/denomusic](https://github.com/isovector/denomusic)
+  > yet another approach to denotational music
 
 ### [moriyoshi](https://github.com/moriyoshi)
 - 🍴 👤 [moriyoshi](https://github.com/moriyoshi) Forked [lakekeeper/lakekeeper](https://github.com/lakekeeper/lakekeeper) to [moriyoshi/lakekeeper](https://github.com/moriyoshi/lakekeeper)
   > Apache Iceberg REST Catalog in Rust — access control, credential vending and audit for every engine ...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tensorfish/squid5090](https://github.com/tensorfish/squid5090)
+  > Highly Optimized Inference Engine for Inkling Mini 2 on NVIDIA 5090
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill)
+  > Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce...
+
 ### [realoriginal](https://github.com/realoriginal)
 - 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [barneygale/asyncvnc](https://github.com/barneygale/asyncvnc)
   > Asynchronous VNC for Python
+- 🌟 👤 [realoriginal](https://github.com/realoriginal) Starred [ariel-os/ariel-os](https://github.com/ariel-os/ariel-os)
+  > Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, writte...
+
+### [thomasdarimont](https://github.com/thomasdarimont)
+- 🌟 👤 [thomasdarimont](https://github.com/thomasdarimont) Starred [chrisgleissner/c64bridge](https://github.com/chrisgleissner/c64bridge)
+  > MCP server to control and program the Commodore 64 Ultimate, Ultimate 64, Ultimate II, or VICE.
+
+### [tmikov](https://github.com/tmikov)
+- 🌟 👤 [tmikov](https://github.com/tmikov) Starred [intel/intel-performance-skills](https://github.com/intel/intel-performance-skills)
+
+### [yajo](https://github.com/yajo)
+- 🌟 👤 [yajo](https://github.com/yajo) Starred [EugenMayer/dtrack-cli](https://github.com/EugenMayer/dtrack-cli)
 
 
 <!-- nav -->
@@ -38,7 +82,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-24 05:38:44 UTC*
+*Last updated at 2026-11-24 16:35:34 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
