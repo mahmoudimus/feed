@@ -8,17 +8,23 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [BrianStadnicki](https://github.com/BrianStadnicki)
+- 🍴 👤 [BrianStadnicki](https://github.com/BrianStadnicki) Forked [getianao/BitGen](https://github.com/getianao/BitGen) to [BrianStadnicki/BitGen](https://github.com/BrianStadnicki/BitGen)
+  > Artifact for MICRO'25
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [egraphs-good/egg](https://github.com/egraphs-good/egg)
   > egg is a flexible, high-performance e-graph library
-
-### [Stanzilla](https://github.com/Stanzilla)
-- 🌟 👤 [Stanzilla](https://github.com/Stanzilla) Starred [iamwavecut/MLX-DLSS](https://github.com/iamwavecut/MLX-DLSS)
-  > NVIDIA DLSS 5 neural rendering and DLSS frame generation on Apple Silicon (MLX/Metal, Core ML) and P...
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton)
+  > JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS
 
 ### [bbugdigger](https://github.com/bbugdigger)
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [vegetableleaf/ClashAI](https://github.com/vegetableleaf/ClashAI)
   > An AI DL model that learns how to play Clash Royale.
+
+### [boyney123](https://github.com/boyney123)
+- 🌟 👤 [boyney123](https://github.com/boyney123) Starred [format-hq/format-js](https://github.com/format-hq/format-js)
+  > The developer-first platform for building pixel-perfect PDFs with web technology
 
 ### [fangpenlin](https://github.com/fangpenlin)
 - 🌟 👤 [fangpenlin](https://github.com/fangpenlin) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
@@ -28,21 +34,17 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, ev...
 
-### [johndpope](https://github.com/johndpope)
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [Nyxera0x/blueprint](https://github.com/Nyxera0x/blueprint)
-  > A pen sketch, a floor plan or 3 references in, a 3D house that builds itself out. A Claude Code skil...
-- 🍴 👤 [johndpope](https://github.com/johndpope) Forked [Nyxera0x/blueprint](https://github.com/Nyxera0x/blueprint) to [johndpope/blueprint](https://github.com/johndpope/blueprint)
-  > A pen sketch, a floor plan or 3 references in, a 3D house that builds itself out. A Claude Code skil...
-- 🌟 👤 [johndpope](https://github.com/johndpope) Starred [drphero/ChorusCut](https://github.com/drphero/ChorusCut)
-  > Desktop music-video editor with word-level lyric alignment, structured pre-production, BYO ComfyUI g...
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [burke/isudo](https://github.com/burke/isudo)
+  > sudo, except every command waits for you to approve it on your phone
 
 ### [laurci](https://github.com/laurci)
 - 🌟 👤 [laurci](https://github.com/laurci) Starred [tractordev/wanix](https://github.com/tractordev/wanix)
   > A compute toolkit for the web with the depth of Plan 9 from Bell Labs
 
-### [mbdevpl](https://github.com/mbdevpl)
-- 🍴 👤 [mbdevpl](https://github.com/mbdevpl) Forked [neophob/renovate-report](https://github.com/neophob/renovate-report) to [mbdevpl/renovate-reporter](https://github.com/mbdevpl/renovate-reporter)
-  > parses a renovate debug ndjson log file and spits out important pieces
+### [marbemac](https://github.com/marbemac)
+- 🌟 👤 [marbemac](https://github.com/marbemac) Starred [elematic/zena](https://github.com/elematic/zena)
+  > A new programming language for WebAssembly GC
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [greydanus/pengpt](https://github.com/greydanus/pengpt)
@@ -62,7 +64,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-25 10:36:21 UTC*
+*Last updated at 2026-11-25 20:15:56 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
