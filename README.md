@@ -8,6 +8,14 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
+### [AlexsJones](https://github.com/AlexsJones)
+- 🌟 👤 [AlexsJones](https://github.com/AlexsJones) Starred [AlexsJones/narsil](https://github.com/AlexsJones/narsil)
+  > Just enough harness: a daemon that runs your agents and a terminal UI that attaches to it
+
+### [DinoChiesa](https://github.com/DinoChiesa)
+- 🌟 👤 [DinoChiesa](https://github.com/DinoChiesa) Starred [xenodium/emacs-skills](https://github.com/xenodium/emacs-skills)
+  > Emacs skills for coding agents
+
 ### [Xe](https://github.com/Xe)
 - 🌟 👤 [Xe](https://github.com/Xe) Starred [srhinos/LayerAnarchy](https://github.com/srhinos/LayerAnarchy)
   > Swap layers on WoW Forever through every layer network at once. No rules but the game's.
@@ -16,9 +24,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [bbugdigger](https://github.com/bbugdigger) Starred [shwetsoni/idanime](https://github.com/shwetsoni/idanime)
   > 12 anime themes for IDA Pro 9.x with background art in the disassembly, pseudocode and graph views, ...
 
-### [emcfarlane](https://github.com/emcfarlane)
-- 🌟 👤 [emcfarlane](https://github.com/emcfarlane) Starred [curioswitch/kosoku](https://github.com/curioswitch/kosoku)
-  > A modern websocket testsuite runner based on Autobahn Testsuite
+### [bitranox](https://github.com/bitranox)
+- 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/igittigitt](https://github.com/bitranox/igittigitt)
+  > Git-compatible .gitignore parser and path filter for Python: library and streaming CLI, include/whit...
 
 ### [gamous](https://github.com/gamous)
 - 🌟 👤 [gamous](https://github.com/gamous) Starred [LiberNT/LiberNT](https://github.com/LiberNT/LiberNT)
@@ -33,6 +41,32 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [hsiafan](https://github.com/hsiafan) Starred [longbridge/nsh](https://github.com/longbridge/nsh)
   > Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in ...
 
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [zou-group/humanlm](https://github.com/zou-group/humanlm)
+  > HumanLM: Simulating Users with State Alignment Beats Response Imitation
+
+### [lapets](https://github.com/lapets)
+- 🚀 👤 [lapets](https://github.com/lapets) Made [retrogrids/manuscript.gg](https://github.com/retrogrids/manuscript.gg) public
+  > Artificial manuscripts for humans and AIs to decipher.
+
+### [lgastako](https://github.com/lgastako)
+- 🌟 👤 [lgastako](https://github.com/lgastako) Starred [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers)
+  > fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [knapcio/inkling-2-mini-spark-bench](https://github.com/knapcio/inkling-2-mini-spark-bench)
+  > Same-harness comparison of public Inkling-2-Mini recipes on one NVIDIA DGX Spark: speed, lossy or no...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [youssefnoob003/SindriKit](https://github.com/youssefnoob003/SindriKit)
+  > A foundational C library for building operationally credible offensive capabilities
+
+### [myusuf3](https://github.com/myusuf3)
+- 🌟 👤 [myusuf3](https://github.com/myusuf3) Starred [Microck/openvector](https://github.com/Microck/openvector)
+  > raster-to-vector conversion in the browser, on the desktop, in the terminal, and in node.js
+
+### [nitrohorse](https://github.com/nitrohorse)
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [antonpictures/youtube-punisher](https://github.com/antonpictures/youtube-punisher)
+  > YouTube Ad Blocker - Chrome / Browser Extension
+
 ### [pims](https://github.com/pims)
 - 🌟 👤 [pims](https://github.com/pims) Starred [rawwerks/rdm](https://github.com/rawwerks/rdm)
   > Recursive Decision Models
@@ -45,9 +79,9 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
   > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-### [yegor256](https://github.com/yegor256)
-- 🌟 👤 [yegor256](https://github.com/yegor256) Starred [os6/nospeaker](https://github.com/os6/nospeaker)
-  > make your macbook's trackpad talk using its haptic motor
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo)
+  > eBPF-based security platform
 
 
 <!-- nav -->
@@ -55,7 +89,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-26 13:17:23 UTC*
+*Last updated at 2026-11-26 22:39:17 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
