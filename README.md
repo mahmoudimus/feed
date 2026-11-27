@@ -8,11 +8,13 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 
 ## Today's Activity
 
-### [bitranox](https://github.com/bitranox)
-- 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/lib_layered_config](https://github.com/bitranox/lib_layered_config)
-  > Cross-platform layered configuration loader for Python
-- 🌟 👤 [bitranox](https://github.com/bitranox) Starred [bitranox/lib_shopware6_api_base](https://github.com/bitranox/lib_shopware6_api_base)
-  > python3 base API client for shopware6
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [Arunjay4213/mosh-rs](https://github.com/Arunjay4213/mosh-rs) to [NyaMisty/mosh-rs](https://github.com/NyaMisty/mosh-rs)
+  > mosh, the mobile shell, rewritten in Rust. Works with existing mosh-server 1.4 and adds a native Win...
+
+### [WardBeullens](https://github.com/WardBeullens)
+- 🚀 👤 [WardBeullens](https://github.com/WardBeullens) Made [WardBeullens/compressed_UOV_public_keys](https://github.com/WardBeullens/compressed_UOV_public_keys) public
+  > Compressed public keys for UOV and MAYO: implementations and benchmarks
 
 ### [imrehg](https://github.com/imrehg)
 - 🌟 👤 [imrehg](https://github.com/imrehg) Starred [stew675/llama-cpp-rdna-boosts](https://github.com/stew675/llama-cpp-rdna-boosts)
@@ -22,15 +24,21 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 - 🍴 👤 [juks](https://github.com/juks) Forked [geofabrik/OpenRailRouting](https://github.com/geofabrik/OpenRailRouting) to [juks/OpenRailRouting](https://github.com/juks/OpenRailRouting)
   > routing on railway tracks using OpenStreetMap data and the GraphHopper routing engine
 
-### [miyakogi](https://github.com/miyakogi)
-- 🌟 👤 [miyakogi](https://github.com/miyakogi) Starred [frost-1256/sweet-ime](https://github.com/frost-1256/sweet-ime)
-  > Japanese input method for Windows / Linux / Android
+### [kovyrin](https://github.com/kovyrin)
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [dblock/already-tested](https://github.com/dblock/already-tested)
+  > Skip duplicate CI with trusted, content-matched local-test claims. Native Rust binaries for Linux, m...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)
   > Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eelbaz/Recursive-Self-Improving-Loopers](https://github.com/eelbaz/Recursive-Self-Improving-Loopers)
   > Recursive Self Improving Loopers: Autonomous Multi-Generation Recursive Self-Improvement (SelfWrite)...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Lakonik/LakonLab](https://github.com/Lakonik/LakonLab)
+  > Official implementation of pi-H3, AsymFlow, pi-Flow, GMFlow
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hgarrereyn/STITCHplusplus](https://github.com/hgarrereyn/STITCHplusplus)
+  > STITCH++: automatic, expressive, and scalable fuzzing
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [NVIDIA/garak](https://github.com/NVIDIA/garak) to [mrexodia/garak](https://github.com/mrexodia/garak)
+  > the LLM vulnerability scanner
 
 ### [nikivdev](https://github.com/nikivdev)
 - 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)
@@ -43,20 +51,28 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 ### [nitrohorse](https://github.com/nitrohorse)
 - 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers)
   > fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to...
+- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [TechHutTV/homelab](https://github.com/TechHutTV/homelab)
+  > Homelab stacks, templates, and more fun resources! 
 
 ### [qiyuangong](https://github.com/qiyuangong)
 - 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [jiaxin-ai/vm_manager](https://github.com/jiaxin-ai/vm_manager)
   > vm_manager
 
+### [trou](https://github.com/trou)
+- 🌟 👤 [trou](https://github.com/trou) Starred [trip-zip/somewm](https://github.com/trip-zip/somewm)
+  > Not quite awesome...just some.
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [AbrahamPaulJ/tensorlens](https://github.com/AbrahamPaulJ/tensorlens)
   > IDA plugin: find embedded ML models (TFLite, ONNX, ncnn), view their graphs, and recover the TFLite ...
 
-### [zhkl0228](https://github.com/zhkl0228)
-- 🌟 👤 [zhkl0228](https://github.com/zhkl0228) Starred [zhkl0228/dynarmic](https://github.com/zhkl0228/dynarmic)
-  > An ARM dynamic recompiler.
-- 🍴 👤 [zhkl0228](https://github.com/zhkl0228) Forked [StikDebug/StikJIT](https://github.com/StikDebug/StikJIT) to [zhkl0228/StikJIT](https://github.com/zhkl0228/StikJIT)
-  > An iOS XCFramework that enables JIT for another process over the device's RSD tunnel. Based on StikD...
+### [zchee](https://github.com/zchee)
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [clap-rs/clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag)
+  > Easily add a --verbose flag to CLIs using Clap
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [clap-rs/clap-port-flag](https://github.com/clap-rs/clap-port-flag)
+  > Easily add address & port flags to CLIs using Clap
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [clap-rs/clap-permission-flag](https://github.com/clap-rs/clap-permission-flag)
+  > Easily add permission flags to CLIs using Clap
 
 
 <!-- nav -->
@@ -64,7 +80,7 @@ Today's public activity from users I follow (plus anyone listed in `custom_users
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-27 14:28:23 UTC*
+*Last updated at 2026-11-27 23:01:36 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
