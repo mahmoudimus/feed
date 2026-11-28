@@ -1,86 +1,56 @@
-# Daily GitHub Activity (2026-11-27)
+# Daily GitHub Activity (2026-11-28)
 
 <!-- nav -->
-[← 2026-11-26](archive/2026/11/26.md)
+[← 2026-11-27](archive/2026/11/27.md)
 <!-- /nav -->
 
 Today's public activity from users I follow (plus anyone listed in `custom_users.txt`), updated every 15 minutes.
 
 ## Today's Activity
 
-### [NyaMisty](https://github.com/NyaMisty)
-- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [Arunjay4213/mosh-rs](https://github.com/Arunjay4213/mosh-rs) to [NyaMisty/mosh-rs](https://github.com/NyaMisty/mosh-rs)
-  > mosh, the mobile shell, rewritten in Rust. Works with existing mosh-server 1.4 and adds a native Win...
+### [Xe](https://github.com/Xe)
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [fzakaria/tabernetes](https://github.com/fzakaria/tabernetes)
+  > A Kubernetes cluster whose nodes are browser tabs
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [fzakaria/tabc](https://github.com/fzakaria/tabc)
+  > An OCI runtime that runs each container in a browser tab.
+- 🌟 👤 [Xe](https://github.com/Xe) Starred [joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm)
+  > WebAssembly (Wasm) arch support for the Linux kernel
 
-### [WardBeullens](https://github.com/WardBeullens)
-- 🚀 👤 [WardBeullens](https://github.com/WardBeullens) Made [WardBeullens/compressed_UOV_public_keys](https://github.com/WardBeullens/compressed_UOV_public_keys) public
-  > Compressed public keys for UOV and MAYO: implementations and benchmarks
+### [bsideup](https://github.com/bsideup)
+- 🍴 👤 [bsideup](https://github.com/bsideup) Forked [tigercosmos/gitdiff](https://github.com/tigercosmos/gitdiff) to [bsideup/gitdiff](https://github.com/bsideup/gitdiff)
+  > A git diff VSCode extention
 
-### [imrehg](https://github.com/imrehg)
-- 🌟 👤 [imrehg](https://github.com/imrehg) Starred [stew675/llama-cpp-rdna-boosts](https://github.com/stew675/llama-cpp-rdna-boosts)
-  > A set of performant RDNA/HIP patches against llama.cpp focusing on high speed inferencing with numer...
+### [davidfrickert](https://github.com/davidfrickert)
+- 🌟 👤 [davidfrickert](https://github.com/davidfrickert) Starred [Leandro-Juan/paladio](https://github.com/Leandro-Juan/paladio)
+  > A travel agency at home — plan realistic trips tailored to your tastes, catch real flight and hotel ...
 
-### [juks](https://github.com/juks)
-- 🍴 👤 [juks](https://github.com/juks) Forked [geofabrik/OpenRailRouting](https://github.com/geofabrik/OpenRailRouting) to [juks/OpenRailRouting](https://github.com/juks/OpenRailRouting)
-  > routing on railway tracks using OpenStreetMap data and the GraphHopper routing engine
+### [eroh92](https://github.com/eroh92)
+- 🌟 👤 [eroh92](https://github.com/eroh92) Starred [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill)
+  > 100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-re...
 
 ### [kovyrin](https://github.com/kovyrin)
-- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [dblock/already-tested](https://github.com/dblock/already-tested)
-  > Skip duplicate CI with trusted, content-matched local-test claims. Native Rust binaries for Linux, m...
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [incoai/splash](https://github.com/incoai/splash)
+  > A local inference engine for Apple silicon, built around the model.
+- 🌟 👤 [kovyrin](https://github.com/kovyrin) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
+  > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig bac...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)
-  > Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eelbaz/Recursive-Self-Improving-Loopers](https://github.com/eelbaz/Recursive-Self-Improving-Loopers)
-  > Recursive Self Improving Loopers: Autonomous Multi-Generation Recursive Self-Improvement (SelfWrite)...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Lakonik/LakonLab](https://github.com/Lakonik/LakonLab)
-  > Official implementation of pi-H3, AsymFlow, pi-Flow, GMFlow
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hgarrereyn/STITCHplusplus](https://github.com/hgarrereyn/STITCHplusplus)
-  > STITCH++: automatic, expressive, and scalable fuzzing
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [NVIDIA/garak](https://github.com/NVIDIA/garak) to [mrexodia/garak](https://github.com/mrexodia/garak)
-  > the LLM vulnerability scanner
-
-### [nikivdev](https://github.com/nikivdev)
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)
-  > Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with...
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [mw00/project-maya](https://github.com/mw00/project-maya)
-  > Run GLM-5.3 (744B), DeepSeek-V4.1-Flash (748B), MiniMax-M3.1-Flash (428B), GLM-5.3-Flash (321B), Hy4...
-- 🌟 👤 [nikivdev](https://github.com/nikivdev) Starred [eelbaz/Recursive-Self-Improving-Loopers](https://github.com/eelbaz/Recursive-Self-Improving-Loopers)
-  > Recursive Self Improving Loopers: Autonomous Multi-Generation Recursive Self-Improvement (SelfWrite)...
-
-### [nitrohorse](https://github.com/nitrohorse)
-- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers)
-  > fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to...
-- 🌟 👤 [nitrohorse](https://github.com/nitrohorse) Starred [TechHutTV/homelab](https://github.com/TechHutTV/homelab)
-  > Homelab stacks, templates, and more fun resources! 
-
-### [qiyuangong](https://github.com/qiyuangong)
-- 🌟 👤 [qiyuangong](https://github.com/qiyuangong) Starred [jiaxin-ai/vm_manager](https://github.com/jiaxin-ai/vm_manager)
-  > vm_manager
-
-### [trou](https://github.com/trou)
-- 🌟 👤 [trou](https://github.com/trou) Starred [trip-zip/somewm](https://github.com/trip-zip/somewm)
-  > Not quite awesome...just some.
-
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [AbrahamPaulJ/tensorlens](https://github.com/AbrahamPaulJ/tensorlens)
-  > IDA plugin: find embedded ML models (TFLite, ONNX, ncnn), view their graphs, and recover the TFLite ...
+### [stepancheg](https://github.com/stepancheg)
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [tomtomwombat/fastbloom](https://github.com/tomtomwombat/fastbloom)
+  > The fastest Bloom filter in Rust. No accuracy compromises. Full concurrency support and compatible w...
+- 🌟 👤 [stepancheg](https://github.com/stepancheg) Starred [orlp/foldhash](https://github.com/orlp/foldhash)
+  > A fast, non-cryptographic, minimally DoS-resistant hashing algorithm for Rust.
 
 ### [zchee](https://github.com/zchee)
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [clap-rs/clap-verbosity-flag](https://github.com/clap-rs/clap-verbosity-flag)
-  > Easily add a --verbose flag to CLIs using Clap
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [clap-rs/clap-port-flag](https://github.com/clap-rs/clap-port-flag)
-  > Easily add address & port flags to CLIs using Clap
-- 🌟 👤 [zchee](https://github.com/zchee) Starred [clap-rs/clap-permission-flag](https://github.com/clap-rs/clap-permission-flag)
-  > Easily add permission flags to CLIs using Clap
+- 🌟 👤 [zchee](https://github.com/zchee) Starred [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)
+  > Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with...
 
 
 <!-- nav -->
-[← 2026-11-26](archive/2026/11/26.md)
+[← 2026-11-27](archive/2026/11/27.md)
 <!-- /nav -->
 
 ---
-*Last updated at 2026-11-27 23:01:36 UTC*
+*Last updated at 2026-11-28 05:12:18 UTC*
 <!-- archive-link -->
 *Historical records are stored in the [`archive`](archive/2026/11) directory.*
 <!-- /archive-link -->
